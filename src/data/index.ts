@@ -140,6 +140,7 @@ export const PERIOD_ID_ORDER = [
   "qing-dynasty",
   "republican-china",
   "peoples-republic-china",
+  "hundred-years-war",
   "thirty-years-war",
   "seven-years-war",
   "napoleonic-wars",
