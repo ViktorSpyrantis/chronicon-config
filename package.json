@@ -21,6 +21,7 @@
   "scripts": {
     "typecheck": "tsc --noEmit",
     "build": "tsc -p tsconfig.build.json",
+    "build:snapshot": "tsx scripts/generate-snapshot.ts",
     "validate": "tsx scripts/validate.ts"
   },
   "devDependencies": {
