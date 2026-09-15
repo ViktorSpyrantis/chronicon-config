@@ -58,7 +58,15 @@ export const MUROMACHI_JAPAN = {
             en: "Having turned against Go-Daigo, Takauji enthroned a compliant emperor and took the title of shogun, ruling from the Muromachi district of Kyoto. Go-Daigo fled south to Yoshino and proclaimed the true line, opening nearly sixty years of division between Northern and Southern Courts.",
             el: "Έχοντας στραφεί κατά του Γκο-Ντάιγκο, ο Τακαούτζι ενθρόνισε έναν υπάκουο αυτοκράτορα και πήρε τον τίτλο του σογκούν, κυβερνώντας από τη συνοικία Μουρομάτσι του Κιότο. Ο Γκο-Ντάιγκο κατέφυγε νότια στο Γιοσίνο και ανακήρυξε την αληθινή γενιά, ανοίγοντας σχεδόν εξήντα χρόνια διαίρεσης ανάμεσα σε Βόρεια και Νότια Αυλή."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Ashikaga_Takauji_J%C5%8Ddo-ji.jpg?width=1024",
+            alt: {
+              en: "Ashikaga Takauji, founder of the Muromachi shogunate",
+              el: "Ο Ασικάγκα Τακαούτζι, ιδρυτής του σογκουνάτου Μουρομάτσι"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -82,7 +90,15 @@ export const MUROMACHI_JAPAN = {
             en: "The third Ashikaga shogun brought the Ashikaga to their height, ending the schism of the courts in 1392 and reopening rich trade with Ming China. His Golden Pavilion, shimmering above its pond, symbolized an age when the shoguns rivalled emperors as patrons of art, and Zen aesthetics permeated the court.",
             el: "Ο τρίτος σογκούν των Ασικάγκα οδήγησε τον οίκο στο απόγειό του, τερματίζοντας το σχίσμα των αυλών το 1392 και ανοίγοντας ξανά πλούσιο εμπόριο με την Κίνα των Μινγκ. Το Χρυσό του Περίπτερο, να λαμποκοπά πάνω από τη λιμνούλα του, συμβόλιζε μια εποχή όπου οι σογκούν ανταγωνίζονταν τους αυτοκράτορες ως προστάτες της τέχνης, και η αισθητική του Ζεν διαπότιζε την αυλή."
           },
-          category: "cultural"
+          category: "cultural",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Golden_Pavilion_Kinkaku-ji_water_mirror_2024.jpg?width=1024",
+            alt: {
+              en: "The Golden Pavilion, Kinkaku-ji, in Kyoto",
+              el: "Το Χρυσό Περίπτερο, Κινκάκου-τζι, στο Κιότο"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -106,7 +122,15 @@ export const MUROMACHI_JAPAN = {
             en: "Blending dance, chant, poetry and masks, Noh sought a serene, mysterious beauty its master Zeami called yūgen. His treatises on the actor's art are still studied today. Around the same ideals grew the tea ceremony, ink painting and rock gardens — a whole aesthetic of restraint, suggestion and Zen calm.",
             el: "Συνδυάζοντας χορό, ψαλμωδία, ποίηση και μάσκες, το Νο αναζητούσε μια γαλήνια, μυστηριώδη ομορφιά που ο δάσκαλός του Ζεάμι αποκαλούσε γιούγκεν. Οι πραγματείες του για την τέχνη του ηθοποιού μελετώνται ακόμη σήμερα. Γύρω από τα ίδια ιδεώδη αναπτύχθηκαν η τελετή του τσαγιού, η ζωγραφική με μελάνι και οι κήποι βράχων — μια ολόκληρη αισθητική της εγκράτειας, του υπαινιγμού και της γαλήνης του Ζεν."
           },
-          category: "cultural"
+          category: "cultural",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Noh_Performance_%28235951661%29.jpeg?width=1024",
+            alt: {
+              en: "A performance of Noh, Japan's classical masked drama",
+              el: "Παράσταση Νο, του κλασικού ιαπωνικού δράματος με μάσκες"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -130,7 +154,15 @@ export const MUROMACHI_JAPAN = {
             en: "For eleven years rival coalitions of great lords fought through the streets of the capital, reducing much of Kyoto to ash. The shogunate never recovered its power. As the fighting spread to the provinces, Japan dissolved into a patchwork of warring domains — the beginning of the Sengoku, the age of the country at war.",
             el: "Για έντεκα χρόνια αντίπαλοι συνασπισμοί μεγάλων αρχόντων πολεμούσαν στους δρόμους της πρωτεύουσας, μετατρέποντας μεγάλο μέρος του Κιότο σε στάχτη. Το σογκουνάτο δεν ανέκτησε ποτέ τη δύναμή του. Καθώς η σύγκρουση απλώθηκε στις επαρχίες, η Ιαπωνία διαλύθηκε σε ένα μωσαϊκό αντιμαχόμενων επικρατειών — η αρχή του Σενγκόκου, της εποχής της χώρας σε πόλεμο."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Onin-War-1467-1477-The-Battle-of-Onin-by-Utagawa-Yoshitora.png?width=1024",
+            alt: {
+              en: "A woodblock depiction of the Ōnin War",
+              el: "Ξυλογραφική απεικόνιση του Πολέμου του Όνιν"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -154,7 +186,15 @@ export const MUROMACHI_JAPAN = {
             en: "The first Europeans in Japan brought a weapon that would transform its wars. Japanese smiths reproduced the arquebus within a decade, and mass volleys of gunfire began to overturn the old cavalry tactics. Trade with the Portuguese also brought tobacco, bread and new words — the start of Japan's \"Christian century.\"",
             el: "Οι πρώτοι Ευρωπαίοι στην Ιαπωνία έφεραν ένα όπλο που θα μεταμόρφωνε τους πολέμους της. Ιάπωνες οπλουργοί αναπαρήγαγαν το τουφέκι μέσα σε μια δεκαετία, και οι μαζικές ομοβροντίες άρχισαν να ανατρέπουν την παλιά τακτική του ιππικού. Το εμπόριο με τους Πορτογάλους έφερε επίσης καπνό, ψωμί και νέες λέξεις — η αρχή του «χριστιανικού αιώνα» της Ιαπωνίας."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Strings_for_night_firing.jpg?width=1024",
+            alt: {
+              en: "Japanese matchlock guns, the tanegashima",
+              el: "Ιαπωνικά εμπροσθογεμή τουφέκια, τα τανεγκασίμα"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -178,7 +218,15 @@ export const MUROMACHI_JAPAN = {
             en: "Xavier found the Japanese the \"delight of his heart\" and planted a mission that flourished, especially in Kyushu, where some lords converted partly to secure the Portuguese trade. Within decades there were hundreds of thousands of Japanese Christians — a community that would later face brutal suppression under the Tokugawa.",
             el: "Ο Ξαβιέ βρήκε τους Ιάπωνες «απόλαυση της καρδιάς του» και φύτεψε μια ιεραποστολή που άνθισε, ιδίως στο Κιούσου, όπου κάποιοι άρχοντες προσηλυτίστηκαν εν μέρει για να εξασφαλίσουν το πορτογαλικό εμπόριο. Μέσα σε δεκαετίες υπήρχαν εκατοντάδες χιλιάδες Ιάπωνες χριστιανοί — μια κοινότητα που αργότερα θα αντιμετώπιζε βάναυση καταστολή υπό τους Τοκουγκάουα."
           },
-          category: "religious"
+          category: "religious",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Franciscus_de_Xabier.jpg?width=1024",
+            alt: {
+              en: "The Jesuit missionary Francis Xavier",
+              el: "Ο Ιησουίτης ιεραπόστολος Φραγκίσκος Ξαβιέ"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -202,7 +250,15 @@ export const MUROMACHI_JAPAN = {
             en: "By the mid-sixteenth century the Ashikaga were shoguns in name only. When Oda Nobunaga marched into Kyoto and then expelled Yoshiaki, the last of the line, the Muromachi shogunate simply ended. Out of the wreckage of the warring states, Nobunaga began the ruthless work of forging a single Japan.",
             el: "Ως τα μέσα του δέκατου έκτου αιώνα οι Ασικάγκα ήταν σογκούν μόνο κατ' όνομα. Όταν ο Όντα Νομπουνάγκα βάδισε στο Κιότο κι έπειτα εκδίωξε τον Γιοσιάκι, τον τελευταίο της γενιάς, το σογκουνάτο Μουρομάτσι απλώς τελείωσε. Μέσα από τα ερείπια των αντιμαχόμενων κρατών, ο Νομπουνάγκα ξεκίνησε το αδίστακτο έργο της σφυρηλάτησης μιας ενιαίας Ιαπωνίας."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Odanobunaga.jpg?width=1024",
+            alt: {
+              en: "The warlord Oda Nobunaga",
+              el: "Ο πολέμαρχος Όντα Νομπουνάγκα"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     }

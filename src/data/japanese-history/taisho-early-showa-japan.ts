@@ -58,7 +58,15 @@ export const TAISHO_EARLY_SHOWA_JAPAN = {
             en: "The 1910s and 1920s brought a hopeful liberalism: party cabinets, a lively press, mass culture and, in 1925, the vote for all adult men. Yet the same year a Peace Preservation Law armed the state against dissent, and the gains rested on shaky ground as economic crisis and army ambition gathered strength.",
             el: "Η δεκαετία του 1910 και του 1920 έφερε έναν ελπιδοφόρο φιλελευθερισμό: κυβερνήσεις κομμάτων, ζωντανό Τύπο, μαζική κουλτούρα και, το 1925, το δικαίωμα ψήφου σε όλους τους ενήλικες άνδρες. Ωστόσο την ίδια χρονιά ένας Νόμος Διατήρησης της Ειρήνης όπλισε το κράτος κατά της αντιπολίτευσης, και τα κεκτημένα στηρίζονταν σε σαθρό έδαφος καθώς η οικονομική κρίση και η φιλοδοξία του στρατού δυνάμωναν."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Takashi_Hara_formal.jpg?width=1024",
+            alt: {
+              en: "Prime Minister Hara Takashi",
+              el: "Ο πρωθυπουργός Χάρα Τακάσι"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -82,7 +90,15 @@ export const TAISHO_EARLY_SHOWA_JAPAN = {
             en: "Striking at noon, the quake toppled the capital and ignited firestorms that consumed whole districts. In the chaos, rumours sparked massacres of Korean residents. The disaster erased much of old Tokyo — and the vast rebuilding that followed helped shape the sprawling modern metropolis that rose in its place.",
             el: "Χτυπώντας το μεσημέρι, ο σεισμός γκρέμισε την πρωτεύουσα και ξεσήκωσε πύρινες θύελλες που κατέφαγαν ολόκληρες συνοικίες. Μέσα στο χάος, φήμες πυροδότησαν σφαγές Κορεατών κατοίκων. Η καταστροφή έσβησε μεγάλο μέρος του παλιού Τόκιο — και η τεράστια ανοικοδόμηση που ακολούθησε βοήθησε να διαμορφωθεί η απέραντη σύγχρονη μητρόπολη που υψώθηκε στη θέση του."
           },
-          category: "other"
+          category: "other",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/The_Great_Kanto_Earthquake_%283767766524%29_%28cropped%29.jpg?width=1024",
+            alt: {
+              en: "Devastation of the 1923 Great Kantō earthquake",
+              el: "Η καταστροφή από τον Μεγάλο Σεισμό του Καντό το 1923"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -106,7 +122,15 @@ export const TAISHO_EARLY_SHOWA_JAPAN = {
             en: "Officers of the Kwantung Army blew up a railway and blamed the Chinese, then overran Manchuria and set up the puppet state of Manchukuo. When the League condemned the act, Japan simply walked out. Civilian government lost control of the military, and a wave of assassinations cowed the politicians who resisted.",
             el: "Αξιωματικοί του Στρατού του Κβαντούνγκ ανατίναξαν μια σιδηροδρομική γραμμή και κατηγόρησαν τους Κινέζους, έπειτα κατέκλυσαν τη Μαντζουρία και έστησαν το κράτος-μαριονέτα του Μαντζουκουό. Όταν η Κοινωνία των Εθνών καταδίκασε την πράξη, η Ιαπωνία απλώς αποχώρησε. Η πολιτική κυβέρνηση έχασε τον έλεγχο του στρατού, και ένα κύμα δολοφονιών εκφόβισε τους πολιτικούς που αντιστέκονταν."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Mukden_1931_japan_shenyang.jpg?width=1024",
+            alt: {
+              en: "Japanese troops during the Manchurian Incident, 1931",
+              el: "Ιαπωνικά στρατεύματα κατά το Συμβάν της Μαντζουρίας, 1931"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -130,7 +154,15 @@ export const TAISHO_EARLY_SHOWA_JAPAN = {
             en: "A clash at the Marco Polo Bridge exploded into all-out war. Japanese armies took the coastal cities and the capital Nanjing, where they massacred and raped on a horrifying scale. But China did not surrender; the war became a vast, bloody quagmire that drew Japan ever deeper and set it on a collision course with the West.",
             el: "Μια σύγκρουση στη Γέφυρα Μάρκο Πόλο εξερράγη σε ολοκληρωτικό πόλεμο. Ιαπωνικοί στρατοί πήραν τις παράκτιες πόλεις και την πρωτεύουσα Ναντζίνγκ, όπου προέβησαν σε σφαγές και βιασμούς σε φρικιαστική κλίμακα. Όμως η Κίνα δεν παραδόθηκε· ο πόλεμος έγινε ένα απέραντο, ματωμένο τέλμα που τραβούσε την Ιαπωνία ολοένα βαθύτερα και την έθετε σε τροχιά σύγκρουσης με τη Δύση."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Japanese_Special_Naval_Landing_Forces_in_Battle_of_Shanghai_1937.jpg?width=1024",
+            alt: {
+              en: "Japanese forces in the Battle of Shanghai, 1937",
+              el: "Ιαπωνικές δυνάμεις στη Μάχη της Σαγκάης, 1937"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -154,7 +186,15 @@ export const TAISHO_EARLY_SHOWA_JAPAN = {
             en: "Facing an American oil embargo over its war in China, Japan gambled on a knockout blow. Its carriers struck Pearl Harbor while its armies seized the Philippines, Malaya, Singapore and the Indies in a few triumphant months. But the sleeping giant was now awake, and the industrial might of America would prove overwhelming.",
             el: "Αντιμέτωπη με αμερικανικό εμπάργκο πετρελαίου για τον πόλεμό της στην Κίνα, η Ιαπωνία ρίσκαρε ένα αποφασιστικό πλήγμα. Τα αεροπλανοφόρα της χτύπησαν το Περλ Χάρμπορ ενώ οι στρατοί της κατέλαβαν τις Φιλιππίνες, τη Μαλαισία, τη Σιγκαπούρη και τις Ινδίες σε λίγους θριαμβευτικούς μήνες. Όμως ο κοιμισμένος γίγαντας είχε πλέον ξυπνήσει, και η βιομηχανική ισχύς της Αμερικής θα αποδεικνυόταν συντριπτική."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Attack_on_Pearl_Harbor_Japanese_planes_view.jpg?width=1024",
+            alt: {
+              en: "The Japanese attack on Pearl Harbor, 1941",
+              el: "Η ιαπωνική επίθεση στο Περλ Χάρμπορ, 1941"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -178,7 +218,15 @@ export const TAISHO_EARLY_SHOWA_JAPAN = {
             en: "Six months after Pearl Harbor, the two carrier fleets met near Midway atoll. In a few minutes American dive-bombers destroyed the heart of Japan's carrier force, losses it could never replace. From that day Japan was on the defensive, and the long, brutal island-hopping campaign back toward the home islands began.",
             el: "Έξι μήνες μετά το Περλ Χάρμπορ, οι δύο στόλοι αεροπλανοφόρων συναντήθηκαν κοντά στην ατόλη Μίντγουεϊ. Σε λίγα λεπτά αμερικανικά βομβαρδιστικά καθέτου εφορμήσεως κατέστρεψαν την καρδιά της δύναμης αεροπλανοφόρων της Ιαπωνίας, απώλειες που δεν μπορούσε ποτέ να αναπληρώσει. Από εκείνη τη μέρα η Ιαπωνία ήταν σε άμυνα, και άρχισε η μακρά, βάναυση εκστρατεία αναρρίχησης από νησί σε νησί προς τα μητροπολιτικά νησιά."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/USS_Yorktown_%28CV-5%29_is_hit_by_a_torpedo_on_4_June_1942.jpg?width=1024",
+            alt: {
+              en: "The USS Yorktown hit at the Battle of Midway, 1942",
+              el: "Το USS Yorktown πλήττεται στη Μάχη του Μίντγουεϊ, 1942"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -202,7 +250,15 @@ export const TAISHO_EARLY_SHOWA_JAPAN = {
             en: "Firebombing had already gutted Japan's cities when atomic bombs destroyed Hiroshima and Nagasaki and the Soviet Union declared war. On 15 August the emperor's voice, never before heard by his people, called on them to \"endure the unendurable\" and accept defeat. An empire lay in ashes, and a shattered nation faced foreign occupation for the first time in its history.",
             el: "Οι εμπρηστικοί βομβαρδισμοί είχαν ήδη ρημάξει τις πόλεις της Ιαπωνίας όταν ατομικές βόμβες κατέστρεψαν τη Χιροσίμα και το Ναγκασάκι και η Σοβιετική Ένωση κήρυξε τον πόλεμο. Στις 15 Αυγούστου η φωνή του αυτοκράτορα, που ο λαός του δεν είχε ξανακούσει, τους κάλεσε να «αντέξουν το αβάσταχτο» και να δεχτούν την ήττα. Μια αυτοκρατορία κειτόταν στις στάχτες, και ένα συντετριμμένο έθνος αντιμετώπιζε ξένη κατοχή για πρώτη φορά στην ιστορία του."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Atomic_bombing_of_Japan.jpg?width=1024",
+            alt: {
+              en: "The atomic bombing that ended the Pacific War",
+              el: "Ο ατομικός βομβαρδισμός που τερμάτισε τον Πόλεμο του Ειρηνικού"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     }

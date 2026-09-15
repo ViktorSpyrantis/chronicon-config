@@ -58,7 +58,15 @@ export const KAMAKURA_JAPAN = {
             en: "Rather than seize the throne, Yoritomo built a parallel state, the bakufu or \"tent government,\" at his eastern base of Kamakura. The emperor reigned in Kyoto as a figurehead while real power lay with the shogun and his vassals. This dual structure — a sacred court and a governing warrior — would define Japan for nearly seven centuries.",
             el: "Αντί να αρπάξει τον θρόνο, ο Γιοριτόμο έχτισε ένα παράλληλο κράτος, το μπακούφου ή «κυβέρνηση της σκηνής», στην ανατολική του βάση, την Καμακούρα. Ο αυτοκράτορας βασίλευε στο Κιότο ως σύμβολο ενώ η πραγματική εξουσία βρισκόταν στον σογκούν και τους υποτελείς του. Αυτή η διπλή δομή — μια ιερή αυλή κι ένας κυβερνών πολεμιστής — θα όριζε την Ιαπωνία για σχεδόν επτά αιώνες."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Minamoto_no_Yoritomo.jpg?width=1024",
+            alt: {
+              en: "Minamoto no Yoritomo, Japan's first shogun",
+              el: "Ο Μιναμότο νο Γιοριτόμο, ο πρώτος σογκούν της Ιαπωνίας"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -82,7 +90,15 @@ export const KAMAKURA_JAPAN = {
             en: "Yoritomo's sons were murdered and his dynasty failed, but his widow Hōjō Masako, the \"nun-shogun,\" kept the government alive. Her family took the post of regent to figurehead shoguns, mirroring how the Fujiwara had once ruled behind the emperors — power now standing three removes from the throne.",
             el: "Οι γιοι του Γιοριτόμο δολοφονήθηκαν και η δυναστεία του έσβησε, όμως η χήρα του Χότζο Μασάκο, η «μοναχή-σογκούν», κράτησε την κυβέρνηση ζωντανή. Η οικογένειά της πήρε το αξίωμα του αντιβασιλέα σε συμβολικούς σογκούν, καθρεφτίζοντας τον τρόπο με τον οποίο οι Φουτζιβάρα κυβερνούσαν άλλοτε πίσω από τους αυτοκράτορες — η εξουσία στεκόταν πλέον τρεις βαθμίδες μακριά από τον θρόνο."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Hojo_Masako.jpg?width=1024",
+            alt: {
+              en: "Hōjō Masako, the \"nun-shogun\" of Kamakura",
+              el: "Η Χότζο Μασάκο, η «μοναχή-σογκούν» της Καμακούρα"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -130,7 +146,15 @@ export const KAMAKURA_JAPAN = {
             en: "Reformers offered simple paths to salvation: Hōnen and Shinran taught faith in Amida's saving grace, Nichiren proclaimed the Lotus Sutra as Japan's only truth, and Eisai and Dōgen brought Zen from China, its meditation and discipline suiting the warrior temper. Together they made Buddhism, for the first time, a religion of the whole people.",
             el: "Μεταρρυθμιστές πρόσφεραν απλά μονοπάτια σωτηρίας: ο Χόνεν και ο Σινράν δίδασκαν πίστη στη σωτήρια χάρη του Αμίντα, ο Νιτσιρέν διακήρυσσε το Σούτρα του Λωτού ως τη μόνη αλήθεια της Ιαπωνίας, και ο Εϊσάι και ο Ντόγκεν έφεραν το Ζεν από την Κίνα, με τον διαλογισμό και την πειθαρχία του να ταιριάζουν στην πολεμική ιδιοσυγκρασία. Μαζί έκαναν τον Βουδισμό, για πρώτη φορά, θρησκεία ολόκληρου του λαού."
           },
-          category: "religious"
+          category: "religious",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Nichiren_Daishonin_Hakii_Portrait.jpg?width=1024",
+            alt: {
+              en: "The reformer-monk Nichiren",
+              el: "Ο μεταρρυθμιστής μοναχός Νιτσιρέν"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -154,7 +178,15 @@ export const KAMAKURA_JAPAN = {
             en: "The Mongol empire, master of China, demanded Japan's submission and, refused, sent a great armada. The samurai, used to single combat, met the Mongols' massed tactics and gunpowder bombs with difficulty — but a sudden storm scattered the fleet after a single day's fighting, sparing the islands.",
             el: "Η μογγολική αυτοκρατορία, κυρίαρχος της Κίνας, απαίτησε την υποταγή της Ιαπωνίας και, μετά την άρνηση, έστειλε μια μεγάλη αρμάδα. Οι σαμουράι, συνηθισμένοι στη μονομαχία, αντιμετώπισαν με δυσκολία τη μαζική τακτική και τις πυριτιδοβόμβες των Μογγόλων — όμως μια ξαφνική καταιγίδα διασκόρπισε τον στόλο έπειτα από μία μόνο ημέρα μάχης, γλιτώνοντας τα νησιά."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Mongol_invasions_of_Japan_1274%2C_1281.jpg?width=1024",
+            alt: {
+              en: "Map of the Mongol invasions of Japan, 1274 and 1281",
+              el: "Χάρτης των μογγολικών εισβολών στην Ιαπωνία, 1274 και 1281"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -178,7 +210,15 @@ export const KAMAKURA_JAPAN = {
             en: "Behind a defensive wall the samurai held the beaches for weeks against an enormous force. Then a typhoon struck, sinking thousands of ships and drowning much of the invading host. The deliverance convinced the Japanese that heaven itself guarded their land — a belief whose name would echo darkly in the twentieth century.",
             el: "Πίσω από ένα αμυντικό τείχος οι σαμουράι κράτησαν τις ακτές για εβδομάδες απέναντι σε τεράστια δύναμη. Έπειτα χτύπησε τυφώνας, βυθίζοντας χιλιάδες πλοία και πνίγοντας μεγάλο μέρος του εισβολικού στρατού. Η λύτρωση έπεισε τους Ιάπωνες ότι ο ίδιος ο ουρανός φρουρούσε τη γη τους — μια πεποίθηση της οποίας το όνομα θα αντηχούσε ζοφερά τον εικοστό αιώνα."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Kikuchi_Yoosai_-_Mongol_Invasion_%28m%C5%8Dko_sh%C5%ABrai%29_-_Tokyo_National_Museum.jpg?width=1024",
+            alt: {
+              en: "Samurai facing the Mongol invasion, later saved by the kamikaze",
+              el: "Σαμουράι απέναντι στη μογγολική εισβολή, που έσωσε αργότερα ο καμικάζι"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },

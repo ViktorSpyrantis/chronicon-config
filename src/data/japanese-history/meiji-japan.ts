@@ -58,7 +58,15 @@ export const MEIJI_JAPAN = {
             en: "The young leaders who ruled in Meiji's name set out to save Japan by transforming it. The Charter Oath promised deliberative assemblies and an end to old customs, and the court moved to Edo, renamed Tokyo, the \"eastern capital.\" Their slogan — \"rich country, strong army\" — would drive a generation of breakneck change.",
             el: "Οι νέοι ηγέτες που κυβερνούσαν στο όνομα του Μεϊτζί ξεκίνησαν να σώσουν την Ιαπωνία μεταμορφώνοντάς την. Ο Χάρτης Όρκος υποσχέθηκε συμβουλευτικές συνελεύσεις και τέλος στα παλιά έθιμα, και η αυλή μετακόμισε στο Έντο, μετονομασμένο σε Τόκιο, την «ανατολική πρωτεύουσα». Το σύνθημά τους — «πλούσια χώρα, ισχυρός στρατός» — θα οδηγούσε μια γενιά ιλιγγιώδους αλλαγής."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Mutsuhito-Emperor-Meiji-1873.png?width=1024",
+            alt: {
+              en: "Emperor Meiji in Western dress, 1873",
+              el: "Ο Αυτοκράτορας Μεϊτζί με δυτική ενδυμασία, 1873"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -82,7 +90,15 @@ export const MEIJI_JAPAN = {
             en: "In a single stroke the daimyō surrendered their lands, and the map of feudal Japan gave way to a centralized state of prefectures and governors. That same era saw universal conscription, a national land tax and compulsory schooling, while a great embassy toured Europe and America to learn the secrets of their power.",
             el: "Με μία μονοκονδυλιά οι νταϊμιό παρέδωσαν τις γαίες τους, και ο χάρτης της φεουδαρχικής Ιαπωνίας έδωσε τη θέση του σε ένα συγκεντρωτικό κράτος νομαρχιών και κυβερνητών. Η ίδια εποχή είδε την καθολική στράτευση, έναν εθνικό φόρο γης και την υποχρεωτική εκπαίδευση, ενώ μια μεγάλη πρεσβεία περιόδευσε την Ευρώπη και την Αμερική για να μάθει τα μυστικά της δύναμής τους."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Iwakura_mission.jpg?width=1024",
+            alt: {
+              en: "Members of the Iwakura Mission to the West",
+              el: "Μέλη της Αποστολής Ιβακούρα στη Δύση"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -106,7 +122,15 @@ export const MEIJI_JAPAN = {
             en: "Stripped of their stipends, their swords and their monopoly on arms, many samurai felt betrayed by the revolution they had made. When Saigō, a hero of the Restoration, led Satsuma's warriors in revolt, the peasant conscripts of the imperial army defeated them decisively. The old warrior class passed into history and legend.",
             el: "Στερημένοι από τα επιδόματα, τα σπαθιά και το μονοπώλιό τους στα όπλα, πολλοί σαμουράι ένιωσαν προδομένοι από την επανάσταση που είχαν κάνει. Όταν ο Σάιγκο, ήρωας της Παλινόρθωσης, οδήγησε τους πολεμιστές της Σατσούμα σε εξέγερση, οι αγρότες κληρωτοί του αυτοκρατορικού στρατού τους νίκησαν αποφασιστικά. Η παλιά πολεμική τάξη πέρασε στην ιστορία και τον θρύλο."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Saigo_Takamori_%28b%29.jpg?width=1024",
+            alt: {
+              en: "Saigō Takamori, leader of the Satsuma Rebellion",
+              el: "Ο Σάιγκο Τακαμόρι, ηγέτης της Εξέγερσης της Σατσούμα"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -154,7 +178,15 @@ export const MEIJI_JAPAN = {
             en: "A quarrel over Korea brought war with the ancient empire of China — and Japan's new navy and army won a swift, crushing victory. The peace gave Japan Taiwan and a huge indemnity, though Western powers forced it to disgorge some gains. In a generation, the once-threatened islands had become the rising power of the East.",
             el: "Μια διαμάχη για την Κορέα έφερε πόλεμο με την αρχαία αυτοκρατορία της Κίνας — και το νέο ναυτικό και ο στρατός της Ιαπωνίας κέρδισαν μια ταχεία, συντριπτική νίκη. Η ειρήνη έδωσε στην Ιαπωνία την Ταϊβάν και μια τεράστια αποζημίωση, αν και οι δυτικές δυνάμεις την ανάγκασαν να αποδώσει κάποια κέρδη. Μέσα σε μια γενιά, τα άλλοτε απειλούμενα νησιά είχαν γίνει η ανερχόμενη δύναμη της Ανατολής."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/%E6%97%85%E9%A1%BA%E6%B5%B7%E5%86%9B%E5%85%AC%E6%89%80.jpg?width=1024",
+            alt: {
+              en: "A scene from the First Sino-Japanese War",
+              el: "Σκηνή από τον Πρώτο Σινοϊαπωνικό Πόλεμο"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -178,7 +210,15 @@ export const MEIJI_JAPAN = {
             en: "War with Russia over Manchuria and Korea was decided by the siege of Port Arthur and, at sea, by Admiral Tōgō's near-total destruction of the Russian Baltic Fleet at Tsushima. Japan's victory stunned the world, inspired colonized peoples from India to Egypt, and confirmed the empire as a great power to be reckoned with.",
             el: "Ο πόλεμος με τη Ρωσία για τη Μαντζουρία και την Κορέα κρίθηκε από την πολιορκία του Πορτ Άρθουρ και, στη θάλασσα, από τη σχεδόν ολοκληρωτική καταστροφή του ρωσικού Στόλου της Βαλτικής από τον ναύαρχο Τόγκο στην Τσουσίμα. Η νίκη της Ιαπωνίας συγκλόνισε τον κόσμο, ενέπνευσε αποικιοκρατούμενους λαούς από την Ινδία ως την Αίγυπτο και επιβεβαίωσε την αυτοκρατορία ως μεγάλη δύναμη υπολογίσιμη."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Battle_of_Tsushima%2C_1905_by_T%C5%8Dj%C5%8D_Sh%C5%8Dtar%C5%8D.jpg?width=1024",
+            alt: {
+              en: "The Battle of Tsushima, 1905",
+              el: "Η Ναυμαχία της Τσουσίμα, 1905"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -202,7 +242,15 @@ export const MEIJI_JAPAN = {
             en: "In forty-four years Japan had gained an empire, an industry and a constitution, and had annexed Korea in 1910. The emperor's death closed that heroic age of transformation. The general Nogi, hero of Port Arthur, followed his lord in ritual suicide — a startling gesture that captured a nation poised uneasily between old spirit and new power.",
             el: "Σε σαράντα τέσσερα χρόνια η Ιαπωνία είχε αποκτήσει αυτοκρατορία, βιομηχανία και σύνταγμα, και είχε προσαρτήσει την Κορέα το 1910. Ο θάνατος του αυτοκράτορα έκλεισε εκείνη την ηρωική εποχή μεταμόρφωσης. Ο στρατηγός Νόγκι, ήρωας του Πορτ Άρθουρ, ακολούθησε τον άρχοντά του σε τελετουργική αυτοκτονία — μια εντυπωσιακή χειρονομία που αποτύπωσε ένα έθνος αμήχανα ισορροπημένο ανάμεσα στο παλιό πνεύμα και τη νέα δύναμη."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/M-NOGI.png?width=1024",
+            alt: {
+              en: "General Nogi Maresuke, hero of the Russo-Japanese War",
+              el: "Ο στρατηγός Νόγκι Μαρεσούκε, ήρωας του Ρωσοϊαπωνικού Πολέμου"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     }

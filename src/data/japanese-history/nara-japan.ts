@@ -58,7 +58,15 @@ export const NARA_JAPAN = {
             en: "Earlier rulers had moved the court on each accession; now Japan had a fixed city of broad avenues, palaces and monasteries. For eight decades Nara was the heart of a Buddhist civilization, drawing scholars, artists and monks from across Asia and marking Japan's arrival as a cultured imperial state.",
             el: "Παλαιότεροι ηγεμόνες μετακινούσαν την αυλή με κάθε ενθρόνιση· τώρα η Ιαπωνία είχε μια σταθερή πόλη με φαρδιές λεωφόρους, ανάκτορα και μοναστήρια. Για οκτώ δεκαετίες η Νάρα ήταν η καρδιά ενός βουδιστικού πολιτισμού, προσελκύοντας λόγιους, καλλιτέχνες και μοναχούς από όλη την Ασία και σηματοδοτώντας την ανάδειξη της Ιαπωνίας σε καλλιεργημένο αυτοκρατορικό κράτος."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Heijokyo_-_Map_of_major_buildings.png?width=1024",
+            alt: {
+              en: "Plan of the Nara capital, Heijō-kyō",
+              el: "Κάτοψη της πρωτεύουσας της Νάρα, Χεϊτζό-κιό"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -106,7 +114,15 @@ export const NARA_JAPAN = {
             en: "Amid plague and rebellion, Shōmu turned to Buddhism to protect the realm, decreeing an official monastery and convent in each province. The faith became an arm of the state, its clergy powerful and its great temples richly endowed — a policy that culminated in the Great Buddha of Nara.",
             el: "Μέσα σε πανώλη και εξεγέρσεις, ο Σόμου στράφηκε στον Βουδισμό για να προστατεύσει το βασίλειο, ορίζοντας ένα επίσημο μοναστήρι και μια μονή σε κάθε επαρχία. Η πίστη έγινε βραχίονας του κράτους, ο κλήρος της ισχυρός και οι μεγάλοι ναοί της πλούσια προικισμένοι — πολιτική που κορυφώθηκε στον Μεγάλο Βούδα της Νάρα."
           },
-          category: "religious"
+          category: "religious",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Emperor_Shomu.jpg?width=1024",
+            alt: {
+              en: "A portrait of Emperor Shōmu",
+              el: "Προσωπογραφία του Αυτοκράτορα Σόμου"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -130,7 +146,15 @@ export const NARA_JAPAN = {
             en: "Rising some sixteen metres and cast from hundreds of tonnes of bronze, the Daibutsu was the greatest artistic feat of the age, nearly bankrupting the treasury. At its \"eye-opening\" ceremony an Indian monk painted in the pupils, and gifts sent from as far as Persia survive still in the Shōsōin treasure house.",
             el: "Υψώνοντας περίπου δεκαέξι μέτρα και χυτευμένος από εκατοντάδες τόνους χαλκού, ο Νταϊμπούτσου ήταν το μεγαλύτερο καλλιτεχνικό επίτευγμα της εποχής, σχεδόν χρεοκοπώντας το ταμείο. Στην τελετή του «ανοίγματος των ματιών» ένας Ινδός μοναχός ζωγράφισε τις κόρες, και δώρα σταλμένα ως και από την Περσία σώζονται ακόμη στον θησαυροφυλάκιο Σοσόιν."
           },
-          category: "religious"
+          category: "religious",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/T%C5%8Ddai-ji_Kon-d%C5%8D.jpg?width=1024",
+            alt: {
+              en: "The great hall of Tōdai-ji, home of the Nara Great Buddha",
+              el: "Η μεγάλη αίθουσα του Τοντάιτζι, οίκος του Μεγάλου Βούδα της Νάρα"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -178,7 +202,15 @@ export const NARA_JAPAN = {
             en: "Favoured by Empress Kōken, Dōkyō gathered such power that an oracle was said to name him the next sovereign. The threat of a monk-emperor so alarmed the nobles that after Kōken died he was banished — and the episode hardened a resolve to move the capital away from Nara's overmighty monasteries.",
             el: "Ευνοούμενος από την Αυτοκράτειρα Κόκεν, ο Ντόκιο συγκέντρωσε τόση δύναμη ώστε ένας χρησμός φέρεται να τον όρισε επόμενο κυρίαρχο. Η απειλή ενός μοναχού-αυτοκράτορα τρόμαξε τόσο τους ευγενείς που, μόλις πέθανε η Κόκεν, εξορίστηκε — και το επεισόδιο σκλήρυνε την απόφαση να μετακινηθεί η πρωτεύουσα μακριά από τα υπερβολικά ισχυρά μοναστήρια της Νάρα."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Empress_K%C5%8Dken1878%28Cropped%29.jpg?width=1024",
+            alt: {
+              en: "Empress Kōken, who favoured the monk Dōkyō",
+              el: "Η Αυτοκράτειρα Κόκεν, που ευνόησε τον μοναχό Ντόκιο"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -202,7 +234,15 @@ export const NARA_JAPAN = {
             en: "To escape the political weight of the Nara monasteries, Kanmu first built a capital at Nagaoka, then abandoned it after ill omens and a murder. His search would end a decade later in a new city to the north, Heian-kyō, opening one of the most brilliant ages of Japanese history.",
             el: "Για να ξεφύγει από το πολιτικό βάρος των μοναστηριών της Νάρα, ο Κάνμου έχτισε πρώτα πρωτεύουσα στη Ναγκαόκα, την οποία εγκατέλειψε ύστερα από κακούς οιωνούς κι έναν φόνο. Η αναζήτησή του θα τελείωνε μια δεκαετία αργότερα σε μια νέα πόλη στον βορρά, τη Χεϊάν-κιό, ανοίγοντας μία από τις λαμπρότερες εποχές της ιαπωνικής ιστορίας."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Emperor_Kammu_large.jpg?width=1024",
+            alt: {
+              en: "A portrait of Emperor Kanmu, founder of Heian-kyō",
+              el: "Προσωπογραφία του Αυτοκράτορα Κάνμου, ιδρυτή της Χεϊάν-κιό"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     }

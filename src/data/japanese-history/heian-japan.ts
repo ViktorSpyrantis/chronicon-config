@@ -58,7 +58,15 @@ export const HEIAN_JAPAN = {
             en: "Laid out once more on the Chinese grid but never dominated by its monasteries, the new capital gave its name to the whole era. Kyoto would remain the imperial seat until 1868, and the culture forged within its palaces set the standard of refinement for all later Japanese history.",
             el: "Σχεδιασμένη για άλλη μια φορά στον κινεζικό κάνναβο αλλά ποτέ κυριαρχούμενη από τα μοναστήρια της, η νέα πρωτεύουσα έδωσε το όνομά της σε όλη την εποχή. Το Κιότο θα παρέμενε αυτοκρατορική έδρα ως το 1868, και ο πολιτισμός που σφυρηλατήθηκε στα ανάκτορά του καθόρισε το μέτρο της κομψότητας για όλη τη μετέπειτα ιαπωνική ιστορία."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Daidairi_of_Heiankyo.jpg?width=1024",
+            alt: {
+              en: "Reconstruction of the great palace enclosure of Heian-kyō",
+              el: "Αναπαράσταση του μεγάλου ανακτορικού περιβόλου της Χεϊάν-κιό"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -82,7 +90,15 @@ export const HEIAN_JAPAN = {
             en: "Saichō built his monastery on Mount Hiei above Kyoto, Kūkai his on remote Mount Kōya. Their mountain temples, with mystic rituals, mandalas and mantras, drew Buddhism out of the old Nara capital and deep into aristocratic life. Kūkai was also revered as a calligrapher and, by legend, the shaper of the Japanese syllabary.",
             el: "Ο Σαϊτσό έχτισε το μοναστήρι του στο όρος Χιέι πάνω από το Κιότο, ο Κούκαϊ το δικό του στο απομακρυσμένο όρος Κόγια. Οι ορεινοί ναοί τους, με μυστικιστικές τελετές, μάνταλα και μάντρα, τράβηξαν τον Βουδισμό έξω από την παλιά πρωτεύουσα της Νάρα και βαθιά μέσα στην αριστοκρατική ζωή. Ο Κούκαϊ τιμήθηκε επίσης ως καλλιγράφος και, κατά τον θρύλο, ως ο διαμορφωτής του ιαπωνικού συλλαβαρίου."
           },
-          category: "religious"
+          category: "religious",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Eight_Patriarchs_of_the_Shingon_Sect_of_Buddhism_Kukai_Cropped.jpg?width=1024",
+            alt: {
+              en: "The monk Kūkai, founder of Shingon Buddhism",
+              el: "Ο μοναχός Κούκαϊ, ιδρυτής του Βουδισμού Σινγκόν"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -106,7 +122,15 @@ export const HEIAN_JAPAN = {
             en: "By making themselves grandfathers and fathers-in-law of emperors, the Fujiwara controlled the court for two centuries. Sovereigns reigned as children and abdicated young, while a Fujiwara regent held real power. Under their patronage the capital became a hothouse of art, poetry and exquisite manners.",
             el: "Κάνοντας τους εαυτούς τους παππούδες και πεθερούς των αυτοκρατόρων, οι Φουτζιβάρα έλεγχαν την αυλή για δύο αιώνες. Οι ηγεμόνες βασίλευαν ως παιδιά και παραιτούνταν νέοι, ενώ ένας αντιβασιλέας Φουτζιβάρα κρατούσε την πραγματική εξουσία. Υπό την προστασία τους η πρωτεύουσα έγινε θερμοκήπιο τέχνης, ποίησης και εκλεπτυσμένων τρόπων."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Fujiwara_no_Michinaga_2.jpg?width=1024",
+            alt: {
+              en: "Fujiwara no Michinaga, at the height of the regents' power",
+              el: "Ο Φουτζιβάρα νο Μιτσινάγκα, στο απόγειο της δύναμης των αντιβασιλέων"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -130,7 +154,15 @@ export const HEIAN_JAPAN = {
             en: "The scholar Sugawara no Michizane advised ending the costly embassies as the Tang declined. Cut loose from constant borrowing, the court refined a distinctly Japanese aesthetic — the kana syllabary, native poetry and prose, and a cult of taste and sensitivity, the \"sensibility to things,\" that shaped everything from love letters to landscape gardens.",
             el: "Ο λόγιος Σουγκαβάρα νο Μιτσιζάνε συμβούλευσε τον τερματισμό των δαπανηρών πρεσβειών καθώς οι Τανγκ παρήκμαζαν. Ελεύθερη από τον διαρκή δανεισμό, η αυλή εκλέπτυνε μια χαρακτηριστικά ιαπωνική αισθητική — το συλλαβάριο κάνα, τη ντόπια ποίηση και πεζογραφία, και μια λατρεία του γούστου και της ευαισθησίας που διαμόρφωσε τα πάντα, από τα ερωτικά γράμματα ως τους κήπους."
           },
-          category: "cultural"
+          category: "cultural",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/%E6%9D%9F%E5%B8%AF%E5%A4%A9%E7%A5%9E%E5%83%8F.png?width=1024",
+            alt: {
+              en: "Sugawara no Michizane, who ended the missions to Tang China",
+              el: "Ο Σουγκαβάρα νο Μιτσιζάνε, που τερμάτισε τις αποστολές στην Κίνα των Τανγκ"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -154,7 +186,15 @@ export const HEIAN_JAPAN = {
             en: "Written in flowing kana at the court of the Fujiwara, Genji follows the loves and sorrows of a radiant prince with a psychological depth unmatched for centuries. Alongside Sei Shōnagon's witty Pillow Book, it crowned a remarkable moment when women writers gave Heian Japan its most enduring literature.",
             el: "Γραμμένο σε ρέουσα κάνα στην αυλή των Φουτζιβάρα, το Γκέντζι παρακολουθεί τους έρωτες και τις θλίψεις ενός λαμπερού πρίγκιπα με ψυχολογικό βάθος ασυναγώνιστο για αιώνες. Μαζί με το πνευματώδες Βιβλίο του Προσκεφαλιού της Σέι Σόναγκον, στεφάνωσε μια αξιοσημείωτη στιγμή όπου γυναίκες συγγραφείς έδωσαν στη Χεϊάν Ιαπωνία την πιο διαχρονική της λογοτεχνία."
           },
-          category: "cultural"
+          category: "cultural",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Genji_emaki_01003_002.jpg?width=1024",
+            alt: {
+              en: "A scene from an illustrated scroll of The Tale of Genji",
+              el: "Σκηνή από εικονογραφημένο κύλινδρο της Ιστορίας του Γκέντζι"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -178,7 +218,15 @@ export const HEIAN_JAPAN = {
             en: "The Buddhist reckoning placed the start of a degenerate final age in 1052, and the anxious turned to Amida Buddha, who promised rebirth in a Pure Land to any who called his name. The Phoenix Hall of the Byōdō-in, mirrored in its pond near Kyoto, made that paradise visible and still adorns the ten-yen coin.",
             el: "Ο βουδιστικός υπολογισμός τοποθετούσε την έναρξη μιας εκφυλισμένης τελικής εποχής στο 1052, και οι ανήσυχοι στράφηκαν στον Βούδα Αμίντα, που υποσχόταν αναγέννηση σε μια Καθαρή Γη σε όποιον πρόφερε το όνομά του. Η Αίθουσα του Φοίνικα του Μπιόντο-ιν, καθρεφτισμένη στη λιμνούλα της κοντά στο Κιότο, έκανε ορατό αυτόν τον παράδεισο και κοσμεί ακόμη το νόμισμα των δέκα γιεν."
           },
-          category: "religious"
+          category: "religious",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Phoenix_Hall%2C_Byodo-in%2C_November_2016_-01.jpg?width=1024",
+            alt: {
+              en: "The Phoenix Hall of the Byōdō-in, an image of the Pure Land",
+              el: "Η Αίθουσα του Φοίνικα του Μπιόντο-ιν, εικόνα της Καθαρής Γης"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -202,7 +250,15 @@ export const HEIAN_JAPAN = {
             en: "For generations the Taira and Minamoto warriors had policed the provinces and put down revolts for the aristocracy. Now, called in to settle disputes within the court itself, they discovered where power truly lay. Taira no Kiyomori emerged supreme, the first warrior to dominate the imperial capital.",
             el: "Επί γενιές οι πολεμιστές Τάιρα και Μιναμότο αστυνόμευαν τις επαρχίες και κατέστελλαν εξεγέρσεις για λογαριασμό της αριστοκρατίας. Τώρα, καλεσμένοι να λύσουν διαφορές μέσα στην ίδια την αυλή, ανακάλυψαν πού βρισκόταν πραγματικά η εξουσία. Ο Τάιρα νο Κιγιομόρι αναδείχθηκε κυρίαρχος, ο πρώτος πολεμιστής που δέσποσε στην αυτοκρατορική πρωτεύουσα."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Taira_no_Kiyomori%2CTenshiSekkanMiei.jpg?width=1024",
+            alt: {
+              en: "Taira no Kiyomori, first warrior to dominate the court",
+              el: "Ο Τάιρα νο Κιγιομόρι, ο πρώτος πολεμιστής που δέσποσε στην αυλή"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -226,7 +282,15 @@ export const HEIAN_JAPAN = {
             en: "The five-year Genpei War pitted the two great warrior houses against each other across Japan. At Dan-no-ura in 1185 the Minamoto fleet destroyed the Taira, and the child-emperor Antoku drowned with his grandmother beneath the waves. The victory of Minamoto no Yoritomo opened the age of the samurai and the shogun.",
             el: "Ο πενταετής Πόλεμος Γκενπέι έστρεψε τους δύο μεγάλους πολεμικούς οίκους τον έναν εναντίον του άλλου σε όλη την Ιαπωνία. Στο Νταν-νο-ούρα το 1185 ο στόλος των Μιναμότο κατέστρεψε τους Τάιρα, και ο παιδι-αυτοκράτορας Αντόκου πνίγηκε μαζί με τη γιαγιά του κάτω από τα κύματα. Η νίκη του Μιναμότο νο Γιοριτόμο άνοιξε την εποχή των σαμουράι και του σογκούν."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/AntokuTennou_Engi.7%268_Dannoura_Kassen.jpg?width=1024",
+            alt: {
+              en: "The sea-battle of Dan-no-ura, end of the Genpei War",
+              el: "Η ναυμαχία του Νταν-νο-ούρα, τέλος του Πολέμου Γκενπέι"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     }

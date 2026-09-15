@@ -58,7 +58,15 @@ export const KOFUN_ASUKA_JAPAN = {
             en: "The largest, attributed to Emperor Nintoku near Osaka, is nearly half a kilometre long — one of the biggest tombs on earth. Ringed by moats and topped with clay haniwa figures of warriors, horses and houses, the kofun proclaimed the power of an emerging elite that would coalesce into the Yamato court.",
             el: "Ο μεγαλύτερος, αποδιδόμενος στον Αυτοκράτορα Νιντόκου κοντά στην Οσάκα, έχει μήκος σχεδόν μισό χιλιόμετρο — ένας από τους μεγαλύτερους τάφους στη γη. Περιτριγυρισμένα από τάφρους και στεφανωμένα με πήλινες μορφές χανίβα πολεμιστών, αλόγων και σπιτιών, τα κοφούν διακήρυσσαν τη δύναμη μιας αναδυόμενης ελίτ που θα συνενωνόταν στην αυλή του Γιαμάτο."
           },
-          category: "cultural"
+          category: "cultural",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Mozu_Kofun_Group_Aerial_photograph_2007.jpg?width=1024",
+            alt: {
+              en: "Aerial view of the giant keyhole tomb-mounds of the Mozu kofun group",
+              el: "Αεροφωτογραφία των γιγαντιαίων τύμβων σε σχήμα κλειδαρότρυπας του συμπλέγματος Μόζου"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -82,7 +90,15 @@ export const KOFUN_ASUKA_JAPAN = {
             en: "Ruling through a hierarchy of aristocratic clans, the uji, the Yamato kings drew iron, horses, scribes and craftsmen from allied Baekje. Immigrant families brought writing in Chinese characters, weaving and metallurgy, knitting the young state into the wider civilization of East Asia.",
             el: "Κυβερνώντας μέσα από μια ιεραρχία αριστοκρατικών γενών, των ουτζί, οι βασιλείς του Γιαμάτο αντλούσαν σίδηρο, άλογα, γραφείς και τεχνίτες από τη σύμμαχο Μπεκτσέ. Μεταναστευτικές οικογένειες έφεραν τη γραφή με κινεζικά ιδεογράμματα, την υφαντική και τη μεταλλουργία, εντάσσοντας το νεαρό κράτος στον ευρύτερο πολιτισμό της Ανατολικής Ασίας."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Warrior_in_Keiko_Armor%2C_National_Treasure%2C_Kofun_period%2C_6th_century%2C_haniwa_%28terracotta_tomb_figurine%29_from_Iizuka-machi%2C_Ota-shi%2C_Gunma_-_Tokyo_National_Museum_-_DSC06425.JPG?width=1024",
+            alt: {
+              en: "A haniwa clay warrior figure of the Kofun period",
+              el: "Πήλινη μορφή πολεμιστή χανίβα της περιόδου Κοφούν"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -106,7 +122,15 @@ export const KOFUN_ASUKA_JAPAN = {
             en: "The new faith split the court. The Soga clan embraced it while the Mononobe and Nakatomi defended the native gods, the kami. The Soga prevailed, and Buddhism — with its temples, learning and links to the continent — became a pillar of the state, worshipped alongside, not instead of, the older Shintō spirits.",
             el: "Η νέα πίστη διχάζει την αυλή. Το γένος των Σόγκα την αγκάλιασε ενώ οι Μονονόμπε και οι Νακατόμι υπερασπίστηκαν τους ντόπιους θεούς, τους κάμι. Οι Σόγκα επικράτησαν, και ο Βουδισμός — με τους ναούς, τη μάθηση και τους δεσμούς του με την ήπειρο — έγινε πυλώνας του κράτους, λατρευόμενος παράλληλα, όχι αντί, με τα παλαιότερα πνεύματα του Σιντό."
           },
-          category: "religious"
+          category: "religious",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Asuka-dera%2C_sanmon.jpg?width=1024",
+            alt: {
+              en: "Asuka-dera, among Japan's first Buddhist temples",
+              el: "Το Άσουκα-ντερα, από τους πρώτους βουδιστικούς ναούς της Ιαπωνίας"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -130,7 +154,15 @@ export const KOFUN_ASUKA_JAPAN = {
             en: "More a set of moral principles than laws, the constitution set out a Chinese-style ideal of centralized, ethical government. Shōtoku sent embassies to Sui China as an equal, patronized Buddhism, and founded the temple of Hōryū-ji, whose wooden halls still stand as the oldest in the world.",
             el: "Περισσότερο σύνολο ηθικών αρχών παρά νόμων, το σύνταγμα καθόρισε ένα κινεζικού τύπου ιδεώδες συγκεντρωτικής, ηθικής διακυβέρνησης. Ο Σοτόκου έστειλε πρεσβείες στην Κίνα των Σούι ως ίσος προς ίσο, προστάτευσε τον Βουδισμό και ίδρυσε τον ναό Χορίτζι, του οποίου οι ξύλινες αίθουσες στέκουν ακόμη ως οι αρχαιότερες στον κόσμο."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Sh%C5%8Dtoku_Taishi_Sh%C5%8Dmanky%C5%8D_K%C5%8Dsan.jpg?width=1024",
+            alt: {
+              en: "Prince Shōtoku, author of the Seventeen-Article Constitution",
+              el: "Ο Πρίγκιπας Σοτόκου, συντάκτης του Συντάγματος των Δεκαεπτά Άρθρων"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -178,7 +210,15 @@ export const KOFUN_ASUKA_JAPAN = {
             en: "Victorious in the fierce Jinshin War of 672, Tenmu ruled with new authority, strengthening the bureaucracy and ordering the histories that would justify his line. It was in his reign that the ideology of a heaven-descended, unbroken imperial dynasty took firm shape.",
             el: "Νικητής στον σφοδρό Πόλεμο Τζινσίν του 672, ο Τένμου κυβέρνησε με νέα εξουσία, ενισχύοντας τη γραφειοκρατία και παραγγέλνοντας τις ιστορίες που θα δικαίωναν τη γενιά του. Στη βασιλεία του πήρε στέρεη μορφή η ιδεολογία μιας ουρανοκατέβατης, αδιάσπαστης αυτοκρατορικής δυναστείας."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/%E5%A4%A9%E6%AD%A6%E5%A4%A9%E7%9A%87%E5%BE%A1%E5%BD%B1%E3%80%81%E9%87%91%E5%89%9B%E5%B1%B1%E5%AF%BA%E6%89%80%E8%94%B5.jpg?width=1024",
+            alt: {
+              en: "A portrait of Emperor Tenmu",
+              el: "Προσωπογραφία του Αυτοκράτορα Τένμου"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },

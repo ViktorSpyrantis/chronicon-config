@@ -58,7 +58,15 @@ export const POSTWAR_JAPAN = {
             en: "General MacArthur's occupation remade Japan: the emperor renounced his divinity and became a symbol, land was redistributed, women won the vote, and the great combines were loosened. The new constitution's Article 9 forever renounced war — a foundation of Japan's postwar identity as a peaceful nation that endures to this day.",
             el: "Η κατοχή του στρατηγού ΜακΆρθουρ αναδιαμόρφωσε την Ιαπωνία: ο αυτοκράτορας αποκήρυξε τη θεότητά του κι έγινε σύμβολο, η γη αναδιανεμήθηκε, οι γυναίκες κέρδισαν το δικαίωμα ψήφου, και τα μεγάλα συγκροτήματα χαλάρωσαν. Το Άρθρο 9 του νέου συντάγματος αποκήρυξε για πάντα τον πόλεμο — ένα θεμέλιο της μεταπολεμικής ταυτότητας της Ιαπωνίας ως ειρηνικού έθνους που αντέχει ως σήμερα."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Occupied_Japan.png?width=1024",
+            alt: {
+              en: "Occupied Japan under Allied administration",
+              el: "Η κατεχόμενη Ιαπωνία υπό συμμαχική διοίκηση"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -82,7 +90,15 @@ export const POSTWAR_JAPAN = {
             en: "The 1951 treaty restored Japanese sovereignty from 1952, while a security pact kept American forces on Japanese soil. Sheltered under the American alliance and freed from heavy military spending, Japan could pour its energies into the economy — the strategic choice that shaped its entire postwar rise.",
             el: "Η συνθήκη του 1951 αποκατέστησε την ιαπωνική κυριαρχία από το 1952, ενώ ένα σύμφωνο ασφαλείας κράτησε αμερικανικές δυνάμεις σε ιαπωνικό έδαφος. Προστατευμένη υπό την αμερικανική συμμαχία και απαλλαγμένη από βαριές στρατιωτικές δαπάνες, η Ιαπωνία μπόρεσε να διοχετεύσει τις ενέργειές της στην οικονομία — η στρατηγική επιλογή που διαμόρφωσε ολόκληρη τη μεταπολεμική της άνοδο."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Yoshida_signs_San_Francisco_Peace_Treaty.jpg?width=1024",
+            alt: {
+              en: "Japan signs the San Francisco Peace Treaty, 1951",
+              el: "Η Ιαπωνία υπογράφει τη Συνθήκη Ειρήνης του Σαν Φρανσίσκο, 1951"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -106,7 +122,15 @@ export const POSTWAR_JAPAN = {
             en: "Just nineteen years after defeat, Japan hosted the Olympics and opened the Shinkansen, the sleek bullet train between Tokyo and Osaka. Behind the spectacle lay a decade of near double-digit growth, as Japanese cars, cameras and electronics conquered world markets and a mass middle class took shape.",
             el: "Μόλις δεκαεννέα χρόνια μετά την ήττα, η Ιαπωνία φιλοξένησε τους Ολυμπιακούς Αγώνες και εγκαινίασε το Σινκάνσεν, το κομψό τρένο-σφαίρα ανάμεσα στο Τόκιο και την Οσάκα. Πίσω από το θέαμα κρυβόταν μια δεκαετία ανάπτυξης σχεδόν διψήφιου ρυθμού, καθώς ιαπωνικά αυτοκίνητα, φωτογραφικές μηχανές και ηλεκτρονικά κατακτούσαν τις παγκόσμιες αγορές και διαμορφωνόταν μια μαζική μεσαία τάξη."
           },
-          category: "other"
+          category: "other",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Shinkansen_Series0_R67_JNRcolor.jpg?width=1024",
+            alt: {
+              en: "The Shinkansen bullet train, opened for the 1964 Olympics",
+              el: "Το τρένο-σφαίρα Σινκάνσεν, που εγκαινιάστηκε για τους Ολυμπιακούς του 1964"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -154,7 +178,15 @@ export const POSTWAR_JAPAN = {
             en: "Hirohito's sixty-two-year reign had spanned militarism, war, defeat and rebirth; his son Akihito opened the Heisei era. Japanese land and stocks had soared to fantastical values, and the nation seemed poised to lead the world — but the speculative bubble was about to burst with lasting consequences.",
             el: "Η εξηνταδιάχρονη βασιλεία του Χιροχίτο είχε καλύψει τον μιλιταρισμό, τον πόλεμο, την ήττα και την αναγέννηση· ο γιος του Ακιχίτο άνοιξε την εποχή Χεϊσέι. Η ιαπωνική γη και οι μετοχές είχαν εκτοξευθεί σε φαντασιακές αξίες, και το έθνος έμοιαζε έτοιμο να ηγηθεί του κόσμου — όμως η κερδοσκοπική φούσκα ήταν έτοιμη να σκάσει με διαρκείς συνέπειες."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Emperor_Akihito_%282016%29.jpg?width=1024",
+            alt: {
+              en: "Emperor Akihito, whose accession opened the Heisei era",
+              el: "Ο Αυτοκράτορας Ακιχίτο, του οποίου η ενθρόνιση άνοιξε την εποχή Χεϊσέι"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -178,7 +210,15 @@ export const POSTWAR_JAPAN = {
             en: "When land and share prices crashed, banks were left crippled by bad debt and growth ground to a halt. The \"lost decades\" that followed brought deflation, insecure work and an ageing, shrinking population. Japan remained rich, orderly and inventive, but its era of soaring confidence was over, replaced by a search for stability.",
             el: "Όταν οι τιμές της γης και των μετοχών κατέρρευσαν, οι τράπεζες έμειναν παράλυτες από τα επισφαλή χρέη και η ανάπτυξη σταμάτησε. Οι «χαμένες δεκαετίες» που ακολούθησαν έφεραν αποπληθωρισμό, επισφαλή εργασία και έναν γηράσκοντα, συρρικνούμενο πληθυσμό. Η Ιαπωνία παρέμεινε πλούσια, οργανωμένη και εφευρετική, όμως η εποχή της εκτοξευόμενης αυτοπεποίθησής της είχε τελειώσει, αντικαταστημένη από μια αναζήτηση σταθερότητας."
           },
-          category: "other"
+          category: "other",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Nikkei_225_Index.webp?width=1024",
+            alt: {
+              en: "The Nikkei index, whose crash opened the \"lost decades\"",
+              el: "Ο δείκτης Νικέι, του οποίου η κατάρρευση άνοιξε τις «χαμένες δεκαετίες»"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -202,7 +242,15 @@ export const POSTWAR_JAPAN = {
             en: "The most powerful earthquake in Japan's recorded history sent a tsunami crashing over the Tōhoku coast, killing some twenty thousand people and crippling the Fukushima nuclear plant. The nation's calm, disciplined response drew worldwide admiration, even as the disaster forced a hard reckoning with nuclear power and reconstruction.",
             el: "Ο ισχυρότερος σεισμός στην καταγεγραμμένη ιστορία της Ιαπωνίας έστειλε ένα τσουνάμι να σαρώσει την ακτή του Τοχόκου, σκοτώνοντας περίπου είκοσι χιλιάδες ανθρώπους και αχρηστεύοντας το πυρηνικό εργοστάσιο της Φουκουσίμα. Η ήρεμη, πειθαρχημένη αντίδραση του έθνους προκάλεσε παγκόσμιο θαυμασμό, την ώρα που η καταστροφή επέβαλε έναν σκληρό αναλογισμό για την πυρηνική ενέργεια και την ανασυγκρότηση."
           },
-          category: "other"
+          category: "other",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/SH-60B_helicopter_flies_over_Sendai.jpg?width=1024",
+            alt: {
+              en: "Aftermath of the 2011 Tōhoku earthquake and tsunami",
+              el: "Οι συνέπειες του σεισμού και του τσουνάμι του Τοχόκου το 2011"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -226,7 +274,15 @@ export const POSTWAR_JAPAN = {
             en: "In the first abdication in two centuries, the ageing Akihito passed the throne to Naruhito, and the era name Reiwa — \"beautiful harmony\" — began. A peaceful democracy and cultural powerhouse, Japan faces the new century grappling with a shrinking population and a rising China, still reinventing the balance of tradition and change that has defined its whole history.",
             el: "Στην πρώτη παραίτηση εδώ και δύο αιώνες, ο γηραιός Ακιχίτο παρέδωσε τον θρόνο στον Ναρουχίτο, και άρχισε το όνομα της εποχής Ρέιβα — «όμορφη αρμονία». Μια ειρηνική δημοκρατία και πολιτιστική δύναμη, η Ιαπωνία αντιμετωπίζει τον νέο αιώνα παλεύοντας με έναν συρρικνούμενο πληθυσμό και μια ανερχόμενη Κίνα, επανεφευρίσκοντας ακόμη την ισορροπία παράδοσης και αλλαγής που όρισε όλη της την ιστορία."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Emperor_Naruhito_20250611_%2854582524056%2C_cropped%29.jpg?width=1024",
+            alt: {
+              en: "Emperor Naruhito, whose reign opened the Reiwa era",
+              el: "Ο Αυτοκράτορας Ναρουχίτο, του οποίου η βασιλεία άνοιξε την εποχή Ρέιβα"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     }

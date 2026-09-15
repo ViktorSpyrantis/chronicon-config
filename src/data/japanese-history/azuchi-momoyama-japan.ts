@@ -58,7 +58,15 @@ export const AZUCHI_MOMOYAMA_JAPAN = {
             en: "A minor lord of daring and cruelty, Nobunaga made himself the strongest man in Japan through gunpowder tactics and terror. He crushed rival warlords, broke the armies of the militant Buddhist monasteries — burning Mount Hiei — and welcomed European guns and missionaries as tools against his enemies.",
             el: "Ένας δευτερεύων άρχοντας τόλμης και σκληρότητας, ο Νομπουνάγκα έγινε ο ισχυρότερος άνθρωπος στην Ιαπωνία μέσω τακτικών πυρίτιδας και τρόμου. Συνέτριψε αντίπαλους πολέμαρχους, διέλυσε τους στρατούς των μαχητικών βουδιστικών μοναστηριών — καίγοντας το όρος Χιέι — και καλωσόρισε τα ευρωπαϊκά όπλα και τους ιεραπόστολους ως εργαλεία κατά των εχθρών του."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/%E8%BF%91%E6%B1%9F%E5%9B%BD%E8%92%B2%E7%94%9F%E9%83%A1%E5%AE%89%E5%9C%9F%E5%9F%8E%E4%B9%8B.jpg?width=1024",
+            alt: {
+              en: "A depiction of Nobunaga's Azuchi Castle",
+              el: "Απεικόνιση του Κάστρου Αζούτσι του Νομπουνάγκα"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -82,7 +90,15 @@ export const AZUCHI_MOMOYAMA_JAPAN = {
             en: "Sheltering some three thousand gunmen behind wooden palisades, Nobunaga broke the celebrated Takeda horsemen with rolling volleys of fire. The battle became a symbol of how firearms and disciplined foot soldiers had overturned the age of the mounted samurai, and it confirmed Nobunaga's dominance of central Japan.",
             el: "Προστατεύοντας περίπου τρεις χιλιάδες τυφεκιοφόρους πίσω από ξύλινα παλισάντ, ο Νομπουνάγκα συνέτριψε τους περίφημους ιππείς των Τακέντα με διαδοχικές ομοβροντίες. Η μάχη έγινε σύμβολο του πώς τα πυροβόλα και οι πειθαρχημένοι πεζοί είχαν ανατρέψει την εποχή του έφιππου σαμουράι, και επιβεβαίωσε την κυριαρχία του Νομπουνάγκα στην κεντρική Ιαπωνία."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Battle-of-Nagashino-Map-Folding-Screen-1575.png?width=1024",
+            alt: {
+              en: "A folding-screen painting of the Battle of Nagashino",
+              el: "Ζωγραφική σε παραβάν της Μάχης του Ναγκασίνο"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -106,7 +122,15 @@ export const AZUCHI_MOMOYAMA_JAPAN = {
             en: "With Japan almost in his grasp, Nobunaga was surprised in Kyoto by a treacherous vassal and took his own life amid the flames. His ablest general, Toyotomi Hideyoshi, avenged him within days and seized his mantle — a peasant-born soldier now poised to complete the unification of the realm.",
             el: "Με την Ιαπωνία σχεδόν στα χέρια του, ο Νομπουνάγκα αιφνιδιάστηκε στο Κιότο από έναν δόλιο υποτελή κι έθεσε τέρμα στη ζωή του μέσα στις φλόγες. Ο ικανότερος στρατηγός του, ο Τογιοτόμι Χιντεγιόσι, τον εκδικήθηκε μέσα σε λίγες ημέρες και άρπαξε τον μανδύα του — ένας στρατιώτης αγροτικής καταγωγής έτοιμος τώρα να ολοκληρώσει την ενοποίηση του βασιλείου."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Honnoj.jpg?width=1024",
+            alt: {
+              en: "The Honnō-ji, where Nobunaga met his end",
+              el: "Ο ναός Χονό-τζι, όπου βρήκε το τέλος του ο Νομπουνάγκα"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -130,7 +154,15 @@ export const AZUCHI_MOMOYAMA_JAPAN = {
             en: "Having unified the country by 1590, Hideyoshi set out to secure it. His famous \"sword hunt\" stripped weapons from commoners, and his surveys fixed each person as either samurai or peasant. These measures ended the social fluidity of the warring states and laid the groundwork for the rigid order of the Tokugawa peace.",
             el: "Έχοντας ενοποιήσει τη χώρα ως το 1590, ο Χιντεγιόσι επιχείρησε να την ασφαλίσει. Το περίφημο «κυνήγι των σπαθιών» αφαίρεσε τα όπλα από τους απλούς ανθρώπους, και οι απογραφές του καθήλωσαν τον καθένα ως σαμουράι ή αγρότη. Τα μέτρα αυτά τερμάτισαν την κοινωνική ρευστότητα των αντιμαχόμενων κρατών και έθεσαν τα θεμέλια της άκαμπτης τάξης της ειρήνης των Τοκουγκάουα."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Toyotomi_Hideyoshi_c1598_Kodai-ji_Temple.png?width=1024",
+            alt: {
+              en: "Toyotomi Hideyoshi, unifier of Japan",
+              el: "Ο Τογιοτόμι Χιντεγιόσι, ενοποιητής της Ιαπωνίας"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -154,7 +186,15 @@ export const AZUCHI_MOMOYAMA_JAPAN = {
             en: "In two great campaigns Japanese armies overran much of Korea but could not hold it. The Korean admiral Yi Sun-sin devastated their fleets with his armoured \"turtle ships,\" Ming armies poured in, and guerrillas harried the invaders. The wars ended in withdrawal on Hideyoshi's death in 1598, having brought ruin to Korea and glory to none.",
             el: "Σε δύο μεγάλες εκστρατείες ιαπωνικοί στρατοί κατέκλυσαν μεγάλο μέρος της Κορέας αλλά δεν μπόρεσαν να την κρατήσουν. Ο Κορεάτης ναύαρχος Γι Σουν-σιν αφάνισε τους στόλους τους με τα θωρακισμένα «χελωνόπλοια» του, στρατοί των Μινγκ εισέρρευσαν, και αντάρτες παρενοχλούσαν τους εισβολείς. Οι πόλεμοι έληξαν με αποχώρηση στον θάνατο του Χιντεγιόσι το 1598, έχοντας φέρει καταστροφή στην Κορέα και δόξα σε κανέναν."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Siege-of-Busanjin-1592.jpg?width=1024",
+            alt: {
+              en: "The siege of Busan, opening the invasion of Korea",
+              el: "Η πολιορκία της Μπουσάν, έναρξη της εισβολής στην Κορέα"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -178,7 +218,15 @@ export const AZUCHI_MOMOYAMA_JAPAN = {
             en: "After Hideyoshi's death, his followers split, and the greatest lords gathered on a misty field in two vast coalitions. A well-timed defection turned the battle to Ieyasu, who shattered his rivals in a single day. Within three years he would take the title of shogun and found a dynasty that ruled Japan for over two and a half centuries.",
             el: "Μετά τον θάνατο του Χιντεγιόσι, οι οπαδοί του διχάστηκαν, και οι μεγαλύτεροι άρχοντες συγκεντρώθηκαν σε ένα ομιχλώδες πεδίο σε δύο τεράστιους συνασπισμούς. Μια εύστοχα χρονισμένη αυτομόληση έγειρε τη μάχη υπέρ του Ιεγιάσου, που συνέτριψε τους αντιπάλους του σε μία μόνο ημέρα. Μέσα σε τρία χρόνια θα έπαιρνε τον τίτλο του σογκούν και θα ίδρυε μια δυναστεία που κυβέρνησε την Ιαπωνία για πάνω από δυόμισι αιώνες."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Sekigaharascreen.jpg?width=1024",
+            alt: {
+              en: "A folding-screen painting of the Battle of Sekigahara",
+              el: "Ζωγραφική σε παραβάν της Μάχης του Σεκιγκαχάρα"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     }

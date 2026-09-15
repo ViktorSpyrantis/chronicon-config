@@ -58,7 +58,15 @@ export const EDO_JAPAN = {
             en: "From his stronghold at Edo — the future Tokyo — Ieyasu built a system to make war impossible. The great lords were bound by oaths, marriages and hostages, and required to spend alternate years attending the shogun's court. The emperor remained a revered recluse in Kyoto while the Tokugawa governed all.",
             el: "Από το προπύργιό του στο Έντο — το μελλοντικό Τόκιο — ο Ιεγιάσου έχτισε ένα σύστημα που έκανε τον πόλεμο αδύνατο. Οι μεγάλοι άρχοντες δεσμεύτηκαν με όρκους, γάμους και ομήρους, και υποχρεώθηκαν να περνούν εναλλάξ χρόνια στην αυλή του σογκούν. Ο αυτοκράτορας παρέμεινε ένας σεβαστός ερημίτης στο Κιότο ενώ οι Τοκουγκάουα κυβερνούσαν τα πάντα."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Tokugawa_Ieyasu2.JPG?width=1024",
+            alt: {
+              en: "Tokugawa Ieyasu, founder of the Edo shogunate",
+              el: "Ο Τοκουγκάουα Ιεγιάσου, ιδρυτής του σογκουνάτου του Έντο"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -82,7 +90,15 @@ export const EDO_JAPAN = {
             en: "The last threat to Tokugawa rule fell with the great siege of Osaka, where Hideyoshi's son and his supporters perished. That same year the Buke Shohatto set strict rules for the daimyō, and a code for the imperial court reduced it to ceremony. The order that would keep Japan at peace for centuries was now complete.",
             el: "Η τελευταία απειλή για την κυριαρχία των Τοκουγκάουα έπεσε με τη μεγάλη πολιορκία της Οσάκα, όπου χάθηκαν ο γιος του Χιντεγιόσι και οι υποστηρικτές του. Την ίδια χρονιά το Μπούκε Σοχάτο έθεσε αυστηρούς κανόνες για τους νταϊμιό, και ένας κώδικας για την αυτοκρατορική αυλή την περιόρισε στην τελετουργία. Η τάξη που θα κρατούσε την Ιαπωνία σε ειρήνη για αιώνες ήταν πλέον ολοκληρωμένη."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Osakarakuzyou_%28cropped%29.jpg?width=1024",
+            alt: {
+              en: "The burning of Osaka Castle in the siege of 1615",
+              el: "Η πυρπόληση του Κάστρου της Οσάκα στην πολιορκία του 1615"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -106,7 +122,15 @@ export const EDO_JAPAN = {
             en: "Fearing that Christianity and European ambition threatened its rule, the shogunate expelled the Portuguese, forbade Japanese to leave, and drove the faith underground with savage persecution. Only a tiny Dutch outpost on the island of Dejima kept a window open to the West. For over two centuries, Japan lived apart from the world.",
             el: "Φοβούμενο ότι ο Χριστιανισμός και η ευρωπαϊκή φιλοδοξία απειλούσαν την κυριαρχία του, το σογκουνάτο εξεδίωξε τους Πορτογάλους, απαγόρευσε στους Ιάπωνες να φεύγουν και έστειλε την πίστη στην παρανομία με άγριους διωγμούς. Μόνο ένα μικροσκοπικό ολλανδικό φυλάκιο στο νησί Ντετζίμα κρατούσε ένα παράθυρο ανοιχτό προς τη Δύση. Για πάνω από δύο αιώνες, η Ιαπωνία έζησε χωριστά από τον κόσμο."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Plattegrond_van_Deshima.jpg?width=1024",
+            alt: {
+              en: "Plan of Dejima, the Dutch trading post in closed Japan",
+              el: "Κάτοψη της Ντετζίμα, του ολλανδικού εμπορικού σταθμού στην κλειστή Ιαπωνία"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -130,7 +154,15 @@ export const EDO_JAPAN = {
             en: "Peace made the townsfolk of Edo and Osaka rich, and they built a culture of their own. Kabuki and puppet theatre packed the playhouses, Matsuo Bashō raised the haiku to art, Chikamatsu wrote tragedies of love and duty, and the ukiyo-e print captured the actors and beauties of the pleasure quarters — the exuberant \"floating world.\"",
             el: "Η ειρήνη έκανε τους αστούς του Έντο και της Οσάκα πλούσιους, κι εκείνοι έχτισαν έναν δικό τους πολιτισμό. Το καμπούκι και το κουκλοθέατρο γέμιζαν τα θέατρα, ο Ματσούο Μπάσο ανύψωσε το χαϊκού σε τέχνη, ο Τσικαμάτσου έγραψε τραγωδίες έρωτα και καθήκοντος, και η ξυλογραφία ουκιγιό-ε αποτύπωσε τους ηθοποιούς και τις καλλονές των συνοικιών της απόλαυσης — τον ξέφρενο «πλωτό κόσμο»."
           },
-          category: "cultural"
+          category: "cultural",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Shibai_Ukie_by_Masanobu_Okumura.jpg?width=1024",
+            alt: {
+              en: "An ukiyo-e print of a kabuki theatre of the floating world",
+              el: "Ξυλογραφία ουκιγιό-ε ενός θεάτρου καμπούκι του πλωτού κόσμου"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -154,7 +186,15 @@ export const EDO_JAPAN = {
             en: "After their lord was forced to take his life, his retainers waited two years, then struck down the official they blamed, and surrendered to face ritual suicide. Their story, retold endlessly as Chūshingura, crystallized the samurai ideal of loyalty unto death, even as such warriors were becoming peaceful bureaucrats in a country long at rest.",
             el: "Αφού ο άρχοντάς τους αναγκάστηκε να θέσει τέρμα στη ζωή του, οι ακόλουθοί του περίμεναν δύο χρόνια, έπειτα σκότωσαν τον αξιωματούχο που θεωρούσαν υπεύθυνο και παραδόθηκαν για να αντιμετωπίσουν την τελετουργική αυτοκτονία. Η ιστορία τους, ξαναειπωμένη ατέλειωτα ως Τσουσινγκούρα, αποκρυστάλλωσε το ιδεώδες των σαμουράι για πίστη μέχρι θανάτου, την ώρα που τέτοιοι πολεμιστές γίνονταν ειρηνικοί γραφειοκράτες σε μια χώρα από καιρό σε ηρεμία."
           },
-          category: "cultural"
+          category: "cultural",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Reward_for_47_Ronin_by_Yasuda_Raishu_%28Homma_Museum_of_Art%29.jpg?width=1024",
+            alt: {
+              en: "A print depicting the vengeance of the forty-seven rōnin",
+              el: "Ξυλογραφία που απεικονίζει την εκδίκηση των σαράντα επτά ρόνιν"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -178,7 +218,15 @@ export const EDO_JAPAN = {
             en: "Part of his series Thirty-six Views of Mount Fuji, Hokusai's towering wave became the most famous work of Japanese art in the world. When such prints later reached Europe, they helped spark the craze of Japonisme and shaped the Impressionists — a first sign of the cultural power the closed islands would one day project abroad.",
             el: "Μέρος της σειράς του Τριάντα Έξι Όψεις του Όρους Φούτζι, το πελώριο κύμα του Χοκουσάι έγινε το πιο διάσημο έργο ιαπωνικής τέχνης στον κόσμο. Όταν τέτοιες ξυλογραφίες έφτασαν αργότερα στην Ευρώπη, βοήθησαν να ξεσπάσει η μανία του Ιαπωνισμού και διαμόρφωσαν τους Ιμπρεσιονιστές — μια πρώτη ένδειξη της πολιτιστικής δύναμης που τα κλειστά νησιά θα πρόβαλλαν μια μέρα στο εξωτερικό."
           },
-          category: "cultural"
+          category: "cultural",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Tsunami_by_hokusai_19th_century.jpg?width=1024",
+            alt: {
+              en: "Hokusai's The Great Wave off Kanagawa",
+              el: "Το Μεγάλο Κύμα στην Κανάγκαουα του Χοκουσάι"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -202,7 +250,15 @@ export const EDO_JAPAN = {
             en: "Perry's smoke-belching steamers, beyond anything the shogunate could resist, demanded trade and coaling rights. The treaties that followed ended two centuries of seclusion on humiliating terms. The shock exposed the weakness of the Tokugawa and set off a bitter debate over how Japan could survive in a world of predatory Western powers.",
             el: "Τα ατμόπλοια του Πέρι, που ξερνούσαν καπνό, πέρα από ό,τι μπορούσε να αντισταθεί το σογκουνάτο, απαίτησαν εμπόριο και δικαιώματα ανεφοδιασμού σε κάρβουνο. Οι συνθήκες που ακολούθησαν τερμάτισαν δύο αιώνες απομόνωσης με ταπεινωτικούς όρους. Το σοκ εξέθεσε την αδυναμία των Τοκουγκάουα και πυροδότησε μια πικρή διαμάχη για το πώς θα μπορούσε η Ιαπωνία να επιβιώσει σε έναν κόσμο αρπακτικών δυτικών δυνάμεων."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Japanese_1854_print_Commodore_Perry.jpg?width=1024",
+            alt: {
+              en: "A Japanese print of Commodore Perry and the black ships",
+              el: "Ιαπωνική ξυλογραφία του πλοιάρχου Πέρι και των μαύρων πλοίων"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -226,7 +282,15 @@ export const EDO_JAPAN = {
             en: "The southern domains of Satsuma and Chōshū, rallying to the slogan \"revere the emperor, expel the barbarians,\" forced the last shogun to resign and defeated his loyalists in the Boshin War. Power returned, in name, to the young Emperor Meiji — and Japan stood on the threshold of its headlong rush into the modern age.",
             el: "Οι νότιες επικράτειες της Σατσούμα και της Τσόσου, συσπειρωμένες γύρω από το σύνθημα «τιμήστε τον αυτοκράτορα, διώξτε τους βαρβάρους», ανάγκασαν τον τελευταίο σογκούν να παραιτηθεί και νίκησαν τους πιστούς του στον Πόλεμο Μπόσιν. Η εξουσία επέστρεψε, κατ' όνομα, στον νεαρό Αυτοκράτορα Μεϊτζί — και η Ιαπωνία στάθηκε στο κατώφλι της ραγδαίας εξόρμησής της στη σύγχρονη εποχή."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/1867_Osaka_Yoshinobu_Tokugawa.jpg?width=1024",
+            alt: {
+              en: "Tokugawa Yoshinobu, the last shogun",
+              el: "Ο Τοκουγκάουα Γιοσινόμπου, ο τελευταίος σογκούν"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     }

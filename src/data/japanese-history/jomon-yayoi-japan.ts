@@ -58,7 +58,15 @@ export const JOMON_YAYOI_JAPAN = {
             en: "The word Jōmon means \"cord-marked,\" after the patterns pressed into the clay. Made by settled foragers rather than farmers, these vessels are older than pottery anywhere in the Near East, and mark the beginning of one of the longest continuous cultures in human history.",
             el: "Η λέξη Τζόμον σημαίνει «σχοινοειδώς διακοσμημένο», από τα μοτίβα που αποτυπώνονταν στον πηλό. Φτιαγμένα από εγκατεστημένους τροφοσυλλέκτες κι όχι από γεωργούς, τα αγγεία αυτά είναι παλαιότερα από την κεραμική οπουδήποτε στην Εγγύς Ανατολή και σηματοδοτούν την αρχή ενός από τους πιο μακρόβιους πολιτισμούς της ανθρώπινης ιστορίας."
           },
-          category: "cultural"
+          category: "cultural",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Jomon_Flame_Style_Pottery%2C_3000_BC.jpg?width=1024",
+            alt: {
+              en: "Flame-style Jōmon earthenware vessel, among the world's oldest pottery",
+              el: "Αγγείο Τζόμον τύπου φλόγας, από τα αρχαιότερα κεραμικά του κόσμου"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -82,7 +90,15 @@ export const JOMON_YAYOI_JAPAN = {
             en: "The site of Sannai-Maruyama in the north supported hundreds of people for over a millennium, with great timber posts, storage pits and long-distance trade in obsidian and jade. Rich in marine and forest food, the Jōmon reached a density and permanence rare for a people without agriculture.",
             el: "Ο οικισμός Σαναΐ-Μαρουγιάμα στον βορρά συντηρούσε εκατοντάδες ανθρώπους για πάνω από μια χιλιετία, με μεγάλους ξύλινους πασσάλους, αποθηκευτικούς λάκκους και εμπόριο οψιδιανού και νεφρίτη σε μεγάλες αποστάσεις. Πλούσιοι σε θαλάσσια και δασική τροφή, οι Τζόμον έφτασαν σε πυκνότητα και μονιμότητα σπάνια για λαό χωρίς γεωργία."
           },
-          category: "cultural"
+          category: "cultural",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/140913_Sannai-Maruyama_site_Aomori_Japan01bs6bs6.jpg?width=1024",
+            alt: {
+              en: "Reconstructed timber dwellings at the Jōmon site of Sannai-Maruyama",
+              el: "Αναστηλωμένες ξύλινες κατοικίες στον οικισμό Τζόμον του Σαναΐ-Μαρουγιάμα"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -106,7 +122,15 @@ export const JOMON_YAYOI_JAPAN = {
             en: "Thousands of these figurines survive, most deliberately broken, perhaps in rituals of healing or fertility. Alongside stone circles and elaborate burials, they reveal a spiritual world of remarkable depth in a society still thousands of years from cities or kings.",
             el: "Χιλιάδες τέτοια ειδώλια σώζονται, τα περισσότερα σκόπιμα σπασμένα, ίσως σε τελετές θεραπείας ή γονιμότητας. Μαζί με λίθινους κύκλους και περίτεχνες ταφές, αποκαλύπτουν έναν πνευματικό κόσμο αξιοσημείωτου βάθους σε μια κοινωνία ακόμη χιλιετίες μακριά από πόλεις ή βασιλείς."
           },
-          category: "religious"
+          category: "religious",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Dogu_Miyagi_1000_BCE_400_BCE.jpg?width=1024",
+            alt: {
+              en: "A Jōmon clay dogū figurine",
+              el: "Πήλινο ειδώλιο ντογκού της περιόδου Τζόμον"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -154,7 +178,15 @@ export const JOMON_YAYOI_JAPAN = {
             en: "As paddy land became wealth worth fighting for, villages fortified themselves with ditches and watchtowers, and chiefs rose above the rest. The bronze dōtaku, too thin to ring and buried on hillsides, hint at farming rituals that bound these little polities together.",
             el: "Καθώς η γη των ορυζώνων έγινε πλούτος για τον οποίο άξιζε να πολεμά κανείς, τα χωριά οχυρώθηκαν με τάφρους και σκοπιές, και οι αρχηγοί υψώθηκαν πάνω από τους υπόλοιπους. Τα χάλκινα ντοτάκου, υπερβολικά λεπτά για να ηχούν και θαμμένα σε πλαγιές, υπαινίσσονται αγροτικές τελετές που έδεναν αυτές τις μικρές ηγεμονίες."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/%E9%9D%99%E5%B2%A1%E7%9C%8C%E6%B5%9C%E6%9D%BE%E5%B8%82%E6%B5%9C%E6%9D%BE%E5%B8%82%E5%8C%97%E5%8C%BA%E7%B4%B0%E6%B1%9F%E7%94%BA%E4%B8%AD%E5%B7%9D%E6%82%AA%E3%83%B6%E8%B0%B7%E5%87%BA%E5%9C%9F_%E5%85%AD%E5%8C%BA%E7%94%BB%E8%A2%88%E8%A3%9F%E8%A5%B7%E7%B4%8B%E9%8A%85%E9%90%B8_%28%E8%A4%87%E8%A3%BD%29.JPG?width=1024",
+            alt: {
+              en: "A bronze dōtaku ceremonial bell of the Yayoi period",
+              el: "Χάλκινη τελετουργική καμπάνα ντοτάκου της περιόδου Γιαγιόι"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -178,7 +210,15 @@ export const JOMON_YAYOI_JAPAN = {
             en: "A Han history records that in 57 AD an embassy came from Na, one of the many statelets of Wa, as the Chinese called Japan. A gold seal reading \"King of Na of Wa, vassal of Han\" was dug up on Kyushu in 1784, a startling confirmation of that first contact across the sea.",
             el: "Μια ιστορία των Χαν καταγράφει ότι το 57 μ.Χ. ήρθε πρεσβεία από το Να, ένα από τα πολλά κρατίδια της Ουά, όπως αποκαλούσαν οι Κινέζοι την Ιαπωνία. Μια χρυσή σφραγίδα με την επιγραφή «Βασιλιάς του Να της Ουά, υποτελής των Χαν» ξεθάφτηκε στο Κιούσου το 1784, μια εκπληκτική επιβεβαίωση εκείνης της πρώτης επαφής μέσα από τη θάλασσα."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/King_of_Na_gold_seal.jpg?width=1024",
+            alt: {
+              en: "The gold seal granted to the king of Na by Han China",
+              el: "Η χρυσή σφραγίδα που δόθηκε στον βασιλιά του Να από την Κίνα των Χαν"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
