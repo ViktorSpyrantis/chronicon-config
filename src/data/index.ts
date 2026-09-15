@@ -16,6 +16,7 @@ import type { SectionModule } from "../types";
 import { EGYPTIAN_HISTORY } from "./egyptian-history";
 import { PERSIAN_HISTORY } from "./persian-history";
 import { CHINESE_HISTORY } from "./chinese-history";
+import { JAPANESE_HISTORY } from "./japanese-history";
 import { GREEK_HISTORY } from "./greek-history";
 import { ITALIAN_HISTORY } from "./italian-history";
 import { BRITISH_HISTORY } from "./british-history";
@@ -31,6 +32,7 @@ export const SECTION_MODULES = [
   EGYPTIAN_HISTORY,
   PERSIAN_HISTORY,
   CHINESE_HISTORY,
+  JAPANESE_HISTORY,
   GREEK_HISTORY,
   ITALIAN_HISTORY,
   BRITISH_HISTORY,
@@ -140,6 +142,17 @@ export const PERIOD_ID_ORDER = [
   "qing-dynasty",
   "republican-china",
   "peoples-republic-china",
+  "jomon-yayoi-japan",
+  "kofun-asuka-japan",
+  "nara-japan",
+  "heian-japan",
+  "kamakura-japan",
+  "muromachi-japan",
+  "azuchi-momoyama-japan",
+  "edo-japan",
+  "meiji-japan",
+  "taisho-early-showa-japan",
+  "postwar-japan",
   "hundred-years-war",
   "thirty-years-war",
   "seven-years-war",
