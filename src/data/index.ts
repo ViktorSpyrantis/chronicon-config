@@ -15,6 +15,7 @@
 import type { SectionModule } from "../types";
 import { EGYPTIAN_HISTORY } from "./egyptian-history";
 import { PERSIAN_HISTORY } from "./persian-history";
+import { INDIAN_HISTORY } from "./indian-history";
 import { CHINESE_HISTORY } from "./chinese-history";
 import { JAPANESE_HISTORY } from "./japanese-history";
 import { GREEK_HISTORY } from "./greek-history";
@@ -31,6 +32,7 @@ import { GLOBAL_CONFLICTS } from "./global-conflicts";
 export const SECTION_MODULES = [
   EGYPTIAN_HISTORY,
   PERSIAN_HISTORY,
+  INDIAN_HISTORY,
   CHINESE_HISTORY,
   JAPANESE_HISTORY,
   GREEK_HISTORY,
@@ -132,6 +134,17 @@ export const PERIOD_ID_ORDER = [
   "safavid-empire",
   "afsharid-zand-qajar",
   "pahlavi-islamic-republic",
+  "indus-valley",
+  "vedic-period",
+  "mahajanapadas",
+  "maurya-empire",
+  "post-mauryan-india",
+  "gupta-empire",
+  "early-medieval-india",
+  "delhi-sultanate",
+  "mughal-empire",
+  "british-india",
+  "republic-of-india",
   "ancient-china-xia-zhou",
   "qin-han-empire",
   "six-dynasties-sui",

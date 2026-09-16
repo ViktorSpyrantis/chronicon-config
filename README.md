@@ -20,9 +20,9 @@ dependencies.
 | Data | Count |
 | --- | --- |
 | Languages (locales) | 2 — English (`en`), Greek (`el`) |
-| Sections | 13 |
-| Periods | 121 |
-| Historical events | ~1,850 across all timelines |
+| Sections | 14 |
+| Periods | 132 |
+| Historical events | ~1,930 across all timelines |
 | Themes / palettes | 18 |
 
 Every piece of user-facing text is a `LocalizedString` (`{ en, el }`), so all
