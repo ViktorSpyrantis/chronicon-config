@@ -1,5 +1,6 @@
 /** Global Conflicts — Παγκόσμιες Συγκρούσεις */
 import type { SectionModule } from "../../types";
+import { PUNIC_WARS } from "./punic-wars";
 import { HUNDRED_YEARS_WAR } from "./hundred-years-war";
 import { THIRTY_YEARS_WAR } from "./thirty-years-war";
 import { SEVEN_YEARS_WAR } from "./seven-years-war";
@@ -15,6 +16,7 @@ export const GLOBAL_CONFLICTS = {
     el: "Παγκόσμιες Συγκρούσεις"
   },
   periods: [
+    PUNIC_WARS,
     HUNDRED_YEARS_WAR,
     THIRTY_YEARS_WAR,
     SEVEN_YEARS_WAR,
