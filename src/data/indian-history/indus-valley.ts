@@ -58,7 +58,15 @@ export const INDUS_VALLEY = {
             en: "Across a territory larger than Egypt or Mesopotamia, the Indus people built cities on a scale unmatched for their age. Laid out on grids of baked brick, with citadels, warehouses and residential quarters, these were the centres of a civilisation spanning the plains of what is now Pakistan and north-west India.",
             el: "Σε μια έκταση μεγαλύτερη από την Αίγυπτο ή τη Μεσοποταμία, οι άνθρωποι του Ινδού έχτισαν πόλεις σε κλίμακα ασυναγώνιστη για την εποχή τους. Σχεδιασμένες σε καννάβους από ψημένη πλίνθο, με ακροπόλεις, αποθήκες και οικιστικές συνοικίες, ήταν τα κέντρα ενός πολιτισμού που απλωνόταν στις πεδιάδες του σημερινού Πακιστάν και της βορειοδυτικής Ινδίας."
           },
-          category: "cultural"
+          category: "cultural",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Mohenjodaro_-_view_of_the_stupa_mound.JPG?width=1024",
+            alt: {
+              en: "Aerial view of the ruins of Mohenjo-daro",
+              el: "Αεροφωτογραφία των ερειπίων του Μοχέντζο-Ντάρο"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -82,7 +90,15 @@ export const INDUS_VALLEY = {
             en: "Almost every house had a bathroom and drain connected to brick-lined sewers beneath the streets — a concern for cleanliness unmatched until modern times. The Great Bath, a watertight tank atop the citadel, hints at ritual bathing. Yet the Indus people left no great palaces or temples, and no sign of kings.",
             el: "Σχεδόν κάθε σπίτι είχε λουτρό και αποχέτευση συνδεδεμένη με υπονόμους από πλίνθο κάτω από τους δρόμους — μια μέριμνα για την καθαριότητα ασυναγώνιστη ως τη νεότερη εποχή. Το Μεγάλο Λουτρό, μια στεγανή δεξαμενή στην κορυφή της ακρόπολης, υπαινίσσεται τελετουργικό λουτρό. Κι όμως οι άνθρωποι του Ινδού δεν άφησαν μεγάλα ανάκτορα ή ναούς, ούτε ίχνος βασιλέων."
           },
-          category: "cultural"
+          category: "cultural",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Mohenjodaro_Sindh.jpeg?width=1024",
+            alt: {
+              en: "The Great Bath of Mohenjo-daro",
+              el: "Το Μεγάλο Λουτρό του Μοχέντζο-Ντάρο"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -106,7 +122,15 @@ export const INDUS_VALLEY = {
             en: "Steatite seals bearing animals and a still-undeciphered script were used to stamp goods, and a precise system of cubical stone weights governed trade. Indus merchants exchanged cotton, carnelian and timber for Mesopotamian goods; the Sumerians knew their trading partners across the sea as Meluhha.",
             el: "Σφραγίδες από στεατίτη με ζώα και μια ακόμη μη αποκρυπτογραφημένη γραφή χρησίμευαν για τη σφράγιση αγαθών, και ένα ακριβές σύστημα κυβικών λίθινων σταθμών ρύθμιζε το εμπόριο. Οι έμποροι του Ινδού αντάλλασσαν βαμβάκι, σάρδιο και ξυλεία με μεσοποταμιακά αγαθά· οι Σουμέριοι γνώριζαν τους διαπόντιους εμπορικούς εταίρους τους ως Μελούχα."
           },
-          category: "cultural"
+          category: "cultural",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Shiva_Pashupati.jpg?width=1024",
+            alt: {
+              en: "A carved seal of the Indus Valley Civilisation",
+              el: "Λαξευμένη σφραγίδα του Πολιτισμού της Κοιλάδας του Ινδού"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -130,7 +154,15 @@ export const INDUS_VALLEY = {
             en: "Barely ten centimetres tall and cast by the lost-wax method, the Dancing Girl of Mohenjo-daro stands with a poised, confident ease. Alongside delicate jewellery, painted pottery and toy carts, she reveals a society of skilled artisans and comfortable townsfolk, remarkably uniform in its culture across a vast land.",
             el: "Μόλις δέκα εκατοστά ύψος και χυτευμένη με τη μέθοδο του χαμένου κεριού, η Χορεύτρια του Μοχέντζο-Ντάρο στέκει με μια ήρεμη, σίγουρη άνεση. Μαζί με λεπτά κοσμήματα, ζωγραφισμένη κεραμική και παιχνίδια-καρότσια, αποκαλύπτει μια κοινωνία επιδέξιων τεχνιτών και ευκατάστατων αστών, αξιοσημείωτα ομοιόμορφη στην κουλτούρα της σε μια απέραντη χώρα."
           },
-          category: "cultural"
+          category: "cultural",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Dancing_girl_of_Mohenjo-daro.jpg?width=1024",
+            alt: {
+              en: "The bronze Dancing Girl of Mohenjo-daro",
+              el: "Η χάλκινη Χορεύτρια του Μοχέντζο-Ντάρο"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -154,7 +186,15 @@ export const INDUS_VALLEY = {
             en: "From about 1900 BC the cities decayed: drains clogged, standards slipped, and the great centres emptied. The likeliest cause was environmental — weakening monsoons and the drying or shifting of rivers such as the Ghaggar-Hakra — which broke the agricultural base and scattered the population into smaller villages to the east.",
             el: "Από περίπου το 1900 π.Χ. οι πόλεις παρήκμασαν: οι υπόνομοι βούλωσαν, τα πρότυπα χαλάρωσαν, και τα μεγάλα κέντρα άδειασαν. Η πιθανότερη αιτία ήταν περιβαλλοντική — η εξασθένηση των μουσώνων και το ξέρανμα ή η μετατόπιση ποταμών όπως ο Γκαγκάρ-Χάκρα — που έσπασε την αγροτική βάση και διασκόρπισε τον πληθυσμό σε μικρότερα χωριά προς τα ανατολικά."
           },
-          category: "other"
+          category: "other",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/The_drainage_system_at_Lothal_2.JPG?width=1024",
+            alt: {
+              en: "The Harappan port-town of Lothal",
+              el: "Η χαραπανή λιμενική πόλη Λοθάλ"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -178,7 +218,15 @@ export const INDUS_VALLEY = {
             en: "By around 1300 BC the distinctive Indus civilisation had dissolved, its script forgotten and its cities buried. Yet much survived in the countryside — techniques, crops, perhaps beliefs and symbols later echoed in Hinduism. The stage was set for a new age, as Indo-Aryan peoples and their Vedic culture spread across the north.",
             el: "Γύρω στο 1300 π.Χ. ο χαρακτηριστικός πολιτισμός του Ινδού είχε διαλυθεί, η γραφή του ξεχασμένη και οι πόλεις του θαμμένες. Κι όμως πολλά επιβίωσαν στην ύπαιθρο — τεχνικές, καλλιέργειες, ίσως πεποιθήσεις και σύμβολα που αντήχησαν αργότερα στον Ινδουισμό. Η σκηνή ήταν έτοιμη για μια νέα εποχή, καθώς ινδοάριοι λαοί και η βεδική τους κουλτούρα απλώνονταν στον βορρά."
           },
-          category: "other"
+          category: "other",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/View_of_Granary_and_Great_Hall_on_Mound_F_-_Archaeological_site_of_Harappa.jpg?width=1024",
+            alt: {
+              en: "The ruins of Harappa",
+              el: "Τα ερείπια της Χαράπα"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     }

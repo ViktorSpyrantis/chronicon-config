@@ -58,7 +58,15 @@ export const MAURYA_EMPIRE = {
             en: "A young adventurer aided by the brilliant strategist Chanakya — author of the Arthashastra, a ruthless manual of statecraft — Chandragupta seized the Nanda throne at Pataliputra and forged a centralized empire across northern India. From a single capital he ruled through a vast bureaucracy, standing army and network of spies.",
             el: "Ένας νεαρός τυχοδιώκτης με τη βοήθεια του λαμπρού στρατηγικού νου Τσανάκια — συγγραφέα της Αρθασάστρα, ενός αδίστακτου εγχειριδίου διακυβέρνησης — ο Τσαντραγκούπτα άρπαξε τον θρόνο των Νάντα στην Παταλιπούτρα και σφυρηλάτησε μια συγκεντρωτική αυτοκρατορία σε όλη τη βόρεια Ινδία. Από μια μόνη πρωτεύουσα κυβερνούσε μέσω μιας τεράστιας γραφειοκρατίας, μόνιμου στρατού και δικτύου κατασκόπων."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Lomas_Rishi_entrance.jpg?width=1024",
+            alt: {
+              en: "A Mauryan-era rock-cut cave at Barabar",
+              el: "Λαξευτό σπήλαιο της εποχής των Μαυρύα στο Μπαραμπάρ"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -82,7 +90,15 @@ export const MAURYA_EMPIRE = {
             en: "When Seleucus tried to recover Alexander's Indian conquests, Chandragupta drove him back and won the eastern provinces of the Greek empire, sealing the peace with a marriage alliance and a gift of five hundred elephants. The Greek envoy Megasthenes lived at Pataliputra and described its splendour, giving the classical world its first detailed picture of India.",
             el: "Όταν ο Σέλευκος προσπάθησε να ανακτήσει τις ινδικές κατακτήσεις του Αλεξάνδρου, ο Τσαντραγκούπτα τον απώθησε και κέρδισε τις ανατολικές επαρχίες της ελληνικής αυτοκρατορίας, σφραγίζοντας την ειρήνη με γαμήλια συμμαχία κι ένα δώρο πεντακοσίων ελεφάντων. Ο Έλληνας απεσταλμένος Μεγασθένης έζησε στην Παταλιπούτρα και περιέγραψε τη λαμπρότητά της, δίνοντας στον κλασικό κόσμο την πρώτη λεπτομερή εικόνα της Ινδίας."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Seleukos_I_Nikator_Bronze_Roman_100BCE-100CE_Museo_Archeologico_Nazionale_Naples_AN_5590_1.jpg?width=1024",
+            alt: {
+              en: "Seleucus I Nicator, who made peace with Chandragupta",
+              el: "Ο Σέλευκος Α΄ Νικάτωρ, που έκανε ειρήνη με τον Τσαντραγκούπτα"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -106,7 +122,15 @@ export const MAURYA_EMPIRE = {
             en: "The greatest of the Mauryas came to power as a hard and ambitious ruler. Under Ashoka the empire reached its height, stretching from Afghanistan to the south of the peninsula — the most nearly complete unification of India before modern times. Only the far south lay beyond his grasp.",
             el: "Ο μεγαλύτερος των Μαυρύα ήρθε στην εξουσία ως σκληρός και φιλόδοξος ηγεμόνας. Υπό τον Ασόκα η αυτοκρατορία έφτασε στο απόγειό της, εκτεινόμενη από το Αφγανιστάν ως τον νότο της χερσονήσου — η σχεδόν πληρέστερη ενοποίηση της Ινδίας πριν από τη νεότερη εποχή. Μόνο ο μακρινός νότος έμεινε πέρα από τα χέρια του."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Ashoka%27s_visit_to_the_Ramagrama_stupa_Sanchi_Stupa_1_Southern_gateway.jpg?width=1024",
+            alt: {
+              en: "The emperor Ashoka",
+              el: "Ο αυτοκράτορας Ασόκα"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -130,7 +154,15 @@ export const MAURYA_EMPIRE = {
             en: "The war against the independent kingdom of Kalinga was won at a terrible cost — by Ashoka's own account, a hundred thousand slain and many more deported. Sickened by the suffering he had caused, the emperor renounced war forever. It was, he declared on stone, the moment he embraced the dharma — a rare confession of guilt by any ruler in history.",
             el: "Ο πόλεμος κατά του ανεξάρτητου βασιλείου της Καλίνγκα κερδήθηκε με τρομερό κόστος — κατά τη δική του μαρτυρία, εκατό χιλιάδες σφαγμένοι και πολλοί περισσότεροι εκτοπισμένοι. Αηδιασμένος από τον πόνο που είχε προκαλέσει, ο αυτοκράτορας απαρνήθηκε τον πόλεμο για πάντα. Ήταν, όπως διακήρυξε σε πέτρα, η στιγμή που αγκάλιασε την ντάρμα — μια σπάνια ομολογία ενοχής από οποιονδήποτε ηγεμόνα στην ιστορία."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/ShantiSthupa_Dhauli.jpg?width=1024",
+            alt: {
+              en: "Ashoka's rock edict at Dhauli, near the Kalinga battlefield",
+              el: "Το διάταγμα σε βράχο του Ασόκα στη Νταουλί, κοντά στο πεδίο της Καλίνγκα"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -154,7 +186,15 @@ export const MAURYA_EMPIRE = {
             en: "In edicts inscribed on polished stone pillars and rock faces — the earliest surviving Indian writing since the Indus — Ashoka urged compassion, respect for all faiths, care for animals, and the planting of wells and shade-trees. He appointed officers of dharma and softened the harsh Mauryan state. His lion capital at Sarnath is today the emblem of the Republic of India.",
             el: "Σε διατάγματα χαραγμένα σε στιλβωμένες λίθινες στήλες και όψεις βράχων — η αρχαιότερη σωζόμενη ινδική γραφή μετά τον Ινδό — ο Ασόκα προέτρεπε σε συμπόνια, σεβασμό όλων των θρησκειών, φροντίδα των ζώων και φύτεμα πηγαδιών και σκιερών δέντρων. Διόρισε αξιωματούχους της ντάρμα και μαλάκωσε το σκληρό μαυρυακό κράτος. Το λεοντόσχημο κιονόκρανό του στο Σάρνατ είναι σήμερα το έμβλημα της Δημοκρατίας της Ινδίας."
           },
-          category: "religious"
+          category: "religious",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Sarnath_capital.jpg?width=1024",
+            alt: {
+              en: "The Lion Capital of Ashoka, emblem of the Republic of India",
+              el: "Το Λεοντόσχημο Κιονόκρανο του Ασόκα, έμβλημα της Δημοκρατίας της Ινδίας"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -178,7 +218,15 @@ export const MAURYA_EMPIRE = {
             en: "Ashoka convened a great Buddhist council and dispatched missions across Asia and to the Hellenistic west. His son Mahinda is said to have carried the teaching to Sri Lanka, where it took deep root. Through his patronage a regional creed began its transformation into one of the great world religions.",
             el: "Ο Ασόκα συγκάλεσε μια μεγάλη βουδιστική σύνοδο κι απέστειλε αποστολές σε όλη την Ασία και στη δυτική ελληνιστική επικράτεια. Ο γιος του Μαχίντα λέγεται ότι μετέφερε τη διδασκαλία στη Σρι Λάνκα, όπου ρίζωσε βαθιά. Μέσα από την προστασία του μια περιφερειακή πίστη άρχισε τη μεταμόρφωσή της σε μία από τις μεγάλες παγκόσμιες θρησκείες."
           },
-          category: "religious"
+          category: "religious",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/East_Gateway_-_Stupa_1_-_Sanchi_Hill_2013-02-21_4398.JPG?width=1024",
+            alt: {
+              en: "The Great Stupa at Sanchi",
+              el: "Η Μεγάλη Στούπα στο Σάντσι"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -202,7 +250,15 @@ export const MAURYA_EMPIRE = {
             en: "After Ashoka's death the empire weakened, its huge army and bureaucracy a burden as central control slipped. In 185 BC the general Pushyamitra Shunga killed the last Maurya emperor and seized the throne. India fragmented once more into regional states, but the Mauryan ideal of a united subcontinent endured as a memory and a model.",
             el: "Μετά τον θάνατο του Ασόκα η αυτοκρατορία εξασθένησε, ο τεράστιος στρατός και η γραφειοκρατία της βάρος καθώς ο κεντρικός έλεγχος χαλάρωνε. Το 185 π.Χ. ο στρατηγός Πουσιαμίτρα Σούνγκα σκότωσε τον τελευταίο αυτοκράτορα Μαυρύα κι άρπαξε τον θρόνο. Η Ινδία κατακερματίστηκε ξανά σε περιφερειακά κράτη, όμως το μαυρυακό ιδεώδες μιας ενωμένης υποηπείρου επιβίωσε ως μνήμη και πρότυπο."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Bharhut_Sunga_individual.jpg?width=1024",
+            alt: {
+              en: "Pushyamitra Shunga, who overthrew the Mauryas",
+              el: "Ο Πουσιαμίτρα Σούνγκα, που ανέτρεψε τους Μαυρύα"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     }

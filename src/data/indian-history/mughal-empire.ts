@@ -58,7 +58,15 @@ export const MUGHAL_EMPIRE = {
             en: "A prince of Ferghana descended from both Timur and Genghis Khan, Babur invaded India and, though vastly outnumbered, shattered the huge army of Ibrahim Lodi at the first battle of Panipat with field artillery and mobile horsemen. Master now of Delhi and Agra, he founded a dynasty that would rule India for three centuries.",
             el: "Πρίγκιπας της Φεργκάνα με καταγωγή τόσο από τον Ταμερλάνο όσο κι από τον Τζένγκις Χαν, ο Μπαμπούρ εισέβαλε στην Ινδία και, αν και κατά πολύ αριθμητικά κατώτερος, συνέτριψε τον τεράστιο στρατό του Ιμπραχίμ Λόντι στην πρώτη μάχη του Πανιπάτ με πυροβολικό πεδίου κι ευκίνητους ιππείς. Κύριος πλέον του Δελχί και της Άγκρα, ίδρυσε μια δυναστεία που θα κυβερνούσε την Ινδία επί τρεις αιώνες."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Humayun_and_Babur_%28Late_Shah_Jahan_Album%29_Babur_detail.jpg?width=1024",
+            alt: {
+              en: "Babur, founder of the Mughal empire",
+              el: "Ο Μπαμπούρ, ιδρυτής της αυτοκρατορίας των Μουγκάλ"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -82,7 +90,15 @@ export const MUGHAL_EMPIRE = {
             en: "After his father Humayun briefly lost and regained the throne, the thirteen-year-old Akbar inherited a fragile realm. Over a long reign he became the true architect of the empire, conquering from Gujarat to Bengal and binding the proud Rajput kingdoms to his cause by marriage and honour rather than force alone.",
             el: "Αφού ο πατέρας του Χουμαγιούν έχασε και ξανακέρδισε σύντομα τον θρόνο, ο δεκατριάχρονος Ακμπάρ κληρονόμησε ένα εύθραυστο βασίλειο. Σε μια μακρά βασιλεία έγινε ο πραγματικός αρχιτέκτονας της αυτοκρατορίας, κατακτώντας από το Γκουτζαράτ ως τη Βεγγάλη και δένοντας τα περήφανα βασίλεια των Ρατζπούτ με τον σκοπό του μέσω γάμων και τιμών, όχι μόνο με τη βία."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Govardhan._Akbar_With_Lion_and_Calf_ca._1630%2C_Metmuseum_%28cropped%29.jpg?width=1024",
+            alt: {
+              en: "The emperor Akbar the Great",
+              el: "Ο αυτοκράτορας Ακμπάρ ο Μέγας"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -106,7 +122,15 @@ export const MUGHAL_EMPIRE = {
             en: "Ruling a land of many faiths, Akbar sought harmony rather than conquest of the soul. He abolished the jizya tax on non-Muslims, hosted debates among Hindus, Muslims, Jains, Zoroastrians and Jesuits, and proclaimed a doctrine of \"universal peace,\" sulh-i kul. His efficient administration and enlightened tolerance made the empire strong and, for its age, remarkably inclusive.",
             el: "Κυβερνώντας μια χώρα πολλών θρησκειών, ο Ακμπάρ αναζήτησε αρμονία αντί για κατάκτηση της ψυχής. Κατάργησε τον φόρο τζίζια επί των μη μουσουλμάνων, φιλοξένησε συζητήσεις ανάμεσα σε Ινδουιστές, Μουσουλμάνους, Τζαϊνιστές, Ζωροάστρες και Ιησουίτες, και διακήρυξε ένα δόγμα «καθολικής ειρήνης», το σουλχ-ι κουλ. Η αποδοτική διοίκησή του κι η φωτισμένη ανοχή έκαναν την αυτοκρατορία ισχυρή και, για την εποχή της, αξιοσημείωτα συμπεριληπτική."
           },
-          category: "religious"
+          category: "religious",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Fatehput_Sikiri_Buland_Darwaza_gate_2010.jpg?width=1024",
+            alt: {
+              en: "Akbar's palace-city of Fatehpur Sikri",
+              el: "Η ανακτορική πόλη του Ακμπάρ, Φατεχπούρ Σικρί"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -130,7 +154,15 @@ export const MUGHAL_EMPIRE = {
             en: "Under Shah Jahan the empire reached the summit of its wealth and artistic splendour. To hold the body of his beloved wife Mumtaz Mahal he raised the Taj Mahal at Agra, a vision of white marble and inlaid gems that became the world's most famous building. He also built the Red Fort and the great mosque of a new Delhi, and sat upon the jewelled Peacock Throne.",
             el: "Υπό τον Σαχ Τζαχάν η αυτοκρατορία έφτασε στην κορυφή του πλούτου και της καλλιτεχνικής λαμπρότητάς της. Για να στεγάσει το σώμα της αγαπημένης του συζύγου Μουμτάζ Μαχάλ ύψωσε το Ταζ Μαχάλ στην Άγκρα, ένα όραμα λευκού μαρμάρου κι ένθετων πολύτιμων λίθων που έγινε το πιο διάσημο κτίριο του κόσμου. Έχτισε επίσης το Ερυθρό Φρούριο και το μεγάλο τζαμί ενός νέου Δελχί, κι έκατσε στον στολισμένο με πετράδια Θρόνο του Παγωνιού."
           },
-          category: "cultural"
+          category: "cultural",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Taj_Mahal_%28Edited%29.jpeg?width=1024",
+            alt: {
+              en: "The Taj Mahal at Agra",
+              el: "Το Ταζ Μαχάλ στην Άγκρα"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -154,7 +186,15 @@ export const MUGHAL_EMPIRE = {
             en: "Seizing the throne from his father and brothers, the austere and orthodox Aurangzeb ruled for nearly fifty years, extending Mughal power over almost the entire subcontinent. But he reimposed the jizya, alienated Hindus and Sikhs, and bogged his armies down in endless war in the Deccan. His long reign marked both the empire's zenith and the beginning of its decline.",
             el: "Αρπάζοντας τον θρόνο από τον πατέρα και τους αδελφούς του, ο λιτός κι ορθόδοξος Αουρανγκζέμπ κυβέρνησε σχεδόν πενήντα χρόνια, επεκτείνοντας τη μουγκαλική δύναμη σχεδόν σε ολόκληρη την υποήπειρο. Όμως επανέφερε τον φόρο τζίζια, αποξένωσε Ινδουιστές και Σιχ, και βύθισε τους στρατούς του σε ατέλειωτο πόλεμο στο Ντεκάν. Η μακρά βασιλεία του σηματοδότησε τόσο το ζενίθ της αυτοκρατορίας όσο και την αρχή της παρακμής της."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Aurangzeb-portrait.jpg?width=1024",
+            alt: {
+              en: "The emperor Aurangzeb",
+              el: "Ο αυτοκράτορας Αουρανγκζέμπ"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -178,7 +218,15 @@ export const MUGHAL_EMPIRE = {
             en: "A brilliant guerrilla commander, Shivaji built a Maratha state in the western hills and had himself crowned king in 1674, reviving Hindu sovereignty. His swift, mountain-bred armies harried the Mughals for decades. After Aurangzeb's death the Marathas expanded across much of India, becoming the greatest power to rise from the empire's decline.",
             el: "Λαμπρός διοικητής ανταρτοπολέμου, ο Σιβατζί έχτισε ένα κράτος των Μαράθα στους δυτικούς λόφους κι αυτοστέφθηκε βασιλιάς το 1674, αναβιώνοντας την ινδουιστική κυριαρχία. Οι ταχείς, βουνίσιοι στρατοί του παρενοχλούσαν τους Μουγκάλ επί δεκαετίες. Μετά τον θάνατο του Αουρανγκζέμπ οι Μαράθα επεκτάθηκαν σε μεγάλο μέρος της Ινδίας, γινόμενοι η μεγαλύτερη δύναμη που αναδύθηκε από την παρακμή της αυτοκρατορίας."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Shivaji_British_Museum.jpg?width=1024",
+            alt: {
+              en: "Shivaji, founder of the Maratha kingdom",
+              el: "Ο Σιβατζί, ιδρυτής του βασιλείου των Μαράθα"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -202,7 +250,15 @@ export const MUGHAL_EMPIRE = {
             en: "From Persia, Nadir Shah swept into India, crushed the Mughal army and occupied Delhi, where a massacre and a colossal plunder followed. He bore away the Peacock Throne and the Koh-i-Noor diamond. The catastrophe laid bare how hollow Mughal power had become, and provincial governors, Marathas and foreign trading companies moved to fill the void.",
             el: "Από την Περσία, ο Ναντίρ Σαχ όρμησε στην Ινδία, συνέτριψε τον μουγκαλικό στρατό και κατέλαβε το Δελχί, όπου ακολούθησε σφαγή και κολοσσιαία λεηλασία. Πήρε μαζί του τον Θρόνο του Παγωνιού και το διαμάντι Κοχ-ι-Νουρ. Η καταστροφή αποκάλυψε πόσο κούφια είχε γίνει η μουγκαλική δύναμη, κι επαρχιακοί κυβερνήτες, Μαράθα και ξένες εμπορικές εταιρείες κινήθηκαν να γεμίσουν το κενό."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Contemporary_portrait_of_Nader_Shah._Artist_unknown%2C_created_in_ca._1740_in_Iran_%28cropped%29.jpg?width=1024",
+            alt: {
+              en: "Nader Shah, who sacked Delhi in 1739",
+              el: "Ο Ναντίρ Σαχ, που λεηλάτησε το Δελχί το 1739"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -226,7 +282,15 @@ export const MUGHAL_EMPIRE = {
             en: "By the mid-eighteenth century the emperor in Delhi ruled little beyond his palace, as Marathas, regional nawabs and the British East India Company divided his realm. After Plassey the Company took Bengal, and the emperors survived only under its protection. The last of them, Bahadur Shah Zafar, would be swept away with the great rebellion of 1857.",
             el: "Ως τα μέσα του δέκατου όγδοου αιώνα ο αυτοκράτορας στο Δελχί κυβερνούσε ελάχιστα πέρα από το παλάτι του, καθώς Μαράθα, τοπικοί ναβάβ κι η βρετανική Εταιρεία Ανατολικών Ινδιών μοίραζαν το βασίλειό του. Μετά το Πλάσεϊ η Εταιρεία πήρε τη Βεγγάλη, κι οι αυτοκράτορες επιβίωσαν μόνο υπό την προστασία της. Ο τελευταίος τους, ο Μπαχαντούρ Σαχ Ζαφάρ, θα παρασυρόταν με τη μεγάλη εξέγερση του 1857."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Bahadur_Shah_II_of_India.jpg?width=1024",
+            alt: {
+              en: "Bahadur Shah Zafar, the last Mughal emperor",
+              el: "Ο Μπαχαντούρ Σαχ Ζαφάρ, ο τελευταίος αυτοκράτορας των Μουγκάλ"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     }

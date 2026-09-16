@@ -58,7 +58,15 @@ export const REPUBLIC_OF_INDIA = {
             en: "As midnight struck on 15 August 1947, Nehru hailed India's \"tryst with destiny.\" The new nation faced immense trials: the wounds of Partition, millions of refugees, and the task of welding hundreds of princely states into one country. Within months the shock of Gandhi's assassination tested the young republic's resolve to remain united and secular.",
             el: "Καθώς χτυπούσαν τα μεσάνυχτα της 15ης Αυγούστου 1947, ο Νεχρού χαιρέτισε το «ραντεβού της Ινδίας με το πεπρωμένο». Το νέο έθνος αντιμετώπιζε τεράστιες δοκιμασίες: τις πληγές του Διαμελισμού, εκατομμύρια πρόσφυγες, και το έργο της συγκόλλησης εκατοντάδων πριγκιπικών κρατών σε μία χώρα. Μέσα σε μήνες το σοκ της δολοφονίας του Γκάντι δοκίμασε την αποφασιστικότητα της νεαρής δημοκρατίας να παραμείνει ενωμένη και κοσμική."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Nehru_in_the_Netherlands%2C_1957.jpg?width=1024",
+            alt: {
+              en: "Jawaharlal Nehru, India's first prime minister",
+              el: "Ο Τζαβαχαρλάλ Νεχρού, ο πρώτος πρωθυπουργός της Ινδίας"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -82,7 +90,15 @@ export const REPUBLIC_OF_INDIA = {
             en: "On 26 January 1950 India adopted one of the longest written constitutions in the world. Guided by the jurist and social reformer B. R. Ambedkar, himself born into an \"untouchable\" caste, it guaranteed universal adult suffrage, equality and fundamental rights, and outlawed untouchability. A land of staggering diversity and deep poverty had committed itself to democracy on the widest scale ever attempted.",
             el: "Στις 26 Ιανουαρίου 1950 η Ινδία υιοθέτησε ένα από τα μακρύτερα γραπτά συντάγματα του κόσμου. Καθοδηγούμενο από τον νομικό και κοινωνικό μεταρρυθμιστή Μπ. Ρ. Αμπεντκάρ, γεννημένο ο ίδιος σε κάστα «ανέγγιχτων», εγγυήθηκε καθολικό δικαίωμα ψήφου, ισότητα και θεμελιώδη δικαιώματα, κι έθεσε εκτός νόμου το ανέγγιχτο. Μια χώρα εκπληκτικής ποικιλομορφίας και βαθιάς φτώχειας είχε δεσμευτεί στη δημοκρατία στην ευρύτερη κλίμακα που είχε ποτέ επιχειρηθεί."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Dr._Bhimrao_Ambedkar.jpg?width=1024",
+            alt: {
+              en: "B. R. Ambedkar, architect of India's constitution",
+              el: "Ο Μπ. Ρ. Αμπεντκάρ, αρχιτέκτονας του συντάγματος της Ινδίας"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -130,7 +146,15 @@ export const REPUBLIC_OF_INDIA = {
             en: "When a brutal crackdown in East Pakistan sent millions of refugees into India, Prime Minister Indira Gandhi went to war. In a swift December campaign India defeated Pakistan and midwifed the independent state of Bangladesh. The victory made India the dominant power of South Asia and marked the height of Indira Gandhi's authority.",
             el: "Όταν μια βάναυση καταστολή στο Ανατολικό Πακιστάν έστειλε εκατομμύρια πρόσφυγες στην Ινδία, η πρωθυπουργός Ίντιρα Γκάντι κήρυξε πόλεμο. Σε μια ταχεία εκστρατεία τον Δεκέμβριο η Ινδία νίκησε το Πακιστάν και μαίευσε το ανεξάρτητο κράτος του Μπανγκλαντές. Η νίκη έκανε την Ινδία την κυρίαρχη δύναμη της Νότιας Ασίας και σημάδεψε το απόγειο της εξουσίας της Ίντιρα Γκάντι."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Indira_Gandhi_official_portrait.png?width=1024",
+            alt: {
+              en: "Prime Minister Indira Gandhi",
+              el: "Η πρωθυπουργός Ίντιρα Γκάντι"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -154,7 +178,15 @@ export const REPUBLIC_OF_INDIA = {
             en: "Facing legal challenge and unrest, Indira Gandhi declared a state of Emergency in 1975, jailing opponents, censoring the press and suspending civil liberties for nearly two years. It was the republic's gravest test. Yet when she called elections in 1977, the people voted her out — and India's democracy, remarkably, held. She would return to power soon after.",
             el: "Αντιμέτωπη με νομική πρόκληση κι αναταραχή, η Ίντιρα Γκάντι κήρυξε κατάσταση Έκτακτης Ανάγκης το 1975, φυλακίζοντας αντιπάλους, λογοκρίνοντας τον Τύπο κι αναστέλλοντας τις πολιτικές ελευθερίες για σχεδόν δύο χρόνια. Ήταν η σοβαρότερη δοκιμασία της δημοκρατίας. Κι όμως, όταν προκήρυξε εκλογές το 1977, ο λαός την καταψήφισε — κι η δημοκρατία της Ινδίας, αξιοσημείωτα, άντεξε. Θα επέστρεφε στην εξουσία λίγο αργότερα."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Indira_Gandhi_1966.png?width=1024",
+            alt: {
+              en: "The Emergency of 1975 to 1977",
+              el: "Η Έκτακτη Ανάγκη του 1975 έως 1977"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -178,7 +210,15 @@ export const REPUBLIC_OF_INDIA = {
             en: "Near bankruptcy in 1991, India dismantled the tangle of controls known as the \"licence Raj,\" opening to trade, investment and private enterprise. Growth accelerated, a vast middle class emerged, and a booming software and services industry made India a hub of the global economy. Hundreds of millions began, slowly, to rise out of poverty.",
             el: "Στα πρόθυρα της χρεοκοπίας το 1991, η Ινδία διέλυσε το κουβάρι των ελέγχων που ήταν γνωστό ως «Ρατζ των αδειών», ανοίγοντας στο εμπόριο, τις επενδύσεις και την ιδιωτική επιχειρηματικότητα. Η ανάπτυξη επιταχύνθηκε, μια τεράστια μεσαία τάξη αναδύθηκε, κι μια ακμάζουσα βιομηχανία λογισμικού κι υπηρεσιών έκανε την Ινδία κόμβο της παγκόσμιας οικονομίας. Εκατοντάδες εκατομμύρια άρχισαν, αργά, να ανεβαίνουν πάνω από τη φτώχεια."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Official_Portrait_of_the_Prime_Minister_Dr._Manmohan_Singh_%283x4_cropped%29.jpg?width=1024",
+            alt: {
+              en: "Manmohan Singh, architect of the 1991 reforms",
+              el: "Ο Μανμόχαν Σινγκ, αρχιτέκτονας των μεταρρυθμίσεων του 1991"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -202,7 +242,15 @@ export const REPUBLIC_OF_INDIA = {
             en: "In 2023 India became the most populous country on earth and, with the Chandrayaan-3 mission, the first to land near the Moon's south pole. A nuclear-armed power with a fast-growing economy, a vast diaspora and a thriving space and technology sector, India entered its ninth decade of freedom as one of the pivotal nations of the twenty-first century — still wrestling with poverty and inequality even as it reached for the stars.",
             el: "Το 2023 η Ινδία έγινε το πολυπληθέστερο κράτος της γης και, με την αποστολή Τσαντραγιάν-3, το πρώτο που προσσεληνώθηκε κοντά στον νότιο πόλο της Σελήνης. Μια πυρηνική δύναμη με ταχέως αναπτυσσόμενη οικονομία, τεράστια διασπορά κι έναν ακμάζοντα τομέα διαστήματος και τεχνολογίας, η Ινδία μπήκε στην ένατη δεκαετία της ελευθερίας της ως ένα από τα κομβικά έθνη του εικοστού πρώτου αιώνα — παλεύοντας ακόμη με τη φτώχεια και την ανισότητα ενώ άπλωνε το χέρι στα άστρα."
           },
-          category: "other"
+          category: "other",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Chandrayaan-3_%E2%80%93_Image_of_Vikram_lander_on_lunar_surface_taken_by_Pragyan_rover_navcam_at_1104_IST%2C_30_August_2023_from_15_meters_away_%28with_text%29.webp?width=1024",
+            alt: {
+              en: "India's Chandrayaan-3 Moon mission",
+              el: "Η σεληνιακή αποστολή Τσαντραγιάν-3 της Ινδίας"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     }

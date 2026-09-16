@@ -58,7 +58,15 @@ export const MAHAJANAPADAS = {
             en: "The plains from the Indus to the Ganges were divided among sixteen powerful realms. Some, like Magadha and Kosala, were monarchies; others, like the Vajji confederacy, were governed by assemblies of clan elders — an early experiment in republican rule. Trade, coinage and walled cities flourished amid their rivalries.",
             el: "Οι πεδιάδες από τον Ινδό ως τον Γάγγη ήταν μοιρασμένες σε δεκαέξι ισχυρά βασίλεια. Κάποια, όπως η Μαγκάντα και η Κόσαλα, ήταν μοναρχίες· άλλα, όπως η συνομοσπονδία των Βάτζι, κυβερνώνταν από συνελεύσεις γερόντων των φυλών — ένα πρώιμο πείραμα δημοκρατικής διακυβέρνησης. Το εμπόριο, η νομισματοκοπία και οι τειχισμένες πόλεις άκμασαν μέσα στις αντιπαλότητές τους."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Mahajanapadas_%28c._500_BCE%29.png?width=1024",
+            alt: {
+              en: "The Mahajanapadas of ancient India",
+              el: "Τα Μαχατζαναπάντα της αρχαίας Ινδίας"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -82,7 +90,15 @@ export const MAHAJANAPADAS = {
             en: "Renouncing his princely life, Mahavira, the twenty-fourth and last tirthankara, taught that the soul could win liberation through strict non-violence, truth and self-denial. His followers, the Jains, carried ahimsa — harming no living thing — to its furthest extreme, an ethic that would leave a deep mark on Indian civilisation.",
             el: "Απαρνούμενος την πριγκιπική του ζωή, ο Μαχαβίρα, ο εικοστός τέταρτος και τελευταίος τιρθανκάρα, δίδαξε ότι η ψυχή μπορεί να κερδίσει την απελευθέρωση μέσα από αυστηρή μη βία, αλήθεια και αυταπάρνηση. Οι οπαδοί του, οι Τζαϊνιστές, οδήγησαν την αχίμσα — τη μη βλάβη κανενός ζωντανού όντος — στο ακρότατο άκρο της, μια ηθική που θα άφηνε βαθύ σημάδι στον ινδικό πολιτισμό."
           },
-          category: "religious"
+          category: "religious",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Mahavir.jpg?width=1024",
+            alt: {
+              en: "Mahavira, central figure of Jainism",
+              el: "Ο Μαχαβίρα, κεντρική μορφή του Τζαϊνισμού"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -106,7 +122,15 @@ export const MAHAJANAPADAS = {
             en: "A prince of the Shakya clan, Siddhartha left his palace to seek an end to suffering, and after long searching awoke as the Buddha, the \"enlightened one.\" His teaching — the Four Noble Truths and the Middle Way to nirvana — offered release to all, regardless of caste. From the Ganges it would spread across Asia to become a world religion.",
             el: "Πρίγκιπας της φυλής των Σάκυα, ο Σιντάρτα άφησε το παλάτι του για να αναζητήσει το τέλος του πόνου, και ύστερα από μακρά αναζήτηση αφυπνίστηκε ως ο Βούδας, ο «φωτισμένος». Η διδασκαλία του — οι Τέσσερις Ευγενείς Αλήθειες και ο Μέσος Δρόμος προς τη νιρβάνα — πρόσφερε λύτρωση σε όλους, ανεξαρτήτως κάστας. Από τον Γάγγη θα απλωνόταν σε όλη την Ασία για να γίνει παγκόσμια θρησκεία."
           },
-          category: "religious"
+          category: "religious",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Buddha_in_Sarnath_Museum_%28Dhammajak_Mutra%29.jpg?width=1024",
+            alt: {
+              en: "The Buddha in meditation",
+              el: "Ο Βούδας σε διαλογισμό"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -130,7 +154,15 @@ export const MAHAJANAPADAS = {
             en: "Rich in iron, elephants and fertile land, Magadha rose above its neighbours. Its ambitious kings Bimbisara and his son Ajatashatru expanded by war and diplomacy, subduing Kosala and the Vajji republic and fortifying a new stronghold at Pataliputra. Magadha became the nucleus around which the first Indian empire would grow.",
             el: "Πλούσια σε σίδηρο, ελέφαντες και εύφορη γη, η Μαγκάντα ανέβηκε πάνω από τους γείτονές της. Οι φιλόδοξοι βασιλείς της Μπιμπισάρα κι ο γιος του Ατζατασάτρου επεκτάθηκαν με πόλεμο και διπλωματία, υποτάσσοντας την Κόσαλα και τη δημοκρατία των Βάτζι και οχυρώνοντας ένα νέο προπύργιο στην Παταλιπούτρα. Η Μαγκάντα έγινε ο πυρήνας γύρω από τον οποίο θα μεγάλωνε η πρώτη ινδική αυτοκρατορία."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Bimbisara_with_his_royal_cortege_issuing_from_the_city_of_Rajagriha_to_visit_the_Buddha.jpg?width=1024",
+            alt: {
+              en: "King Bimbisara of Magadha",
+              el: "Ο βασιλιάς Μπιμπισάρα της Μαγκάντα"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -154,7 +186,15 @@ export const MAHAJANAPADAS = {
             en: "Rising from humble origins, the Nandas built the largest empire India had yet seen and amassed legendary wealth through heavy taxation. Their army of infantry, cavalry, chariots and thousands of war-elephants was so formidable that, rather than face it, Alexander's weary Greek soldiers would refuse to march further east.",
             el: "Ανερχόμενοι από ταπεινή καταγωγή, οι Νάντα έχτισαν τη μεγαλύτερη αυτοκρατορία που είχε δει ως τότε η Ινδία και συγκέντρωσαν θρυλικό πλούτο μέσα από βαριά φορολογία. Ο στρατός τους από πεζικό, ιππικό, άρματα και χιλιάδες πολεμικούς ελέφαντες ήταν τόσο τρομερός ώστε, αντί να τον αντιμετωπίσουν, οι κουρασμένοι Έλληνες στρατιώτες του Αλεξάνδρου θα αρνούνταν να προχωρήσουν ανατολικότερα."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Nanda_Empire%2C_c.325_BCE.png?width=1024",
+            alt: {
+              en: "The Nanda Empire of ancient India",
+              el: "Η Αυτοκρατορία των Νάντα της αρχαίας Ινδίας"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -178,7 +218,15 @@ export const MAHAJANAPADAS = {
             en: "Crossing the Indus, Alexander won a hard-fought victory over the elephants of King Porus in a monsoon storm, and admired his brave foe enough to restore his kingdom. But at the Beas his soldiers, exhausted and dreading the Nanda armies beyond, refused to go on. Alexander turned south and west, leaving India — but opening lasting contact between the Greek and Indian worlds.",
             el: "Διασχίζοντας τον Ινδό, ο Αλέξανδρος κέρδισε μια σκληρή νίκη επί των ελεφάντων του βασιλιά Πώρου μέσα σε καταιγίδα μουσώνα, και θαύμασε τον γενναίο αντίπαλό του τόσο ώστε του αποκατέστησε το βασίλειο. Όμως στον Βέα οι στρατιώτες του, εξαντλημένοι και φοβούμενοι τους στρατούς των Νάντα πέρα, αρνήθηκαν να προχωρήσουν. Ο Αλέξανδρος έστριψε νότια και δυτικά, αφήνοντας την Ινδία — αλλά ανοίγοντας διαρκή επαφή ανάμεσα στον ελληνικό και τον ινδικό κόσμο."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Porus_alexander_coin.png?width=1024",
+            alt: {
+              en: "King Porus, who faced Alexander at the Hydaspes",
+              el: "Ο βασιλιάς Πώρος, που αντιμετώπισε τον Αλέξανδρο στον Υδάσπη"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     }

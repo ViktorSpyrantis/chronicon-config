@@ -58,7 +58,15 @@ export const POST_MAURYAN_INDIA = {
             en: "The Shungas held the Mauryan heartland around Pataliputra, patronizing Brahminical religion and the arts, including the great Buddhist stupa at Bharhut and the gateways of Sanchi. But their realm was only one of many, as India entered centuries of political division and vigorous regional culture.",
             el: "Οι Σούνγκα κράτησαν τη μαυρυακή καρδιά γύρω από την Παταλιπούτρα, προστατεύοντας τη βραχμανική θρησκεία και τις τέχνες, μεταξύ των οποίων τη μεγάλη βουδιστική στούπα στο Μπαρχούτ και τις πύλες του Σάντσι. Όμως το βασίλειό τους ήταν ένα μόνο από πολλά, καθώς η Ινδία εισερχόταν σε αιώνες πολιτικής διαίρεσης και ζωηρής περιφερειακής κουλτούρας."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Bharhut_stupa_original_layout.jpg?width=1024",
+            alt: {
+              en: "A carved railing from the Buddhist stupa at Bharhut",
+              el: "Λαξευμένο κιγκλίδωμα από τη βουδιστική στούπα στο Μπαρχούτ"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -82,7 +90,15 @@ export const POST_MAURYAN_INDIA = {
             en: "Descendants of Alexander's Bactrian Greeks pushed into the Punjab, and the greatest of them, Menander — remembered in India as Milinda — is celebrated in a Buddhist text for his dialogue with a monk. Their coins, bearing Greek and Indian scripts and gods, embody a remarkable fusion of cultures on the frontier of two civilisations.",
             el: "Απόγονοι των Βακτριανών Ελλήνων του Αλεξάνδρου προχώρησαν στο Παντζάμπ, κι ο μεγαλύτερος από αυτούς, ο Μένανδρος — γνωστός στην Ινδία ως Μιλίντα — τιμάται σε βουδιστικό κείμενο για τον διάλογό του με έναν μοναχό. Τα νομίσματά τους, με ελληνικές και ινδικές γραφές και θεούς, ενσαρκώνουν μια αξιοσημείωτη σύντηξη πολιτισμών στα σύνορα δύο κόσμων."
           },
-          category: "cultural"
+          category: "cultural",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Menander_I%2C_portrait_from_coinage.jpg?width=1024",
+            alt: {
+              en: "A coin of the Indo-Greek king Menander I",
+              el: "Νόμισμα του ινδοέλληνα βασιλιά Μενάνδρου Α΄"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -106,7 +122,15 @@ export const POST_MAURYAN_INDIA = {
             en: "Rising in the central plateau, the Satavahanas dominated the Deccan for centuries, growing rich on the trade routes between the Gangetic north and the ports of the coasts. Great patrons of religion, they endowed the Buddhist cave-monasteries and stupas — Amaravati chief among them — whose sculpture is a glory of early Indian art.",
             el: "Ανερχόμενοι στο κεντρικό οροπέδιο, οι Σαταβαχάνα κυριάρχησαν στο Ντεκάν επί αιώνες, πλουτίζοντας από τους εμπορικούς δρόμους ανάμεσα στον γαγγητικό βορρά και τα λιμάνια των ακτών. Μεγάλοι προστάτες της θρησκείας, προίκισαν τα βουδιστικά σπηλαιώδη μοναστήρια και τις στούπες — με πρώτη την Αμαραβάτι — των οποίων η γλυπτική είναι δόξα της πρώιμης ινδικής τέχνης."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/British_Museum_Asia_14.jpg?width=1024",
+            alt: {
+              en: "The Buddhist stupa of Amaravati",
+              el: "Η βουδιστική στούπα της Αμαραβάτι"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -130,7 +154,15 @@ export const POST_MAURYAN_INDIA = {
             en: "A people from Central Asia, the Kushans built an empire spanning Afghanistan and northern India, controlling the trade that flowed between Rome, India and China. Their greatest king, Kanishka, was a patron of Buddhism: under him the reformed Mahayana teaching, and the first images of the Buddha, spread north along the Silk Road toward China and East Asia.",
             el: "Ένας λαός από την Κεντρική Ασία, οι Κουσάν έχτισαν μια αυτοκρατορία που κάλυπτε το Αφγανιστάν και τη βόρεια Ινδία, ελέγχοντας το εμπόριο που έρρεε ανάμεσα στη Ρώμη, την Ινδία και την Κίνα. Ο μεγαλύτερος βασιλιάς τους, ο Κανίσκα, ήταν προστάτης του Βουδισμού: επί των ημερών του η μεταρρυθμισμένη διδασκαλία Μαχαγιάνα, και οι πρώτες εικόνες του Βούδα, διαδόθηκαν βόρεια κατά μήκος του Δρόμου του Μεταξιού προς την Κίνα και την Ανατολική Ασία."
           },
-          category: "religious"
+          category: "religious",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/KanishkaCoin3.JPG?width=1024",
+            alt: {
+              en: "The Kushan emperor Kanishka",
+              el: "Ο αυτοκράτορας των Κουσάν Κανίσκα"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -154,7 +186,15 @@ export const POST_MAURYAN_INDIA = {
             en: "For centuries the Buddha had been shown only by symbols — a wheel, a tree, an empty throne. Now, at the meeting of cultures, sculptors began to portray him as a man: at Gandhara in a Greco-Roman style with flowing robes, at Mathura in a rounder Indian idiom. The image of the meditating Buddha, born here, would spread across half the world.",
             el: "Επί αιώνες ο Βούδας εικονιζόταν μόνο με σύμβολα — έναν τροχό, ένα δέντρο, έναν άδειο θρόνο. Τώρα, στη συνάντηση των πολιτισμών, γλύπτες άρχισαν να τον απεικονίζουν ως άνθρωπο: στη Γκαντάρα σε ελληνορωμαϊκό ύφος με ρέοντα ενδύματα, στη Ματούρα σε πιο στρογγυλό ινδικό ιδίωμα. Η εικόνα του διαλογιζόμενου Βούδα, που γεννήθηκε εδώ, θα απλωνόταν στον μισό κόσμο."
           },
-          category: "cultural"
+          category: "cultural",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Gandhara_Buddha_%28tnm%29.jpeg?width=1024",
+            alt: {
+              en: "A Gandhara sculpture of the Buddha",
+              el: "Γλυπτό του Βούδα από τη Γκαντάρα"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -178,7 +218,15 @@ export const POST_MAURYAN_INDIA = {
             en: "Beyond the reach of the northern empires, the Chera, Chola and Pandya kingdoms of the Tamil land flourished, celebrated in the exquisite secular poetry of the Sangam. Riding the monsoon winds, ships carried their pepper, pearls and gems to the Roman world in exchange for gold; hoards of Roman coins still surface in the south, testimony to a trade that spanned the ancient seas.",
             el: "Πέρα από την εμβέλεια των βόρειων αυτοκρατοριών, τα βασίλεια Τσέρα, Τσόλα και Πάντυα της ταμιλικής γης άκμασαν, υμνημένα στην εξαίσια κοσμική ποίηση των Σανγκάμ. Καβαλώντας τους ανέμους των μουσώνων, πλοία μετέφεραν το πιπέρι, τα μαργαριτάρια και τους πολύτιμους λίθους τους στον ρωμαϊκό κόσμο με αντάλλαγμα χρυσό· θησαυροί ρωμαϊκών νομισμάτων εμφανίζονται ακόμη στον νότο, μαρτυρία ενός εμπορίου που κάλυπτε τις αρχαίες θάλασσες."
           },
-          category: "cultural"
+          category: "cultural",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/TabulaPeutingerianaMuziris.jpg?width=1024",
+            alt: {
+              en: "The ancient Tamil trading coast of Muziris",
+              el: "Η αρχαία ταμιλική εμπορική ακτή της Μουζίρις"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     }

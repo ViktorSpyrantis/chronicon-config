@@ -58,7 +58,15 @@ export const BRITISH_INDIA = {
             en: "Through bribery and battle, Robert Clive defeated the Nawab of Bengal at Plassey and installed a puppet in his place. The trading company became the effective ruler of India's wealthiest province, gaining the right to collect its taxes. A merchant corporation had begun to conquer a subcontinent, funding its expansion from Indian revenue itself.",
             el: "Μέσα από δωροδοκία και μάχη, ο Ρόμπερτ Κλάιβ νίκησε τον Ναβάβ της Βεγγάλης στο Πλάσεϊ κι εγκατέστησε έναν υποχείριο στη θέση του. Η εμπορική εταιρεία έγινε ο ουσιαστικός κυβερνήτης της πλουσιότερης επαρχίας της Ινδίας, αποκτώντας το δικαίωμα να εισπράττει τους φόρους της. Μια εμπορική εταιρεία είχε αρχίσει να κατακτά μια υποήπειρο, χρηματοδοτώντας την επέκτασή της από τα ίδια τα ινδικά έσοδα."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Robert_Clive%2C_1st_Baron_Clive_by_Nathaniel_Dance%2C_%28later_Sir_Nathaniel_Dance-Holland%2C_Bt%29.jpg?width=1024",
+            alt: {
+              en: "Robert Clive, victor at Plassey",
+              el: "Ο Ρόμπερτ Κλάιβ, νικητής στο Πλάσεϊ"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -82,7 +90,15 @@ export const BRITISH_INDIA = {
             en: "Over the following decades the Company annexed kingdom after kingdom by war and by treaty. New systems of land tax, such as the Permanent Settlement in Bengal, and floods of cheap British cloth transformed the economy — enriching the Company while ruining Indian weavers and burdening the peasantry. A foreign corporation now governed most of India.",
             el: "Στις επόμενες δεκαετίες η Εταιρεία προσάρτησε βασίλειο μετά το βασίλειο με πόλεμο και με συνθήκες. Νέα συστήματα φόρου γης, όπως ο Μόνιμος Διακανονισμός στη Βεγγάλη, και πλημμύρες φθηνού βρετανικού υφάσματος μεταμόρφωσαν την οικονομία — πλουτίζοντας την Εταιρεία ενώ κατέστρεφαν τους Ινδούς υφαντές και βάραιναν τους αγρότες. Μια ξένη εταιρεία κυβερνούσε πλέον το μεγαλύτερο μέρος της Ινδίας."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Warren_Hastings_by_Sir_Joshua_Reynolds.jpg?width=1024",
+            alt: {
+              en: "Warren Hastings, first governor-general of British India",
+              el: "Ο Γουόρεν Χέιστινγκς, πρώτος γενικός κυβερνήτης της Βρετανικής Ινδίας"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -106,7 +122,15 @@ export const BRITISH_INDIA = {
             en: "Sparked by a rumour that cartridges were greased with cow and pig fat, offending Hindu and Muslim soldiers alike, the sepoys of the Company's army rose in revolt. The rebellion spread into a broad uprising of princes, soldiers and peasants, who rallied around the aged Mughal emperor. After savage fighting on both sides, the British crushed it — but the old order had been shattered.",
             el: "Πυροδοτημένη από μια φήμη ότι τα φυσίγγια ήταν λιπασμένα με λίπος αγελάδας και χοίρου, προσβάλλοντας Ινδουιστές και Μουσουλμάνους στρατιώτες, οι σιπάι του στρατού της Εταιρείας εξεγέρθηκαν. Η εξέγερση εξαπλώθηκε σε ευρεία εξέγερση πριγκίπων, στρατιωτών κι αγροτών, που συσπειρώθηκαν γύρω από τον γηραιό αυτοκράτορα των Μουγκάλ. Ύστερα από άγρια μάχη κι από τις δύο πλευρές, οι Βρετανοί την συνέτριψαν — όμως η παλιά τάξη είχε θρυμματιστεί."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Indian_Rebellion_of_1857.jpg?width=1024",
+            alt: {
+              en: "The Indian Rebellion of 1857",
+              el: "Η Ινδική Εξέγερση του 1857"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -130,7 +154,15 @@ export const BRITISH_INDIA = {
             en: "After the rebellion, Britain abolished the East India Company and brought India under the direct rule of the Crown — the Raj. The last Mughal emperor was exiled, and in 1877 Queen Victoria was proclaimed Empress of India. A British viceroy governed the vast territory, its railways, army and civil service binding the subcontinent into a single imperial possession.",
             el: "Μετά την εξέγερση, η Βρετανία κατάργησε την Εταιρεία Ανατολικών Ινδιών κι έφερε την Ινδία υπό την άμεση κυριαρχία του Στέμματος — το Ρατζ. Ο τελευταίος αυτοκράτορας των Μουγκάλ εξορίστηκε, και το 1877 η βασίλισσα Βικτώρια ανακηρύχθηκε Αυτοκράτειρα των Ινδιών. Ένας Βρετανός αντιβασιλέας κυβερνούσε την απέραντη επικράτεια, με τους σιδηροδρόμους, τον στρατό και τη δημόσια διοίκησή της να δένουν την υποήπειρο σε ένα ενιαίο αυτοκρατορικό κτήμα."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Queen_Victoria_by_Bassano.jpg?width=1024",
+            alt: {
+              en: "Queen Victoria, proclaimed Empress of India",
+              el: "Η βασίλισσα Βικτώρια, ανακηρυγμένη Αυτοκράτειρα των Ινδιών"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -178,7 +210,15 @@ export const BRITISH_INDIA = {
             en: "At Jallianwala Bagh in Amritsar, soldiers under General Dyer fired without warning on a peaceful gathering penned in a walled garden, killing hundreds. The massacre destroyed Indian faith in British justice and became a turning point. It thrust forward a new leader who would transform the freedom struggle: Mohandas Gandhi.",
             el: "Στο Τζαλιανουάλα Μπαγκ στο Αμριτσάρ, στρατιώτες υπό τον στρατηγό Ντάιερ άνοιξαν πυρ χωρίς προειδοποίηση σε μια ειρηνική συγκέντρωση εγκλωβισμένη σε έναν περιτειχισμένο κήπο, σκοτώνοντας εκατοντάδες. Η σφαγή κατέστρεψε την ινδική πίστη στη βρετανική δικαιοσύνη κι έγινε σημείο καμπής. Έφερε στο προσκήνιο έναν νέο ηγέτη που θα μεταμόρφωνε τον αγώνα για την ελευθερία: τον Μοχάντας Γκάντι."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Jallianwala_Bagh%2C_Amritsar_01.jpg?width=1024",
+            alt: {
+              en: "The site of the Jallianwala Bagh massacre",
+              el: "Ο τόπος της σφαγής του Τζαλιανουάλα Μπαγκ"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -202,7 +242,15 @@ export const BRITISH_INDIA = {
             en: "Gandhi forged a new weapon: satyagraha, non-violent civil disobedience by millions. In 1930 he walked 240 miles to the sea to make salt in defiance of the British monopoly, a simple act that electrified the nation and drew the world's eyes. Through boycotts, marches and cheerful acceptance of prison, the freedom movement became a mass struggle no empire could long resist.",
             el: "Ο Γκάντι σφυρηλάτησε ένα νέο όπλο: τη σατυαγκράχα, τη μη βίαιη πολιτική ανυπακοή εκατομμυρίων. Το 1930 βάδισε 385 χιλιόμετρα ως τη θάλασσα για να φτιάξει αλάτι αψηφώντας το βρετανικό μονοπώλιο, μια απλή πράξη που ηλέκτρισε το έθνος και τράβηξε τα βλέμματα του κόσμου. Μέσα από μποϊκοτάζ, πορείες και τη χαρούμενη αποδοχή της φυλακής, το κίνημα για την ελευθερία έγινε ένας μαζικός αγώνας που καμία αυτοκρατορία δεν μπορούσε να αντέξει για πολύ."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Marche_sel.jpg?width=1024",
+            alt: {
+              en: "Gandhi on the Salt March, 1930",
+              el: "Ο Γκάντι στην Πορεία του Αλατιού, 1930"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -226,7 +274,15 @@ export const BRITISH_INDIA = {
             en: "Exhausted by war and unable to hold India, Britain withdrew in August 1947. But freedom came with a terrible price: the land was partitioned into a mainly Hindu India and a Muslim Pakistan. Some fifteen million people fled across the new borders and perhaps a million died in the communal violence — a triumph and a tragedy inseparably bound together.",
             el: "Εξαντλημένη από τον πόλεμο κι ανίκανη να κρατήσει την Ινδία, η Βρετανία αποχώρησε τον Αύγουστο του 1947. Όμως η ελευθερία ήρθε με τρομερό τίμημα: η χώρα διαμελίστηκε σε μια κυρίως ινδουιστική Ινδία κι ένα μουσουλμανικό Πακιστάν. Περίπου δεκαπέντε εκατομμύρια άνθρωποι κατέφυγαν πέρα από τα νέα σύνορα κι ίσως ένα εκατομμύριο πέθαναν στη διακοινοτική βία — ένας θρίαμβος κι μια τραγωδία αξεδιάλυτα δεμένα μαζί."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Brit_IndianEmpireReligions3.jpg?width=1024",
+            alt: {
+              en: "The partition of British India, 1947",
+              el: "Ο διαμελισμός της Βρετανικής Ινδίας, 1947"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     }

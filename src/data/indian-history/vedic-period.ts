@@ -58,7 +58,15 @@ export const VEDIC_PERIOD = {
             en: "Speaking an early form of Sanskrit, pastoral peoples herding cattle and driving horse-chariots composed a vast body of sacred verse. Preserved with astonishing fidelity by memory alone for centuries, the Rigveda is among the oldest religious texts still in use, and the foundation of a new age in the Indian subcontinent.",
             el: "Μιλώντας μια πρώιμη μορφή σανσκριτικής, ποιμενικοί λαοί που έβοσκαν βοοειδή κι οδηγούσαν άρματα με άλογα συνέθεσαν ένα τεράστιο σώμα ιερής ποίησης. Διατηρημένη με εκπληκτική πιστότητα μόνο μέσω μνήμης επί αιώνες, η Ριγκβέδα είναι από τα αρχαιότερα θρησκευτικά κείμενα που χρησιμοποιούνται ακόμη, και το θεμέλιο μιας νέας εποχής στην ινδική υποήπειρο."
           },
-          category: "religious"
+          category: "religious",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Rigveda_MS2097.jpg?width=1024",
+            alt: {
+              en: "A manuscript of the Rigveda",
+              el: "Χειρόγραφο της Ριγκβέδα"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -82,7 +90,15 @@ export const VEDIC_PERIOD = {
             en: "The early Aryans lived in tribes led by a raja, prizing cattle and horses and worshipping deities such as Indra the thunderer, Agni the fire and Ushas the dawn through fire sacrifice. Their poetry, both hymn and riddle, captures a mobile, exuberant society on the plains of the Punjab, not yet bound to cities or a rigid order.",
             el: "Οι πρώιμοι Άριοι ζούσαν σε φυλές υπό έναν ράτζα, εκτιμώντας βοοειδή και άλογα και λατρεύοντας θεότητες όπως ο Ίντρα ο κεραυνοφόρος, ο Άγκνι η φωτιά και η Ουσάς η αυγή μέσω θυσίας στη φωτιά. Η ποίησή τους, ύμνος και αίνιγμα μαζί, αποτυπώνει μια κινητική, ζωντανή κοινωνία στις πεδιάδες του Παντζάμπ, όχι ακόμη δεμένη με πόλεις ή άκαμπτη τάξη."
           },
-          category: "religious"
+          category: "religious",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Indra%2C_Chief_of_the_Gods_LACMA_M.69.13.4_%281_of_5%29.jpg?width=1024",
+            alt: {
+              en: "The Vedic god Indra",
+              el: "Ο βεδικός θεός Ίντρα"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -106,7 +122,15 @@ export const VEDIC_PERIOD = {
             en: "Iron axes and ploughs let settlers clear the dense forests east of the Punjab and turn to rice farming on the fertile Ganges plain. Tribes hardened into territorial kingdoms, wealth grew, and society became more settled and hierarchical, moving from the herders' world of the early Vedas toward one of villages, kings and priests.",
             el: "Σιδερένιοι πελέκεις και άροτρα επέτρεψαν στους εποίκους να καθαρίσουν τα πυκνά δάση ανατολικά του Παντζάμπ και να στραφούν στην καλλιέργεια ρυζιού στην εύφορη πεδιάδα του Γάγγη. Οι φυλές σκλήρυναν σε εδαφικά βασίλεια, ο πλούτος αυξήθηκε, και η κοινωνία έγινε πιο εγκατεστημένη και ιεραρχική, περνώντας από τον κόσμο των κτηνοτρόφων των πρώιμων Βεδών σε έναν κόσμο χωριών, βασιλέων και ιερέων."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Painted_Grey_Ware_Culture_%281200-600_BCE%29.png?width=1024",
+            alt: {
+              en: "Painted Grey Ware pottery of the Iron Age Ganges",
+              el: "Κεραμική Painted Grey Ware της Εποχής του Σιδήρου"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -130,7 +154,15 @@ export const VEDIC_PERIOD = {
             en: "The kingdom of the Kurus and Panchalas became the heartland of later Vedic culture, its memory preserved in the epic Mahabharata. Grand sacrifices, some lasting months, exalted the king and enriched the Brahmin priests who alone knew their secrets — a spiritual authority that would shape Indian society for millennia.",
             el: "Το βασίλειο των Κούρου και των Παντσάλα έγινε η καρδιά της ύστερης βεδικής κουλτούρας, με τη μνήμη του διατηρημένη στο έπος Μαχαμπαράτα. Μεγαλειώδεις θυσίες, κάποιες διαρκείας μηνών, εξύψωναν τον βασιλιά κι εμπλούτιζαν τους βραχμάνους ιερείς που μόνοι γνώριζαν τα μυστικά τους — μια πνευματική εξουσία που θα διαμόρφωνε την ινδική κοινωνία για χιλιετίες."
           },
-          category: "religious"
+          category: "religious",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Yajna1.jpg?width=1024",
+            alt: {
+              en: "A Vedic fire sacrifice, the yajna",
+              el: "Βεδική θυσία στη φωτιά, η γιάτζνα"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -178,7 +210,15 @@ export const VEDIC_PERIOD = {
             en: "As some grew weary of sacrifice, wandering thinkers asked deeper questions. The Upanishads taught that the individual self, atman, is one with the ultimate reality, brahman, and that the soul is reborn according to its deeds, karma, until it wins release, moksha. These ideas became the philosophical core of Hinduism and shaped all later Indian thought.",
             el: "Καθώς κάποιοι κουράστηκαν από τη θυσία, περιπλανώμενοι στοχαστές έθεσαν βαθύτερα ερωτήματα. Οι Ουπανισάδες δίδαξαν ότι ο ατομικός εαυτός, το άτμαν, είναι ένα με την απόλυτη πραγματικότητα, το μπράχμαν, και ότι η ψυχή αναγεννιέται σύμφωνα με τις πράξεις της, το κάρμα, ώσπου να κερδίσει τη λύτρωση, το μόκσα. Οι ιδέες αυτές έγιναν ο φιλοσοφικός πυρήνας του Ινδουισμού."
           },
-          category: "religious"
+          category: "religious",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Guru_and_DiscipleI.jpg?width=1024",
+            alt: {
+              en: "A guru instructing a disciple, the setting of the Upanishads",
+              el: "Δάσκαλος διδάσκει μαθητή, το πλαίσιο των Ουπανισάδων"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -202,7 +242,15 @@ export const VEDIC_PERIOD = {
             en: "By 600 BC the tribal patchwork had consolidated into larger states, and towns grew again along the Ganges amid a lively trade and the first coins. This \"second urbanisation\" set the stage for the great kingdoms of the Mahajanapadas — and for the age of the Buddha and the first Indian empires.",
             el: "Ως το 600 π.Χ. το φυλετικό μωσαϊκό είχε συμπυκνωθεί σε μεγαλύτερα κράτη, και πόλεις ξαναμεγάλωσαν κατά μήκος του Γάγγη μέσα σε ζωηρό εμπόριο και τα πρώτα νομίσματα. Αυτή η «δεύτερη αστικοποίηση» προετοίμασε τη σκηνή για τα μεγάλα βασίλεια των Μαχατζαναπάντα — και για την εποχή του Βούδα και των πρώτων ινδικών αυτοκρατοριών."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/The_eastern_Gangetic_plain_after_Ajatasattu%27s%2C_Vidudabha%27s_and_Udayana%27s_conquests.jpg?width=1024",
+            alt: {
+              en: "The ancient kingdom of Kosala",
+              el: "Το αρχαίο βασίλειο της Κόσαλα"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     }
