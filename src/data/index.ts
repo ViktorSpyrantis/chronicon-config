@@ -153,6 +153,7 @@ export const PERIOD_ID_ORDER = [
   "meiji-japan",
   "taisho-early-showa-japan",
   "postwar-japan",
+  "punic-wars",
   "hundred-years-war",
   "thirty-years-war",
   "seven-years-war",
