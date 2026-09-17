@@ -58,7 +58,15 @@ export const PELOPONNESIAN_WAR = {
             en: "Athenian power and arrogance had frightened Sparta and its allies into war. When the Spartan king Archidamus led his army into Attica to burn the farms, Pericles refused open battle: the country people crowded inside the walls that linked Athens to its port, and the great Athenian fleet struck at the Peloponnesian coast. It was a war of the land power against the sea power, and neither could easily reach the other.",
             el: "Η αθηναϊκή ισχύς κι αλαζονεία είχαν τρομάξει τη Σπάρτη και τους συμμάχους της, ρίχνοντάς τους στον πόλεμο. Όταν ο Σπαρτιάτης βασιλιάς Αρχίδαμος οδήγησε τον στρατό του στην Αττική για να κάψει τους αγρούς, ο Περικλής αρνήθηκε την ανοιχτή μάχη: ο αγροτικός πληθυσμός συνωστίστηκε μέσα στα τείχη που ένωναν την Αθήνα με το λιμάνι της, κι ο μεγάλος αθηναϊκός στόλος χτύπησε τα παράλια της Πελοποννήσου. Ήταν ένας πόλεμος της χερσαίας δύναμης ενάντια στη ναυτική, κι ούτε η μία μπορούσε εύκολα να φτάσει την άλλη."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Pericles_Pio-Clementino_Inv269_n2.jpg?width=1024",
+            alt: {
+              en: "Pericles, the leader of Athens",
+              el: "Ο Περικλής, ηγέτης της Αθήνας"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -82,7 +90,15 @@ export const PELOPONNESIAN_WAR = {
             en: "Packed with refugees behind its walls, Athens became a death-trap. A plague — described in terrible detail by the historian Thucydides, who caught it and survived — killed perhaps a third of the population over several years. Among the dead was Pericles, the statesman whose strategy and authority had held the city together. His loss opened the way for more reckless leaders and a harsher, more volatile politics.",
             el: "Γεμάτη πρόσφυγες πίσω από τα τείχη της, η Αθήνα έγινε παγίδα θανάτου. Ένας λοιμός — που περιγράφει με τρομερή λεπτομέρεια ο ιστορικός Θουκυδίδης, ο οποίος τον κόλλησε κι επέζησε — σκότωσε ίσως το ένα τρίτο του πληθυσμού μέσα σε λίγα χρόνια. Ανάμεσα στους νεκρούς ήταν κι ο Περικλής, ο πολιτικός του οποίου η στρατηγική και το κύρος συγκρατούσαν την πόλη. Η απώλειά του άνοιξε τον δρόμο σε πιο απερίσκεπτους ηγέτες και σε μια σκληρότερη, πιο ευμετάβλητη πολιτική."
           },
-          category: "other"
+          category: "other",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Thucydides-bust-cutout_ROM.jpg?width=1024",
+            alt: {
+              en: "Thucydides, historian of the Peloponnesian War",
+              el: "Ο Θουκυδίδης, ιστορικός του Πελοποννησιακού Πολέμου"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -178,7 +194,15 @@ export const PELOPONNESIAN_WAR = {
             en: "Seduced by the vision of conquering the rich Greek cities of Sicily, the Athenian assembly voted for the largest overseas expedition it had ever launched, led by the ambitious Alcibiades alongside the reluctant Nicias. On the eve of departure the city's sacred statues were mutilated in a scandal, and Alcibiades was soon recalled to stand trial — whereupon he defected to Sparta and told the enemy how to beat his own city.",
             el: "Παρασυρμένη από το όραμα της κατάκτησης των πλούσιων ελληνικών πόλεων της Σικελίας, η αθηναϊκή εκκλησία του δήμου ψήφισε τη μεγαλύτερη υπερπόντια εκστρατεία που είχε ποτέ εξαπολύσει, με επικεφαλής τον φιλόδοξο Αλκιβιάδη μαζί με τον απρόθυμο Νικία. Την παραμονή της αναχώρησης, τα ιερά αγάλματα της πόλης ακρωτηριάστηκαν σε ένα σκάνδαλο, κι ο Αλκιβιάδης σύντομα ανακλήθηκε για να δικαστεί — οπότε αυτομόλησε στη Σπάρτη κι είπε στον εχθρό πώς να νικήσει την ίδια του την πόλη."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Bust_Alcibiades_Musei_Capitolini_MC1160.jpg?width=1024",
+            alt: {
+              en: "Alcibiades, who urged the Sicilian Expedition",
+              el: "Ο Αλκιβιάδης, που παρότρυνε τη Σικελική Εκστρατεία"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },

@@ -58,7 +58,15 @@ export const GRECO_PERSIAN_WARS = {
             en: "Under Persian-backed tyrants, the wealthy Greek cities of the Anatolian coast chafed at foreign control. In 499 BC, led by Miletus, they rose in revolt, expelled their tyrants and appealed to the mainland for help. Sparta refused, but Athens and Eretria sent a small fleet — a decision that would draw the attention of the Persian king to the Greek world across the sea.",
             el: "Υπό τυράννους που στήριζε η Περσία, οι πλούσιες ελληνικές πόλεις των μικρασιατικών παραλίων δυσφορούσαν με τον ξένο έλεγχο. Το 499 π.Χ., με επικεφαλής τη Μίλητο, εξεγέρθηκαν, έδιωξαν τους τυράννους τους και ζήτησαν βοήθεια από τη μητροπολιτική Ελλάδα. Η Σπάρτη αρνήθηκε, όμως η Αθήνα κι η Ερέτρια έστειλαν έναν μικρό στόλο — μια απόφαση που θα έστρεφε την προσοχή του Πέρση βασιλιά στον ελληνικό κόσμο πέρα από τη θάλασσα."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Greek-Persian_duel.jpg?width=1024",
+            alt: {
+              en: "A Greek hoplite fighting a Persian warrior",
+              el: "Έλληνας οπλίτης μάχεται Πέρση πολεμιστή"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -130,7 +138,15 @@ export const GRECO_PERSIAN_WARS = {
             en: "In 490 BC Darius sent a fleet across the Aegean to punish Athens and Eretria. Eretria was betrayed and burned; then the Persians landed on the plain of Marathon, north of Athens. There the Athenians and their Plataean allies, though heavily outnumbered, charged at a run and enveloped the Persian line, driving it back to the ships. The victory — won without Sparta, whose army arrived too late — became the founding legend of Athenian courage.",
             el: "Το 490 π.Χ. ο Δαρείος έστειλε στόλο στο Αιγαίο για να τιμωρήσει την Αθήνα και την Ερέτρια. Η Ερέτρια προδόθηκε και κάηκε· έπειτα οι Πέρσες αποβιβάστηκαν στην πεδιάδα του Μαραθώνα, βόρεια της Αθήνας. Εκεί οι Αθηναίοι κι οι Πλαταιείς σύμμαχοί τους, αν και συντριπτικά λιγότεροι, όρμησαν τρέχοντας και περικύκλωσαν την περσική παράταξη, σπρώχνοντάς την πίσω στα πλοία. Η νίκη — που κερδήθηκε χωρίς τη Σπάρτη, της οποίας ο στρατός έφτασε πολύ αργά — έγινε ο ιδρυτικός μύθος του αθηναϊκού θάρρους."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Scene_of_the_Battle_of_Marathon.jpg?width=1024",
+            alt: {
+              en: "The Battle of Marathon, 490 BC",
+              el: "Η μάχη του Μαραθώνα, 490 π.Χ."
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -154,7 +170,15 @@ export const GRECO_PERSIAN_WARS = {
             en: "Ten years after Marathon, Darius's son Xerxes came in person with an army of many nations and a great fleet, bridging the Hellespont to cross into Europe. A small Greek force under the Spartan king Leonidas held the narrow pass of Thermopylae for days against overwhelming numbers. Betrayed by a mountain path, Leonidas sent most of the army away and died with his 300 Spartans and their allies — buying time and a legend. At sea, the fleet fought the Persians to a standstill off Artemisium.",
             el: "Δέκα χρόνια μετά τον Μαραθώνα, ο γιος του Δαρείου Ξέρξης ήρθε ο ίδιος με στρατό πολλών εθνών κι έναν μεγάλο στόλο, ζεύοντας τον Ελλήσποντο για να περάσει στην Ευρώπη. Μια μικρή ελληνική δύναμη υπό τον Σπαρτιάτη βασιλιά Λεωνίδα κράτησε το στενό πέρασμα των Θερμοπυλών για μέρες ενάντια σε συντριπτικά πλήθη. Προδομένος από ένα ορεινό μονοπάτι, ο Λεωνίδας έδιωξε το μεγαλύτερο μέρος του στρατού κι έπεσε με τους 300 Σπαρτιάτες του και τους συμμάχους τους — κερδίζοντας χρόνο κι έναν θρύλο. Στη θάλασσα, ο στόλος αναμετρήθηκε ισόπαλα με τους Πέρσες στο Αρτεμίσιο."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Jacques-Louis_David_-_Leonidas_at_Thermopylae_-_WGA6095.jpg?width=1024",
+            alt: {
+              en: "Leonidas at Thermopylae, by Jacques-Louis David",
+              el: "Ο Λεωνίδας στις Θερμοπύλες, έργο του Ζακ-Λουί Νταβίντ"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         },
         {
           title: {
@@ -169,7 +193,15 @@ export const GRECO_PERSIAN_WARS = {
             en: "Athens was abandoned and burned, its people evacuated to the island of Salamis on the strength of an oracle about \"wooden walls\" — which Themistocles read as the fleet. In the narrow straits, where Persian numbers counted for nothing, the Greek triremes turned and destroyed the enemy armada as Xerxes watched from a throne on the shore. His communications threatened, the king withdrew to Asia, leaving his general Mardonius to finish the war.",
             el: "Η Αθήνα εγκαταλείφθηκε και κάηκε, ο πληθυσμός της μεταφέρθηκε στη νήσο Σαλαμίνα με βάση έναν χρησμό για «ξύλινα τείχη» — που ο Θεμιστοκλής ερμήνευσε ως τον στόλο. Στα στενά, όπου η περσική αριθμητική υπεροχή δεν μετρούσε, οι ελληνικές τριήρεις στράφηκαν και κατέστρεψαν την εχθρική αρμάδα, ενώ ο Ξέρξης παρακολουθούσε από θρόνο στην ακτή. Με τις γραμμές ανεφοδιασμού του απειλούμενες, ο βασιλιάς αποσύρθηκε στην Ασία, αφήνοντας τον στρατηγό του Μαρδόνιο να τελειώσει τον πόλεμο."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Battle_of_salamis.png?width=1024",
+            alt: {
+              en: "The naval Battle of Salamis, 480 BC",
+              el: "Η ναυμαχία της Σαλαμίνας, 480 π.Χ."
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },

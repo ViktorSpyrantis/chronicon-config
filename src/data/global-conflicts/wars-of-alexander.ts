@@ -58,7 +58,15 @@ export const WARS_OF_ALEXANDER = {
             en: "Philip II had made Macedon the master of Greece and was preparing an invasion of Persia when he was assassinated at a wedding feast. His son Alexander, aged twenty and tutored by Aristotle, moved swiftly to secure the throne, eliminate his rivals, and take command of the army and the league of Greek states his father had forged. The great expedition east was now his to lead.",
             el: "Ο Φίλιππος Β΄ είχε κάνει τη Μακεδονία κυρίαρχη της Ελλάδας κι ετοίμαζε εισβολή στην Περσία όταν δολοφονήθηκε σε έναν γαμήλιο εορτασμό. Ο γιος του Αλέξανδρος, είκοσι ετών και μαθητής του Αριστοτέλη, κινήθηκε γρήγορα για να εξασφαλίσει τον θρόνο, να εξοντώσει τους αντιπάλους του και να αναλάβει τη διοίκηση του στρατού και της συμμαχίας των ελληνικών πόλεων που είχε σφυρηλατήσει ο πατέρας του. Η μεγάλη εκστρατεία στην Ανατολή ήταν πλέον δική του να ηγηθεί."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Filip_II_Macedonia.jpg?width=1024",
+            alt: {
+              en: "Philip II of Macedon, Alexander's father",
+              el: "Ο Φίλιππος Β΄ της Μακεδονίας, πατέρας του Αλεξάνδρου"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -130,7 +138,15 @@ export const WARS_OF_ALEXANDER = {
             en: "Darius III took the field in person, cutting behind Alexander to trap him on the coastal plain of Issus. On a narrow front that neutralized his huge numbers, the Persian king watched his line buckle under the Macedonian charge and fled the field, abandoning his mother, wife and children to capture. Alexander treated the royal women with courtesy — and rejected Darius's offers of ransom and a shared empire, for he meant to take it all.",
             el: "Ο Δαρείος Γ΄ βγήκε ο ίδιος στο πεδίο, κόβοντας πίσω από τον Αλέξανδρο για να τον παγιδεύσει στην παράκτια πεδιάδα της Ισσού. Σε ένα στενό μέτωπο που εξουδετέρωνε τα τεράστια πλήθη του, ο Πέρσης βασιλιάς είδε τη γραμμή του να λυγίζει υπό τη μακεδονική έφοδο κι εγκατέλειψε το πεδίο, αφήνοντας τη μητέρα, τη σύζυγο και τα παιδιά του στην αιχμαλωσία. Ο Αλέξανδρος φέρθηκε με ευγένεια στις βασιλικές γυναίκες — κι απέρριψε τις προσφορές του Δαρείου για λύτρα και μοιρασμένη αυτοκρατορία, γιατί σκόπευε να τα πάρει όλα."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Alexander_the_Great_mosaic.jpg?width=1024",
+            alt: {
+              en: "The Alexander Mosaic, depicting the Battle of Issus",
+              el: "Το Ψηφιδωτό του Αλεξάνδρου, που απεικονίζει τη μάχη της Ισσού"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -178,7 +194,15 @@ export const WARS_OF_ALEXANDER = {
             en: "On the wide plain of Gaugamela, chosen so his numbers and scythed chariots could tell, Darius assembled the full might of his empire. Alexander refused the obvious battle, drew the Persian line out of shape, and drove a wedge of cavalry straight toward the king, who once again fled. The victory was total: Babylon and Susa, with their fabulous treasuries, surrendered without a fight, and Alexander was proclaimed king of Asia.",
             el: "Στην πλατιά πεδιάδα των Γαυγαμήλων, διαλεγμένη ώστε να μετρήσουν τα πλήθη και τα δρεπανηφόρα άρματά του, ο Δαρείος συγκέντρωσε όλη τη δύναμη της αυτοκρατορίας του. Ο Αλέξανδρος αρνήθηκε την προφανή μάχη, τράβηξε τη γραμμή των Περσών εκτός σχήματος κι έμπηξε μια σφήνα ιππικού κατευθείαν προς τον βασιλιά, που για άλλη μια φορά τράπηκε σε φυγή. Η νίκη ήταν ολοκληρωτική: η Βαβυλώνα και τα Σούσα, με τα μυθικά θησαυροφυλάκιά τους, παραδόθηκαν χωρίς μάχη, κι ο Αλέξανδρος ανακηρύχθηκε βασιλιάς της Ασίας."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Pietro_da_Cortona_-_Battle_of_Alexander_versus_Darius_-_Google_Art_Project.jpg?width=1024",
+            alt: {
+              en: "Alexander defeats Darius, by Pietro da Cortona",
+              el: "Ο Αλέξανδρος νικά τον Δαρείο, έργο του Πιέτρο ντα Κορτόνα"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -250,7 +274,15 @@ export const WARS_OF_ALEXANDER = {
             en: "At the river Hydaspes Alexander fought his last great battle, crossing in a storm to defeat the Indian king Porus and his line of war elephants in hard fighting; impressed by his foe's courage, he restored Porus to his kingdom as an ally. But at the next river, the Hyphasis, his soldiers — eight years and thousands of miles from home — refused to march on into the unknown. For the first time Alexander gave way and turned back toward the west.",
             el: "Στον ποταμό Υδάσπη ο Αλέξανδρος έδωσε την τελευταία μεγάλη μάχη του, περνώντας μέσα σε καταιγίδα για να νικήσει τον Ινδό βασιλιά Πώρο και τη γραμμή των πολεμικών ελεφάντων του σε σκληρή σύγκρουση· εντυπωσιασμένος από το θάρρος του αντιπάλου του, αποκατέστησε τον Πώρο στο βασίλειό του ως σύμμαχο. Όμως στον επόμενο ποταμό, τον Ύφαση, οι στρατιώτες του — οκτώ χρόνια κι χιλιάδες μίλια μακριά από την πατρίδα — αρνήθηκαν να προελάσουν στο άγνωστο. Για πρώτη φορά ο Αλέξανδρος υποχώρησε κι γύρισε πίσω προς τη Δύση."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/The_phalanx_attacking_the_centre_in_the_battle_of_the_Hydaspes_by_Andre_Castaigne_%281898-1899%29.jpg?width=1024",
+            alt: {
+              en: "Alexander's phalanx at the Battle of the Hydaspes",
+              el: "Η φάλαγγα του Αλεξάνδρου στη μάχη του Υδάσπη"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -274,7 +306,15 @@ export const WARS_OF_ALEXANDER = {
             en: "Back in Babylon, planning fresh expeditions, Alexander fell ill after days of feasting and died in June 323 BC, not yet thirty-three. He left no clear heir — only, it was said, the empire \"to the strongest.\" His generals, the Diadochi, fought for decades over the spoils and broke his conquests into the great kingdoms of the Hellenistic age. Alexander had never lost a battle, and had spread Greek language and culture from Egypt to the edge of India.",
             el: "Πίσω στη Βαβυλώνα, σχεδιάζοντας νέες εκστρατείες, ο Αλέξανδρος αρρώστησε έπειτα από μέρες γλεντιού κι πέθανε τον Ιούνιο του 323 π.Χ., πριν καν κλείσει τα τριάντα τρία. Δεν άφησε σαφή διάδοχο — μόνο, λέγεται, την αυτοκρατορία «τῷ κρατίστῳ», στον ισχυρότερο. Οι στρατηγοί του, οι Διάδοχοι, πολέμησαν επί δεκαετίες για τα λάφυρα και διαμέλισαν τις κατακτήσεις του στα μεγάλα βασίλεια της ελληνιστικής εποχής. Ο Αλέξανδρος δεν έχασε ποτέ μάχη, κι είχε απλώσει την ελληνική γλώσσα και κουλτούρα από την Αίγυπτο ως τα όρια της Ινδίας."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/The_Death_of_Alexander_the_Great_after_the_painting_by_Karl_von_Piloty_%281886%29.jpg?width=1024",
+            alt: {
+              en: "The death of Alexander at Babylon",
+              el: "Ο θάνατος του Αλεξάνδρου στη Βαβυλώνα"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     }
