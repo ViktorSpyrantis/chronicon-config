@@ -1,5 +1,8 @@
 /** Global Conflicts — Παγκόσμιες Συγκρούσεις */
 import type { SectionModule } from "../../types";
+import { GRECO_PERSIAN_WARS } from "./greco-persian-wars";
+import { PELOPONNESIAN_WAR } from "./peloponnesian-war";
+import { WARS_OF_ALEXANDER } from "./wars-of-alexander";
 import { PUNIC_WARS } from "./punic-wars";
 import { HUNDRED_YEARS_WAR } from "./hundred-years-war";
 import { THIRTY_YEARS_WAR } from "./thirty-years-war";
@@ -16,6 +19,9 @@ export const GLOBAL_CONFLICTS = {
     el: "Παγκόσμιες Συγκρούσεις"
   },
   periods: [
+    GRECO_PERSIAN_WARS,
+    PELOPONNESIAN_WAR,
+    WARS_OF_ALEXANDER,
     PUNIC_WARS,
     HUNDRED_YEARS_WAR,
     THIRTY_YEARS_WAR,
