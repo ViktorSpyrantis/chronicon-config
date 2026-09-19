@@ -14,6 +14,7 @@
  */
 import type { SectionModule } from "../types";
 import { EGYPTIAN_HISTORY } from "./egyptian-history";
+import { IRAQI_HISTORY } from "./iraqi-history";
 import { PERSIAN_HISTORY } from "./persian-history";
 import { INDIAN_HISTORY } from "./indian-history";
 import { CHINESE_HISTORY } from "./chinese-history";
@@ -31,6 +32,7 @@ import { GLOBAL_CONFLICTS } from "./global-conflicts";
 /** Every section, in canonical display order. */
 export const SECTION_MODULES = [
   EGYPTIAN_HISTORY,
+  IRAQI_HISTORY,
   PERSIAN_HISTORY,
   INDIAN_HISTORY,
   CHINESE_HISTORY,
@@ -124,6 +126,18 @@ export const PERIOD_ID_ORDER = [
   "ottoman-egypt",
   "muhammad-ali-british-egypt",
   "republic-of-egypt",
+  "sumer-early-mesopotamia",
+  "akkadian-empire",
+  "old-babylonian-assyrian",
+  "kassite-middle-assyrian",
+  "neo-assyrian-empire",
+  "neo-babylonian-empire",
+  "persian-greek-parthian-babylonia",
+  "sasanian-mesopotamia",
+  "rashidun-umayyad-iraq",
+  "abbasid-baghdad",
+  "mongol-ottoman-iraq",
+  "modern-iraq",
   "elam-ancient-iran",
   "achaemenid-empire",
   "seleucid-parthian-iran",
