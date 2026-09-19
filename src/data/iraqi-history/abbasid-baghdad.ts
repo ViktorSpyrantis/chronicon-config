@@ -155,7 +155,15 @@ export const ABBASID_BAGHDAD = {
             en: "To control his growing corps of Turkish ghilman, the caliph al-Mu'tasim moved the court sixty miles up the Tigris to a new city, Samarra, which sprawled for miles along the river. Its Great Mosque and the extraordinary spiral minaret, the Malwiya, still stand — monuments of a brief, brilliant, and troubled second capital.",
             el: "Για να ελέγξει το αυξανόμενο σώμα των Τούρκων γκιλμάν, ο χαλίφης αλ-Μουτάσιμ μετέφερε την αυλή ενενήντα χιλιόμετρα πάνω στον Τίγρη σε μια νέα πόλη, τη Σάμαρρα, που απλωνόταν επί χιλιόμετρα κατά μήκος του ποταμού. Το Μεγάλο Τζαμί της και ο εξαιρετικός σπειροειδής μιναρές, η Μαλουίγια, στέκονται ακόμη — μνημεία μιας σύντομης, λαμπρής και ταραγμένης δεύτερης πρωτεύουσας."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Great%20Mosque%20of%20Samarra.jpg?width=1024",
+            alt: {
+              en: "The Great Mosque of Samarra and its spiral minaret, the Malwiya",
+              el: "Το Μεγάλο Τζαμί της Σάμαρρα και ο σπειροειδής μιναρές του, η Μαλουίγια"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },

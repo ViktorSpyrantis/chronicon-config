@@ -205,7 +205,15 @@ export const SASANIAN_MESOPOTAMIA = {
             en: "The colossal brick vault of the royal audience hall, some thirty-five metres high, still stands south of Baghdad — the last great monument of Sasanian Ctesiphon and long the largest arch of unreinforced brickwork in the world. Beneath it the King of Kings gave audience under a jewelled crown too heavy to wear, suspended on a golden chain.",
             el: "Η κολοσσιαία πλίνθινη αψίδα της βασιλικής αίθουσας ακρόασης, ύψους περίπου τριάντα πέντε μέτρων, στέκεται ακόμη νότια της Βαγδάτης — το τελευταίο μεγάλο μνημείο της σασανιδικής Κτησιφώντος και επί μακρόν η μεγαλύτερη αψίδα από άοπλη πλινθοδομή στον κόσμο. Κάτω από αυτήν ο Βασιλιάς των Βασιλέων έδινε ακρόαση υπό ένα διαμαντοστόλιστο στέμμα, τόσο βαρύ ώστε να μη φοριέται, κρεμασμένο σε χρυσή αλυσίδα."
           },
-          category: "cultural"
+          category: "cultural",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Ctesiphon%2C%20Iraq%2C%201932.jpg?width=1024",
+            alt: {
+              en: "The great arch of Ctesiphon (Taq Kasra), photographed in 1932",
+              el: "Η μεγάλη αψίδα της Κτησιφώντος (Τακ Κασρά), φωτογραφημένη το 1932"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },

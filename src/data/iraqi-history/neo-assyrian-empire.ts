@@ -58,7 +58,15 @@ export const NEO_ASSYRIAN_EMPIRE = {
             en: "His annals boast in chilling detail of cities burned and captives flayed — terror as an instrument of rule. Yet he also opened his new capital with a feast for nearly seventy thousand guests, recorded on a stele. The winged human-headed bulls and reliefs of his palace set the template for Assyrian royal art.",
             el: "Τα χρονικά του καυχώνται με ανατριχιαστικές λεπτομέρειες για πόλεις που κάηκαν και αιχμαλώτους που γδάρθηκαν — ο τρόμος ως όργανο διακυβέρνησης. Ωστόσο εγκαινίασε τη νέα πρωτεύουσά του με συμπόσιο για σχεδόν εβδομήντα χιλιάδες καλεσμένους, καταγεγραμμένο σε στήλη. Οι φτερωτοί ταύροι με ανθρώπινη κεφαλή και τα ανάγλυφα του ανακτόρου του καθόρισαν το πρότυπο της ασσυριακής βασιλικής τέχνης."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Human%20headed%20winged%20bull%20profile.jpg?width=1024",
+            alt: {
+              en: "A lamassu, the human-headed winged bull that guarded Assyrian palaces",
+              el: "Ένα λαμάσσου, ο φτερωτός ταύρος με ανθρώπινη κεφαλή που φύλαγε τα ασσυριακά ανάκτορα"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },

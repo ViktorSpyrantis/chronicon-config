@@ -49,6 +49,7 @@ const SECTION_ORDER_EN: readonly SectionId[] = [
   "italian-history",
   "egyptian-history",
   "iraqi-history",
+  "ancient-levant",
   "french-history",
   "german-history",
   "russian-history",

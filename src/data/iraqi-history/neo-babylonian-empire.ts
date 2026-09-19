@@ -131,7 +131,15 @@ export const NEO_BABYLONIAN_EMPIRE = {
             en: "The Ishtar Gate, faced with lapis-blue tiles and striding bulls and dragons, opened onto a Processional Way lined with lions. Above the city rose Etemenanki, the ziggurat remembered as the Tower of Babel, and — if the Greek writers are right — the Hanging Gardens, one of the Seven Wonders of the ancient world.",
             el: "Η Πύλη της Ιστάρ, επενδυμένη με πλακίδια σε γαλάζιο λαζουρίτη και βηματίζοντες ταύρους και δράκους, άνοιγε σε μια Πομπική Οδό στολισμένη με λιοντάρια. Πάνω από την πόλη υψωνόταν το Ετεμενάνκι, το ζιγκουράτ που θυμούνται ως Πύργο της Βαβέλ, και — αν έχουν δίκιο οι Έλληνες συγγραφείς — οι Κρεμαστοί Κήποι, ένα από τα Επτά Θαύματα του αρχαίου κόσμου."
           },
-          category: "cultural"
+          category: "cultural",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Ishtar%20Gate%20at%20Berlin%20Museum.jpg?width=1024",
+            alt: {
+              en: "The reconstructed Ishtar Gate of Babylon, now in Berlin",
+              el: "Η ανακατασκευασμένη Πύλη της Ιστάρ της Βαβυλώνας, σήμερα στο Βερολίνο"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -276,7 +284,15 @@ export const NEO_BABYLONIAN_EMPIRE = {
             en: "After defeating the Babylonian army at Opis, Cyrus took the city without a battle; the Cyrus Cylinder proclaims that Marduk himself chose him to restore order. He let the exiled Judahites return home to rebuild their Temple. Babylon lived on as a great city, but never again as a capital of its own — the age of Mesopotamian empires was over.",
             el: "Αφού νίκησε τον βαβυλωνιακό στρατό στην Ώπιδα, ο Κύρος πήρε την πόλη χωρίς μάχη· ο Κύλινδρος του Κύρου διακηρύσσει ότι ο ίδιος ο Μαρδούκ τον επέλεξε για να αποκαταστήσει την τάξη. Άφησε τους εξόριστους Ιουδαίους να επιστρέψουν στην πατρίδα τους για να ξαναχτίσουν τον Ναό τους. Η Βαβυλώνα επέζησε ως μεγάλη πόλη, όμως ποτέ ξανά ως πρωτεύουσα δική της — η εποχή των μεσοποταμιακών αυτοκρατοριών είχε τελειώσει."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Cyrus%20Cylinder%20front.jpg?width=1024",
+            alt: {
+              en: "The Cyrus Cylinder, which records Cyrus's capture of Babylon",
+              el: "Ο Κύλινδρος του Κύρου, που καταγράφει την κατάληψη της Βαβυλώνας από τον Κύρο"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     }

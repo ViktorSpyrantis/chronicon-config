@@ -82,7 +82,15 @@ export const MODERN_IRAQ = {
             en: "Faisal, a leader of the Arab Revolt lately driven from Syria, was made king of Iraq after a carefully managed referendum. He faced the hard task of welding together Kurds and Arabs, Sunni and Shia, city and tribe into a single nation, and of steering a course toward real independence from his British patrons.",
             el: "Ο Φεϊσάλ, ηγέτης της Αραβικής Εξέγερσης που είχε πρόσφατα εκδιωχθεί από τη Συρία, έγινε βασιλιάς του Ιράκ έπειτα από ένα προσεκτικά κατευθυνόμενο δημοψήφισμα. Αντιμετώπισε το δύσκολο έργο να συνενώσει Κούρδους και Άραβες, Σουνίτες και Σιίτες, πόλη και φυλή σε ένα ενιαίο έθνος, και να χαράξει πορεία προς την πραγματική ανεξαρτησία από τους Βρετανούς προστάτες του."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Faisal%20I%20of%20Iraq%20circa%201920.jpg?width=1024",
+            alt: {
+              en: "King Faisal I, first king of modern Iraq, around 1920",
+              el: "Ο βασιλιάς Φεϊσάλ Α΄, πρώτος βασιλιάς του σύγχρονου Ιράκ, γύρω στο 1920"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },

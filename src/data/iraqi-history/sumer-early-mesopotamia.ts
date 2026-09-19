@@ -178,7 +178,15 @@ export const SUMER_EARLY_MESOPOTAMIA = {
             en: "Excavated by Leonard Woolley in the 1920s, the tombs of Queen Puabi and others held golden helmets and headdresses, the Standard of Ur, and lyres inlaid with lapis lazuli — and, chillingly, rows of sacrificed servants. The lapis came from Afghanistan and the gold from Anatolia, proof of a trading world that reached far beyond the plain.",
             el: "Ανασκαμμένοι από τον Λέοναρντ Γούλεϊ τη δεκαετία του 1920, οι τάφοι της βασίλισσας Πουάμπι και άλλων περιείχαν χρυσά κράνη και κεφαλόδεσμους, το Λάβαρο της Ουρ και λύρες με ένθετο λαζουρίτη — και, ανατριχιαστικά, σειρές θυσιασμένων υπηρετών. Ο λαζουρίτης ερχόταν από το Αφγανιστάν και ο χρυσός από την Ανατολία, απόδειξη ενός εμπορικού κόσμου που έφτανε πολύ πέρα από την πεδιάδα."
           },
-          category: "cultural"
+          category: "cultural",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Standard%20of%20Ur%20-%20War.jpg?width=1024",
+            alt: {
+              en: "The 'War' panel of the Standard of Ur, from the Royal Tombs of Ur",
+              el: "Η όψη του «Πολέμου» του Λαβάρου της Ουρ, από τους Βασιλικούς Τάφους της Ουρ"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },

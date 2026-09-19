@@ -202,7 +202,15 @@ export const OLD_BABYLONIAN_ASSYRIAN = {
             en: "The Code, topped by a relief of Hammurabi receiving the law from the sun god Shamash, sets fees, wages, and punishments — often 'an eye for an eye,' with penalties graded by social rank. Though not the first Mesopotamian law code, it is the most complete, and its black diorite stele, looted to Susa and now in the Louvre, is the enduring symbol of ancient law.",
             el: "Ο Κώδικας, στεφανωμένος με ανάγλυφο του Χαμουραμπί να λαμβάνει τον νόμο από τον θεό ήλιο Σαμάς, ορίζει αμοιβές, μισθούς και ποινές — συχνά «οφθαλμόν αντί οφθαλμού», με τιμωρίες διαβαθμισμένες κατά κοινωνική τάξη. Αν και δεν είναι ο πρώτος μεσοποταμιακός νομικός κώδικας, είναι ο πληρέστερος, και η μαύρη διοριτική στήλη του, λεηλατημένη στα Σούσα και σήμερα στο Λούβρο, είναι το διαχρονικό σύμβολο του αρχαίου δικαίου."
           },
-          category: "cultural"
+          category: "cultural",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/P1050763%20Louvre%20code%20Hammurabi%20face%20rwk.JPG?width=1024",
+            alt: {
+              en: "The upper relief of the Code of Hammurabi stele, now in the Louvre",
+              el: "Το άνω ανάγλυφο της στήλης του Κώδικα του Χαμουραμπί, σήμερα στο Λούβρο"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },

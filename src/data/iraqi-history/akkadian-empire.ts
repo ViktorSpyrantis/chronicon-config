@@ -106,7 +106,15 @@ export const AKKADIAN_EMPIRE = {
             en: "Naram-Sin styled himself 'king of the four quarters of the world' and 'god of Akkad,' writing his name with the divine sign. His victory stele shows him climbing a mountain over fallen foes, crowned with the horns of a god — the earliest surviving image of a deified ruler, later carried off to Susa as Elamite plunder.",
             el: "Ο Ναράμ-Σιν αυτοαποκαλούνταν «βασιλιάς των τεσσάρων γωνιών του κόσμου» και «θεός της Ακκάδ», γράφοντας το όνομά του με το θεϊκό σύμβολο. Η στήλη νίκης του τον δείχνει να ανεβαίνει ένα βουνό πάνω από πεσμένους εχθρούς, στεφανωμένος με τα κέρατα θεού — η αρχαιότερη σωζόμενη εικόνα θεοποιημένου ηγεμόνα, που αργότερα μεταφέρθηκε στα Σούσα ως ελαμιτικό λάφυρο."
           },
-          category: "religious"
+          category: "religious",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/St%C3%A8le_de_Naram-Sin_-_Mus%C3%A9e_du_Louvre_Antiquit%C3%A9s_orientales_SB_4_%3B_AS_6065.jpg?width=1024",
+            alt: {
+              en: "The Victory Stele of Naram-Sin, king of Akkad",
+              el: "Η Στήλη της Νίκης του Ναράμ-Σιν, βασιλιά της Ακκάδ"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -202,7 +210,15 @@ export const AKKADIAN_EMPIRE = {
             en: "The ziggurat of Ur still rises from the plain of southern Iraq, its lowest terrace of baked brick partly restored. A mud-brick mountain crowned by a shrine to Nanna, it was the heart of a temple complex that ran the city's economy — and, over four thousand years later, the enduring emblem of Sumerian civilization.",
             el: "Το ζιγκουράτ της Ουρ υψώνεται ακόμη από την πεδιάδα του νότιου Ιράκ, με τη χαμηλότερη βαθμίδα του από ψημένη πλίνθο εν μέρει αποκατεστημένη. Ένα πλίνθινο όρος στεφανωμένο με ιερό του Νάννα, ήταν η καρδιά ενός ναϊκού συγκροτήματος που διηύθυνε την οικονομία της πόλης — και, τέσσερις χιλιετίες αργότερα, το διαχρονικό έμβλημα του σουμεριακού πολιτισμού."
           },
-          category: "religious"
+          category: "religious",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Ancient%20ziggurat%20at%20Ali%20Air%20Base%20Iraq%202005.jpg?width=1024",
+            alt: {
+              en: "The restored Great Ziggurat of Ur in southern Iraq",
+              el: "Το αναστηλωμένο Μεγάλο Ζιγκουράτ της Ουρ στο νότιο Ιράκ"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
