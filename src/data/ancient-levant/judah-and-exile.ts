@@ -83,7 +83,15 @@ export const JUDAH_AND_EXILE = {
             en: "Sennacherib stormed the great fortress of Lachish — proudly carved on his palace walls — and shut Hezekiah in Jerusalem 'like a bird in a cage,' as his annals boast. Yet Jerusalem was not taken; the Bible credits a miraculous deliverance. Judah survived as an Assyrian vassal, its escape becoming a cornerstone of faith in the city's protection.",
             el: "Ο Σενναχειρίμ κυρίευσε το μεγάλο φρούριο της Λαχίς — περήφανα λαξευμένο στους τοίχους του ανακτόρου του — και έκλεισε τον Εζεκία στην Ιερουσαλήμ «σαν πουλί σε κλουβί», όπως καυχώνται τα χρονικά του. Ωστόσο η Ιερουσαλήμ δεν κυριεύτηκε· η Βίβλος αποδίδει μια θαυματουργή σωτηρία. Ο Ιούδας επέζησε ως υποτελής της Ασσυρίας, με τη διαφυγή του να γίνεται ακρογωνιαίος λίθος της πίστης στην προστασία της πόλης."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Lachish%20Relief%2C%20British%20Museum%201.jpg?width=1024",
+            alt: {
+              en: "The Assyrian siege of Lachish, from Sennacherib's palace reliefs (British Museum)",
+              el: "Η ασσυριακή πολιορκία της Λαχίς, από τα ανάγλυφα του ανακτόρου του Σενναχειρίμ (Βρετανικό Μουσείο)"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },

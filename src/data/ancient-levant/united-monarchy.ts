@@ -59,7 +59,15 @@ export const UNITED_MONARCHY = {
             en: "First acclaimed king by his own tribe of Judah at Hebron, David outlasted the house of Saul and won over the northern tribes to become king of a united Israel. The Bible presents him as the ideal warrior-king and founder of an enduring dynasty; the 'House of David' inscription at Tel Dan gives independent support for a real dynastic founder.",
             el: "Ανακηρυγμένος πρώτα βασιλιάς από τη δική του φυλή του Ιούδα στη Χεβρών, ο Δαβίδ επέζησε του οίκου του Σαούλ και προσεταιρίστηκε τις βόρειες φυλές για να γίνει βασιλιάς ενός ενωμένου Ισραήλ. Η Βίβλος τον παρουσιάζει ως τον ιδανικό πολεμιστή-βασιλιά και ιδρυτή μιας μακρόβιας δυναστείας· η επιγραφή του «Οίκου του Δαβίδ» στο Τελ Νταν παρέχει ανεξάρτητη στήριξη για έναν πραγματικό ιδρυτή δυναστείας."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/JRSLM%20300116%20Tel%20Dan%20Stele%2001.jpg?width=1024",
+            alt: {
+              en: "The Tel Dan Stele, whose inscription names the 'House of David'",
+              el: "Η Στήλη του Τελ Νταν, της οποίας η επιγραφή αναφέρει τον «Οίκο του Δαβίδ»"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },

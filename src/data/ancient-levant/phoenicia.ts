@@ -84,7 +84,15 @@ export const PHOENICIA = {
             en: "The Phoenician alphabet of twenty-two consonants, spread by merchants along their trade routes, was adopted by the Greeks, who added vowels — the direct ancestor of the Greek and Latin letters used today. It may be the single greatest gift of the Levant to the world: a writing system simple enough for everyone.",
             el: "Το φοινικικό αλφάβητο των είκοσι δύο συμφώνων, που διαδόθηκε από εμπόρους κατά μήκος των εμπορικών τους δρόμων, υιοθετήθηκε από τους Έλληνες, οι οποίοι πρόσθεσαν φωνήεντα — ο άμεσος πρόγονος των ελληνικών και λατινικών γραμμάτων που χρησιμοποιούνται σήμερα. Ίσως είναι το μεγαλύτερο δώρο του Λεβάντε στον κόσμο: ένα σύστημα γραφής αρκετά απλό για όλους."
           },
-          category: "cultural"
+          category: "cultural",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Sarcophagus%20of%20Ahiram%20detail.jpg?width=1024",
+            alt: {
+              en: "The sarcophagus of Ahiram of Byblos, bearing an early Phoenician alphabetic inscription",
+              el: "Η σαρκοφάγος του Αχιράμ της Βύβλου, με πρώιμη φοινικική αλφαβητική επιγραφή"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },

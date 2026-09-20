@@ -58,7 +58,15 @@ export const ISRAEL_AND_PHILISTINES = {
             en: "The pharaoh Merneptah boasted of crushing his enemies in Canaan, among them a group written as 'Israel' and marked as a people rather than a place. Whatever this early Israel was, the stele proves that by around 1208 BCE a people of that name already existed in the hill country of Canaan — the first firm footprint of Israel in history.",
             el: "Ο φαραώ Μερνεπτάχ καυχήθηκε ότι συνέτριψε τους εχθρούς του στη Χαναάν, ανάμεσά τους μια ομάδα γραμμένη ως «Ισραήλ» και σημειωμένη ως λαός παρά ως τόπος. Ό,τι κι αν ήταν αυτό το πρώιμο Ισραήλ, η στήλη αποδεικνύει ότι γύρω στο 1208 π.Χ. ένας λαός με αυτό το όνομα υπήρχε ήδη στην ορεινή χώρα της Χαναάν — το πρώτο σταθερό αποτύπωμα του Ισραήλ στην ιστορία."
           },
-          category: "cultural"
+          category: "cultural",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Merenptah%20Israel%20Stele%20Cairo.jpg?width=1024",
+            alt: {
+              en: "The Merneptah Stele, whose text holds the earliest known mention of Israel",
+              el: "Η Στήλη του Μερνεπτάχ, της οποίας το κείμενο περιέχει την αρχαιότερη γνωστή μνεία του Ισραήλ"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },

@@ -250,9 +250,17 @@ export const HELLENISTIC_JUDEA_MACCABEES = {
           },
           extendedDescription: {
             en: "Kings like John Hyrcanus and Alexander Jannaeus enlarged Judea, conquering neighbours and forcibly converting the Idumeans. Prosperity and power bred division: the Pharisees, Sadducees, and the withdrawn Essenes — perhaps the community behind the Dead Sea Scrolls — offered rival visions of Jewish life that would shape the age of Jesus.",
-            el: "Βασιλείς όπως ο Ιωάννης Υρκανός και ο Αλέξανδρος Ιανναίος διεύρυναν την Ιουδαία, κατακτώντας γείτονες και προσηλυτίζοντας βίαια τους Ιδουμαίους. Η ευημερία και η ισχύς γέννησαν διαίρεση: οι Φαρισαίοι, οι Σαδδουκαίοι και οι απομονωμένοι Εσσαίοι — ίσως η κοινότητα πίσω από τους Χειρόγραφα της Νεκράς Θάλασσας — πρόσφεραν αντίπαλα οράματα της ιουδαϊκής ζωής που θα διαμόρφωναν την εποχή του Ιησού."
+            el: "Βασιλείς όπως ο Ιωάννης Υρκανός και ο Αλέξανδρος Ιανναίος διεύρυναν την Ιουδαία, κατακτώντας γείτονες και προσηλυτίζοντας βίαια τους Ιδουμαίους. Η ευημερία και η ισχύς γέννησαν διαίρεση: οι Φαρισαίοι, οι Σαδδουκαίοι και οι απομονωμένοι Εσσαίοι — ίσως η κοινότητα πίσω από τα Χειρόγραφα της Νεκράς Θάλασσας — πρόσφεραν αντίπαλα οράματα της ιουδαϊκής ζωής που θα διαμόρφωναν την εποχή του Ιησού."
           },
-          category: "religious"
+          category: "religious",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Great%20Isaiah%20Scroll%20MS%20A%20(1QIsa)%20-%20Google%20Art%20Project.jpg?width=1024",
+            alt: {
+              en: "The Great Isaiah Scroll, one of the Dead Sea Scrolls",
+              el: "Ο Μεγάλος Πάπυρος του Ησαΐα, ένα από τα Χειρόγραφα της Νεκράς Θάλασσας"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },

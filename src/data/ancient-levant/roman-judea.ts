@@ -179,7 +179,15 @@ export const ROMAN_JUDEA = {
             en: "After a brutal siege, the Romans took Jerusalem and destroyed the Temple in 70 CE; the spoils, including the golden menorah, were paraded in Rome and carved on the Arch of Titus. The loss of the Temple ended the sacrificial worship at the heart of ancient Judaism — and forced the faith to reinvent itself around the Torah and the synagogue.",
             el: "Έπειτα από μια βάναυση πολιορκία, οι Ρωμαίοι πήραν την Ιερουσαλήμ και κατέστρεψαν τον Ναό το 70 μ.Χ.· τα λάφυρα, μεταξύ τους η χρυσή επτάφωτη λυχνία, παρελάστηκαν στη Ρώμη και λαξεύτηκαν στην Αψίδα του Τίτου. Η απώλεια του Ναού τερμάτισε τη θυσιαστική λατρεία στην καρδιά του αρχαίου Ιουδαϊσμού — και ανάγκασε την πίστη να επανεφεύρει τον εαυτό της γύρω από την Τορά και τη συναγωγή."
           },
-          category: "religious"
+          category: "religious",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Arch%20of%20Titus%20Menorah.png?width=1024",
+            alt: {
+              en: "The menorah carried off from Jerusalem, on the Arch of Titus in Rome",
+              el: "Η επτάφωτη λυχνία που μεταφέρθηκε από την Ιερουσαλήμ, στην Αψίδα του Τίτου στη Ρώμη"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },

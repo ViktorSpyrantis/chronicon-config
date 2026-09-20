@@ -82,7 +82,15 @@ export const RETURN_SECOND_TEMPLE = {
             en: "After years of poverty and delay, the Second Temple was finished around 516 BCE — humbler than Solomon's, and, some elders wept to see, without the lost Ark. Yet it restored the centre of worship and made Jerusalem once more the focus of the Jewish world, a role its Temple would hold for nearly six centuries.",
             el: "Έπειτα από χρόνια φτώχειας και καθυστέρησης, ο Δεύτερος Ναός ολοκληρώθηκε γύρω στο 516 π.Χ. — ταπεινότερος από εκείνον του Σολομώντα και, όπως θρήνησαν βλέποντας κάποιοι γέροντες, χωρίς τη χαμένη Κιβωτό. Ωστόσο αποκατέστησε το κέντρο της λατρείας και έκανε την Ιερουσαλήμ και πάλι το επίκεντρο του ιουδαϊκού κόσμου, ρόλο που ο Ναός της θα κρατούσε για σχεδόν έξι αιώνες."
           },
-          category: "religious"
+          category: "religious",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Jerusalem%20Modell%20BW%202.JPG?width=1024",
+            alt: {
+              en: "A scale model of Jerusalem and the Second Temple in its later, Herodian form",
+              el: "Ομοίωμα της Ιερουσαλήμ και του Δεύτερου Ναού στην ύστερη, ηρωδιανή του μορφή"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },

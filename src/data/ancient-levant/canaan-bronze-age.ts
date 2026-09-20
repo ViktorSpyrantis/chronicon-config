@@ -208,7 +208,15 @@ export const CANAAN_BRONZE_AGE = {
             en: "Ugarit's archives preserve the fullest picture we have of Canaanite religion — the storm god Baal, the high god El, the goddesses Asherah and Anat — in an alphabet of cuneiform signs. These myths, close cousins of stories later echoed and challenged in the Hebrew Bible, reveal the shared religious world from which Israelite faith would emerge.",
             el: "Τα αρχεία της Ουγκαρίτ διασώζουν την πληρέστερη εικόνα που έχουμε για τη χαναναϊκή θρησκεία — τον θεό της καταιγίδας Βάαλ, τον ύψιστο θεό Ελ, τις θεές Ασερά και Ανάτ — σε ένα αλφάβητο σφηνοειδών συμβόλων. Αυτοί οι μύθοι, στενοί συγγενείς ιστοριών που αργότερα αντηχούν και αμφισβητούνται στην Εβραϊκή Βίβλο, αποκαλύπτουν τον κοινό θρησκευτικό κόσμο από τον οποίο θα αναδυόταν η ισραηλιτική πίστη."
           },
-          category: "religious"
+          category: "religious",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Baal%20thunderbolt%20Louvre%20AO15775.jpg?width=1024",
+            alt: {
+              en: "The 'Baal with Thunderbolt' stele, a Canaanite storm god, from Ugarit",
+              el: "Η στήλη «Βάαλ με τον Κεραυνό», χαναναϊκού θεού της καταιγίδας, από την Ουγκαρίτ"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },

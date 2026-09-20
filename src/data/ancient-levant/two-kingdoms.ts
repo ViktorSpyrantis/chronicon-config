@@ -181,7 +181,15 @@ export const TWO_KINGDOMS = {
             en: "The Moabite king Mesha's victory stele boasts of throwing off the yoke of the 'House of Omri' and names the God of Israel, Yahweh. Written in a language almost identical to Hebrew, it is one of the most important inscriptions from the biblical world, a rival kingdom's own account of the endless border wars east of the Jordan.",
             el: "Η στήλη νίκης του Μωαβίτη βασιλιά Μεσά καυχάται ότι αποτίναξε τον ζυγό του «Οίκου του Αμρί» και κατονομάζει τον Θεό του Ισραήλ, τον Γιαχβέ. Γραμμένη σε γλώσσα σχεδόν ταυτόσημη με την εβραϊκή, είναι μία από τις σημαντικότερες επιγραφές του βιβλικού κόσμου, η αφήγηση ενός αντίπαλου βασιλείου για τους ατέλειωτους μεθοριακούς πολέμους ανατολικά του Ιορδάνη."
           },
-          category: "cultural"
+          category: "cultural",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Mesha%20stele%20(Louvre%2C%20AO%205066).jpg?width=1024",
+            alt: {
+              en: "The Mesha Stele (the Moabite Stone), now in the Louvre",
+              el: "Η Στήλη του Μεσά (η Μωαβιτική Λίθος), σήμερα στο Λούβρο"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
