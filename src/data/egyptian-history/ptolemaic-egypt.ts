@@ -154,7 +154,15 @@ export const PTOLEMAIC_EGYPT = {
             en: "The Memphis Decree of 196 BCE, recording priestly honours for Ptolemy V Epiphanes, was inscribed in hieroglyphic, Demotic, and Greek. Rediscovered by French soldiers in 1799 and studied above all by Jean-François Champollion, who announced his decipherment in 1822, the Rosetta Stone became the key that reopened three thousand years of ancient Egyptian writing to the modern world — the founding document of Egyptology.",
             el: "Το Διάταγμα της Μέμφιδος του 196 π.Χ., που κατέγραφε ιερατικές τιμές για τον Πτολεμαίο Ε΄ Επιφανή, χαράχτηκε σε ιερογλυφική, δημοτική και ελληνική γραφή. Ανακαλυμμένη εκ νέου από Γάλλους στρατιώτες το 1799 και μελετημένη πάνω απ' όλα από τον Ζαν-Φρανσουά Σαμπολιόν, ο οποίος ανήγγειλε την αποκρυπτογράφησή του το 1822, η Στήλη της Ροζέτας έγινε το κλειδί που ξανάνοιξε τρεις χιλιάδες χρόνια αρχαίας αιγυπτιακής γραφής στον σύγχρονο κόσμο — το ιδρυτικό έγγραφο της Αιγυπτιολογίας."
           },
-          category: "cultural"
+          category: "cultural",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Rosetta_Stone.JPG?width=1024",
+            alt: {
+              en: "The Rosetta Stone",
+              el: "Η Στήλη της Ροζέτας"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -226,7 +234,15 @@ export const PTOLEMAIC_EGYPT = {
             en: "The naval Battle of Actium in 31 BCE off the coast of Greece destroyed the cause of Antony and Cleopatra. As Octavian advanced on Alexandria the following year, Antony took his own life, and Cleopatra, refusing to be paraded in a Roman triumph, died soon after — by tradition from the bite of an asp. Her son Caesarion was killed, the dynasty extinguished, and Egypt annexed as the personal domain of Octavian, now Augustus. Three thousand years of pharaonic rule had come to an end, and Egypt entered its long Roman age.",
             el: "Η ναυμαχία του Ακτίου το 31 π.Χ. στ' ανοιχτά των ακτών της Ελλάδας κατέστρεψε την υπόθεση του Αντωνίου και της Κλεοπάτρας. Καθώς ο Οκταβιανός προήλαυνε προς την Αλεξάνδρεια τον επόμενο χρόνο, ο Αντώνιος αυτοκτόνησε, και η Κλεοπάτρα, αρνούμενη να διαπομπευθεί σε ρωμαϊκό θρίαμβο, πέθανε λίγο αργότερα — κατά την παράδοση από το δάγκωμα μιας ασπίδας. Ο γιος της Καισαρίων σκοτώθηκε, η δυναστεία εξαλείφθηκε, και η Αίγυπτος προσαρτήθηκε ως προσωπικό κτήμα του Οκταβιανού, τώρα Αυγούστου. Τρεις χιλιάδες χρόνια φαραωνικής διακυβέρνησης είχαν λάβει τέλος, και η Αίγυπτος εισήλθε στη μακρά ρωμαϊκή της εποχή."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Kleopatra-VII.-Altes-Museum-Berlin1.jpg?width=1024",
+            alt: {
+              en: "Portrait bust of Cleopatra VII",
+              el: "Προτομή της Κλεοπάτρας Ζ΄"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     }

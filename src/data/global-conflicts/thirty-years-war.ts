@@ -59,7 +59,15 @@ export const THIRTY_YEARS_WAR = {
             en: "The revolt was the explosion of tensions left unresolved by the Peace of Augsburg of 1555, which had recognised Lutheranism but not Calvinism and had frozen a confessional balance the Counter-Reformation was determined to overturn. The Bohemian estates deposed Ferdinand of Styria and offered their crown to the Calvinist Elector Palatine, Frederick V — the 'Winter King'. What began as a local rising over religious liberty would draw in every great power of Europe.",
             el: "Η εξέγερση ήταν η έκρηξη εντάσεων που είχε αφήσει άλυτες η Ειρήνη του Άουγκσμπουργκ του 1555, η οποία είχε αναγνωρίσει τον λουθηρανισμό αλλά όχι τον καλβινισμό και είχε παγώσει μια ομολογιακή ισορροπία που η Αντιμεταρρύθμιση ήταν αποφασισμένη να ανατρέψει. Οι βοημικές τάξεις καθαίρεσαν τον Φερδινάνδο της Στυρίας και πρόσφεραν το στέμμα τους στον Καλβινιστή εκλέκτορα του Παλατινάτου, Φρειδερίκο Ε΄ — τον «Χειμωνιάτικο Βασιλιά». Ό,τι άρχισε ως τοπική εξέγερση για τη θρησκευτική ελευθερία θα παρέσυρε κάθε μεγάλη δύναμη της Ευρώπης."
           },
-          category: "religious"
+          category: "religious",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Prager_Fenstersturz_Wahrhafftige_Zeitung_aus_Prag.JPG?width=1024",
+            alt: {
+              en: "The Defenestration of Prague, 1618",
+              el: "Ο δεφενεστρασμός της Πράγας, 1618"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     },

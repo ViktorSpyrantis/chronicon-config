@@ -84,7 +84,15 @@ export const REVOLUTION_CIVIL_WAR = {
             en: "The April Theses rejected any cooperation with the Provisional Government and committed the Bolsheviks to a second, socialist revolution. Lenin's slogans — 'Peace, Land, and Bread' and 'All Power to the Soviets' — gave the party a clear and radical program as popular patience with the war wore thin.",
             el: "Οι Θέσεις του Απριλίου απέρριπταν κάθε συνεργασία με την Προσωρινή Κυβέρνηση και δέσμευαν τους Μπολσεβίκους σε μια δεύτερη, σοσιαλιστική επανάσταση. Τα συνθήματα του Λένιν — «Ειρήνη, Γη και Ψωμί» και «Όλη η εξουσία στα σοβιέτ» — έδωσαν στο κόμμα ένα σαφές και ριζοσπαστικό πρόγραμμα καθώς η λαϊκή υπομονή με τον πόλεμο εξαντλούνταν."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Lenin_in_1920_(cropped).jpg?width=1024",
+            alt: {
+              en: "Vladimir Lenin",
+              el: "Ο Βλαντίμιρ Λένιν"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     },

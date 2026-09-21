@@ -106,7 +106,15 @@ export const PREHISTORIC_ROMAN_BRITAIN = {
             en: "Around 2500 BC the famous sarsen circle and bluestone settings would be erected, the bluestones quarried in the Preseli Hills of Wales more than 240 km away. Stonehenge sits at the heart of a vast ritual landscape that includes Durrington Walls, the Avenue, and dozens of round barrows — the long-lived ceremonial centre of late Neolithic Britain.",
             el: "Γύρω στο 2500 π.Χ. θα στηθούν ο διάσημος κύκλος των σάρσεν και οι μπλε λίθοι, οι τελευταίοι μεταφερμένοι από τους λόφους του Πρεσέλι της Ουαλίας, περισσότερο από 240 χλμ. μακριά. Το Στόουνχεντζ βρίσκεται στην καρδιά ενός τεράστιου τελετουργικού τοπίου που περιλαμβάνει το Ντάριντον Γουόλς, τη Λεωφόρο και δεκάδες κυκλικούς τύμβους — το πολύχρονο τελετουργικό κέντρο της ύστερης νεολιθικής Βρετανίας."
           },
-          category: "religious"
+          category: "religious",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Stonehenge2007_07_30.jpg?width=1024",
+            alt: {
+              en: "The prehistoric monument of Stonehenge",
+              el: "Το προϊστορικό μνημείο του Στόουνχεντζ"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -274,7 +282,15 @@ export const PREHISTORIC_ROMAN_BRITAIN = {
             en: "Hadrian's Wall, today the most iconic Roman frontier in northern Europe, was garrisoned by some 9,000 auxiliary troops in seventeen forts and dozens of milecastles. It is less a defensive line than a controlled customs barrier — a statement of imperial limits at a moment when Hadrian was consolidating Trajan's overstretched conquests. Twenty years later Antoninus Pius would push the line north to the Forth-Clyde isthmus and build the turf Antonine Wall, only for it to be abandoned within a generation.",
             el: "Το Τείχος του Αδριανού, σήμερα η πιο εμβληματική ρωμαϊκή μεθόριος στη βόρεια Ευρώπη, στελεχωνόταν από περίπου 9.000 βοηθητικούς στρατιώτες σε δεκαεπτά οχυρά και δεκάδες μιλιακά καστράκια. Είναι λιγότερο αμυντική γραμμή και περισσότερο ελεγχόμενο τελωνειακό σύνορο — μια δήλωση αυτοκρατορικών ορίων τη στιγμή που ο Αδριανός εδραίωνε τις υπερεκτεταμένες κατακτήσεις του Τραϊανού. Είκοσι χρόνια αργότερα ο Αντωνίνος ο Ευσεβής θα προωθούσε τη γραμμή βορειότερα, στον ισθμό Φορθ-Κλάιντ, χτίζοντας το χωμάτινο Τείχος του Αντωνίνου, που όμως θα εγκαταλειπόταν μέσα σε μία γενιά."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Hadrians_Wall_map.svg?width=1024",
+            alt: {
+              en: "Map of Hadrian's Wall across northern Britain",
+              el: "Χάρτης του Τείχους του Αδριανού στη βόρεια Βρετανία"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     },

@@ -106,7 +106,15 @@ export const ANDALUS_RECONQUISTA = {
             en: "Under Abd al-Rahman III and his son al-Hakam II, Córdoba grew to perhaps half a million inhabitants — the largest city in Western Europe — and acquired paved streets, public baths, and a library of four hundred thousand volumes. The palatine city of Madinat al-Zahra, founded in 936 and built in white marble against the slope of the Sierra Morena, dazzled embassies from Constantinople and the Holy Roman Empire alike. The age of the Cordoban caliphate would be remembered as al-Andalus's golden century.",
             el: "Υπό τον Αμπντ αρ-Ραχμάν Γ΄ και τον γιο του αλ-Χακάμ Β΄, η Κόρδοβα έφτασε ίσως το μισό εκατομμύριο κατοίκους — η μεγαλύτερη πόλη της Δυτικής Ευρώπης — και απέκτησε πλακόστρωτους δρόμους, δημόσια λουτρά και βιβλιοθήκη τετρακοσίων χιλιάδων τόμων. Η ανακτορική πόλη Μαντινάτ αλ-Ζάχρα, που ιδρύθηκε το 936 και χτίστηκε με λευκό μάρμαρο στις πλαγιές της Σιέρα Μορένα, εντυπωσίαζε πρεσβείες από την Κωνσταντινούπολη και από την Αγία Ρωμαϊκή Αυτοκρατορία εξίσου. Ο αιώνας του χαλιφάτου της Κόρδοβας θα θυμόταν ως ο χρυσός αιώνας της αλ-Άνδαλους."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Mezquita_de_C%C3%B3rdoba_desde_el_aire_(C%C3%B3rdoba,_Espa%C3%B1a).jpg?width=1024",
+            alt: {
+              en: "The Great Mosque of Córdoba",
+              el: "Το Μεγάλο Τζαμί της Κόρδοβα"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -370,7 +378,15 @@ export const ANDALUS_RECONQUISTA = {
             en: "Tradition has Boabdil weeping as he turned to look back at Granada from the pass that still bears the name El Suspiro del Moro — the Moor's Sigh — and his mother saying, 'Weep like a woman for what you could not defend as a man.' On 31 March the monarchs signed the Alhambra Decree expelling the Jews of their kingdoms; on 17 April they signed the Capitulations of Santa Fe with a Genoese mariner named Cristoforo Colombo, who would sail from Palos on 3 August and sight the Bahamas on 12 October. The medieval history of Spain ended, and the modern history of the world began, in a single twelvemonth.",
             el: "Η παράδοση θέλει τον Μποαμπντίλ να δακρύζει καθώς γυρίζει να κοιτάξει για τελευταία φορά τη Γρανάδα από το πέρασμα που ακόμη ονομάζεται El Suspiro del Moro — ο Στεναγμός του Μαυριτανού — και τη μητέρα του να του λέει: «Κλαις σαν γυναίκα γι’ αυτό που δεν μπόρεσες να υπερασπιστείς σαν άντρας». Στις 31 Μαρτίου οι μονάρχες υπέγραψαν το Διάταγμα της Αλάμπρας για την εκδίωξη των Εβραίων των βασιλείων τους· στις 17 Απριλίου υπέγραψαν τις Συνθηκολογήσεις της Σάντα Φε με έναν Γενουάτη ναυτικό ονόματι Κριστόφορο Κολόμβο, ο οποίος θα απέπλεε από το Πάλος στις 3 Αυγούστου και θα αντίκριζε τις Μπαχάμες στις 12 Οκτωβρίου. Η μεσαιωνική ιστορία της Ισπανίας τελείωσε και η νεότερη ιστορία του κόσμου άρχισε μέσα σε ένα δωδεκάμηνο."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Dawn_Charles_V_Palace_Alhambra_Granada_Andalusia_Spain.jpg?width=1024",
+            alt: {
+              en: "The Alhambra in Granada",
+              el: "Η Αλάμπρα στη Γρανάδα"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     }

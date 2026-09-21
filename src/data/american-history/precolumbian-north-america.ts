@@ -162,7 +162,15 @@ export const PRECOLUMBIAN_NORTH_AMERICA = {
             en: "The Mississippian world stretched across the Southeast, its chiefdoms bound by maize agriculture, a shared iconography, and towering earthen pyramids. Cahokia declined by the fifteenth century, its causes still uncertain.",
             el: "Ο κόσμος των Μισισίπι εκτεινόταν σε ολόκληρο τον Νοτιοανατολικό χώρο, με τα αρχηγάτα του συνδεδεμένα από την καλλιέργεια καλαμποκιού, μια κοινή εικονογραφία και επιβλητικές χωμάτινες πυραμίδες. Το Καχόκια παρήκμασε ως τον δέκατο πέμπτο αιώνα, με τα αίτια ακόμη αβέβαια."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Monks_Mound_-_Summer_2024.jpg?width=1024",
+            alt: {
+              en: "Monks Mound, the great earthwork at Cahokia",
+              el: "Ο τύμβος Μονκς Μάουντ στην Καχόκια"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     },

@@ -226,7 +226,15 @@ export const NORMAN_MEDIEVAL_ENGLAND = {
             en: "Magna Carta — the Great Charter — was a peace treaty that immediately failed: within months John repudiated it and the barons invited Prince Louis of France to invade. But after John's death from dysentery in 1216, the regents of his nine-year-old son Henry III reissued the charter as a foundational document. Three clauses, including the prohibition on imprisonment without lawful judgement, remain on the English statute book to this day. Across eight centuries it became the talismanic text of Anglo-American constitutionalism.",
             el: "Η Magna Carta — ο Μέγας Χάρτης — ήταν μια συνθήκη ειρήνης που απέτυχε αμέσως: μέσα σε μήνες, ο Ιωάννης την απέρριψε και οι βαρώνοι κάλεσαν τον πρίγκιπα Λουδοβίκο της Γαλλίας να εισβάλει. Αλλά μετά τον θάνατο του Ιωάννη από δυσεντερία το 1216, οι αντιβασιλείς του εννιάχρονου γιου του Ερρίκου Γ΄ επανεξέδωσαν τον χάρτη ως θεμελιώδες έγγραφο. Τρεις παράγραφοι, μεταξύ τους η απαγόρευση φυλάκισης χωρίς νόμιμη κρίση, παραμένουν στο αγγλικό νομοθετικό σώμα μέχρι σήμερα. Στους οκτώ αιώνες που ακολούθησαν, έγινε το σύμβολο του αγγλοαμερικανικού συνταγματισμού."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Magna_Carta_(British_Library_Cotton_MS_Augustus_II.106).jpg?width=1024",
+            alt: {
+              en: "The Magna Carta (1215)",
+              el: "Η Μάγκνα Κάρτα (1215)"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     },

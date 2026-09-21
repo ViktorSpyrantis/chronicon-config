@@ -609,7 +609,15 @@ export const WW2 = {
             en: "Some 140,000 people in Hiroshima and 70,000 in Nagasaki died from blast, fire, and radiation by the year's end. Between the two strikes, on 9 August, the Soviet Union declared war on Japan and invaded Manchuria with 1.5 million troops, destroying the Kwantung Army in two weeks. President Truman, having succeeded Roosevelt in April, hoped the bomb would end the war without the projected million-casualty invasion of the home islands. Hirohito's broadcast — the first time the Japanese people had heard the imperial voice — spoke of 'enduring the unendurable'.",
             el: "Περίπου 140.000 άνθρωποι στη Χιροσίμα και 70.000 στο Ναγκασάκι πέθαναν από έκρηξη, φωτιά και ακτινοβολία μέχρι το τέλος του έτους. Ανάμεσα στις δύο επιθέσεις, στις 9 Αυγούστου, η Σοβιετική Ένωση κήρυξε τον πόλεμο στην Ιαπωνία και εισέβαλε στη Μαντζουρία με 1,5 εκατομμύριο στρατιώτες, εξοντώνοντας τη Στρατιά Κβαντούνγκ σε δύο εβδομάδες. Ο πρόεδρος Τρούμαν, που είχε διαδεχθεί τον Ρούζβελτ τον Απρίλιο, ήλπιζε ότι η βόμβα θα τερμάτιζε τον πόλεμο χωρίς την προβλεπόμενη εισβολή στα κύρια νησιά με το ένα εκατομμύριο απώλειες. Η εκπομπή του Χιροχίτο — η πρώτη φορά που ο ιαπωνικός λαός άκουγε την αυτοκρατορική φωνή — μίλησε για «αντοχή στο ανυπόφορο»."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Atomic_bombing_of_Japan.jpg?width=1024",
+            alt: {
+              en: "Mushroom cloud from the atomic bombing of Japan, 1945",
+              el: "Το πυρηνικό νέφος από τον ατομικό βομβαρδισμό της Ιαπωνίας, 1945"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     },

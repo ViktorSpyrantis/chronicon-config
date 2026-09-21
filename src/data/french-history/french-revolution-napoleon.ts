@@ -84,7 +84,15 @@ export const FRENCH_REVOLUTION_NAPOLEON = {
             en: "The medieval fortress held only seven prisoners — four forgers, two madmen, an aristocratic libertine — but it was the symbol of arbitrary detention by lettre de cachet. The next day Louis XVI noted in his hunting diary the single word: 'rien'. The duc de La Rochefoucauld is said to have corrected him: 'Sire, this is not a revolt — it is a revolution.' Bailly was made mayor of Paris and Lafayette commander of the new National Guard.",
             el: "Το μεσαιωνικό φρούριο κρατούσε μόνο επτά κρατούμενους — τέσσερις πλαστογράφους, δύο τρελούς, έναν αριστοκράτη λιμπερτίνο — αλλά ήταν το σύμβολο της αυθαίρετης κράτησης με lettre de cachet. Την επόμενη ημέρα ο Λουδοβίκος ΙΣΤ΄ σημείωσε στο κυνηγετικό του ημερολόγιο μία μόνο λέξη: «rien». Ο δούκας ντε Λα Ροσφουκώ λέγεται ότι τον διόρθωσε: «Σιρ, δεν είναι εξέγερση — είναι επανάσταση». Ο Μπαγύ έγινε δήμαρχος του Παρισιού και ο Λαφαγέτ διοικητής της νέας Εθνοφρουράς."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Anonymous_-_Prise_de_la_Bastille.jpg?width=1024",
+            alt: {
+              en: "The Storming of the Bastille",
+              el: "Η άλωση της Βαστίλης"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -658,7 +666,15 @@ export const FRENCH_REVOLUTION_NAPOLEON = {
             en: "On 2 December, in the cathedral of Notre-Dame de Paris before Pope Pius VII (brought up from Rome for the occasion), Napoleon Bonaparte places the laurel crown on his own head and then crowns Joséphine. The Empire is proclaimed. David's twenty-foot canvas would record the scene for the Louvre.",
             el: "Στις 2 Δεκεμβρίου, στον καθεδρικό της Notre-Dame de Paris ενώπιον του πάπα Πίου Ζ΄ (που έφεραν από τη Ρώμη για την περίσταση), ο Ναπολέων Βοναπάρτης θέτει το στέμμα της δάφνης στο ίδιο του το κεφάλι και μετά στέφει τη Ζοζεφίνα. Η Αυτοκρατορία ανακηρύσσεται. Ο εξάμετρος καμβάς του Νταβίντ θα κατέγραφε τη σκηνή για το Λούβρο."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Jacques-Louis_David_-_The_Coronation_of_Napoleon_(1805-1807).jpg?width=1024",
+            alt: {
+              en: "The Coronation of Napoleon, by Jacques-Louis David",
+              el: "Η στέψη του Ναπολέοντα, έργο του Ζακ-Λουί Νταβίντ"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     },

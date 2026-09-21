@@ -226,7 +226,15 @@ export const SOVIET_UNION = {
             en: "After Stalingrad and the vast tank battle at Kursk later in 1943, the Red Army seized the initiative for good. At a cost of some 27 million Soviet dead, it drove the Wehrmacht back across Eastern Europe toward Berlin.",
             el: "Μετά το Στάλινγκραντ και την τεράστια μάχη αρμάτων στο Κουρσκ αργότερα το 1943, ο Κόκκινος Στρατός πήρε οριστικά την πρωτοβουλία. Με κόστος περίπου 27 εκατομμύρια σοβιετικούς νεκρούς, έσπρωξε τη Βέρμαχτ πίσω μέσα από την Ανατολική Ευρώπη προς το Βερολίνο."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%A0%D0%B0%D1%81%D1%87%D0%B5%D1%82_%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%BE%D0%B9_76,2-%D0%BC%D0%BC_%D0%BF%D1%83%D1%88%D0%BA%D0%B8_%D0%97%D0%B8%D0%A1-3_%D0%B2%D0%B5%D0%B4%D0%B5%D1%82_%D0%BE%D0%B3%D0%BE%D0%BD%D1%8C_%D0%B2_%D0%A1%D1%82%D0%B0%D0%BB%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D0%B5._%D0%9D%D0%BE%D1%8F%D0%B1%D1%80%D1%8C_1942_%D0%B3.jpg?width=1024",
+            alt: {
+              en: "A Soviet gun crew in action during the Battle of Stalingrad, 1942",
+              el: "Πλήρωμα σοβιετικού πυροβόλου εν δράσει κατά τη μάχη του Στάλινγκραντ, 1942"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -346,7 +354,15 @@ export const SOVIET_UNION = {
             en: "The space race showcased Soviet technological prowess and prestige. The same year, to stem the flight of refugees, the East German regime built the Berlin Wall, the starkest symbol of the divided Cold War world.",
             el: "Η κούρσα του διαστήματος ανέδειξε τη σοβιετική τεχνολογική ικανότητα και κύρος. Την ίδια χρονιά, για να ανακόψει τη φυγή προσφύγων, το ανατολικογερμανικό καθεστώς έχτισε το Τείχος του Βερολίνου, το πιο έντονο σύμβολο του διαιρεμένου κόσμου του Ψυχρού Πολέμου."
           },
-          category: "cultural"
+          category: "cultural",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Yuri_Gagarin_with_awards_(cropped)_2.jpg?width=1024",
+            alt: {
+              en: "Yuri Gagarin, the first human in space",
+              el: "Ο Γιούρι Γκαγκάριν, ο πρώτος άνθρωπος στο διάστημα"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     },

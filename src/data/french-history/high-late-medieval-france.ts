@@ -478,7 +478,15 @@ export const HIGH_LATE_MEDIEVAL_FRANCE = {
             en: "Captured at Compiègne by the Burgundians in 1430, sold to the English, tried at Rouen by a court of pro-English French clergy under bishop Pierre Cauchon, Joan was burned in the market-place of Rouen on 30 May 1431, aged nineteen. A second trial of 1456 quashed the verdict; the Catholic Church canonised her in 1920. She would be remembered as the saint who saved France, made by enemies and friends alike into the symbol of national resistance.",
             el: "Συλληφθείσα στο Κομπιέν από τους Βουργουνδούς το 1430, πωλημένη στους Άγγλους, δικασμένη στη Ρουέν από δικαστήριο φιλοαγγλικού γαλλικού κλήρου υπό τον επίσκοπο Πιερ Κοσόν, η Ιωάννα κάηκε στην αγορά της Ρουέν στις 30 Μαΐου 1431, σε ηλικία δεκαεννέα ετών. Η δεύτερη δίκη του 1456 ακύρωσε την ετυμηγορία· η Καθολική Εκκλησία την αγιοποίησε το 1920. Θα παραμείνει η αγία που έσωσε τη Γαλλία, μετατρεπόμενη από εχθρούς και φίλους εξίσου σε σύμβολο της εθνικής αντίστασης."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Joan_of_Arc_miniature_graded.jpg?width=1024",
+            alt: {
+              en: "Joan of Arc",
+              el: "Η Ιωάννα της Λωρραίνης"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     },

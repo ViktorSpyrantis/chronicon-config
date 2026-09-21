@@ -82,7 +82,15 @@ export const PREHISTORIC_ANCIENT_IBERIA = {
             en: "Recent uranium-thorium dates push the earliest red-disc symbols at Altamira and at nearby El Castillo to more than 40,000 years ago — old enough to have been made by Neanderthals. The Cantabrian coast, with caves such as Tito Bustillo, La Garma, and Covaciella, preserves one of the densest concentrations of Palaeolithic parietal art in the world.",
             el: "Πρόσφατες χρονολογήσεις ουρανίου-θορίου τοποθετούν τα παλαιότερα κόκκινα σύμβολα-δίσκους του Αλταμίρα και του γειτονικού Ελ Καστίγιο σε πάνω από 40.000 χρόνια πριν — αρκετά παλιά ώστε να έχουν γίνει από Νεάντερταλ. Οι κανταβρικές ακτές, με σπήλαια όπως το Τίτο Μπουστίγιο, η Λα Γκάρμα και η Κοβατσιέγια, διατηρούν μία από τις πυκνότερες συγκεντρώσεις παλαιολιθικής βραχογραφίας στον κόσμο."
           },
-          category: "cultural"
+          category: "cultural",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/9_Bisonte_Magdaleniense_pol%C3%ADcromo.jpg?width=1024",
+            alt: {
+              en: "The prehistoric cave paintings of Altamira",
+              el: "Οι προϊστορικές βραχογραφίες της Αλταμίρα"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     },

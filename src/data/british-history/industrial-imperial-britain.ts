@@ -226,7 +226,15 @@ export const INDUSTRIAL_IMPERIAL_BRITAIN = {
             en: "Trafalgar ended for ever Napoleon's hope of invading Britain. The Royal Navy was now uncontested at sea, and would remain so for over a century — the foundation of the Pax Britannica. Nelson's signal before the battle — 'England expects that every man will do his duty' — and his dying words, 'Thank God, I have done my duty', became sacred texts of national memory. His body was preserved in a cask of brandy for the journey home and buried beneath the dome of St Paul's, where his sarcophagus had originally been carved for Cardinal Wolsey.",
             el: "Το Τραφάλγκαρ τερμάτισε για πάντα την ελπίδα του Ναπολέοντα να εισβάλει στη Βρετανία. Το Βασιλικό Ναυτικό ήταν πλέον αδιαμφισβήτητο στη θάλασσα και θα παρέμενε για περισσότερο από έναν αιώνα — το θεμέλιο της Pax Britannica. Το σήμα του Νέλσον πριν τη μάχη — «Η Αγγλία περιμένει ότι κάθε άνδρας θα κάνει το καθήκον του» — και τα τελευταία του λόγια, «Δόξα τω Θεώ, έκανα το καθήκον μου», έγιναν ιερά κείμενα της εθνικής μνήμης. Το σώμα του διατηρήθηκε σε βαρέλι κονιάκ για το ταξίδι της επιστροφής και θάφτηκε κάτω από τον τρούλο του Αγίου Παύλου, όπου η σαρκοφάγος του είχε αρχικά λαξευτεί για τον καρδινάλιο Γούλσι."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/The_Battle_of_Trafalgar_by_William_Clarkson_Stanfield.jpg?width=1024",
+            alt: {
+              en: "The Battle of Trafalgar, by Clarkson Stanfield",
+              el: "Η ναυμαχία του Τραφάλγκαρ, έργο του Κλάρκσον Στάνφιλντ"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -394,7 +402,15 @@ export const INDUSTRIAL_IMPERIAL_BRITAIN = {
             en: "The Exhibition was the apotheosis of Victorian self-confidence: half the exhibits were British, demonstrating that the workshop of the world ran on coal, iron, cotton, and steam. The profits funded the museums of South Kensington — the V&A, the Science Museum, the Natural History Museum — and the Royal Albert Hall. The Crystal Palace itself was dismantled and re-erected at Sydenham, where it burned down in 1936. The mid-Victorian decades that followed were a peak of British prosperity, free trade, and self-belief — golden years which a perceptive few already feared could not last.",
             el: "Η Έκθεση υπήρξε η αποθέωση της βικτωριανής αυτοπεποίθησης: τα μισά εκθέματα ήταν βρετανικά, αποδεικνύοντας ότι το εργαστήριο του κόσμου λειτουργούσε με κάρβουνο, σίδερο, βαμβάκι και ατμό. Τα κέρδη χρηματοδότησαν τα μουσεία του Νότιου Κένσινγκτον — το V&A, το Μουσείο Επιστημών, το Μουσείο Φυσικής Ιστορίας — και τη Βασιλική Αίθουσα Άλμπερτ. Το ίδιο το Κρυστάλλινο Παλάτι αποσυναρμολογήθηκε και ανεγέρθηκε στο Σύντενχαμ, όπου κάηκε το 1936. Οι μεσοβικτωριανές δεκαετίες που ακολούθησαν ήταν κορύφωση της βρετανικής ευημερίας, του ελεύθερου εμπορίου και της αυτοπεποίθησης — χρυσά χρόνια που λίγοι οξυδερκείς ήδη φοβούνταν ότι δεν μπορούσαν να διαρκέσουν."
           },
-          category: "cultural"
+          category: "cultural",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Crystal_Palace_General_view_from_Water_Temple.jpg?width=1024",
+            alt: {
+              en: "The Crystal Palace, home of the Great Exhibition of 1851",
+              el: "Το Κρύσταλλο Παλάτι, όπου φιλοξενήθηκε η Μεγάλη Έκθεση του 1851"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     },

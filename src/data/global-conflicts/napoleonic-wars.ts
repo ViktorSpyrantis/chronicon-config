@@ -356,7 +356,15 @@ export const NAPOLEONIC_WARS = {
             en: "Napoleon abdicated for the second time on 22 June and surrendered to the British aboard HMS Bellerophon, throwing himself, as he put it, upon the mercy of his most constant enemy. There would be no Elba this time: the allies exiled him to Saint Helena, a volcanic rock in the South Atlantic, where he died in 1821. The Second Treaty of Paris in November 1815 and the settlement of the Congress of Vienna restored the balance of Europe and opened a century with no general war.",
             el: "Ο Ναπολέων παραιτήθηκε για δεύτερη φορά στις 22 Ιουνίου και παραδόθηκε στους Βρετανούς επί του HMS Bellerophon, ρίχνοντας τον εαυτό του, όπως το έθεσε, στο έλεος του πιο σταθερού του εχθρού. Δεν θα υπήρχε Έλβα αυτή τη φορά: οι σύμμαχοι τον εξόρισαν στην Αγία Ελένη, έναν ηφαιστειογενή βράχο στον Νότιο Ατλαντικό, όπου πέθανε το 1821. Η Δεύτερη Συνθήκη των Παρισίων τον Νοέμβριο του 1815 και ο διακανονισμός του Συνεδρίου της Βιέννης αποκατέστησαν την ισορροπία της Ευρώπης και άνοιξαν έναν αιώνα χωρίς γενικευμένο πόλεμο."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Battle_of_Waterloo_1815.PNG?width=1024",
+            alt: {
+              en: "The Battle of Waterloo",
+              el: "Η μάχη του Βατερλώ"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     }

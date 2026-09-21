@@ -154,7 +154,15 @@ export const PUNIC_WARS = {
             en: "From the Carthaginian base in Spain, the young general Hannibal Barca struck at Rome by the one road it never guarded. In an epic autumn march he brought an army — and its elephants — across the Alps, losing thousands to cold, rockfall and ambush. Descending into Italy, he defeated the Romans at the Trebia and Lake Trasimene and carried the war into the heart of the enemy's homeland.",
             el: "Από την καρχηδονιακή βάση στην Ισπανία, ο νεαρός στρατηγός Αννίβας Βάρκας χτύπησε τη Ρώμη από τον μόνο δρόμο που εκείνη δεν φύλαγε ποτέ. Σε μια επική φθινοπωρινή πορεία έφερε έναν στρατό — και τους ελέφαντές του — πάνω από τις Άλπεις, χάνοντας χιλιάδες από το κρύο, τις κατολισθήσεις και τις ενέδρες. Κατεβαίνοντας στην Ιταλία, νίκησε τους Ρωμαίους στην Τρεβία και τη Λίμνη Τρασιμένη και μετέφερε τον πόλεμο στην καρδιά της πατρίδας του εχθρού."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Hannibal_Barca_bust_from_Capua_photo.jpg?width=1024",
+            alt: {
+              en: "Bust traditionally identified as Hannibal",
+              el: "Προτομή που παραδοσιακά ταυτίζεται με τον Αννίβα"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     },

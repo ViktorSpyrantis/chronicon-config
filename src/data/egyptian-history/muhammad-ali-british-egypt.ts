@@ -130,7 +130,15 @@ export const MUHAMMAD_ALI_BRITISH_EGYPT = {
             en: "The Khedive Ismail, grandson of Muhammad Ali, sought to make Egypt 'part of Europe,' lavishing fortunes on railways, schools, irrigation, and the rebuilding of Cairo. The crowning achievement was the Suez Canal, built by Ferdinand de Lesseps's company and opened in 1869 amid glittering festivities. But the canal and Ismail's ambitions were funded by ruinous foreign loans; mounting debt would soon deliver Egypt's finances, and then its sovereignty, into European hands.",
             el: "Ο Χεδίβης Ισμαήλ, εγγονός του Μωχάμεντ Άλι, επιδίωξε να κάνει την Αίγυπτο «μέρος της Ευρώπης», ξοδεύοντας περιουσίες σε σιδηροδρόμους, σχολεία, άρδευση και την ανοικοδόμηση του Καΐρου. Το επιστέγασμα ήταν η Διώρυγα του Σουέζ, χτισμένη από την εταιρεία του Φερδινάνδου ντε Λεσσέψ και εγκαινιασμένη το 1869 μέσα σε λαμπρές εορτές. Όμως η διώρυγα και οι φιλοδοξίες του Ισμαήλ χρηματοδοτήθηκαν από καταστροφικά ξένα δάνεια· το αυξανόμενο χρέος σύντομα θα παρέδιδε τα οικονομικά της Αιγύπτου, και κατόπιν την κυριαρχία της, σε ευρωπαϊκά χέρια."
           },
-          category: "cultural"
+          category: "cultural",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Iss016e019375.jpg?width=1024",
+            alt: {
+              en: "The Suez Canal seen from orbit",
+              el: "Η Διώρυγα του Σουέζ από τροχιά"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     },

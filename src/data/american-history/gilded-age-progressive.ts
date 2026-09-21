@@ -54,7 +54,15 @@ export const GILDED_AGE_PROGRESSIVE = {
             en: "The joining of the rails at Promontory Summit links the coasts, binding the nation together and accelerating settlement of the West — often at Native peoples' expense.",
             el: "Η ένωση των σιδηροτροχιών στο Πρόμοντορι Σάμιτ συνδέει τις ακτές, ενώνοντας το έθνος και επιταχύνοντας τον εποικισμό της Δύσης — συχνά εις βάρος των ιθαγενών λαών."
           },
-          category: "cultural"
+          category: "cultural",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/East_and_West_Shaking_hands_at_the_laying_of_last_rail_Union_Pacific_Railroad_-_Restoration.jpg?width=1024",
+            alt: {
+              en: "The Golden Spike ceremony at Promontory Summit, 1869",
+              el: "Η τελετή του Χρυσού Καρφιού στο Προμοντόρι Σάμιτ, 1869"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     },

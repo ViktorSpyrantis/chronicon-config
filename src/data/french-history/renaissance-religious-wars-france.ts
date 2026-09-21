@@ -306,7 +306,15 @@ export const RENAISSANCE_RELIGIOUS_WARS_FRANCE = {
             en: "Modern estimates put the Paris dead at two to three thousand and the provincial total at perhaps ten thousand. The massacre radicalised both confessions: the Huguenots embraced the resistance theories of the so-called monarchomachs (Hotman's Francogallia, Mornay's Vindiciae contra tyrannos); Catholic militants would soon organise the Holy League. Henri of Navarre, the bridegroom, saved his life by abjuring his faith and remained a virtual prisoner at court for nearly four years.",
             el: "Σύγχρονες εκτιμήσεις τοποθετούν τους νεκρούς του Παρισιού σε δύο με τρεις χιλιάδες και το σύνολο των επαρχιών σε ίσως δέκα χιλιάδες. Η σφαγή ριζοσπαστικοποίησε και τις δύο ομολογίες: οι Ουγενότοι αγκάλιασαν τις θεωρίες αντίστασης των λεγόμενων monarchomachs (η Francogallia του Ότμαν, οι Vindiciae contra tyrannos του Μορνέ)· οι Καθολικοί μαχητικοί θα οργάνωναν σύντομα την Ιερή Λίγκα. Ο Ερρίκος της Ναβάρρας, ο γαμπρός, έσωσε τη ζωή του απαρνούμενος την πίστη του και παρέμεινε ουσιαστικά κρατούμενος στην αυλή για σχεδόν τέσσερα χρόνια."
           },
-          category: "religious"
+          category: "religious",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/La_masacre_de_San_Bartolom%C3%A9,_por_Fran%C3%A7ois_Dubois.jpg?width=1024",
+            alt: {
+              en: "The St. Bartholomew's Day Massacre, by François Dubois",
+              el: "Η σφαγή του Αγίου Βαρθολομαίου, έργο του Φρανσουά Ντιμπουά"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     },

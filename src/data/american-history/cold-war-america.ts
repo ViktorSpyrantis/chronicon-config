@@ -174,7 +174,15 @@ export const COLD_WAR_AMERICA = {
             en: "Neil Armstrong becomes the first human to walk on the Moon, a triumph of the space race and a defining moment of American technological achievement.",
             el: "Ο Νιλ Άρμστρονγκ γίνεται ο πρώτος άνθρωπος που περπατά στη Σελήνη, ένας θρίαμβος του διαστημικού αγώνα και μια καθοριστική στιγμή του αμερικανικού τεχνολογικού επιτεύγματος."
           },
-          category: "cultural"
+          category: "cultural",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/A_Man_on_the_Moon,_AS11-40-5903_(cropped).jpg?width=1024",
+            alt: {
+              en: "Astronaut Buzz Aldrin on the Moon, 1969",
+              el: "Ο αστροναύτης Μπαζ Όλντριν στη Σελήνη, 1969"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     },

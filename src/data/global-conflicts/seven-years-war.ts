@@ -101,7 +101,15 @@ export const SEVEN_YEARS_WAR = {
             en: "On 23 June, on the field of Plassey, Robert Clive and some 3,000 men defeat the Nawab's army of 50,000 — thanks less to arms than to the treachery of the Nawab's commander Mir Jafar, bought in advance. Bengal, the richest province of India, passes under the control of the East India Company. It is the beginning of British rule in India.",
             el: "Στις 23 Ιουνίου, στο πεδίο του Πλάσσεϋ, ο Ρόμπερτ Κλάιβ και περίπου 3.000 άνδρες νικούν τον στρατό των 50.000 του Ναμπάμπ — χάρη λιγότερο στα όπλα και περισσότερο στην προδοσία του διοικητή του Ναμπάμπ, Μιρ Τζαφάρ, εξαγορασμένου εκ των προτέρων. Η Βεγγάλη, η πλουσιότερη επαρχία της Ινδίας, περνά υπό τον έλεγχο της Εταιρείας των Ανατολικών Ινδιών. Είναι η αρχή της βρετανικής κυριαρχίας στην Ινδία."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Lord_Clive_meeting_with_Mir_Jafar_after_the_Battle_of_Plassey.jpg?width=1024",
+            alt: {
+              en: "Robert Clive meets Mir Jafar after the Battle of Plassey",
+              el: "Ο Ρόμπερτ Κλάιβ συναντά τον Μιρ Τζαφάρ μετά τη μάχη του Πλάσεϊ"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     },

@@ -58,7 +58,15 @@ export const TSARDOM_OF_RUSSIA = {
             en: "The title tsar derived from the Latin 'caesar' and signaled that Moscow now claimed the heritage of the Orthodox emperors of Constantinople. The coronation transformed a grand principality into a tsardom and gave ideological form to a century of Muscovite expansion and centralization.",
             el: "Ο τίτλος «τσάρος» προερχόταν από το λατινικό «caesar» και σηματοδοτούσε ότι η Μόσχα διεκδικούσε πλέον την κληρονομιά των ορθόδοξων αυτοκρατόρων της Κωνσταντινούπολης. Η στέψη μετέτρεψε μια μεγάλη ηγεμονία σε τσαρικό κράτος και έδωσε ιδεολογική μορφή σε έναν αιώνα μοσχοβίτικης επέκτασης και συγκεντρωτισμού."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/IoannIV_reconstruction_by_Gerasimov02.jpg?width=1024",
+            alt: {
+              en: "Mikhail Gerasimov's forensic reconstruction of Ivan the Terrible",
+              el: "Η εγκληματολογική ανακατασκευή του Ιβάν του Τρομερού από τον Μιχαήλ Γερασίμοφ"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -370,7 +378,15 @@ export const TSARDOM_OF_RUSSIA = {
             en: "The liberation of Moscow became one of the founding patriotic memories of Russia, still commemorated as Unity Day. With the capital freed, the country could at last gather to choose a new and legitimate dynasty.",
             el: "Η απελευθέρωση της Μόσχας έγινε μια από τις ιδρυτικές πατριωτικές μνήμες της Ρωσίας, που τιμάται ακόμη ως Ημέρα της Ενότητας. Με την πρωτεύουσα ελεύθερη, η χώρα μπορούσε επιτέλους να συγκεντρωθεί για να επιλέξει μια νέα και νόμιμη δυναστεία."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Saint_Basil's_Cathedral_in_Moscow.jpg?width=1024",
+            alt: {
+              en: "Saint Basil's Cathedral on Red Square, Moscow",
+              el: "Ο καθεδρικός του Αγίου Βασιλείου στην Κόκκινη Πλατεία, Μόσχα"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -634,7 +650,15 @@ export const TSARDOM_OF_RUSSIA = {
             en: "Built at enormous human cost, the new city became the capital in 1712, a deliberate break with old Muscovy. With its European architecture and Baltic outlook, Saint Petersburg embodied Peter's drive to remake Russia as a modern European power.",
             el: "Χτισμένη με τεράστιο ανθρώπινο κόστος, η νέα πόλη έγινε πρωτεύουσα το 1712, μια ηθελημένη ρήξη με την παλαιά Μοσχοβία. Με την ευρωπαϊκή αρχιτεκτονική και τον βαλτικό προσανατολισμό της, η Αγία Πετρούπολη ενσάρκωσε την προσπάθεια του Πέτρου να ανασχηματίσει τη Ρωσία ως σύγχρονη ευρωπαϊκή δύναμη."
           },
-          category: "cultural"
+          category: "cultural",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Inconnu_d'apr%C3%A8s_J.-M._Nattier,_Portrait_de_Pierre_Ier_(mus%C3%A9e_de_l%E2%80%99Ermitage).jpg?width=1024",
+            alt: {
+              en: "Portrait of Peter the Great",
+              el: "Προσωπογραφία του Μεγάλου Πέτρου"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     },

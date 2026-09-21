@@ -250,7 +250,15 @@ export const ROMAN_HISPANIA = {
             en: "Augustus reorganised the conquered peninsula into three imperial provinces: Tarraconensis in the north and east, Lusitania in the west, and the senatorial province of Baetica in the south. Veterans of the Cantabrian wars founded Caesaraugusta (Zaragoza), Emerita Augusta (Mérida), and Asturica Augusta (Astorga). The gold mines of Las Médulas, worked by hydraulic mining on a colossal scale, would for two centuries make the north-west the bullion province of the empire.",
             el: "Ο Αύγουστος αναδιοργάνωσε την κατακτημένη χερσόνησο σε τρεις αυτοκρατορικές επαρχίες: την Ταρρακωνησία στον βορρά και την ανατολή, τη Λουζιτανία στη δύση και τη συγκλητική επαρχία Βαιτική στον νότο. Βετεράνοι των Καντάβριων πολέμων ίδρυσαν την Καισαραυγούστα (Σαραγόσα), την Εμέριτα Αυγούστα (Μέριδα) και την Αστούρικα Αυγούστα (Αστόργα). Τα ορυχεία χρυσού του Λας Μέντουλας, που εξορύσσονταν με υδραυλική μέθοδο σε κολοσσιαία κλίμακα, θα έκαναν για δύο αιώνες τα βορειοδυτικά τη χρυσοφόρα επαρχία της αυτοκρατορίας."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Aqueduct_of_Segovia_08.jpg?width=1024",
+            alt: {
+              en: "The Roman aqueduct of Segovia",
+              el: "Το ρωμαϊκό υδραγωγείο της Σεγκόβια"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     },
