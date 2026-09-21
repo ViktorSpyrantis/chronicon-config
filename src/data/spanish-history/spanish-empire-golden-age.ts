@@ -178,7 +178,15 @@ export const SPANISH_EMPIRE_GOLDEN_AGE = {
             en: "The Holy League, sealed by Pope Pius V between Spain, Venice, and the smaller Italian states, deployed two hundred and thirty galleys against three hundred Turkish. On board the squadron of Don Álvaro de Bazán a young arquebusier from Alcalá de Henares named Miguel de Cervantes lost the use of his left hand — the 'glory of his right', as he later put it. Cervantes was captured by Algerian corsairs in 1575 and spent five years a slave at Algiers before being ransomed by the Trinitarians.",
             el: "Η Ιερά Συμμαχία, σφραγισμένη από τον πάπα Πίο Ε΄ μεταξύ Ισπανίας, Βενετίας και των μικρότερων ιταλικών κρατών, παρέταξε διακόσιες τριάντα γαλέρες εναντίον τριακοσίων τουρκικών. Στη μοίρα του Δον Άλβαρο ντε Μπαζάν, ένας νεαρός αρκεβουζιοφόρος από την Αλκαλά ντε Ενάρες, ο Μιγκέλ ντε Θερβάντες, έχασε τη χρήση του αριστερού χεριού του — «η δόξα του δεξιού του», όπως θα έλεγε αργότερα. Ο Θερβάντες αιχμαλωτίστηκε από Αλγερινούς κουρσάρους το 1575 και πέρασε πέντε χρόνια σκλάβος στο Αλγέρι ώσπου τον εξαγόρασαν οι Τρινιτάριοι."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Laureys_a_Castro_-_The_Battle_of_Lepanto.jpeg?width=1024",
+            alt: {
+              en: "The Battle of Lepanto, 1571",
+              el: "Η ναυμαχία της Ναυπάκτου, 1571"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -250,7 +258,15 @@ export const SPANISH_EMPIRE_GOLDEN_AGE = {
             en: "Don Quixote crowned a generation that reshaped European literature: Lope de Vega, who wrote over four hundred plays for the corrales of Madrid; the bitter, dazzling poetry of Francisco de Quevedo; the dense, lapidary verse of Luis de Góngora; the religious sonnets of Saint Teresa and Saint John of the Cross. In painting, the Cretan exile Domenikos Theotokopoulos — El Greco — had been working at Toledo since 1577; in 1599 a six-year-old Diego Velázquez began his studies in Seville.",
             el: "Ο Δον Κιχώτης στέφθηκε μια γενιά που αναμόρφωσε την ευρωπαϊκή λογοτεχνία: ο Λόπε ντε Βέγα, που έγραψε πάνω από τετρακόσια θεατρικά έργα για τα corrales της Μαδρίτης· η πικρή, εκθαμβωτική ποίηση του Φρανθίσκο ντε Κεβέδο· οι πυκνοί, λαπιδάριοι στίχοι του Λουίς ντε Γκόνγκορα· τα θρησκευτικά σονέτα της Αγίας Τερέζας και του Αγίου Ιωάννη του Σταυρού. Στη ζωγραφική, ο Κρητικός εξόριστος Δομήνικος Θεοτοκόπουλος — Ελ Γκρέκο — εργαζόταν στο Τολέδο από το 1577· το 1599 ένας εξάχρονος Διέγο Βελάθκεθ άρχιζε τις σπουδές του στη Σεβίλλη."
           },
-          category: "cultural"
+          category: "cultural",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Title_page_first_edition_Don_Quijote.jpg?width=1024",
+            alt: {
+              en: "The title page of Don Quixote (1605)",
+              el: "Η σελίδα τίτλου του Δον Κιχώτη (1605)"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -346,7 +362,15 @@ export const SPANISH_EMPIRE_GOLDEN_AGE = {
             en: "Velázquez had been at court since 1623, when Olivares brought him from Seville to paint Philip IV. The painter's two journeys to Italy — where he met Bernini and painted the burning portrait of Pope Innocent X — fed back into a court production of unequalled depth and human truth. Murillo in Seville and Zurbarán in Estremadura worked in different keys; the playwright Calderón de la Barca, by then chaplain of the king, presented the autos sacramentales every Corpus Christi in Madrid. Spain's political fortunes were collapsing — but the Golden Age was still at its zenith.",
             el: "Ο Βελάθκεθ βρισκόταν στην αυλή από το 1623, όταν ο Ολιβάρες τον έφερε από τη Σεβίλλη για να ζωγραφίσει τον Φίλιππο Δ΄. Τα δύο ταξίδια του ζωγράφου στην Ιταλία — όπου γνώρισε τον Μπερνίνι και ζωγράφισε το φλεγόμενο πορτρέτο του πάπα Ινοκεντίου Ι΄ — τροφοδότησαν μια αυλική παραγωγή ασύγκριτου βάθους και ανθρώπινης αλήθειας. Ο Μουρίγιο στη Σεβίλλη και ο Θουρμπαράν στην Εστρεμαδούρα δούλευαν σε διαφορετικούς τόνους· ο θεατρικός συγγραφέας Καλδερόν ντε λα Μπάρκα, τότε εφημέριος του βασιλιά, παρουσίαζε τα autos sacramentales κάθε Corpus Christi στη Μαδρίτη. Η πολιτική τύχη της Ισπανίας κατέρρεε — αλλά ο Χρυσός Αιώνας βρισκόταν ακόμη στο ζενίθ του."
           },
-          category: "cultural"
+          category: "cultural",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Las_Meninas,_by_Diego_Vel%C3%A1zquez,_from_Prado_in_Google_Earth.jpg?width=1024",
+            alt: {
+              en: "Las Meninas, by Diego Velázquez",
+              el: "Οι Δεσποινίδες των Τιμών (Las Meninas), του Ντιέγκο Βελάθκεθ"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     },

@@ -98,7 +98,15 @@ export const CONTEMPORARY_AMERICA = {
             en: "The attacks reshaped American security, foreign policy, and civil liberties for a generation, leading to prolonged wars in Afghanistan and, in 2003, Iraq.",
             el: "Οι επιθέσεις αναδιαμόρφωσαν την αμερικανική ασφάλεια, την εξωτερική πολιτική και τις πολιτικές ελευθερίες για μια γενιά, οδηγώντας σε παρατεταμένους πολέμους στο Αφγανιστάν και, το 2003, στο Ιράκ."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/WTC_smoking_on_9-11.jpeg?width=1024",
+            alt: {
+              en: "The World Trade Center during the September 11 attacks",
+              el: "Το Παγκόσμιο Κέντρο Εμπορίου κατά τις επιθέσεις της 11ης Σεπτεμβρίου"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     },

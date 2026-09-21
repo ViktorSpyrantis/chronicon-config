@@ -544,7 +544,15 @@ export const NINETEENTH_CENTURY_FRANCE = {
             en: "On 6 May the great Exposition Universelle opens on the Champ de Mars to mark the centenary of the Estates General. Its centrepiece, Gustave Eiffel's three-hundred-metre iron tower — built in two years and condemned by Maupassant and Garnier — becomes overnight the symbol of the modern republic.",
             el: "Στις 6 Μαΐου η μεγάλη Παγκόσμια Έκθεση ανοίγει στο Champ de Mars για να σηματοδοτήσει την εκατονταετηρίδα των Γενικών Συνελεύσεων. Το κεντρικό της σημείο, ο τριακοσίων μέτρων σιδερένιος πύργος του Γκυστάβ Άιφελ — χτισμένος σε δύο χρόνια και καταδικασμένος από τον Μωπασάν και τον Γκαρνιέ — γίνεται από τη μια μέρα στην άλλη το σύμβολο της σύγχρονης δημοκρατίας."
           },
-          category: "cultural"
+          category: "cultural",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Tour_Eiffel_Wikimedia_Commons_(cropped).jpg?width=1024",
+            alt: {
+              en: "The Eiffel Tower in Paris",
+              el: "Ο Πύργος του Άιφελ στο Παρίσι"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     },

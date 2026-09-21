@@ -106,7 +106,15 @@ export const OLD_KINGDOM_EGYPT = {
             en: "Rising originally to about 146 metres from roughly 2.3 million blocks, the Great Pyramid embodied the zenith of Old Kingdom power and organisation. Recent finds — the workers' town at Giza and the logbook of the inspector Merer, recording the transport of Tura limestone — show a skilled, well-fed labour force rather than the slaves of legend. Khufu's complex included causeways, mortuary and valley temples, and the dismantled cedar 'solar boats' buried beside the pyramid.",
             el: "Υψούμενη αρχικά σε περίπου 146 μέτρα από περίπου 2,3 εκατομμύρια ογκόλιθους, η Μεγάλη Πυραμίδα ενσάρκωνε το απόγειο της ισχύος και της οργάνωσης του Παλαιού Βασιλείου. Πρόσφατα ευρήματα — η πόλη των εργατών στη Γκίζα και το ημερολόγιο του επιθεωρητή Μερέρ, που καταγράφει τη μεταφορά ασβεστόλιθου της Τούρα — δείχνουν ένα εξειδικευμένο, καλοθρεμμένο εργατικό δυναμικό αντί για τους σκλάβους του μύθου. Το συγκρότημα του Χέοπα περιλάμβανε λιθόστρωτους δρόμους, νεκρικούς και κοιλαδικούς ναούς, και τα αποσυναρμολογημένα κέδρινα «ηλιακά πλοία» θαμμένα δίπλα στην πυραμίδα."
           },
-          category: "cultural"
+          category: "cultural",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Great_Pyramid_of_Giza_-_Pyramid_of_Khufu.jpg?width=1024",
+            alt: {
+              en: "The Great Pyramid of Giza",
+              el: "Η Μεγάλη Πυραμίδα της Γκίζας"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -130,7 +138,15 @@ export const OLD_KINGDOM_EGYPT = {
             en: "Khafre's pyramid, slightly smaller than his father's but built on higher ground, appears the tallest of the three. The Great Sphinx — a recumbent lion with a royal head, most likely Khafre's — became the largest monolithic statue of antiquity. Menkaure's smaller pyramid and exquisite triad statues close the Giza plateau. The exceptional diorite seated statue of Khafre, with the Horus-falcon embracing his head, expresses the divine nature of Old Kingdom kingship.",
             el: "Η πυραμίδα του Χεφρήνου, ελαφρώς μικρότερη από εκείνη του πατέρα του αλλά χτισμένη σε υψηλότερο έδαφος, φαίνεται η ψηλότερη από τις τρεις. Η Μεγάλη Σφίγγα — ένα ξαπλωμένο λιοντάρι με βασιλικό κεφάλι, πιθανότατα του Χεφρήνου — έγινε το μεγαλύτερο μονολιθικό άγαλμα της αρχαιότητας. Η μικρότερη πυραμίδα του Μυκερίνου και τα εξαίσια τριαδικά αγάλματά του κλείνουν το οροπέδιο της Γκίζας. Το εξαιρετικό διοριτικό καθιστό άγαλμα του Χεφρήνου, με το γεράκι-Ώρο να αγκαλιάζει το κεφάλι του, εκφράζει τη θεϊκή φύση της βασιλείας του Παλαιού Βασιλείου."
           },
-          category: "cultural"
+          category: "cultural",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Sphinx_with_the_third_pyramid.jpg?width=1024",
+            alt: {
+              en: "The Great Sphinx of Giza",
+              el: "Η Μεγάλη Σφίγγα της Γκίζας"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     },

@@ -189,7 +189,15 @@ export const COLD_WAR = {
             en: "The crisis was the hinge of the Cold War. Having peered into the abyss, both superpowers pulled back: the Partial Test Ban Treaty followed in 1963, and the long process of détente and arms control began. The confrontation also confirmed the logic of 'mutually assured destruction' — the grim guarantee that neither side could win a nuclear war, which would keep the peace, of a kind, for the next quarter-century.",
             el: "Η κρίση ήταν ο άξονας του Ψυχρού Πολέμου. Έχοντας κοιτάξει στην άβυσσο, και οι δύο υπερδυνάμεις τραβήχτηκαν πίσω: η Συνθήκη Μερικής Απαγόρευσης των Πυρηνικών Δοκιμών ακολούθησε το 1963, και άρχισε η μακρά διαδικασία της ύφεσης και του ελέγχου των εξοπλισμών. Η αντιπαράθεση επιβεβαίωσε επίσης τη λογική της «αμοιβαίως εξασφαλισμένης καταστροφής» — τη ζοφερή εγγύηση ότι καμία πλευρά δεν μπορούσε να κερδίσει έναν πυρηνικό πόλεμο, που θα κρατούσε μια κάποια ειρήνη για το επόμενο τέταρτο του αιώνα."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/PGM-19A_Jupiter_missile-02.jpg?width=1024",
+            alt: {
+              en: "A U.S. Jupiter missile, of the type at the heart of the Cuban Missile Crisis",
+              el: "Αμερικανικός πύραυλος Jupiter, του τύπου στο επίκεντρο της κρίσης των πυραύλων της Κούβας"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     },

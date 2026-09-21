@@ -82,7 +82,15 @@ export const NEW_KINGDOM_EGYPT = {
             en: "Beginning as regent for her stepson Thutmose III, Hatshepsut assumed kingship in her own right, depicting herself with the royal beard and regalia. Her reign favoured commerce and monumental building over war: the famous expedition to Punt, recorded in reliefs at her Deir el-Bahari temple, returned with myrrh trees, ebony, gold, and incense. After her death Thutmose III had her images and names erased from many monuments, perhaps to secure his own line's legitimacy.",
             el: "Ξεκινώντας ως αντιβασίλισσα για τον προγονό της Θούτμωση Γ΄, η Χατσεψούτ ανέλαβε τη βασιλεία με δικό της δικαίωμα, απεικονίζοντας τον εαυτό της με το βασιλικό γένι και τα διάσημα. Η βασιλεία της ευνόησε το εμπόριο και τη μνημειακή οικοδόμηση έναντι του πολέμου: η περίφημη αποστολή στο Πουντ, καταγεγραμμένη σε ανάγλυφα στον ναό της στο Ντέιρ ελ-Μπαχάρι, επέστρεψε με δέντρα σμύρνας, έβενο, χρυσό και θυμίαμα. Μετά τον θάνατό της ο Θούτμωσης Γ΄ διέγραψε τις εικόνες και τα ονόματά της από πολλά μνημεία, ίσως για να εξασφαλίσει τη νομιμότητα της δικής του γενιάς."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Templo_funerario_de_Hatshepsut,_Luxor,_Egipto,_2022-04-03,_DD_13.jpg?width=1024",
+            alt: {
+              en: "The mortuary temple of Hatshepsut at Deir el-Bahari",
+              el: "Ο νεκρικός ναός της Χατσεψούτ στο Ντέιρ ελ-Μπαχάρι"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -154,7 +162,15 @@ export const NEW_KINGDOM_EGYPT = {
             en: "Akhenaten's reign saw the most radical upheaval in Egyptian history: he closed the temples of Amun, suppressed the old pantheon, and devoted worship to the Aten alone, in what many call the first recorded experiment with monotheism. A new naturalistic, elongated art style flourished at his purpose-built city of Akhetaten (Amarna). The famous painted bust of Nefertiti dates from this era. Yet the revolution alienated the priesthood and the people, and collapsed almost immediately after his death.",
             el: "Η βασιλεία του Ακενατόν γνώρισε την πιο ριζική αναταραχή στην αιγυπτιακή ιστορία: έκλεισε τους ναούς του Άμμωνα, κατέστειλε το παλαιό πάνθεον και αφιέρωσε τη λατρεία αποκλειστικά στον Άτεν, σε αυτό που πολλοί αποκαλούν το πρώτο καταγεγραμμένο πείραμα μονοθεϊσμού. Ένα νέο νατουραλιστικό, επιμηκυσμένο καλλιτεχνικό ύφος άνθησε στην εκ θεμελίων χτισμένη πόλη του Αχετατόν (Αμάρνα). Η περίφημη ζωγραφισμένη προτομή της Νεφερτίτης χρονολογείται από αυτή την εποχή. Όμως η επανάσταση αποξένωσε το ιερατείο και τον λαό, και κατέρρευσε σχεδόν αμέσως μετά τον θάνατό του."
           },
-          category: "religious"
+          category: "religious",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Nofretete_Neues_Museum.jpg?width=1024",
+            alt: {
+              en: "The bust of Nefertiti",
+              el: "Η προτομή της Νεφερτίτης"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -178,7 +194,15 @@ export const NEW_KINGDOM_EGYPT = {
             en: "Crowned around the age of nine, Tutankhamun (originally Tutankhaten) reversed his father's religious revolution under the guidance of powerful officials such as Ay and the general Horemheb. He died young, around eighteen, and was buried hastily in a small tomb in the Valley of the Kings. Its discovery, almost intact, by Howard Carter in 1922 — with its golden funerary mask and thousands of treasures — made the obscure pharaoh the most famous of all and revealed the staggering wealth of New Kingdom royal burials.",
             el: "Στεμμένος γύρω στην ηλικία των εννέα, ο Τουταγχαμών (αρχικά Τουταγχατόν) ανέτρεψε τη θρησκευτική επανάσταση του πατέρα του υπό την καθοδήγηση ισχυρών αξιωματούχων όπως ο Άι και ο στρατηγός Χορεμχέμπ. Πέθανε νέος, γύρω στα δεκαοκτώ, και θάφτηκε βιαστικά σε έναν μικρό τάφο στην Κοιλάδα των Βασιλέων. Η ανακάλυψή του, σχεδόν ανέπαφου, από τον Χάουαρντ Κάρτερ το 1922 — με τη χρυσή νεκρική μάσκα και χιλιάδες θησαυρούς — κατέστησε τον αφανή φαραώ τον πιο διάσημο όλων και αποκάλυψε τον εκπληκτικό πλούτο των βασιλικών ταφών του Νέου Βασιλείου."
           },
-          category: "religious"
+          category: "religious",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/CairoEgMuseumTaaMaskMostlyPhotographed.jpg?width=1024",
+            alt: {
+              en: "The golden funerary mask of Tutankhamun",
+              el: "Η χρυσή νεκρική μάσκα του Τουταγχαμών"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     },

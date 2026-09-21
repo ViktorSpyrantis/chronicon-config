@@ -105,7 +105,15 @@ export const HUNDRED_YEARS_WAR = {
             en: "The longbow could be loosed far faster than a crossbow could be spanned, and its bodkin points punched through mail at range. Against dismounted English men-at-arms and a storm of arrows, the mounted charge that had ruled the battlefield for three centuries was broken. That commoners with a cheap wooden bow could fell armoured nobles carried a social meaning no one missed.",
             el: "Το μακρύ τόξο μπορούσε να εκτοξεύσει βέλη πολύ ταχύτερα απ' όσο μπορούσε να οπλιστεί μια βαλλίστρα, και οι σουβλερές αιχμές του διαπερνούσαν την αλυσιδωτή πανοπλία από απόσταση. Απέναντι σε πεζούς Άγγλους οπλίτες και σε μια καταιγίδα βελών, η έφοδος του ιππικού που κυριαρχούσε στο πεδίο της μάχης επί τρεις αιώνες συνετρίβη. Το ότι απλοί άνθρωποι με ένα φθηνό ξύλινο τόξο μπορούσαν να ρίξουν πανοπλισμένους ευγενείς είχε ένα κοινωνικό νόημα που κανείς δεν αγνόησε."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Battle_of_crecy_froissart.jpg?width=1024",
+            alt: {
+              en: "The Battle of Crécy in a medieval manuscript",
+              el: "Η μάχη του Κρεσί σε μεσαιωνικό χειρόγραφο"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     },

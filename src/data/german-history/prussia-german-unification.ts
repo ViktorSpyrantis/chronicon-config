@@ -370,7 +370,15 @@ export const PRUSSIA_GERMAN_UNIFICATION = {
             en: "Bismarck inherited a crisis that no liberal had solved: the Prussian parliament refused to pay for the army expansion that War Minister Roon and Chief of Staff Moltke considered essential. Bismarck's solution was to collect taxes anyway, in defiance of the constitution, and to seek vindication through foreign policy success. The strategy turned the Prussian Junker aristocracy from the dead weight of German liberalism into the carriers of German unification. Bismarck would govern Germany for twenty-eight years; for the rest of his career, every European chancellery measured itself against the diplomatic intelligence at Wilhelmstrasse.",
             el: "Ο Μπίσμαρκ κληρονόμησε μια κρίση που κανένας φιλελεύθερος δεν είχε λύσει: το πρωσικό κοινοβούλιο αρνιόταν να πληρώσει την επέκταση του στρατού που ο υπουργός πολέμου Ρόον και ο αρχηγός του επιτελείου Μόλτκε θεωρούσαν ουσιαστική. Η λύση του Μπίσμαρκ ήταν να συλλέξει φόρους ούτως ή άλλως, παρά το σύνταγμα, και να αναζητήσει δικαίωση μέσω εξωτερικής πολιτικής επιτυχίας. Η στρατηγική μετέτρεψε την πρωσική γιουνκερική αριστοκρατία από νεκρό βάρος του γερμανικού φιλελευθερισμού σε φορέα της γερμανικής ενοποίησης. Ο Μπίσμαρκ θα κυβερνούσε τη Γερμανία για εικοσιοχτώ χρόνια· για την υπόλοιπη καριέρα του, κάθε ευρωπαϊκή πρεσβεία μετριόταν με τη διπλωματική νοημοσύνη της Wilhelmstrasse."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Otto_von_Bismarck_1885_(cropped).jpg?width=1024",
+            alt: {
+              en: "Otto von Bismarck",
+              el: "Ο Ότο φον Μπίσμαρκ"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -466,7 +474,15 @@ export const PRUSSIA_GERMAN_UNIFICATION = {
             en: "Wilhelm wanted to be 'Emperor of Germany', but Bismarck — knowing that the south German kings would never accept it — pushed through the title 'German Emperor', a primus inter pares. The new Reich combined a federal constitution preserving the rights of the princes, a directly elected Reichstag chosen by universal manhood suffrage, and a chancellor — Bismarck himself — responsible only to the emperor. The territorial settlement included the annexation of Alsace-Lorraine from France: a strategic asset that would, by guaranteeing French enmity for the next forty-seven years, plant the seed of the Great War. The triumph of 1871 was real, but the bill would come due in 1914.",
             el: "Ο Γουλιέλμος ήθελε να είναι «Αυτοκράτορας της Γερμανίας», αλλά ο Μπίσμαρκ — γνωρίζοντας ότι οι νοτιογερμανοί βασιλείς ποτέ δεν θα το δέχονταν — επέβαλε τον τίτλο «Γερμανός Αυτοκράτορας», primus inter pares. Το νέο Reich συνδύαζε ομοσπονδιακό σύνταγμα που διατηρούσε τα δικαιώματα των ηγεμόνων, ένα άμεσα εκλεγμένο Reichstag που επιλεγόταν με καθολική ανδρική ψηφοφορία και έναν καγκελάριο — τον ίδιο τον Μπίσμαρκ — υπεύθυνο μόνο στον αυτοκράτορα. Η εδαφική διευθέτηση περιλάμβανε την προσάρτηση της Αλσατίας-Λωρραίνης από τη Γαλλία: στρατηγικό απόκτημα που θα, εξασφαλίζοντας τη γαλλική εχθρότητα για τα επόμενα σαράντα επτά χρόνια, φύτευε τον σπόρο του Μεγάλου Πολέμου. Ο θρίαμβος του 1871 ήταν πραγματικός, αλλά ο λογαριασμός θα ερχόταν προς πληρωμή το 1914."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/A_v_Werner_-_Kaiserproklamation_am_18_Januar_1871_(3._Fassung_1885).jpg?width=1024",
+            alt: {
+              en: "The proclamation of the German Empire at Versailles, by Anton von Werner",
+              el: "Η ανακήρυξη της Γερμανικής Αυτοκρατορίας στις Βερσαλλίες, έργο του Άντον φον Βέρνερ"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     }

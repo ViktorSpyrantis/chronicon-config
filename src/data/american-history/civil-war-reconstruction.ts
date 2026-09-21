@@ -98,7 +98,15 @@ export const CIVIL_WAR_RECONSTRUCTION = {
             en: "At the dedication of the battlefield cemetery, Lincoln's brief Gettysburg Address redefined the war as a struggle for human equality and 'government of the people, by the people, for the people.'",
             el: "Στα εγκαίνια του κοιμητηρίου του πεδίου της μάχης, η σύντομη Ομιλία του Γκέτισμπεργκ του Λίνκολν επαναπροσδιόρισε τον πόλεμο ως αγώνα για την ανθρώπινη ισότητα και για «κυβέρνηση του λαού, από τον λαό, για τον λαό»."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Thure_de_Thulstrup_-_L._Prang_and_Co._-_Battle_of_Gettysburg_-_Restoration_by_Adam_Cuerden_(cropped).jpg?width=1024",
+            alt: {
+              en: "The Battle of Gettysburg, painting by Thure de Thulstrup",
+              el: "Η μάχη του Γκέτισμπεργκ, έργο του Τούρε ντε Θούλστρουπ"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -118,7 +126,15 @@ export const CIVIL_WAR_RECONSTRUCTION = {
             en: "Lee surrenders at Appomattox, ending the war; the Thirteenth Amendment abolishes slavery. Days later, Lincoln is assassinated, leaving Reconstruction to lesser hands.",
             el: "Ο Λι παραδίδεται στο Απομάτοξ, τερματίζοντας τον πόλεμο· η Δέκατη Τρίτη Τροπολογία καταργεί τη δουλεία. Λίγες ημέρες αργότερα, ο Λίνκολν δολοφονείται, αφήνοντας την Ανασυγκρότηση σε λιγότερο ικανά χέρια."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Abraham_Lincoln_O-77_matte_collodion_print.jpg?width=1024",
+            alt: {
+              en: "Portrait of Abraham Lincoln (1863)",
+              el: "Προσωπογραφία του Αβραάμ Λίνκολν (1863)"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     },

@@ -130,7 +130,15 @@ export const ANGLO_SAXON_ENGLAND = {
             en: "Discovered on the eve of the Second World War, Sutton Hoo overturned a Victorian image of the Anglo-Saxons as barbarous interlopers. The helmet's iron mask, the cloisonné garnet shoulder-clasps imported through Frankish networks, the Coptic bronze bowl, and the Byzantine silver platters of Anastasius I attest to an East Anglian kingship plugged into Mediterranean trade. The treasure also shows the hybrid religious world Bede describes: pagan ship-burial alongside christening spoons and apostle plate.",
             el: "Ανακαλυμμένο στα πρόθυρα του Β΄ Παγκοσμίου Πολέμου, το Σάτον Χου ανέτρεψε τη βικτωριανή εικόνα των Αγγλοσαξόνων ως βαρβάρων εισβολέων. Η σιδερένια προσωπίδα του κράνους, οι χρυσές ωμικές πόρπες με κλωβωτή διακόσμηση από γρανάτη — εισηγμένες μέσω φραγκικών δικτύων — η κοπτική χάλκινη λεκάνη και τα βυζαντινά αργυρά πιάτα του Αναστασίου Α΄ μαρτυρούν ένα βασίλειο της Ανατολικής Αγγλίας συνδεδεμένο με το μεσογειακό εμπόριο. Ο θησαυρός αποκαλύπτει επίσης τον υβριδικό θρησκευτικό κόσμο που περιγράφει ο Βέδας: παγανιστική ταφή σε πλοίο μαζί με κουτάλια βαπτίσματος και πιάτα με τους Αποστόλους."
           },
-          category: "cultural"
+          category: "cultural",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Sutton_Hoo_burial_site.jpg?width=1024",
+            alt: {
+              en: "The Sutton Hoo helmet",
+              el: "Το κράνος του Σάτον Χου"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -418,7 +426,15 @@ export const ANGLO_SAXON_ENGLAND = {
             en: "Hastings was a close-run thing: an all-day battle on Senlac Ridge in which the English shield-wall stood firm until Harold fell — by arrow, by sword, or both, depending on the source. William, crowned at Westminster on Christmas Day 1066, would transform the kingdom: replacing the Anglo-Saxon aristocracy with a Norman one, introducing the motte-and-bailey castle, reorganising the church, and within twenty years compiling the Domesday Book, the most detailed survey of any medieval kingdom. The Old English ruling class vanished within a generation; the language survived, transformed, in the mouths of the conquered.",
             el: "Το Χάστινγκς υπήρξε αμφίρροπη υπόθεση: ολοήμερη μάχη στο Σένλακ Ριντζ, όπου το αγγλικό τείχος ασπίδων κράτησε σταθερά μέχρι την πτώση του Χάρολντ — από βέλος, από σπαθί ή και τα δύο, αναλόγως της πηγής. Ο Γουίλιαμ, στεφθείς στο Ουέστμινστερ την Ημέρα των Χριστουγέννων 1066, θα μεταμόρφωνε το βασίλειο: αντικαθιστώντας την αγγλοσαξονική αριστοκρατία με μια νορμανδική, εισάγοντας το «motte-and-bailey» κάστρο, αναδιοργανώνοντας την εκκλησία και, μέσα σε είκοσι χρόνια, συντάσσοντας το Domesday Book, την πιο λεπτομερή απογραφή οποιουδήποτε μεσαιωνικού βασιλείου. Η παλαιοαγγλική άρχουσα τάξη εξαφανίστηκε μέσα σε μία γενιά· η γλώσσα επιβίωσε, μεταμορφωμένη, στο στόμα των κατακτημένων."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Odo_bayeux_tapestry.png?width=1024",
+            alt: {
+              en: "The Bayeux Tapestry depicting the Battle of Hastings",
+              el: "Η Ταπισερί του Μπαγιέ που απεικονίζει τη μάχη του Χάστινγκς"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     }

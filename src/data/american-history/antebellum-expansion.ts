@@ -74,7 +74,15 @@ export const ANTEBELLUM_EXPANSION = {
             en: "The belief that the United States was destined to span the continent — 'Manifest Destiny' — drives the annexation of Texas and fuels demands for still more territory.",
             el: "Η πεποίθηση ότι οι Ηνωμένες Πολιτείες ήταν προορισμένες να εκταθούν σε ολόκληρη την ήπειρο — το «Πεπρωμένο Έθνος» — οδηγεί στην προσάρτηση του Τέξας και τροφοδοτεί απαιτήσεις για ακόμη περισσότερα εδάφη."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/American_Progress_(John_Gast_painting).jpg?width=1024",
+            alt: {
+              en: "American Progress by John Gast (1872)",
+              el: "Αμερικανική Πρόοδος, έργο του Τζον Γκαστ (1872)"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     },

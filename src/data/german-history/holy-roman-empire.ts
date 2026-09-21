@@ -442,7 +442,15 @@ export const HOLY_ROMAN_EMPIRE = {
             en: "Whether Luther actually nailed the Theses to the door of the Castle Church on 31 October is debated, but his letter of that day to archbishop Albert of Mainz is preserved. The campaign that the Theses began led within four years to Luther's excommunication, his appearance before Charles V at the Diet of Worms, and his hiding in the Wartburg, where he translated the New Testament into German — the single most influential book in the formation of the modern German language. The Reformation would split the German nation, divide the Empire into Catholic and Protestant territories, and set the agenda of German politics for at least two centuries.",
             el: "Αν ο Λούθηρος πραγματικά κάρφωσε τις Θέσεις στην πόρτα της Εκκλησίας του Κάστρου στις 31 Οκτωβρίου είναι αμφισβητούμενο, αλλά η επιστολή του εκείνη την ημέρα προς τον αρχιεπίσκοπο Αλβέρτο του Μάιντς διατηρείται. Η εκστρατεία που ξεκίνησαν οι Θέσεις οδήγησε μέσα σε τέσσερα χρόνια στον αφορισμό του Λουθήρου, στην εμφάνισή του ενώπιον του Καρόλου Ε΄ στη Δίαιτα του Βορμς, και στην απόκρυψή του στο Wartburg, όπου μετέφρασε την Καινή Διαθήκη στα γερμανικά — το επιδραστικότερο μεμονωμένο βιβλίο για τη διαμόρφωση της σύγχρονης γερμανικής γλώσσας. Η Μεταρρύθμιση θα χώριζε το γερμανικό έθνος, θα διαιρούσε την Αυτοκρατορία σε καθολικά και προτεσταντικά εδάφη, και θα έθετε την ατζέντα της γερμανικής πολιτικής για τουλάχιστον δύο αιώνες."
           },
-          category: "religious"
+          category: "religious",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Lucas_Cranach_d.%C3%84._-_Martin_Luther,_1528_(Veste_Coburg).jpg?width=1024",
+            alt: {
+              en: "Portrait of Martin Luther by Lucas Cranach the Elder",
+              el: "Προσωπογραφία του Μαρτίνου Λούθηρου από τον Λούκας Κράναχ τον Πρεσβύτερο"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -538,7 +546,15 @@ export const HOLY_ROMAN_EMPIRE = {
             en: "Westphalia is conventionally taken as the foundation of the modern European state system: each prince a sovereign within his territory, free of supranational ecclesiastical or imperial authority. For the Empire itself, the peace was a constitutional consolidation rather than an end: the Imperial Diet became a permanent congress at Regensburg in 1663; the territorial estates governed within fixed law; the emperor remained the apex of a complex hierarchy. Pufendorf's later judgement that the Empire was 'an irregular body resembling a monster' captured the unusual federal-confederal architecture that emerged. Yet it functioned — and held together a century and a half more.",
             el: "Η Βεστφαλία λαμβάνεται συμβατικά ως η θεμελίωση του σύγχρονου ευρωπαϊκού κρατικού συστήματος: κάθε ηγεμόνας κυρίαρχος εντός της επικράτειάς του, ελεύθερος από υπερεθνική εκκλησιαστική ή αυτοκρατορική εξουσία. Για την ίδια την Αυτοκρατορία, η ειρήνη ήταν συνταγματική εδραίωση παρά τέλος: η Αυτοκρατορική Δίαιτα έγινε μόνιμο συνέδριο στο Ρέγκενσμπουργκ το 1663· τα εδαφικά τάγματα κυβερνούσαν εντός σταθερού δικαίου· ο αυτοκράτορας παρέμενε η κορυφή πολύπλοκης ιεραρχίας. Η μεταγενέστερη κρίση του Πούφεντορφ ότι η Αυτοκρατορία ήταν «ακανόνιστο σώμα που μοιάζει με τέρας» αποτύπωσε την ασυνήθιστη ομοσπονδιακή-συνομοσπονδιακή αρχιτεκτονική που αναδύθηκε. Όμως λειτουργούσε — και κρατήθηκε ενωμένη ενάμιση αιώνα ακόμη."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/M%C3%BCnster,_Historisches_Rathaus_--_2014_--_6855.jpg?width=1024",
+            alt: {
+              en: "The historic town hall of Münster, where the Peace of Westphalia was signed",
+              el: "Το ιστορικό δημαρχείο του Μύνστερ, όπου υπογράφηκε η Ειρήνη της Βεστφαλίας"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -562,7 +578,15 @@ export const HOLY_ROMAN_EMPIRE = {
             en: "The Polish-Lithuanian winged hussars who charged down the Kahlenberg slope were the largest cavalry attack in early modern history. Sobieski wrote to his queen the next day: 'We came, we saw, God conquered.' The Habsburg counter-offensive that followed — Buda recovered 1686, Belgrade 1688 — turned Austria from a beleaguered German power into a multinational Danubian monarchy. Imperial victory also rebalanced Habsburg interests: from Charles V's Spanish-Atlantic empire to Leopold I's eastern, Catholic, baroque empire centred on Vienna. The new style had its visible embodiment in the Karlskirche and the great palaces of the Belvedere and Schönbrunn.",
             el: "Οι πολωνο-λιθουανοί φτερωτοί ουσάροι που εφόρμησαν από την πλαγιά του Κάλενμπεργκ ήταν η μεγαλύτερη επίθεση ιππικού στην πρώιμη νεωτερική ιστορία. Ο Σομπιέσκι έγραψε στη βασίλισσά του την επομένη: «Ήρθαμε, είδαμε, ο Θεός νίκησε». Η αψβουργική αντεπίθεση που ακολούθησε — η Βούδα ανακτήθηκε το 1686, το Βελιγράδι το 1688 — μετέτρεψε την Αυστρία από μια πολιορκημένη γερμανική δύναμη σε πολυεθνική δουναβική μοναρχία. Η αυτοκρατορική νίκη επανεξισορρόπησε επίσης τα αψβουργικά συμφέροντα: από την ισπανο-ατλαντική αυτοκρατορία του Καρόλου Ε΄ στην ανατολική, καθολική, μπαρόκ αυτοκρατορία του Λεοπόλδου Α΄ με κέντρο τη Βιέννη. Το νέο ύφος είχε ορατή ενσάρκωση στο Karlskirche και στα μεγάλα ανάκτορα του Belvedere και του Schönbrunn."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Anonym_Entsatz_Wien_1683.jpg?width=1024",
+            alt: {
+              en: "The Battle of Vienna, 1683",
+              el: "Η μάχη της Βιέννης, 1683"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     },

@@ -314,7 +314,15 @@ export const WW1 = {
             en: "General Haig's offensive aimed to relieve pressure on Verdun and break through the German line. The week-long preliminary bombardment failed to cut the German wire or destroy the deep dugouts; advancing British troops were scythed down by machine-gun fire. By the time the battle ended on 18 November, the Allies had advanced ten kilometres at a cost of more than a million casualties on all sides. The tank made its combat debut here on 15 September.",
             el: "Η επίθεση του στρατηγού Χέιγκ απέβλεπε στην αποσυμπίεση του Βερντέν και τη διάσπαση της γερμανικής γραμμής. Ο εβδομαδιαίος προπαρασκευαστικός κανονιοβολισμός δεν κατάφερε να κόψει τα συρματοπλέγματα ή να καταστρέψει τα βαθιά καταφύγια· τα προελαύνοντα βρετανικά στρατεύματα θερίστηκαν από πολυβόλα. Όταν τερματίστηκε η μάχη στις 18 Νοεμβρίου, οι Σύμμαχοι είχαν προχωρήσει δέκα χιλιόμετρα με κόστος άνω του ενός εκατομμυρίου απώλειες συνολικά. Το τανκ έκανε εδώ την πολεμική του πρεμιέρα στις 15 Σεπτεμβρίου."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Going_over_the_top_01.jpg?width=1024",
+            alt: {
+              en: "British troops advancing at the Battle of the Somme, 1916",
+              el: "Βρετανικά στρατεύματα προελαύνουν στη μάχη του Σομ, 1916"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     },

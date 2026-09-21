@@ -154,7 +154,15 @@ export const RUSSIAN_EMPIRE = {
             en: "An admirer of the Enlightenment and correspondent of Voltaire, Catherine expanded the empire, reformed administration, and patronized the arts. Yet she also entrenched serfdom, and her enlightened ideals coexisted with autocratic power.",
             el: "Θαυμάστρια του Διαφωτισμού και αλληλογράφος του Βολταίρου, η Αικατερίνη επέκτεινε την αυτοκρατορία, μεταρρύθμισε τη διοίκηση και προστάτευσε τις τέχνες. Ωστόσο εδραίωσε επίσης τη δουλοπαροικία, και τα φωτισμένα ιδανικά της συνυπήρχαν με την απολυταρχική εξουσία."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Catherine_II_after_Roslin,_Rokotov_(1780s,_Kunsthistorisches_Museum).jpg?width=1024",
+            alt: {
+              en: "Portrait of Catherine the Great",
+              el: "Προσωπογραφία της Μεγάλης Αικατερίνης"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -274,7 +282,15 @@ export const RUSSIAN_EMPIRE = {
             en: "The destruction of the Grande Armée broke Napoleon's power and made Russia the arbiter of Europe. The 'Patriotic War of 1812' became a foundational national epic, immortalized in Tolstoy's War and Peace, and Russian troops entered Paris in 1814.",
             el: "Η καταστροφή της Μεγάλης Στρατιάς συνέτριψε την ισχύ του Ναπολέοντα και κατέστησε τη Ρωσία διαιτητή της Ευρώπης. Ο «Πατριωτικός Πόλεμος του 1812» έγινε θεμελιώδες εθνικό έπος, αποθανατισμένο στο «Πόλεμος και Ειρήνη» του Τολστόι, και ρωσικά στρατεύματα εισήλθαν στο Παρίσι το 1814."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/IV_corpo_durante_la_campagna_di_Russia.jpg?width=1024",
+            alt: {
+              en: "Napoleon's Grande Armée during the Russian campaign of 1812",
+              el: "Η Μεγάλη Στρατιά του Ναπολέοντα κατά την εκστρατεία της Ρωσίας το 1812"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     },

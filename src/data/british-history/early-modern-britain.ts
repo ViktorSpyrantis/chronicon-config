@@ -154,7 +154,15 @@ export const EARLY_MODERN_BRITAIN = {
             en: "Mary's three-year reign had burned nearly three hundred Protestants at the stake — the 'Marian persecutions' that John Foxe's Book of Martyrs would imprint on the Protestant imagination. Elizabeth avoided her sister's zealotry and her father's matrimonial chaos: refusing to marry, she made herself the Virgin Queen, married symbolically to her kingdom. Her forty-four-year reign coincided with Shakespeare, Marlowe, Spenser, Byrd, Hilliard, and the seafaring of Drake, Hawkins, and Raleigh — the founding age of English literature and English sea-power.",
             el: "Η τρίχρονη βασιλεία της Μαρίας είχε στείλει στην πυρά σχεδόν τριακόσιους προτεστάντες — οι «μαριανές διώξεις» που το Βιβλίο των Μαρτύρων του Τζων Φοξ θα αποτύπωνε στην προτεσταντική φαντασία. Η Ελισάβετ απέφυγε τον ζηλωτισμό της αδελφής της και το συζυγικό χάος του πατέρα της: αρνούμενη να παντρευτεί, έκανε τον εαυτό της Παρθένα Βασίλισσα, συμβολικά νυμφευμένη με το βασίλειό της. Η σαραντατετραετής βασιλεία της συνέπεσε με τους Σαίξπηρ, Μάρλοου, Σπένσερ, Μπερντ, Χίλιαρντ και τις θαλάσσιες εξορμήσεις των Ντρέικ, Χόκινς και Ράλι — η ιδρυτική εποχή της αγγλικής λογοτεχνίας και της αγγλικής ναυτικής ισχύος."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Darnley_stage_3.jpg?width=1024",
+            alt: {
+              en: "The Darnley Portrait of Queen Elizabeth I",
+              el: "Το πορτρέτο Ντάρνλεϊ της βασίλισσας Ελισάβετ Α΄"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -202,7 +210,15 @@ export const EARLY_MODERN_BRITAIN = {
             en: "Elizabeth's speech to her troops at Tilbury — 'I know I have the body of a weak and feeble woman, but I have the heart and stomach of a king' — became the founding rhetoric of English martial nationhood. The Armada's failure was due less to English gunnery than to weather and Spanish logistical strain, but its political effect was immense: it preserved Protestant England, broke Spanish naval prestige, and launched the legend of Britannia ruling the waves. The war with Spain would drag on inconclusively until 1604.",
             el: "Η ομιλία της Ελισάβετ στα στρατεύματά της στο Τίλμπερι — «Γνωρίζω ότι έχω το σώμα μιας αδύναμης γυναίκας, αλλά έχω την καρδιά και την τόλμη ενός βασιλιά» — έγινε η ιδρυτική ρητορική της αγγλικής πολεμικής εθνότητας. Η αποτυχία της Αρμάδας οφειλόταν λιγότερο στο αγγλικό πυροβολικό και περισσότερο στον καιρό και στην ισπανική εφοδιαστική πίεση, αλλά το πολιτικό της αποτέλεσμα ήταν τεράστιο: διέσωσε την προτεσταντική Αγγλία, έσπασε τη ναυτική φήμη της Ισπανίας και ξεκίνησε τον θρύλο της Βρετανίας που κυριαρχεί στις θάλασσες. Ο πόλεμος με την Ισπανία θα συνεχιζόταν αδιέξοδα μέχρι το 1604."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Armadaroute.jpg?width=1024",
+            alt: {
+              en: "Map of the route of the Spanish Armada, 1588",
+              el: "Χάρτης της πορείας της Ισπανικής Αρμάδας, 1588"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     },

@@ -82,7 +82,15 @@ export const PREHISTORIC_ANCIENT_GAUL = {
             en: "Discovered in 1940 by four boys following a dog down a fox-hole, Lascaux contains nearly two thousand figures across some seven hundred metres of galleries. The Vézère valley as a whole, with sites such as Cro-Magnon, La Madeleine, and Font-de-Gaume, would give its name to two of the great phases of the European Upper Palaeolithic.",
             el: "Ανακαλυμμένο το 1940 από τέσσερα αγόρια που ακολουθούσαν έναν σκύλο σε μια αλεπότρυπα, το Λασκώ περιέχει σχεδόν δύο χιλιάδες μορφές σε επτακόσια περίπου μέτρα στοών. Η κοιλάδα της Βεζέρ συνολικά, με θέσεις όπως ο Κρο-Μανιόν, η Μαντλέν και το Φον-ντε-Γκωμ, θα δώσει το όνομά της σε δύο από τις μεγάλες φάσεις της ευρωπαϊκής Ανώτερης Παλαιολιθικής."
           },
-          category: "cultural"
+          category: "cultural",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Lascaux_painting.jpg?width=1024",
+            alt: {
+              en: "The cave paintings of Lascaux",
+              el: "Οι βραχογραφίες του Λασκώ"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -310,7 +318,15 @@ export const PREHISTORIC_ANCIENT_GAUL = {
             en: "Caesar's own Commentarii de bello Gallico — both campaign report and political pamphlet — would become the canonical Latin account and a foundational text of the Western military tradition. The captured Vercingetorix was paraded in Caesar's triumph of 46 BC and then executed in the Tullianum. He would later be reinvented in the nineteenth century as the first hero of the French nation.",
             el: "Τα ίδια τα Σχόλια του Καίσαρα για τον Γαλατικό Πόλεμο — ταυτόχρονα εκστρατευτική έκθεση και πολιτικό πάμφλετ — θα γίνουν η κανονική λατινική αφήγηση και θεμελιώδες κείμενο της δυτικής στρατιωτικής παράδοσης. Ο αιχμάλωτος Βερκινγετόριξ παρελαύνει στον θρίαμβο του Καίσαρα το 46 π.Χ. και στη συνέχεια εκτελείται στο Τυλλιανό. Τον δέκατο ένατο αιώνα θα ξαναεπινοηθεί ως ο πρώτος ήρωας του γαλλικού έθνους."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Vercing%C3%A9torix_stat%C3%A8re_Gallica_avers.jpg?width=1024",
+            alt: {
+              en: "Gallic gold stater bearing the name of Vercingetorix",
+              el: "Χρυσός γαλατικός στατήρας με το όνομα του Βερκιγγετόριξ"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     },

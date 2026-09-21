@@ -138,7 +138,15 @@ export const AMERICAN_REVOLUTION = {
             en: "The Declaration's ideals of liberty and equality inspired revolutions worldwide, even as they stood in stark contradiction to the enslavement of hundreds of thousands within the new nation.",
             el: "Τα ιδανικά της ελευθερίας και της ισότητας της Διακήρυξης ενέπνευσαν επαναστάσεις σε όλο τον κόσμο, ακόμη κι ενώ βρίσκονταν σε έντονη αντίθεση με τη σκλαβιά εκατοντάδων χιλιάδων μέσα στο νέο έθνος."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/United_States_Declaration_of_Independence.jpg?width=1024",
+            alt: {
+              en: "John Trumbull's painting of the Declaration of Independence",
+              el: "Ο πίνακας του Τζον Τραμπούλ για τη Διακήρυξη της Ανεξαρτησίας"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -178,7 +186,15 @@ export const AMERICAN_REVOLUTION = {
             en: "Trapped by Washington's army and the French fleet, General Cornwallis surrenders at Yorktown, effectively ending major fighting in the war.",
             el: "Παγιδευμένος από τον στρατό του Ουάσινγκτον και τον γαλλικό στόλο, ο στρατηγός Κορνγουόλις παραδίδεται στο Γιόρκταουν, τερματίζοντας ουσιαστικά τις μεγάλες μάχες του πολέμου."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Surrender_of_Lord_Cornwallis.jpg?width=1024",
+            alt: {
+              en: "The Surrender of Lord Cornwallis at Yorktown, by John Trumbull",
+              el: "Η παράδοση του λόρδου Κορνουάλις στο Γιόρκταουν, έργο του Τζον Τραμπούλ"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     },

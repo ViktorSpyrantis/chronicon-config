@@ -534,7 +534,15 @@ export const NAZI_GERMANY_WWII = {
             en: "Two and a half weeks after D-Day, the Soviet Operation Bagration destroyed Army Group Centre on the eastern front — perhaps the worst defeat in German military history, 28 divisions annihilated, 350,000 casualties in three weeks. The simultaneous pressure on west and east meant the Wehrmacht could no longer shift reserves between fronts; from this moment, German defeat was a matter of time. The strategic bombing of Germany reached its climax in 1944-45: Hamburg in 1943, Dresden in February 1945, and dozens of other cities reduced to ash. Albert Speer's war economy, despite all the bombing, peaked in late 1944 — a tribute to the brutality of slave labour drawn from across Europe, including from concentration camps. But the Reich could not now win.",
             el: "Δυόμισι εβδομάδες μετά την Ημέρα Δ, η σοβιετική Επιχείρηση Μπαγκρατιόν κατέστρεψε την Ομάδα Στρατιών Κέντρο στο ανατολικό μέτωπο — ίσως η χειρότερη ήττα στη γερμανική στρατιωτική ιστορία, 28 μεραρχίες εκμηδενίστηκαν, 350.000 απώλειες σε τρεις εβδομάδες. Η ταυτόχρονη πίεση σε δύση και ανατολή σήμαινε ότι η Wehrmacht δεν μπορούσε πλέον να μετακινεί εφεδρείες μεταξύ μετώπων· από αυτή τη στιγμή, η γερμανική ήττα ήταν θέμα χρόνου. Ο στρατηγικός βομβαρδισμός της Γερμανίας έφτασε στο αποκορύφωμά του το 1944-45: Αμβούργο το 1943, Δρέσδη τον Φεβρουάριο του 1945 και δεκάδες άλλες πόλεις μετατράπηκαν σε στάχτη. Η πολεμική οικονομία του Άλμπερτ Σπέερ, παρά τους βομβαρδισμούς, κορυφώθηκε στα τέλη του 1944 — φόρος τιμής στη βαρβαρότητα της εργασίας δούλων που αντλήθηκε από όλη την Ευρώπη, μεταξύ άλλων από στρατόπεδα συγκέντρωσης. Αλλά το Reich δεν μπορούσε τώρα να κερδίσει."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Into_the_Jaws_of_Death_23-0455M_edit.jpg?width=1024",
+            alt: {
+              en: "American troops landing on Omaha Beach on D-Day, 1944",
+              el: "Αμερικανικά στρατεύματα αποβιβάζονται στην Ομάχα Μπιτς την Ημέρα Ντ, 1944"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     },

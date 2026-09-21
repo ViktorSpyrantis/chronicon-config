@@ -298,7 +298,15 @@ export const MODERN_GERMANY = {
             en: "The fall of the Wall came at the climax of a year that had begun with the Hungarians cutting the wire of their Austrian border, continued with massive emigration of East Germans through Hungary and Czechoslovakia, and reached fever pitch with the Monday demonstrations in Leipzig — 'Wir sind das Volk' (We are the people) — in October and November. Gorbachev's refusal to authorise Soviet troops to intervene was decisive; without Moscow's backing, Honecker had no way to crush the demonstrations. Chancellor Helmut Kohl, who was in Warsaw on 9 November, hurried to Berlin to deliver a famous speech at the Schöneberg town hall the next day. Within four weeks he announced a ten-point reunification plan; within a year a treaty of unification had been signed and both German states had ceased to exist as separate entities.",
             el: "Η πτώση του Τείχους ήρθε στην κορύφωση ενός έτους που είχε ξεκινήσει με τους Ούγγρους να κόβουν το σύρμα του αυστριακού τους συνόρου, είχε συνεχιστεί με μαζική μετανάστευση Ανατολικογερμανών μέσω Ουγγαρίας και Τσεχοσλοβακίας και είχε φτάσει στο αποκορύφωμα με τις Δευτεριάτικες διαδηλώσεις στη Λειψία — «Wir sind das Volk» (Εμείς είμαστε ο λαός) — τον Οκτώβριο και τον Νοέμβριο. Η άρνηση του Γκορμπατσόφ να εξουσιοδοτήσει σοβιετικά στρατεύματα να παρέμβουν ήταν αποφασιστική· χωρίς την υποστήριξη της Μόσχας, ο Χόνεκερ δεν είχε τρόπο να συντρίψει τις διαδηλώσεις. Ο Καγκελάριος Χέλμουτ Κολ, που βρισκόταν στη Βαρσοβία στις 9 Νοεμβρίου, έσπευσε στο Βερολίνο για να εκφωνήσει περίφημη ομιλία στο δημαρχείο του Σένεμπεργκ την επόμενη μέρα. Μέσα σε τέσσερις εβδομάδες ανακοίνωσε δεκαετές σχέδιο επανένωσης· μέσα σε έναν χρόνο είχε υπογραφεί συνθήκη ενοποίησης και τα δύο γερμανικά κράτη είχαν πάψει να υπάρχουν ως ξεχωριστές οντότητες."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Berlinermauer.jpg?width=1024",
+            alt: {
+              en: "The Berlin Wall",
+              el: "Το Τείχος του Βερολίνου"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     },

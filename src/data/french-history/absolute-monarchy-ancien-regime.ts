@@ -210,7 +210,15 @@ export const ABSOLUTE_MONARCHY_ANCIEN_REGIME = {
             en: "The Galerie des Glaces of Hardouin-Mansart, the gardens of Le Nôtre, and Le Brun's plafonds proclaimed France's ascendancy in stone, water, and paint. The court — Saint-Simon's hothouse of grades, étiquette, factions — neutralised the great nobles by making proximity to the king the only road to honour. The whole apparatus is the political theatre of absolutism.",
             el: "Η Galerie des Glaces του Αρντουέν-Μανσάρ, οι κήποι του Λε Νοτρ και τα plafonds του Λε Μπρεν διακήρυτταν την υπεροχή της Γαλλίας σε πέτρα, νερό και χρώμα. Η αυλή — το θερμοκήπιο του Σαιν-Σιμόν με βαθμίδες, etiquette και φατρίες — εξουδετέρωσε τους μεγάλους ευγενείς κάνοντας την εγγύτητα στον βασιλιά τη μόνη οδό προς την τιμή. Ολόκληρος ο μηχανισμός είναι το πολιτικό θέατρο του απολυταρχισμού."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Vue_a%C3%A9rienne_du_domaine_de_Versailles_par_ToucanWings_-_Creative_Commons_By_Sa_3.0_-_081_(cropped).jpg?width=1024",
+            alt: {
+              en: "The Palace of Versailles",
+              el: "Το Παλάτι των Βερσαλλιών"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     },

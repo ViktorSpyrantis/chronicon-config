@@ -309,7 +309,15 @@ export const EARLY_20TH_CIVIL_WAR = {
             en: "The Basque government in exile commissioned Pablo Picasso, then in Paris, to paint a great canvas for the Spanish pavilion at the World Exposition. Guernica — eight metres wide, monochrome, jagged — was unveiled in July 1937 and would become the twentieth century's most famous image of war. Nationalist propaganda denied responsibility for years; only in the 1960s did West Germany formally acknowledge it. The Basque country fell on 19 June with the surrender of Bilbao; northern Spain followed by the autumn.",
             el: "Η βασκική εξόριστη κυβέρνηση ανέθεσε στον Πάμπλο Πικάσο, τότε στο Παρίσι, έναν μεγάλο πίνακα για το ισπανικό περίπτερο της Παγκόσμιας Έκθεσης. Η Γκερνίκα — οκτώ μέτρα πλάτος, μονόχρωμη, αιχμηρή — αποκαλύφθηκε τον Ιούλιο του 1937 και θα γινόταν η πιο διάσημη εικόνα πολέμου του 20ού αιώνα. Η εθνικιστική προπαγάνδα αρνήθηκε την ευθύνη για χρόνια· μόνο τη δεκαετία του 1960 η Δυτική Γερμανία την αναγνώρισε επίσημα. Η Χώρα των Βάσκων έπεσε στις 19 Ιουνίου με την παράδοση του Μπιλμπάο· η βόρεια Ισπανία ακολούθησε ως το φθινόπωρο."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_183-H25224,_Guernica,_Ruinen.jpg?width=1024",
+            alt: {
+              en: "The ruins of Guernica after the 1937 bombing",
+              el: "Τα ερείπια της Γκερνίκα μετά τον βομβαρδισμό του 1937"
+            },
+            credit: "via Wikimedia Commons"
+          }
         }
       ]
     },
