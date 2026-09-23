@@ -82,7 +82,15 @@ export const VIKING_RAIDS = {
             en: "Lindisfarne was one of the holiest places in England, the home of St Cuthbert and the famous Lindisfarne Gospels. The scholar Alcuin, writing from Charlemagne's court, was horrified: 'Never before has such terror appeared in Britain… the church of St Cuthbert spattered with the blood of the priests of God.' Undefended monasteries full of precious metal were an irresistible target, and the raids spread quickly around the British Isles.",
             el: "Το Λίντισφαρν ήταν ένας από τους ιερότερους τόπους της Αγγλίας, η έδρα του Αγίου Κάθμπερτ και των περίφημων Ευαγγελίων του Λίντισφαρν. Ο λόγιος Αλκουίνος, γράφοντας από την αυλή του Καρλομάγνου, ήταν συγκλονισμένος: «Ποτέ πριν δεν εμφανίστηκε τέτοιος τρόμος στη Βρετανία… η εκκλησία του Αγίου Κάθμπερτ ραντισμένη με το αίμα των ιερέων του Θεού». Τα ανυπεράσπιστα μοναστήρια γεμάτα πολύτιμα μέταλλα ήταν ακαταμάχητος στόχος, και οι επιδρομές εξαπλώθηκαν γρήγορα σε όλα τα Βρετανικά Νησιά."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Lindisfarne_Priory_2016-05-29.jpg?width=1024",
+            alt: {
+              en: "The ruins of the medieval priory on Lindisfarne, the Holy Island",
+              el: "Τα ερείπια του μεσαιωνικού μοναστηριού στο Λίντισφαρν, το Ιερό Νησί"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -322,7 +330,15 @@ export const VIKING_RAIDS = {
             en: "Snorri Sturluson tells how Harald vowed not to cut or comb his hair until he ruled all Norway — hence his nickname. Modern historians place the battle later, perhaps around 880–900, and doubt that his rule stretched far beyond the western coast. But the sagas claimed that chieftains who refused to submit fled west to Iceland, making Harald's unification the founding story of both Norway and the Icelandic settlement.",
             el: "Ο Σνόρι Στούρλουσον αφηγείται πώς ο Χάραλντ ορκίστηκε να μην κόψει ούτε να χτενίσει τα μαλλιά του μέχρι να κυβερνήσει όλη τη Νορβηγία — εξ ου και το προσωνύμιό του. Οι σύγχρονοι ιστορικοί τοποθετούν τη μάχη αργότερα, ίσως γύρω στο 880–900, και αμφιβάλλουν ότι η εξουσία του εκτεινόταν πολύ πέρα από τη δυτική ακτή. Όμως τα έπη υποστήριζαν ότι οι αρχηγοί που αρνήθηκαν να υποταχθούν κατέφυγαν δυτικά στην Ισλανδία, κάνοντας την ενοποίηση του Χάραλντ την ιδρυτική ιστορία τόσο της Νορβηγίας όσο και του εποικισμού της Ισλανδίας."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Sverd_i_fjell_-_panoramio_(1).jpg?width=1024",
+            alt: {
+              en: "Sverd i fjell: three giant bronze swords set in the rock beside Hafrsfjord to commemorate the battle",
+              el: "Το Σβερντ ι φιελ: τρία γιγάντια χάλκινα ξίφη μπηγμένα στον βράχο δίπλα στο Χάφρσφιορντ σε ανάμνηση της μάχης"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -346,7 +362,15 @@ export const VIKING_RAIDS = {
             en: "The Book of Settlements says Ingólfr threw the carved pillars of his high-seat overboard and settled where they washed ashore, at the 'smoky bay' of Reykjavík, named for its steaming hot springs. Settlers came from Norway and from Norse colonies in the British Isles, bringing many Irish and Scottish slaves and wives; DNA studies show much of Iceland's female ancestry is Gaelic. Irish hermit monks may already have been living on the island.",
             el: "Το Βιβλίο των Εποικισμών λέει ότι ο Ίνγκολφουρ έριξε στη θάλασσα τις σκαλιστές κολόνες του θρόνου του και εγκαταστάθηκε εκεί όπου εκείνες ξεβράστηκαν, στον «καπνισμένο κόλπο» του Ρέικιαβικ, που ονομάστηκε έτσι από τις αχνιστές θερμές πηγές του. Οι άποικοι ήρθαν από τη Νορβηγία και από νορδικές αποικίες στα Βρετανικά Νησιά, φέρνοντας πολλούς Ιρλανδούς και Σκωτσέζους σκλάβους και συζύγους· μελέτες DNA δείχνουν ότι μεγάλο μέρος της γυναικείας καταγωγής της Ισλανδίας είναι γαελικό. Ιρλανδοί ερημίτες μοναχοί ίσως ζούσαν ήδη στο νησί."
           },
-          category: "cultural"
+          category: "cultural",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Ingolf_by_Raadsig.jpg?width=1024",
+            alt: {
+              en: "Peter Raadsig's 19th-century painting of Ingólfr Arnarson taking possession of Iceland beside his high-seat pillars",
+              el: "Πίνακας του Πέτερ Ράαντσιγκ του 19ου αιώνα με τον Ίνγκολφουρ Άρναρσον να καταλαμβάνει την Ισλανδία δίπλα στις κολόνες του θρόνου του"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },

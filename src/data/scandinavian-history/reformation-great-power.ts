@@ -178,7 +178,15 @@ export const REFORMATION_GREAT_POWER = {
             en: "Built top-heavy with two gun decks and 64 cannon, the Vasa capsized in a light gust on 10 August 1628 as crowds watched from the shore. Around thirty people died. The cold, brackish water of the Baltic, free of shipworms, preserved her almost intact. She was raised in 1961 and is now the centrepiece of Stockholm's Vasa Museum — the only almost fully intact 17th-century ship in the world.",
             el: "Κατασκευασμένο βαρύ στο πάνω μέρος, με δύο καταστρώματα πυροβόλων και 64 κανόνια, το Βάσα ανατράπηκε από μια ελαφριά ριπή ανέμου στις 10 Αυγούστου 1628, ενώ πλήθη παρακολουθούσαν από την ακτή. Περίπου τριάντα άνθρωποι σκοτώθηκαν. Τα κρύα, υφάλμυρα νερά της Βαλτικής, χωρίς σκουλήκια του ξύλου, το διατήρησαν σχεδόν ανέπαφο. Ανελκύστηκε το 1961 και είναι σήμερα το κεντρικό έκθεμα του Μουσείου Βάσα της Στοκχόλμης — το μόνο σχεδόν ακέραιο πλοίο του 17ου αιώνα στον κόσμο."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Stern_of_the_Vasa_ship%2C_Vasa_Museum%2C_Stockholm%2C_Sweden_julesvernex2.jpg?width=1024",
+            alt: {
+              en: "The richly carved stern of the warship Vasa in the Vasa Museum, Stockholm",
+              el: "Η πλούσια σκαλισμένη πρύμνη του πολεμικού πλοίου Βάσα στο Μουσείο Βάσα της Στοκχόλμης"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -202,7 +210,15 @@ export const REFORMATION_GREAT_POWER = {
             en: "In two years Gustavus had swept across Germany, crushing the imperial army at Breitenfeld in 1631 and marching as far as Munich. His death left his six-year-old daughter Christina on the throne, but Oxenstierna kept Sweden in the war. At the Peace of Westphalia in 1648 Sweden won Western Pomerania, Wismar and Bremen-Verden, gaining a foothold in the Holy Roman Empire and a seat among Europe's great powers.",
             el: "Μέσα σε δύο χρόνια ο Γουσταύος είχε σαρώσει τη Γερμανία, συντρίβοντας τον αυτοκρατορικό στρατό στο Μπράιτενφελντ το 1631 και βαδίζοντας ως το Μόναχο. Ο θάνατός του άφησε στον θρόνο την εξάχρονη κόρη του Χριστίνα, αλλά ο Όξενστιερνα κράτησε τη Σουηδία στον πόλεμο. Στην Ειρήνη της Βεστφαλίας το 1648 η Σουηδία κέρδισε τη Δυτική Πομερανία, το Βίσμαρ και τη Βρέμη-Φέρντεν, αποκτώντας ερείσμα στην Αγία Ρωμαϊκή Αυτοκρατορία και θέση ανάμεσα στις μεγάλες δυνάμεις της Ευρώπης."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Death_of_King_Gustav_II_Adolf_of_Sweden_at_the_Battle_of_L%C3%BCtzen%2C_1855%2C_by_Carl_Wahlbom%2C_Nationalmuseum%2C_Stockholm%2C_Sweden.jpg?width=1024",
+            alt: {
+              en: "Carl Wahlbom's 1855 painting of the death of Gustavus Adolphus in a cavalry mêlée at Lützen",
+              el: "Πίνακας του Καρλ Βάλμπομ (1855) με τον θάνατο του Γουσταύου Αδόλφου μέσα σε συμπλοκή ιππικού στο Λύτσεν"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -346,7 +362,15 @@ export const REFORMATION_GREAT_POWER = {
             en: "Whether the shot came from the Norwegian defenders or from one of his own men has been debated ever since; his remains have been exhumed several times without settling the question. Charles had no children, and with his death Swedish absolutism collapsed. The exhausted country turned to a new constitution that gave power to the Riksdag.",
             el: "Το αν η βολή ήρθε από τους Νορβηγούς υπερασπιστές ή από κάποιον δικό του άνθρωπο συζητείται από τότε· τα λείψανά του έχουν εκταφεί αρκετές φορές χωρίς να λυθεί το ζήτημα. Ο Κάρολος δεν είχε παιδιά, και με τον θάνατό του η σουηδική απολυταρχία κατέρρευσε. Η εξαντλημένη χώρα στράφηκε σε ένα νέο σύνταγμα που έδινε την εξουσία στο Ρίκσνταγκ."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Gustaf_Cederstr%C3%B6m_-_Bringing_Home_the_Body_of_King_Karl_XII_of_Sweden_-_Google_Art_Project.jpg?width=1024",
+            alt: {
+              en: "Gustaf Cederström's painting of Swedish soldiers carrying the body of Charles XII home through the snow",
+              el: "Πίνακας του Γκούσταφ Σέντερστρεμ με Σουηδούς στρατιώτες να μεταφέρουν τη σορό του Καρόλου ΙΒ΄ μέσα στο χιόνι"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },

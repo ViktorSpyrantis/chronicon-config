@@ -58,7 +58,15 @@ export const NORDIC_NATIONS_19TH_CENTURY = {
             en: "Critics at first dismissed them as childish, but Andersen went on to write over 150 tales — 'The Little Mermaid', 'The Ugly Duckling', 'The Emperor's New Clothes', 'The Snow Queen' — that have been translated into more languages than almost any other literature. This was Denmark's Golden Age, the time of the philosopher Søren Kierkegaard, the sculptor Bertel Thorvaldsen and the theologian N. F. S. Grundtvig, whose folk high schools shaped Nordic education.",
             el: "Οι κριτικοί αρχικά τα απέρριψαν ως παιδαριώδη, αλλά ο Άντερσεν έγραψε στη συνέχεια πάνω από 150 παραμύθια — «Η Μικρή Γοργόνα», «Το Ασχημόπαπο», «Τα Καινούργια Ρούχα του Αυτοκράτορα», «Η Βασίλισσα του Χιονιού» — που έχουν μεταφραστεί σε περισσότερες γλώσσες από σχεδόν οποιαδήποτε άλλη λογοτεχνία. Ήταν ο Χρυσός Αιώνας της Δανίας, η εποχή του φιλοσόφου Σέρεν Κίρκεγκωρ, του γλύπτη Μπέρτελ Τόρβαλντσεν και του θεολόγου Ν. Φ. Σ. Γκρούντβιγκ, του οποίου οι λαϊκές ανώτερες σχολές διαμόρφωσαν τη σκανδιναβική εκπαίδευση."
           },
-          category: "cultural"
+          category: "cultural",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Hans_Christian_Andersen_by_Thora_Hallager_1869.jpg?width=1024",
+            alt: {
+              en: "Hans Christian Andersen, photographed by Thora Hallager in 1869",
+              el: "Ο Χανς Κρίστιαν Άντερσεν, φωτογραφημένος από τη Θόρα Χαλάγκερ το 1869"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         },
         {
           title: {
@@ -121,7 +129,15 @@ export const NORDIC_NATIONS_19TH_CENTURY = {
             en: "Danish nationalists had tried to bind Schleswig closer to Denmark, giving Bismarck a pretext for war. Denmark hoped in vain for British or Swedish help. The defeat was a national trauma, summed up in the motto 'What was lost outwardly must be won inwardly' — Danes turned to reclaiming heathland, building cooperatives and folk high schools. For Prussia, it was the first of the three wars that would unite Germany.",
             el: "Οι Δανοί εθνικιστές είχαν προσπαθήσει να δέσουν στενότερα το Σλέσβιχ με τη Δανία, δίνοντας στον Βίσμαρκ πρόσχημα για πόλεμο. Η Δανία ήλπιζε μάταια σε βρετανική ή σουηδική βοήθεια. Η ήττα ήταν εθνικό τραύμα, που συνοψίστηκε στο σύνθημα «Ό,τι χάθηκε προς τα έξω πρέπει να κερδηθεί προς τα μέσα» — οι Δανοί στράφηκαν στην αξιοποίηση των χερσότοπων, στη δημιουργία συνεταιρισμών και λαϊκών ανώτερων σχολών. Για την Πρωσία, ήταν ο πρώτος από τους τρεις πολέμους που θα ένωναν τη Γερμανία."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Stormen_p%C3%A5_Dybb%C3%B8l.jpg?width=1024",
+            alt: {
+              en: "A painting of the Prussian storming of the Dybbøl redoubts in 1864",
+              el: "Πίνακας με την πρωσική έφοδο στα οχυρώματα του Ντίμπελ το 1864"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -217,7 +233,15 @@ export const NORDIC_NATIONS_19TH_CENTURY = {
             en: "Munch described walking at sunset near Kristiania (Oslo) when the sky turned blood-red and he 'sensed an infinite scream passing through nature'. He made several versions in paint and pastel and a lithograph. Part of his 'Frieze of Life' on love, anxiety and death, The Scream helped found Expressionism and became an icon of modern anxiety.",
             el: "Ο Μουνκ περιέγραψε ότι περπατούσε στο ηλιοβασίλεμα κοντά στην Κριστιάνια (Όσλο) όταν ο ουρανός έγινε κόκκινος σαν αίμα και «ένιωσε μια ατέλειωτη κραυγή να διαπερνά τη φύση». Έφτιαξε πολλές εκδοχές με λάδι και παστέλ και μια λιθογραφία. Μέρος της «Ζωφόρου της Ζωής» του για τον έρωτα, το άγχος και τον θάνατο, η «Κραυγή» βοήθησε να θεμελιωθεί ο εξπρεσιονισμός και έγινε σύμβολο του σύγχρονου άγχους."
           },
-          category: "cultural"
+          category: "cultural",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Edvard_Munch%2C_1893%2C_The_Scream%2C_oil%2C_tempera_and_pastel_on_cardboard%2C_91_x_73_cm%2C_National_Gallery_of_Norway.jpg?width=1024",
+            alt: {
+              en: "Edvard Munch's The Scream (1893), National Gallery of Norway",
+              el: "Η «Κραυγή» του Έντβαρντ Μουνκ (1893), Εθνική Πινακοθήκη της Νορβηγίας"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -313,7 +337,15 @@ export const NORDIC_NATIONS_19TH_CENTURY = {
             en: "Amundsen, who had already been the first to sail the Northwest Passage (1903–06), used skis and dog sleds and planned meticulously, learning from the Inuit how to survive the cold. He had secretly switched his goal from the North to the South Pole, sailing in Nansen's Fram. Scott's British party reached the Pole in January 1912 to find the Norwegian tent and flag; all five died on the return journey.",
             el: "Ο Άμουντσεν, που είχε ήδη γίνει ο πρώτος που διέπλευσε το Βορειοδυτικό Πέρασμα (1903–06), χρησιμοποίησε χιονοπέδιλα και έλκηθρα με σκύλους και σχεδίασε με σχολαστικότητα, μαθαίνοντας από τους Ινουίτ πώς να επιβιώνει στο κρύο. Είχε αλλάξει κρυφά τον στόχο του από τον Βόρειο στον Νότιο Πόλο, ταξιδεύοντας με το Φραμ του Νάνσεν. Η βρετανική ομάδα του Σκοτ έφτασε στον Πόλο τον Ιανουάριο του 1912 και βρήκε τη νορβηγική σκηνή και σημαία· και οι πέντε πέθαναν στο ταξίδι της επιστροφής."
           },
-          category: "cultural"
+          category: "cultural",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Scotts_Gruppe_am_Polheim-Zelt_Amundsens.jpg?width=1024",
+            alt: {
+              en: "Scott's party at Polheim, the tent Amundsen left at the South Pole, in January 1912",
+              el: "Η ομάδα του Σκοτ στο Πόλχαϊμ, τη σκηνή που άφησε ο Άμουντσεν στον Νότιο Πόλο, τον Ιανουάριο του 1912"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     }

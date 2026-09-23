@@ -58,7 +58,15 @@ export const KALMAR_UNION = {
             en: "The union realm stretched from Greenland to Finland, which was then part of Sweden. A 'union letter' drafted at the coronation promised that the kingdoms would share one king forever while keeping their own laws, but it was never formally ratified, and the Swedes would later dispute what had been agreed. Real power remained with Margaret until her death in 1412, and the union was always strongest when Denmark could impose it.",
             el: "Το κράτος της ένωσης εκτεινόταν από τη Γροιλανδία ως τη Φινλανδία, που τότε ήταν μέρος της Σουηδίας. Μια «επιστολή ένωσης» που συντάχθηκε στη στέψη υποσχόταν ότι τα βασίλεια θα μοιράζονταν για πάντα έναν βασιλιά, διατηρώντας τους δικούς τους νόμους, αλλά ποτέ δεν επικυρώθηκε επίσημα, και οι Σουηδοί αργότερα αμφισβήτησαν τι είχε συμφωνηθεί. Η πραγματική εξουσία έμεινε στη Μαργαρίτα ως τον θάνατό της το 1412, και η ένωση ήταν πάντα πιο ισχυρή όταν η Δανία μπορούσε να την επιβάλει."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Kalmar_castle_(by_Pudelek).JPG?width=1024",
+            alt: {
+              en: "Kalmar Castle in southern Sweden, the royal fortress of the town where the union was sealed",
+              el: "Το Κάστρο του Κάλμαρ στη νότια Σουηδία, το βασιλικό φρούριο της πόλης όπου επισφραγίστηκε η ένωση"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -202,7 +210,15 @@ export const KALMAR_UNION = {
             en: "Christian was wounded in the mouth and lost several teeth. To celebrate, Sten Sture commissioned the great sculpture of St George and the Dragon for Stockholm's cathedral — the dragon standing for Denmark. For the next half century the union survived only in name, as the Sture regents governed Sweden and the Danish kings repeatedly tried to reassert their claim.",
             el: "Ο Χριστιανός τραυματίστηκε στο στόμα και έχασε αρκετά δόντια. Για να γιορτάσει, ο Στεν Στούρε παρήγγειλε το μεγάλο γλυπτό του Αγίου Γεωργίου και του Δράκου για τον καθεδρικό ναό της Στοκχόλμης — με τον δράκο να συμβολίζει τη Δανία. Τον επόμενο μισό αιώνα η ένωση επιβίωνε μόνο κατ' όνομα, καθώς οι αντιβασιλείς Στούρε κυβερνούσαν τη Σουηδία και οι Δανοί βασιλείς προσπαθούσαν ξανά και ξανά να επιβάλουν τις αξιώσεις τους."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Stockholm%2C_Saint_George_and_the_Dragon_in_Storkyrkan.jpg?width=1024",
+            alt: {
+              en: "The sculpture of St George and the Dragon in Stockholm Cathedral, commissioned to commemorate Brunkeberg",
+              el: "Το γλυπτό του Αγίου Γεωργίου και του Δράκου στον καθεδρικό ναό της Στοκχόλμης, που παραγγέλθηκε σε ανάμνηση του Μπρούνκεμπεργκ"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -250,7 +266,15 @@ export const KALMAR_UNION = {
             en: "Christian II had conquered Sweden after the regent Sten Sture the Younger was mortally wounded. At a feast in November 1520 he promised an amnesty, then had his former opponents tried as heretics and executed over two days. Among the dead was Erik Johansson Vasa. Rather than crush Swedish resistance, the massacre ignited it — led by Erik's son, the young nobleman Gustav Vasa.",
             el: "Ο Χριστιανός Β΄ είχε κατακτήσει τη Σουηδία αφού ο αντιβασιλέας Στεν Στούρε ο Νεότερος τραυματίστηκε θανάσιμα. Σε ένα γεύμα τον Νοέμβριο του 1520 υποσχέθηκε αμνηστία, και έπειτα έβαλε να δικαστούν οι πρώην αντίπαλοί του ως αιρετικοί και να εκτελεστούν μέσα σε δύο μέρες. Ανάμεσα στους νεκρούς ήταν ο Έρικ Γιοχάνσον Βάσα. Αντί να συντρίψει τη σουηδική αντίσταση, η σφαγή την πυροδότησε — με επικεφαλής τον γιο του Έρικ, τον νεαρό ευγενή Γουστάβο Βάσα."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Stockholm_Bloodbath.jpg?width=1024",
+            alt: {
+              en: "A coloured copy of the 16th-century woodcut depicting the executions of the Stockholm Bloodbath",
+              el: "Χρωματισμένο αντίγραφο της ξυλογραφίας του 16ου αιώνα που απεικονίζει τις εκτελέσεις του Λουτρού Αίματος της Στοκχόλμης"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },

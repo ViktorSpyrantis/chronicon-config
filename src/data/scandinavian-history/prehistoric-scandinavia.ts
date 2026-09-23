@@ -226,7 +226,15 @@ export const PREHISTORIC_SCANDINAVIA = {
             en: "Found by a farmer ploughing a bog on Zealand in 1902, the chariot has one side of its disc gilded and the other left dark: the bright day-sun drawn across the sky, and the night-sun returning unseen. The belief that a horse pulled the sun by day and a ship carried it by night runs through the rock art and bronzes of the whole Nordic Bronze Age.",
             el: "Βρέθηκε από έναν αγρότη που όργωνε ένα έλος στη Ζηλανδία το 1902· η μία πλευρά του δίσκου είναι επιχρυσωμένη και η άλλη σκοτεινή: ο λαμπρός ήλιος της ημέρας που σύρεται στον ουρανό, και ο ήλιος της νύχτας που επιστρέφει αθέατος. Η πίστη ότι ένα άλογο έσερνε τον ήλιο τη μέρα και ένα πλοίο τον μετέφερε τη νύχτα διατρέχει τη βραχογραφία και τα χάλκινα έργα ολόκληρης της Σκανδιναβικής Εποχής του Χαλκού."
           },
-          category: "religious"
+          category: "religious",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Solvognen_DO-6865_2000.jpg?width=1024",
+            alt: {
+              en: "The Trundholm sun chariot: a bronze horse drawing a gilded sun disc on wheels, National Museum of Denmark",
+              el: "Το ηλιακό άρμα του Τρούντχολμ: ένα χάλκινο άλογο που σέρνει έναν επιχρυσωμένο ηλιακό δίσκο πάνω σε τροχούς, Εθνικό Μουσείο της Δανίας"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -250,7 +258,15 @@ export const PREHISTORIC_SCANDINAVIA = {
             en: "Her barrow sealed the coffin so well that her clothes, hair, nails and teeth survived for 3,400 years, along with a yarrow flower that shows she was buried in summer. A 2015 study of the strontium in her hair suggested she had travelled long distances, perhaps from the Black Forest, though the interpretation is debated. She offers a rare, intimate glimpse of a Bronze Age life.",
             el: "Ο τύμβος της σφράγισε το φέρετρο τόσο καλά που τα ρούχα, τα μαλλιά, τα νύχια και τα δόντια της διασώθηκαν επί 3.400 χρόνια, μαζί με ένα άνθος αχίλλειας που δείχνει ότι θάφτηκε καλοκαίρι. Μια μελέτη του 2015 για το στρόντιο στα μαλλιά της υπέθεσε ότι είχε ταξιδέψει μεγάλες αποστάσεις, ίσως από τον Μέλανα Δρυμό, αν και η ερμηνεία αμφισβητείται. Προσφέρει μια σπάνια, προσωπική ματιά σε μια ζωή της Εποχής του Χαλκού."
           },
-          category: "cultural"
+          category: "cultural",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Egtvedpigen.jpg?width=1024",
+            alt: {
+              en: "The oak coffin and preserved clothing of the Egtved Girl on display",
+              el: "Το δρύινο φέρετρο και τα διατηρημένα ενδύματα του Κοριτσιού του Έγκτβεντ σε έκθεση"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -274,7 +290,15 @@ export const PREHISTORIC_SCANDINAVIA = {
             en: "The carvings at Tanum, a UNESCO World Heritage Site since 1994, were made over roughly a thousand years. Ships dominate — long canoe-like vessels crowded with paddlers — showing how central the sea already was to northern life and belief. Other panels show weddings, battles with axes and spears, and giant figures who may be gods. They are the richest picture of Bronze Age society in northern Europe.",
             el: "Οι χαράξεις στο Τάνουμ, Μνημείο Παγκόσμιας Κληρονομιάς της UNESCO από το 1994, δημιουργήθηκαν σε διάστημα περίπου χιλίων ετών. Κυριαρχούν τα πλοία — μακρόστενα σκάφη σαν κανό, γεμάτα κωπηλάτες — δείχνοντας πόσο κεντρική ήταν ήδη η θάλασσα στη ζωή και στις πίστεις του Βορρά. Άλλες επιφάνειες δείχνουν γάμους, μάχες με πελέκεις και δόρατα, και γιγάντιες μορφές που ίσως είναι θεοί. Αποτελούν την πλουσιότερη εικόνα της κοινωνίας της Εποχής του Χαλκού στη βόρεια Ευρώπη."
           },
-          category: "cultural"
+          category: "cultural",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Tanumshede_2005_rock_carvings_Vitlycke.jpg?width=1024",
+            alt: {
+              en: "Bronze Age rock carving of a long ship at Vitlycke, Tanum, with the lines painted red",
+              el: "Βραχογραφία της Εποχής του Χαλκού με ένα μακρόστενο πλοίο στο Βίτλικε του Τάνουμ, με τις γραμμές βαμμένες κόκκινες"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },

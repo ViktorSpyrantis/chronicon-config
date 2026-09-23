@@ -82,7 +82,15 @@ export const ENLIGHTENMENT_NAPOLEONIC_NORTH = {
             en: "Linnaeus' system of naming every species with two Latin words — genus and species, as in Homo sapiens — is still used by scientists today. From Uppsala he sent his students, the 'apostles', on voyages across the globe to collect specimens. In 1739 he helped found the Royal Swedish Academy of Sciences. Sweden's Age of Liberty also produced Anders Celsius, whose temperature scale is used around the world.",
             el: "Το σύστημα του Λινναίου, που δίνει σε κάθε είδος δύο λατινικές λέξεις — γένος και είδος, όπως Homo sapiens — χρησιμοποιείται ακόμη από τους επιστήμονες. Από την Ουψάλα έστελνε τους μαθητές του, τους «αποστόλους», σε ταξίδια σε όλη την υφήλιο για να συλλέγουν δείγματα. Το 1739 συνέβαλε στην ίδρυση της Βασιλικής Σουηδικής Ακαδημίας Επιστημών. Η Εποχή της Ελευθερίας της Σουηδίας ανέδειξε επίσης τον Άντερς Κέλσιο, του οποίου η κλίμακα θερμοκρασίας χρησιμοποιείται σε όλο τον κόσμο."
           },
-          category: "cultural"
+          category: "cultural",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Carl_von_Linn%C3%A9.jpg?width=1024",
+            alt: {
+              en: "Alexander Roslin's portrait of Carl Linnaeus",
+              el: "Προσωπογραφία του Κάρολου Λινναίου από τον Αλεξάντερ Ρόσλιν"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -241,7 +249,15 @@ export const ENLIGHTENMENT_NAPOLEONIC_NORTH = {
             en: "Legend says Nelson raised his telescope to his blind eye and declared, 'I really do not see the signal.' The Danes, fighting from hulks and floating batteries with many volunteer crews, resisted fiercely before a truce was agreed. Denmark withdrew from the League of Armed Neutrality. It was only the first blow: Denmark's lucrative neutral trade was about to draw it into the Napoleonic wars.",
             el: "Ο θρύλος λέει ότι ο Νέλσον έφερε το τηλεσκόπιο στο τυφλό του μάτι και δήλωσε: «Πραγματικά δεν βλέπω το σήμα». Οι Δανοί, πολεμώντας από παροπλισμένα σκαριά και πλωτές πυροβολαρχίες με πολλούς εθελοντές, αντιστάθηκαν σθεναρά πριν συμφωνηθεί ανακωχή. Η Δανία αποσύρθηκε από τη Συμμαχία Ένοπλης Ουδετερότητας. Ήταν μόνο το πρώτο πλήγμα: το προσοδοφόρο ουδέτερο εμπόριο της Δανίας επρόκειτο να τη σύρει στους Ναπολεόντειους Πολέμους."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Nicholas_Pocock_-_The_Battle_of_Copenhagen%2C_2_April_1801.jpg?width=1024",
+            alt: {
+              en: "Nicholas Pocock's painting of the British and Danish lines at the Battle of Copenhagen, 2 April 1801",
+              el: "Πίνακας του Νίκολας Πόκοκ με τις βρετανικές και δανικές γραμμές στη Ναυμαχία της Κοπεγχάγης, 2 Απριλίου 1801"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -352,7 +368,15 @@ export const ENLIGHTENMENT_NAPOLEONIC_NORTH = {
             en: "Inspired by the American and French revolutions, the Eidsvoll constitution divided power between king and a parliament, the Storting, and gave the vote to a relatively large share of men. The Danish prince Christian Frederik was elected king, but Bernadotte invaded that summer in what was Sweden's last war. By the Convention of Moss, Norway entered a union with Sweden as a separate kingdom with its own constitution. 17 May is Norway's national day, celebrated with children's parades across the country.",
             el: "Εμπνευσμένο από την Αμερικανική και τη Γαλλική Επανάσταση, το σύνταγμα του Άιντσβολ μοίραζε την εξουσία ανάμεσα στον βασιλιά και σε ένα κοινοβούλιο, το Στόρτινγκ, και έδινε ψήφο σε σχετικά μεγάλο ποσοστό των ανδρών. Ο Δανός πρίγκιπας Χριστιανός Φρειδερίκος εκλέχθηκε βασιλιάς, αλλά ο Μπερναντότ εισέβαλε εκείνο το καλοκαίρι σε αυτόν που ήταν ο τελευταίος πόλεμος της Σουηδίας. Με τη Σύμβαση του Μος, η Νορβηγία μπήκε σε ένωση με τη Σουηδία ως χωριστό βασίλειο με το δικό της σύνταγμα. Η 17η Μαΐου είναι η εθνική εορτή της Νορβηγίας και γιορτάζεται με παρελάσεις παιδιών σε όλη τη χώρα."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Eidsvoll_riksraad_1814.jpeg?width=1024",
+            alt: {
+              en: "Oscar Wergeland's painting of the Constituent Assembly at Eidsvoll in 1814",
+              el: "Πίνακας του Όσκαρ Βέργκελαντ με τη Συντακτική Συνέλευση στο Άιντσβολ το 1814"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     }

@@ -130,7 +130,15 @@ export const MODERN_NORDIC_COUNTRIES = {
             en: "White-clad Finnish ski troops ambushed Soviet columns in the forests, and the world gave the 'Molotov cocktail' its name here. The Soviets lost well over 100,000 men. Finland kept its independence but lost about a tenth of its territory, and over 400,000 Karelians were evacuated. Seeking to regain it, Finland fought alongside Germany against the USSR in the Continuation War of 1941–44.",
             el: "Φινλανδοί σκιέρ-στρατιώτες ντυμένοι στα λευκά έστηναν ενέδρες στις σοβιετικές φάλαγγες μέσα στα δάση, και εδώ πήρε το όνομά της η «βόμβα μολότοφ». Οι Σοβιετικοί έχασαν πολύ περισσότερους από 100.000 άνδρες. Η Φινλανδία διατήρησε την ανεξαρτησία της αλλά έχασε περίπου το ένα δέκατο της επικράτειάς της, και πάνω από 400.000 Καρελιανοί εκκενώθηκαν. Επιδιώκοντας να την ανακτήσει, η Φινλανδία πολέμησε στο πλευρό της Γερμανίας κατά της ΕΣΣΔ στον Πόλεμο της Συνέχειας του 1941–44."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/A_Finnish_Maxim_M-32_machine_gun_nest_during_the_Winter_War.jpg?width=1024",
+            alt: {
+              en: "Finnish soldiers in white snow camouflage manning a Maxim machine gun during the Winter War",
+              el: "Φινλανδοί στρατιώτες με λευκή παραλλαγή χιονιού σε θέση πολυβόλου Μαξίμ κατά τον Χειμερινό Πόλεμο"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -178,7 +186,15 @@ export const MODERN_NORDIC_COUNTRIES = {
             en: "The warning was leaked by the German diplomat Georg Ferdinand Duckwitz. Over a few weeks in October 1943, doctors, students, fishermen and police helped almost the entire Jewish community escape; fewer than 500 were caught and sent to Theresienstadt, and most of them survived. Sweden, which had announced it would take them in, received them. It remains one of the most remarkable acts of collective rescue of the Holocaust.",
             el: "Την προειδοποίηση διέρρευσε ο Γερμανός διπλωμάτης Γκέοργκ Φέρντιναντ Ντάκβιτς. Μέσα σε λίγες εβδομάδες τον Οκτώβριο του 1943, γιατροί, φοιτητές, ψαράδες και αστυνομικοί βοήθησαν σχεδόν ολόκληρη την εβραϊκή κοινότητα να διαφύγει· λιγότεροι από 500 συνελήφθησαν και στάλθηκαν στο Τερεζίνσταντ, και οι περισσότεροι από αυτούς επέζησαν. Η Σουηδία, που είχε ανακοινώσει ότι θα τους δεχόταν, τους υποδέχθηκε. Παραμένει μία από τις πιο αξιοσημείωτες πράξεις συλλογικής διάσωσης του Ολοκαυτώματος."
           },
-          category: "political"
+          category: "political",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/The_fishing_boat_%22Elisabeth%22_took_part_in_the_rescue_of_Danish_Jews_in_1943._Around_700_Jews_fled_trough_Drag%C3%B8r_harbour_to_neutral_Sweden._-_Flickr_-_Cederskjold_Photo.jpg?width=1024",
+            alt: {
+              en: "The fishing boat Elisabeth in Dragør harbour, one of the boats that carried Danish Jews to Sweden in 1943",
+              el: "Η ψαρόβαρκα Ελίζαμπετ στο λιμάνι του Ντράγκερ, μία από τις βάρκες που μετέφεραν Δανούς Εβραίους στη Σουηδία το 1943"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },

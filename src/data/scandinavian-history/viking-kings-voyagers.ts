@@ -154,7 +154,15 @@ export const VIKING_KINGS_VOYAGERS = {
             en: "Carved with an image of Christ entwined in foliage, the stone is often called 'Denmark's baptismal certificate'. Harald also built the ring fortresses such as Trelleborg and Fyrkat, and a great bridge at Ravning Enge. A thousand years later his nickname was borrowed for the Bluetooth wireless standard, whose logo combines his initials in runes — a fitting name for a king who united peoples.",
             el: "Σκαλισμένη με μια απεικόνιση του Χριστού περιπλεγμένου σε φυλλώματα, η πέτρα αποκαλείται συχνά «το πιστοποιητικό βάπτισης της Δανίας». Ο Χάραλντ έχτισε επίσης τα κυκλικά φρούρια όπως το Τρέλεμποργκ και το Φίρκατ, και μια μεγάλη γέφυρα στο Ράβνινγκ Ένγκε. Χίλια χρόνια αργότερα το προσωνύμιό του δανείστηκε για την ασύρματη τεχνολογία Bluetooth, της οποίας το λογότυπο συνδυάζει τα αρχικά του σε ρούνους — ταιριαστό όνομα για έναν βασιλιά που ένωσε λαούς."
           },
-          category: "religious"
+          category: "religious",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Jelling_Stone_image_of_Christ.jpg?width=1024",
+            alt: {
+              en: "A painted replica of the Jelling stone's image of Christ, showing how the carving may once have been coloured",
+              el: "Ζωγραφισμένο αντίγραφο της απεικόνισης του Χριστού στην πέτρα του Γέλινγκ, που δείχνει πώς μπορεί να ήταν χρωματισμένη αρχικά η χάραξη"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -202,7 +210,15 @@ export const VIKING_KINGS_VOYAGERS = {
             en: "In return for his help, Vladimir married Basil's sister Anna and accepted Orthodox Christianity for the Rus. The axe-bearing Varangians, valued for loyalty to the emperor rather than to any Byzantine faction, fought from Italy to Syria. Scandinavian men went 'out to Greece' for service and wealth, and runestones back home commemorate those who died in 'Grikkland'. Runes carved by Varangians survive on the balustrade of Hagia Sophia.",
             el: "Ως αντάλλαγμα για τη βοήθειά του, ο Βλαδίμηρος νυμφεύθηκε την αδελφή του Βασιλείου, Άννα, και δέχτηκε τον ορθόδοξο χριστιανισμό για τους Ρως. Οι πελεκυφόροι Βάραγγοι, πολύτιμοι για την πίστη τους στον αυτοκράτορα και όχι σε κάποια βυζαντινή φατρία, πολέμησαν από την Ιταλία ως τη Συρία. Σκανδιναβοί άνδρες πήγαιναν «έξω στην Ελλάδα» για υπηρεσία και πλούτο, και ρουνικές πέτρες στις πατρίδες τους τιμούν όσους πέθαναν στη «Γκρίκλαντ». Ρούνοι χαραγμένοι από Βαράγγους σώζονται στο στηθαίο της Αγίας Σοφίας."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/A_Thracesian_woman_kills_a_Varangian.jpg?width=1024",
+            alt: {
+              en: "Miniature from the Madrid Skylitzes showing Varangian guardsmen, as a woman of the Thracesian theme kills a Varangian who assaulted her",
+              el: "Μικρογραφία από τον Σκυλίτζη της Μαδρίτης με Βαράγγους φρουρούς, καθώς μια γυναίκα του θέματος των Θρακησίων σκοτώνει έναν Βάραγγο που της επιτέθηκε"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -337,7 +353,15 @@ export const VIKING_KINGS_VOYAGERS = {
             en: "The sagas tell how Leif Erikson, son of Erik the Red, sailed west around the year 1000 to lands he called Helluland, Markland and Vinland, 'wine-land'. The site at L'Anse aux Meadows, discovered in 1960, confirmed the stories. A 2021 study used a spike in radiocarbon caused by a solar storm in 993 to show that wood there was cut with metal blades exactly in 1021. The Norse camp was used only briefly, but it came nearly five centuries before Columbus.",
             el: "Τα έπη αφηγούνται πώς ο Λέιφ Έρικσον, γιος του Έρικ του Ερυθρού, έπλευσε δυτικά γύρω στο έτος 1000 προς χώρες που ονόμασε Χέλουλαντ, Μάρκλαντ και Βίνλαντ, «χώρα του κρασιού». Η τοποθεσία στο Λ'Ανς ω Μεντόουζ, που ανακαλύφθηκε το 1960, επιβεβαίωσε τις ιστορίες. Μια μελέτη του 2021 χρησιμοποίησε μια αιχμή ραδιενεργού άνθρακα που προκάλεσε μια ηλιακή καταιγίδα το 993 για να δείξει ότι το ξύλο εκεί κόπηκε με μεταλλικές λεπίδες ακριβώς το 1021. Ο νορδικός καταυλισμός χρησιμοποιήθηκε μόνο για λίγο, αλλά προηγήθηκε του Κολόμβου κατά σχεδόν πέντε αιώνες."
           },
-          category: "cultural"
+          category: "cultural",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/L'Anse_aux_Meadows_National_Historic_Site_-_Newfoundland%2C_Canada_-_11_September_2023.jpg?width=1024",
+            alt: {
+              en: "The Norse site at L'Anse aux Meadows in Newfoundland, with its reconstructed turf buildings by the sea",
+              el: "Η νορδική τοποθεσία στο Λ'Ανς ω Μεντόουζ της Νέας Γης, με τα ανακατασκευασμένα κτίσματα από χλοοτάπητα δίπλα στη θάλασσα"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -361,7 +385,15 @@ export const VIKING_KINGS_VOYAGERS = {
             en: "Olaf had ruled Norway from 1015 and pressed Christianity on its chieftains as harshly as his namesake Olaf Tryggvason. After his death on 29 July 1030, miracles were reported at his grave, and his body was enshrined at Nidaros — today's Trondheim — where the great cathedral was later built over it. As Olaf the Holy he became Norway's 'eternal king' and patron saint, and Nidaros one of northern Europe's great pilgrimage sites.",
             el: "Ο Όλαφ κυβερνούσε τη Νορβηγία από το 1015 και επέβαλε τον χριστιανισμό στους αρχηγούς της τόσο σκληρά όσο και ο συνονόματός του Όλαφ Τρίγκβασον. Μετά τον θάνατό του στις 29 Ιουλίου 1030 αναφέρθηκαν θαύματα στον τάφο του, και το σώμα του τοποθετήθηκε σε λειψανοθήκη στο Νίνταρος — το σημερινό Τρόντχαϊμ — όπου αργότερα χτίστηκε από πάνω ο μεγάλος καθεδρικός ναός. Ως Όλαφ ο Άγιος έγινε ο «αιώνιος βασιλιάς» και προστάτης άγιος της Νορβηγίας, και το Νίνταρος ένας από τους μεγάλους τόπους προσκυνήματος της βόρειας Ευρώπης."
           },
-          category: "religious"
+          category: "religious",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Arbo-Olav_den_helliges_fall_i_slaget_p%C3%A5_Stiklestad.jpg?width=1024",
+            alt: {
+              en: "Peter Nicolai Arbo's painting of the fall of Olaf the Holy at the Battle of Stiklestad",
+              el: "Πίνακας του Πέτερ Νικολάι Άρμπο με την πτώση του Όλαφ του Αγίου στη μάχη του Στίκλεσταντ"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -409,7 +441,15 @@ export const VIKING_KINGS_VOYAGERS = {
             en: "Surprised without their armour on a hot day, the Norwegians were routed; of some 300 ships that came, the survivors needed only about two dozen to sail home. Three days later William of Normandy landed in the south, and Harold's exhausted army was defeated at Hastings on 14 October. With Hardrada's death, the age of great Scandinavian invasions ended — and it was a descendant of Viking settlers, William, who took England.",
             el: "Αιφνιδιασμένοι χωρίς τις πανοπλίες τους σε μια ζεστή μέρα, οι Νορβηγοί κατατροπώθηκαν· από τα περίπου 300 πλοία που είχαν έρθει, οι επιζώντες χρειάστηκαν μόνο δύο δωδεκάδες περίπου για να γυρίσουν στην πατρίδα. Τρεις μέρες αργότερα ο Γουλιέλμος της Νορμανδίας αποβιβάστηκε στον νότο, και ο εξαντλημένος στρατός του Χάρολντ ηττήθηκε στο Χέιστινγκς στις 14 Οκτωβρίου. Με τον θάνατο του Χάρντραντα, η εποχή των μεγάλων σκανδιναβικών εισβολών έληξε — και ήταν ένας απόγονος αποίκων Βίκινγκς, ο Γουλιέλμος, που κατέκτησε την Αγγλία."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Arbo_-_Battle_of_Stamford_Bridge_(1870).jpg?width=1024",
+            alt: {
+              en: "Peter Nicolai Arbo's 1870 painting of the Battle of Stamford Bridge",
+              el: "Πίνακας του Πέτερ Νικολάι Άρμπο (1870) με τη μάχη του Στάμφορντ Μπριτζ"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     }

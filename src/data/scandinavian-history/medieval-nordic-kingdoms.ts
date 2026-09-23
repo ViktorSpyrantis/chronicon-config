@@ -130,7 +130,15 @@ export const MEDIEVAL_NORDIC_KINGDOMS = {
             en: "The legend is first recorded three centuries later, but the Dannebrog is considered the oldest continuously used national flag in the world. The Danes built a castle at Lyndanisse, which the Estonians called Tallinn — 'Danish town'. Valdemar the Victorious ruled a Baltic empire at its height, but in 1223 he was kidnapped by a German count, and Denmark lost most of its conquests.",
             el: "Ο θρύλος καταγράφεται για πρώτη φορά τρεις αιώνες αργότερα, αλλά το Ντάνεμπρογκ θεωρείται η αρχαιότερη εθνική σημαία του κόσμου σε συνεχή χρήση. Οι Δανοί έχτισαν ένα κάστρο στο Λίντανισε, το οποίο οι Εσθονοί ονόμασαν Ταλίν — «δανική πόλη». Ο Βάλντεμαρ ο Νικηφόρος κυβέρνησε μια αυτοκρατορία της Βαλτικής στο απόγειό της, αλλά το 1223 απήχθη από έναν Γερμανό κόμη, και η Δανία έχασε τις περισσότερες κατακτήσεις της."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/CA_Lorentzen%2C_Dannebrog_falder_ned_fra_himlen_under_Volmerslaget_ved_Lyndanisse_Tallin_i_Estland_den_15_juni_1219%2C_1809%2C_KMS274%2C_Statens_Museum_for_Kunst.jpg?width=1024",
+            alt: {
+              en: "C. A. Lorentzen's 1809 painting of the Dannebrog falling from the sky at the Battle of Lyndanisse",
+              el: "Πίνακας του Κ. Α. Λόρεντσεν (1809) με το Ντάνεμπρογκ να πέφτει από τον ουρανό στη μάχη του Λίντανισε"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -298,7 +306,15 @@ export const MEDIEVAL_NORDIC_KINGDOMS = {
             en: "Some 1,800 Gotland farmers, many old or young and poorly armed, were killed; their mass graves, excavated in the 20th century, preserved armour and wounds in grim detail. Valdemar had spent his reign rebuilding a Denmark that had been pawned off to German lords piece by piece. His attack on a Hanseatic town, however, provoked a war with the whole League.",
             el: "Περίπου 1.800 αγρότες του Γκότλαντ, πολλοί ηλικιωμένοι ή νεαροί και φτωχά οπλισμένοι, σκοτώθηκαν· οι ομαδικοί τάφοι τους, που ανασκάφηκαν τον 20ό αιώνα, διατήρησαν πανοπλίες και τραύματα με φρικτή λεπτομέρεια. Ο Βάλντεμαρ είχε περάσει τη βασιλεία του ανασυνθέτοντας μια Δανία που είχε ενεχυριαστεί κομμάτι-κομμάτι σε Γερμανούς άρχοντες. Η επίθεσή του σε μια χανσεατική πόλη, ωστόσο, προκάλεσε πόλεμο με ολόκληρη την Ένωση."
           },
-          category: "military"
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Carl_Gustaf_Hellqvist_-_Valdemar_Atterdag_Holding_Visby_to_Ransom%2C_1361_-_Google_Art_Project.jpg?width=1024",
+            alt: {
+              en: "Carl Gustaf Hellqvist's 1882 painting of Valdemar Atterdag holding Visby to ransom",
+              el: "Πίνακας του Καρλ Γκούσταφ Χέλκβιστ (1882) με τον Βάλντεμαρ Άτερνταγκ να ζητά λύτρα από το Βίσμπι"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },

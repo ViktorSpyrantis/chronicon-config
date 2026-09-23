@@ -58,7 +58,15 @@ export const IRON_AGE_SCANDINAVIA = {
             en: "Radiocarbon dating places his death around 405–380 BCE. He was naked except for a pointed skin cap and a belt, with the plaited leather noose still around his neck; his last meal was a porridge of barley, flax and wild seeds. Like many of the North's bog bodies, he was probably a human sacrifice, offered to the powers believed to dwell in these wet, in-between places.",
             el: "Η ραδιοχρονολόγηση τοποθετεί τον θάνατό του γύρω στο 405–380 π.Χ. Ήταν γυμνός, με εξαίρεση έναν μυτερό δερμάτινο σκούφο και μια ζώνη, με την πλεκτή δερμάτινη θηλιά ακόμη γύρω από τον λαιμό του· το τελευταίο του γεύμα ήταν χυλός από κριθάρι, λινάρι και άγριους σπόρους. Όπως πολλά από τα σώματα των ελών του Βορρά, ήταν πιθανότατα ανθρωποθυσία, προσφορά στις δυνάμεις που πίστευαν ότι κατοικούσαν σε αυτούς τους υγρούς, μεταιχμιακούς τόπους."
           },
-          category: "religious"
+          category: "religious",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Tollundmannen.jpg?width=1024",
+            alt: {
+              en: "The preserved head of Tollund Man, still wearing his pointed skin cap",
+              el: "Το διατηρημένο κεφάλι του Ανθρώπου του Τόλουντ, που φορά ακόμη τον μυτερό δερμάτινο σκούφο του"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -130,7 +138,15 @@ export const IRON_AGE_SCANDINAVIA = {
             en: "The largest known piece of European Iron Age silverwork, it was probably made in southeastern Europe, with Thracian craftsmanship and Celtic imagery — including an antlered god often identified as Cernunnos and a procession of warriors with carnyx war-trumpets. How it reached Denmark, whether as loot, gift or trade, is unknown, but its deposit shows the North's links to the wider world of Iron Age Europe.",
             el: "Το μεγαλύτερο γνωστό ασημένιο έργο της ευρωπαϊκής Εποχής του Σιδήρου κατασκευάστηκε πιθανότατα στη νοτιοανατολική Ευρώπη, με θρακική τεχνική και κελτική εικονογραφία — ανάμεσά της ένας θεός με κέρατα ελαφιού που συχνά ταυτίζεται με τον Κερνούνο, και μια πομπή πολεμιστών με πολεμικές σάλπιγγες κάρνυξ. Πώς έφτασε στη Δανία, ως λάφυρο, δώρο ή εμπόρευμα, είναι άγνωστο, αλλά η απόθεσή του δείχνει τους δεσμούς του Βορρά με τον ευρύτερο κόσμο της ευρωπαϊκής Εποχής του Σιδήρου."
           },
-          category: "religious"
+          category: "religious",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Gundestrup_cauldron_-_F.I.4277.jpg?width=1024",
+            alt: {
+              en: "The silver Gundestrup cauldron with its embossed plates of gods and figures",
+              el: "Ο ασημένιος λέβητας του Γκούντεστρουπ με τις ανάγλυφες πλάκες του με θεούς και μορφές"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
@@ -226,7 +242,15 @@ export const IRON_AGE_SCANDINAVIA = {
             en: "The inscription reads 'I, Hlewagastiz, son of Holt, made the horn.' Found by chance in 1639 and 1734, the horns became Danish national treasures — until 1802, when a goldsmith stole them from the royal collection and melted them down. The replicas in Copenhagen today were made from old drawings, and the loss inspired a famous poem that helped launch Danish Romanticism.",
             el: "Η επιγραφή γράφει: «Εγώ, ο Χλεβαγκάστιζ, γιος του Χολτ, έφτιαξα το κέρας». Βρέθηκαν τυχαία το 1639 και το 1734 και έγιναν εθνικοί θησαυροί της Δανίας — ώσπου το 1802 ένας χρυσοχόος τα έκλεψε από τη βασιλική συλλογή και τα έλιωσε. Τα αντίγραφα στην Κοπεγχάγη σήμερα κατασκευάστηκαν από παλιά σχέδια, και η απώλεια ενέπνευσε ένα διάσημο ποίημα που βοήθησε να ξεκινήσει ο δανικός ρομαντισμός."
           },
-          category: "cultural"
+          category: "cultural",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Copenhagen_-_Nationalmuseet_-_Golden_horns_of_Gallehus.JPG?width=1024",
+            alt: {
+              en: "Replicas of the Golden Horns of Gallehus in a display case at the National Museum of Denmark",
+              el: "Αντίγραφα των Χρυσών Κεράτων του Γκάλεχους σε προθήκη του Εθνικού Μουσείου της Δανίας"
+            },
+            credit: "Via Wikimedia Commons"
+          }
         }
       ]
     },
