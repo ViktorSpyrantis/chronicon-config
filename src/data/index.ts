@@ -27,6 +27,7 @@ import { GERMAN_HISTORY } from "./german-history";
 import { FRENCH_HISTORY } from "./french-history";
 import { SPANISH_HISTORY } from "./spanish-history";
 import { RUSSIAN_HISTORY } from "./russian-history";
+import { SCANDINAVIAN_HISTORY } from "./scandinavian-history";
 import { AMERICAN_HISTORY } from "./american-history";
 import { GLOBAL_CONFLICTS } from "./global-conflicts";
 
@@ -46,6 +47,7 @@ export const SECTION_MODULES = [
   FRENCH_HISTORY,
   SPANISH_HISTORY,
   RUSSIAN_HISTORY,
+  SCANDINAVIAN_HISTORY,
   AMERICAN_HISTORY,
   GLOBAL_CONFLICTS,
 ] satisfies readonly SectionModule[];
@@ -114,6 +116,16 @@ export const PERIOD_ID_ORDER = [
   "revolution-civil-war",
   "soviet-union",
   "russian-federation",
+  "prehistoric-scandinavia",
+  "iron-age-scandinavia",
+  "viking-raids",
+  "viking-kings-voyagers",
+  "medieval-nordic-kingdoms",
+  "kalmar-union",
+  "reformation-great-power",
+  "enlightenment-napoleonic-north",
+  "nordic-nations-19th-century",
+  "modern-nordic-countries",
   "prehistoric-egypt",
   "early-dynastic-egypt",
   "old-kingdom-egypt",
