@@ -1059,11 +1059,12 @@ export const EASTERN_ROMAN = {
           },
           category: "religious",
           image: {
-            src: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Menologion_of_Basil_024.jpg/960px-Menologion_of_Basil_024.jpg",
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Menologion_of_Basil_024.jpg?width=1024",
             alt: {
-              en: "Menologion of Basil",
-              el: "Μηνολόγιο του Βασιλείου"
-            }
+              en: "The Second Council of Nicaea: the emperor enthroned among the bishops, a condemned heretic prostrate before them, miniature from the Menologion of Basil II",
+              el: "Η Β΄ Σύνοδος της Νικαίας: ο αυτοκράτορας ένθρονος ανάμεσα στους επισκόπους, με έναν καταδικασμένο αιρετικό πεσμένο μπροστά τους, μικρογραφία από το Μηνολόγιο του Βασιλείου Β΄"
+            },
+            credit: "Via Wikimedia Commons"
           }
         }
       ]
