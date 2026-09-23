@@ -324,7 +324,7 @@ export const ARCHAIC_GREECE = {
           },
           category: "political",
           image: {
-            src: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Ignoto%2C_c.d._solone%2C_replica_del_90_dc_ca_da_orig._greco_del_110_ac._ca%2C_6143.JPG/960px-Ignoto%2C_c.d._solone%2C_replica_del_90_dc_ca_da_orig._greco_del_110_ac._ca%2C_6143.JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20140202192415",
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Ignoto%2C_c.d._solone%2C_replica_del_90_dc_ca_da_orig._greco_del_110_ac._ca%2C_6143.JPG?width=1024",
             alt: {
               en: "Bust traditionally identified as Solon, Naples Archaeological Museum",
               el: "Προτομή που παραδοσιακά ταυτίζεται με τον Σόλωνα, Αρχαιολογικό Μουσείο Νάπολης"

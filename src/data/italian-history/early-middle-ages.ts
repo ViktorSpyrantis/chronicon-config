@@ -60,7 +60,7 @@ export const EARLY_MIDDLE_AGES = {
           },
           category: "political",
           image: {
-            src: "https://upload.wikimedia.org/wikipedia/commons/c/c6/RomulusAugustus.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/RomulusAugustus.jpg?width=1024",
             alt: {
               en: "Tremissis of Romulus Augustulus, last Western Roman emperor",
               el: "Τρεμίσσης του Ρωμύλου Αυγουστύλου, τελευταίου αυτοκράτορα της Δύσης"
@@ -92,7 +92,7 @@ export const EARLY_MIDDLE_AGES = {
           },
           category: "political",
           image: {
-            src: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Mausoleum_of_Theodoric_%28Ravenna%29_-_Exterior.jpg/960px-Mausoleum_of_Theodoric_%28Ravenna%29_-_Exterior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Mausoleum_of_Theodoric_(Ravenna)_-_Exterior.jpg?width=1024",
             alt: {
               en: "Mausoleum of Theodoric, Ravenna",
               el: "Μαυσωλείο του Θεοδώριχου, Ραβέννα"
@@ -156,7 +156,7 @@ export const EARLY_MIDDLE_AGES = {
           },
           category: "military",
           image: {
-            src: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Byzantine_and_Longobard_Italy_-_600_AD.png/960px-Byzantine_and_Longobard_Italy_-_600_AD.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Byzantine_and_Longobard_Italy_-_600_AD.png?width=1024",
             alt: {
               en: "Map of Lombard and Byzantine Italy, late 6th century",
               el: "Χάρτης της Λομβαρδικής και Βυζαντινής Ιταλίας, ύστερος 6ος αιώνας"
@@ -188,7 +188,7 @@ export const EARLY_MIDDLE_AGES = {
           },
           category: "religious",
           image: {
-            src: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Carlo_Saraceni_%281579-1620%29_%28possibly%29_-_Saint_Gregory_the_Great_-_H.4811_-_Thirlestane_Castle.jpg/960px-Carlo_Saraceni_%281579-1620%29_%28possibly%29_-_Saint_Gregory_the_Great_-_H.4811_-_Thirlestane_Castle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Carlo_Saraceni_(1579-1620)_(possibly)_-_Saint_Gregory_the_Great_-_H.4811_-_Thirlestane_Castle.jpg?width=1024",
             alt: {
               en: "Saint Gregory the Great, by Carlo Saraceni",
               el: "Ο Άγιος Γρηγόριος ο Μέγας, του Κάρλο Σαρατσένι"

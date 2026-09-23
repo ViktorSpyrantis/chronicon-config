@@ -60,7 +60,7 @@ export const OTTOMAN_GREECE = {
           },
           category: "military",
           image: {
-            src: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Zonaro_GatesofConst.jpg/960px-Zonaro_GatesofConst.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Zonaro_GatesofConst.jpg?width=1024",
             alt: {
               en: "Mehmed II entering Constantinople",
               el: "Ο Μεχμέτ Β΄ εισέρχεται στην Κωνσταντινούπολη"

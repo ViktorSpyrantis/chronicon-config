@@ -340,7 +340,7 @@ export const ROME = {
           },
           category: "military",
           image: {
-            src: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/The_Death_of_Paulus_Aemilius_at_the_Battle_of_Cannae.jpg/960px-The_Death_of_Paulus_Aemilius_at_the_Battle_of_Cannae.jpg",
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/The_Death_of_Paulus_Aemilius_at_the_Battle_of_Cannae.jpg?width=1024",
             alt: {
               en: "The Death of Paulus Aemilius at the Battle of Cannae",
               el: "Ο Θάνατος του Παύλου Αιμιλίου στη Μάχη των Καννών"
@@ -788,7 +788,7 @@ export const ROME = {
           },
           category: "military",
           image: {
-            src: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Apollonio_di_Giovanni_-_The_Battle_of_Pharsalus_and_the_Death_of_Pompey_-_1974.394_-_Art_Institute_of_Chicago.jpg/960px-Apollonio_di_Giovanni_-_The_Battle_of_Pharsalus_and_the_Death_of_Pompey_-_1974.394_-_Art_Institute_of_Chicago.jpg",
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Apollonio_di_Giovanni_-_The_Battle_of_Pharsalus_and_the_Death_of_Pompey_-_1974.394_-_Art_Institute_of_Chicago.jpg?width=1024",
             alt: {
               en: "Battle of Pharsalus painting",
               el: "Εικόνα της Μάχης των Φαρσάλων"
@@ -820,7 +820,7 @@ export const ROME = {
           },
           category: "political",
           image: {
-            src: "https://upload.wikimedia.org/wikipedia/commons/0/0a/Vincenzo_Camuccini%2C_The_Death_of_Julius_Caesar_%28detail%29.jpg",
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Vincenzo_Camuccini%2C_The_Death_of_Julius_Caesar_(detail).jpg?width=1024",
             alt: {
               en: "The Death of Caesar, painting by Vincenzo Camuccini (c. 1804)",
               el: "Ο θάνατος του Καίσαρα, πίνακας του Vincenzo Camuccini (περ. 1804)"
@@ -1116,7 +1116,7 @@ export const ROME = {
           },
           category: "other",
           image: {
-            src: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Hubert_Robert_-_The_Fire_of_Rome_-_Google_Art_Project.jpg/960px-Hubert_Robert_-_The_Fire_of_Rome_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Hubert_Robert_-_The_Fire_of_Rome_-_Google_Art_Project.jpg?width=1024",
             alt: {
               en: "The Fire of Rome, painting by Hubert Robert (1771)",
               el: "Η πυρκαγιά της Ρώμης, πίνακας του Hubert Robert (1771)"
@@ -1364,7 +1364,7 @@ export const ROME = {
           },
           category: "military",
           image: {
-            src: "https://upload.wikimedia.org/wikipedia/commons/f/f5/Hadrian%27s_Wall_west_of_Housesteads_3.jpg?width=1024",
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Hadrian's_Wall_west_of_Housesteads_3.jpg?width=1024",
             alt: {
               en: "Hadrian's Wall near Housesteads, Northumberland",
               el: "Το Τείχος του Αδριανού κοντά στο Housesteads, Νορθάμπερλαντ"
