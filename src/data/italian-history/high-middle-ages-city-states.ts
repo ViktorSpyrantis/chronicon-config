@@ -84,7 +84,7 @@ export const HIGH_MIDDLE_AGES_CITY_STATES = {
           },
           category: "religious",
           image: {
-            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Heinrich_vor_Canossa_-_Eduard_Schwoiser_%28cropped%29.jpg?width=1024",
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Schwoiser_Heinrich_vor_Canossa.jpg?width=1024",
             alt: {
               en: "Henry IV at Canossa, by Eduard Schwoiser",
               el: "Ο Ερρίκος Δ' στην Κανόσσα, του Έντουαρντ Σβόιζερ"
@@ -148,7 +148,7 @@ export const HIGH_MIDDLE_AGES_CITY_STATES = {
           },
           category: "military",
           image: {
-            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Amos_Cassioli_-_La_battaglia_di_Legnano.jpg?width=1024",
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/The_battle_of_Legnano_(1870)%2C_by_Amos_Cassioli.jpg?width=1024",
             alt: {
               en: "Battle of Legnano, by Amos Cassioli",
               el: "Η Μάχη του Λενιάνο, του Άμος Κασσιόλι"
@@ -212,7 +212,7 @@ export const HIGH_MIDDLE_AGES_CITY_STATES = {
           },
           category: "religious",
           image: {
-            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Giotto_di_Bondone_-_Legend_of_St_Francis_-_13._Institution_of_the_Crib_at_Greccio_-_WGA09136.jpg?width=1024",
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Giotto_di_Bondone_-_Legend_of_St_Francis_-_13._Institution_of_the_Crib_at_Greccio_-_WGA09135.jpg?width=1024",
             alt: {
               en: "Saint Francis at Greccio, fresco by Giotto, Upper Basilica of Assisi",
               el: "Ο Άγιος Φραγκίσκος στο Γκρέτσιο, τοιχογραφία του Τζιότο, Άνω Βασιλική της Ασσίζης"
@@ -244,7 +244,7 @@ export const HIGH_MIDDLE_AGES_CITY_STATES = {
           },
           category: "political",
           image: {
-            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Friedrich_II_und_sein_Falke.jpg?width=1024",
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Frederick_II_and_eagle.jpg?width=1024",
             alt: {
               en: "Frederick II with his falcon, from his treatise De arte venandi cum avibus",
               el: "Ο Φρειδερίκος Β' με το γεράκι του, από την πραγματεία του De arte venandi cum avibus"
@@ -364,7 +364,7 @@ export const HIGH_MIDDLE_AGES_CITY_STATES = {
           },
           category: "religious",
           image: {
-            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Giotto_di_Bondone_-_no._28_Scenes_from_the_Life_of_Christ_-_12._Resurrection_%28Noli_me_tangere%29_-_WGA09225.jpg?width=1024",
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Giotto_-_Scrovegni_-_-37-_-_Resurrection_(Noli_me_tangere).jpg?width=1024",
             alt: {
               en: "Giotto, Resurrection (Noli me tangere), Scrovegni Chapel — painted in the years following the Jubilee of 1300",
               el: "Τζιότο, Ανάσταση (Noli me tangere), Παρεκκλήσι Σκροβένι — ζωγραφισμένο τα χρόνια μετά το Ιωβηλαίο του 1300"

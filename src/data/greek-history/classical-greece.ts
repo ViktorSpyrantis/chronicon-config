@@ -92,7 +92,7 @@ export const CLASSICAL_GREECE = {
           },
           category: "military",
           image: {
-            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Leonidas_at_Thermopylae_by_Jacques-Louis_David.jpg?width=1024",
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Jacques-Louis_David_-_Leonidas_at_Thermopylae_-_WGA6095.jpg?width=1024",
             alt: {
               en: "Leonidas at Thermopylae, painting by Jacques-Louis David (1814)",
               el: "Ο Λεωνίδας στις Θερμοπύλες, πίνακας του Jacques-Louis David (1814)"

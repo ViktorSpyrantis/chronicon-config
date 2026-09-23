@@ -132,10 +132,10 @@ export const ROMAN_GREECE = {
           },
           category: "religious",
           image: {
-            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Raphael_-_Saint_Paul_Preaching_in_Athens.jpg?width=1024",
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/V%26A_-_Raphael%2C_St_Paul_Preaching_in_Athens_(1515).jpg?width=1024",
             alt: {
-              en: "Saint Paul Preaching in Athens, by Raphael (1515)",
-              el: "Ο Απόστολος Παύλος κηρύσσει στην Αθήνα, Ραφαήλ (1515)"
+              en: "Raphael's tapestry cartoon of Saint Paul preaching in Athens (1515), Victoria and Albert Museum",
+              el: "Το σχέδιο ταπισερί του Ραφαήλ με τον Απόστολο Παύλο να κηρύσσει στην Αθήνα (1515), Μουσείο Βικτώριας και Αλβέρτου"
             },
             credit: "Raphael, Royal Collection, via Wikimedia Commons (public domain)"
           }

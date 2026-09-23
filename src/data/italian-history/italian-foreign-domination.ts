@@ -60,7 +60,7 @@ export const ITALIAN_FOREIGN_DOMINATION = {
           },
           category: "political",
           image: {
-            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Italia_1559.svg?width=1024",
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Map_Italy_in_1559_-_Touring_Club_Italiano_CART-TRC-48_01.jpg?width=1024",
             alt: {
               en: "Map of Italy after the Peace of Cateau-Cambrésis, 1559",
               el: "Χάρτης της Ιταλίας μετά την Ειρήνη του Κατώ-Καμπρεζί, 1559"
@@ -188,10 +188,10 @@ export const ITALIAN_FOREIGN_DOMINATION = {
           },
           category: "political",
           image: {
-            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Domenico_Gargiulo_-_Revolt_of_Masaniello.jpg?width=1024",
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Domenico_Gargiulo_-_Piazza_del_Mercato_during_the_Revolt_of_Masaniello.jpg?width=1024",
             alt: {
-              en: "Domenico Gargiulo, The Revolt of Masaniello, c. 1647, Museo di San Martino, Naples",
-              el: "Ντομένικο Γκαρτζιούλο, Η Εξέγερση του Μαζανιέλο, π. 1647, Μουσείο του Σαν Μαρτίνο, Νάπολη"
+              en: "Domenico Gargiulo, the Piazza del Mercato in Naples during the Revolt of Masaniello, 1647",
+              el: "Ντομένικο Γκαρτζιούλο, η Πιάτσα ντελ Μερκάτο της Νάπολης κατά την Εξέγερση του Μαζανιέλο, 1647"
             },
             credit: "Wikimedia Commons (public domain)"
           }
@@ -220,10 +220,10 @@ export const ITALIAN_FOREIGN_DOMINATION = {
           },
           category: "military",
           image: {
-            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Siege_of_Candia.jpg?width=1024",
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Candie_assi%C3%A9g%C3%A9e.png?width=1024",
             alt: {
-              en: "Contemporary engraving of the Ottoman siege of Candia, Crete",
-              el: "Σύγχρονη χαλκογραφία της οθωμανικής πολιορκίας του Χάνδακα, Κρήτη"
+              en: "French engraving of Candia besieged by the Ottomans, with galleys in the harbour",
+              el: "Γαλλική χαλκογραφία του Χάνδακα πολιορκημένου από τους Οθωμανούς, με γαλέρες στο λιμάνι"
             },
             credit: "Wikimedia Commons (public domain)"
           }
@@ -252,10 +252,10 @@ export const ITALIAN_FOREIGN_DOMINATION = {
           },
           category: "political",
           image: {
-            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Italy_1714.png?width=1024",
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Paul_Dominique_Philippoteaux_-_Prince_Eugene_of_Savoy_and_the_Marshal_de_Villars_at_Rastatt%2C_1714.jpg?width=1024",
             alt: {
-              en: "Map of the Italian peninsula after the Treaties of Utrecht and Rastatt, 1714",
-              el: "Χάρτης της ιταλικής χερσονήσου μετά τις Συνθήκες της Ουτρέχτης και του Ράστατ, 1714"
+              en: "Prince Eugene of Savoy and Marshal Villars meeting at Rastatt in 1714, engraving after Paul Dominique Philippoteaux",
+              el: "Ο πρίγκιπας Ευγένιος της Σαβοΐας και ο στρατάρχης Βιλάρ συναντώνται στο Ράστατ το 1714, χαλκογραφία κατά τον Πωλ Ντομινίκ Φιλιπποτώ"
             },
             credit: "Wikimedia Commons (public domain)"
           }
@@ -284,7 +284,7 @@ export const ITALIAN_FOREIGN_DOMINATION = {
           },
           category: "political",
           image: {
-            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Charles_of_Bourbon_visiting_Pope_Benedict_XIV_at_the_Coffee_House_of_Palazzo_del_Quirinale_by_Giovanni_Paolo_Pannini.jpg?width=1024",
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Carlo_di_Borbone_visita_il_papa_Benedetto_XIV_nella_coffee-house_del_Quirinale%2C_Pannini_001.jpg?width=1024",
             alt: {
               en: "Giovanni Paolo Pannini, Charles of Bourbon visiting Pope Benedict XIV in Rome, 1746",
               el: "Τζοβάννι Πάολο Παννίνι, Ο Κάρολος των Βουρβώνων επισκέπτεται τον πάπα Βενέδικτο ΙΔ' στη Ρώμη, 1746"
@@ -316,10 +316,10 @@ export const ITALIAN_FOREIGN_DOMINATION = {
           },
           category: "political",
           image: {
-            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Gian_Gastone_de%27_Medici.jpg?width=1024",
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Gabbiani%2C_Giovanni_Gaetano_(attr.)_-_Official_portrait_of_Gian_Gastone_de'_Medici_as_Grand_Duke_of_Tuscany.jpg?width=1024",
             alt: {
-              en: "Portrait of Gian Gastone de' Medici, last Medici Grand Duke of Tuscany",
-              el: "Πορτρέτο του Τζαν Γκαστόνε ντε' Μέντιτσι, του τελευταίου Μεγάλου Δούκα της Τοσκάνης"
+              en: "Official portrait of Gian Gastone de' Medici as Grand Duke of Tuscany, attributed to Giovanni Gaetano Gabbiani",
+              el: "Επίσημο πορτρέτο του Τζαν Γκαστόνε ντε' Μέντιτσι ως Μεγάλου Δούκα της Τοσκάνης, αποδιδόμενο στον Τζοβάννι Γκαετάνο Γκαμπιάνι"
             },
             credit: "Wikimedia Commons (public domain)"
           }
@@ -348,10 +348,10 @@ export const ITALIAN_FOREIGN_DOMINATION = {
           },
           category: "cultural",
           image: {
-            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Cesare_Beccaria_-_Dei_delitti_e_delle_pene_-_1764.jpg?width=1024",
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Beccaria_-_Dei_delitti_e_delle_pene_-_6043967_A.jpg?width=1024",
             alt: {
-              en: "Title page of the first edition of Cesare Beccaria, Dei delitti e delle pene, 1764",
-              el: "Τίτλος της πρώτης έκδοσης του Cesare Beccaria, Dei delitti e delle pene, 1764"
+              en: "Allegorical frontispiece of Beccaria's Dei delitti e delle pene: Justice turns away from the executioner offering severed heads",
+              el: "Αλληγορική προμετωπίδα του έργου του Μπεκαρία Dei delitti e delle pene: η Δικαιοσύνη αποστρέφεται τον δήμιο που της προσφέρει κομμένα κεφάλια"
             },
             credit: "Wikimedia Commons (public domain)"
           }

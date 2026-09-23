@@ -60,7 +60,7 @@ export const ITALIAN_RENAISSANCE = {
           },
           category: "cultural",
           image: {
-            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Giotto%20-%20Scrovegni%20-%20-36-%20-%20Lamentation%20%28The%20Mourning%20of%20Christ%29.jpg?width=1024",
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Giotto_-_Scrovegni_-_-36-_-_Lamentation_(The_Mourning_of_Christ)_adj.jpg?width=1024",
             alt: {
               en: "Giotto, Lamentation of Christ, Scrovegni Chapel, Padua",
               el: "Τζιότο, Επιτάφιος Θρήνος, Παρεκκλήσι Σκροβένι, Πάδοβα"
@@ -156,7 +156,7 @@ export const ITALIAN_RENAISSANCE = {
           },
           category: "cultural",
           image: {
-            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Sacrifice_of_Isaac-Ghiberti.jpg?width=1024",
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Lorenzo_Ghiberti%2C_The_Sacrifice_of_Isaac%2C1401-2%2C_Florence%2C_Bargello.jpg?width=1024",
             alt: {
               en: "Lorenzo Ghiberti's competition panel, Sacrifice of Isaac, Bargello, Florence",
               el: "Το ανάγλυφο διαγωνισμού του Λορέντσο Γκιμπέρτι, Η Θυσία του Ισαάκ, Μπαρτζέλλο, Φλωρεντία"
@@ -220,7 +220,7 @@ export const ITALIAN_RENAISSANCE = {
           },
           category: "cultural",
           image: {
-            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Cardinal_Bessarion.jpg?width=1024",
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Ritratto-di-Basilio-Bessarione.jpg?width=1024",
             alt: {
               en: "Portrait of Cardinal Bessarion, Greek scholar and patron of fugitive Byzantines",
               el: "Προσωπογραφία του καρδιναλίου Βησσαρίωνος, Έλληνα λογίου και προστάτη των Βυζαντινών προσφύγων"
@@ -252,10 +252,10 @@ export const ITALIAN_RENAISSANCE = {
           },
           category: "political",
           image: {
-            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Lorenzo_de_Medici-ritratto.jpg?width=1024",
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_Lorenzo_de'_Medici%2C_the_Magnificent_(1449%E2%80%931492)%2C_by_Giorgio_Vasari_-_Uffizi_Gallery.jpg?width=1024",
             alt: {
-              en: "Portrait of Lorenzo de' Medici, called the Magnificent",
-              el: "Προσωπογραφία του Λαυρέντιου ντε' Μέντιτσι, του Μεγαλοπρεπούς"
+              en: "Giorgio Vasari's posthumous portrait of Lorenzo de' Medici, the Magnificent, Uffizi Gallery",
+              el: "Η μεταθανάτια προσωπογραφία του Λαυρέντιου ντε' Μέντιτσι, του Μεγαλοπρεπούς, από τον Τζόρτζο Βαζάρι, Πινακοθήκη Ουφίτσι"
             },
             credit: "Wikimedia Commons (public domain)"
           }
@@ -316,7 +316,7 @@ export const ITALIAN_RENAISSANCE = {
           },
           category: "religious",
           image: {
-            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Execution_of_Girolamo_Savonarola_in_Florence.jpg?width=1024",
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Unknown_painter_-_Execution_of_Savonarola_on_the_Piazza_della_Signoria_-_WGA23932.jpg?width=1024",
             alt: {
               en: "Anonymous painting of the execution of Savonarola in the Piazza della Signoria, c. 1498",
               el: "Ανώνυμος πίνακας της εκτέλεσης του Σαβοναρόλα στην Πιάτσα ντελλα Σινιορία, π. 1498"
@@ -476,7 +476,7 @@ export const ITALIAN_RENAISSANCE = {
           },
           category: "cultural",
           image: {
-            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Daniele_da_Volterra_%28Italian_-_Portrait_of_Michelangelo_Buonarroti_-_Google_Art_Project.jpg?width=1024",
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Michelangelo_Daniele_da_Volterra.jpg?width=1024",
             alt: {
               en: "Daniele da Volterra, Portrait of Michelangelo Buonarroti",
               el: "Ντανιέλε ντα Βολτέρρα, Προσωπογραφία του Μικελάντζελο Μπουοναρότι"

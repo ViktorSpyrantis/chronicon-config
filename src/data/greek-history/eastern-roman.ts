@@ -1409,7 +1409,7 @@ export const EASTERN_ROMAN = {
           },
           category: "military",
           image: {
-            src: "https://commons.wikimedia.org/wiki/Special:FilePath/BattleofManzikert1071.jpg?width=1024",
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/131_Bataille_de_Malazgirt.jpg?width=1024",
             alt: {
               en: "Battle of Manzikert (1071), 15th-century French miniature",
               el: "Η μάχη του Μαντζικέρτ (1071), γαλλική μικρογραφία του 15ου αιώνα"
@@ -1480,10 +1480,10 @@ export const EASTERN_ROMAN = {
           },
           category: "religious",
           image: {
-            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Council_of_Clermont.jpg?width=1024",
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Passages_d'outremer_Fr5594%2C_fol._19r%2C_Concile_de_Clermont.jpg?width=1024",
             alt: {
-              en: "Pope Urban II preaching the First Crusade at the Council of Clermont, medieval miniature",
-              el: "Ο πάπας Ουρβανός Β΄ κηρύσσει την Α΄ Σταυροφορία στη Σύνοδο του Κλερμόν, μεσαιωνική μικρογραφία"
+              en: "Pope Urban II at the Council of Clermont, miniature from the 15th-century Passages d'outremer",
+              el: "Ο πάπας Ουρβανός Β΄ στη Σύνοδο του Κλερμόν, μικρογραφία από το χειρόγραφο Passages d'outremer του 15ου αιώνα"
             },
             credit: "Wikimedia Commons (public domain)"
           }
@@ -1695,10 +1695,10 @@ export const EASTERN_ROMAN = {
           },
           category: "military",
           image: {
-            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Conquest_of_Constantinople_by_the_Crusaders_in_1204.jpg?width=1024",
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Eug%C3%A8ne_Delacroix_-_The_Entry_of_the_Crusaders_into_Constantinople_-_WGA6202.jpg?width=1024",
             alt: {
-              en: "Conquest of Constantinople by the Crusaders in 1204, painting by Eugène Delacroix",
-              el: "Η κατάληψη της Κωνσταντινούπολης από τους Σταυροφόρους το 1204, πίνακας του Eugène Delacroix"
+              en: "Eugène Delacroix, The Entry of the Crusaders into Constantinople (1840)",
+              el: "Ευγένιος Ντελακρουά, Η είσοδος των Σταυροφόρων στην Κωνσταντινούπολη (1840)"
             },
             credit: "Eugène Delacroix, via Wikimedia Commons (public domain)"
           }

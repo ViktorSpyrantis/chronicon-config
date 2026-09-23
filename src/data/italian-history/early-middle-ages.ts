@@ -380,10 +380,10 @@ export const EARLY_MIDDLE_AGES = {
           },
           category: "political",
           image: {
-            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Bocche_di_Cattaro.jpg?width=1024",
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Bay_of_Kotor_from_Lepetani's_road.jpg?width=1024",
             alt: {
-              en: "Bay of Kotor, the southern reach of medieval Venetian Dalmatia",
-              el: "Κόλπος του Κατάρο, το νότιο όριο της μεσαιωνικής βενετικής Δαλματίας"
+              en: "The Bay of Kotor, the southern reach of medieval Venetian Dalmatia",
+              el: "Ο Κόλπος του Κοτόρ, το νότιο όριο της μεσαιωνικής βενετικής Δαλματίας"
             },
             credit: "Wikimedia Commons (CC BY-SA)"
           }
