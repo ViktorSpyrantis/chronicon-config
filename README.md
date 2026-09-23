@@ -205,3 +205,4 @@ The `PeriodId` union updates automatically from the registered data.
 | `npm run typecheck` | Type-checks the whole package (`tsc --noEmit`). |
 | `npm run validate` | Structural checks + a per-locale translation-completeness report. |
 | `npm run build` | Emits compiled JS + `.d.ts` to `dist/` (optional). |
+| `npm run check:images` | Checks every event image exists on Wikimedia Commons (needs network). `-- "File.jpg"` looks up files; `-- --search "query"` finds candidates. |

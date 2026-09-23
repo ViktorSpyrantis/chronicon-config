@@ -53,8 +53,11 @@ image: {
 - Use Wikimedia Commons only, with the `Special:FilePath/…?width=1024` form.
   Percent-encode non-ASCII characters in the file name.
 - **Verify every image before adding it**: confirm the file exists on Commons
-  (e.g. via the Commons API) and look at what it actually shows. Never guess a
-  file name.
+  and look at what it actually shows. Never guess a file name.
+  `npm run check:images -- --search "<query>"` finds candidates;
+  `npm run check:images` checks every image in the data (needs network).
+- The `add-event-images` skill (`.claude/skills/`) has the full procedure;
+  `add-period` covers adding periods and sections.
 - Alt text describes the actual image (map, portrait, coin, reconstruction…),
   not just the event, in both English and Greek.
 
