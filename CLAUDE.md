@@ -17,6 +17,8 @@ the step-by-step "Extending the data" recipes.
   ```
   A PostToolUse hook runs both after every edit under `src/` and reports failures.
 - There is no test suite; `validate` is the correctness check.
+- GitHub Actions (`.github/workflows/ci.yml`) runs the same two checks on
+  pushes to `main`/`develop` and on every pull request.
 
 ## Content rules
 
