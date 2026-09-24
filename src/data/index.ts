@@ -186,6 +186,7 @@ export const PERIOD_ID_ORDER = [
   "qin-han-empire",
   "six-dynasties-sui",
   "tang-dynasty",
+  "five-dynasties-ten-kingdoms",
   "song-dynasty",
   "yuan-dynasty",
   "ming-dynasty",
