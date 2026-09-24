@@ -13,7 +13,7 @@ the step-by-step "Extending the data" recipes.
 - Before committing, both must pass:
   ```bash
   npm run typecheck   # tsc --noEmit
-  npm run validate    # ids unique, orders in sync, every string translated
+  npm run validate    # ids unique, orders in sync, timelines in date order, every string translated
   ```
   A PostToolUse hook runs both after every edit under `src/` and reports failures.
 - There is no test suite; `validate` is the correctness check.
