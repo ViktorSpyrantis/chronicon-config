@@ -102,6 +102,10 @@ export const RENAISSANCE_RELIGIOUS_WARS_FRANCE = {
             en: "Pope Leo X and Francis I sign at Bologna a concordat that gives the king the nomination of all French bishops, abbots, and major priories. In return, France abandons the radical conciliarism of the Pragmatic Sanction of Bourges. The French crown now controls the wealth and the personnel of the Gallican Church.",
             el: "Ο πάπας Λέων Ι΄ και ο Φραγκίσκος Α΄ υπογράφουν στη Μπολόνια κονκορδάτο που δίνει στον βασιλιά την ονομασία όλων των Γάλλων επισκόπων, ηγουμένων και μεγάλων προωρισμών. Σε αντάλλαγμα, η Γαλλία εγκαταλείπει τον ριζοσπαστικό συμβουλιαρισμό της Πραγματικής Σαγκσιόν της Μπουρζ. Το γαλλικό στέμμα ελέγχει πλέον τον πλούτο και το προσωπικό της γαλλικανικής Εκκλησίας."
           },
+          extendedDescription: {
+            en: "The Parlement of Paris resisted registering the concordat for two years, seeing it as a surrender of Gallican liberties to Rome. Because the king already controlled the Church's appointments and wealth, the French crown had far less to gain from breaking with the papacy than the kings of England or Sweden — one reason historians give for France remaining Catholic. The concordat governed Church and state in France until the Revolution.",
+            el: "Το Κοινοβούλιο του Παρισιού αρνιόταν επί δύο χρόνια να καταχωρίσει το κονκορδάτο, θεωρώντας το παράδοση των γαλλικανικών ελευθεριών στη Ρώμη. Επειδή ο βασιλιάς έλεγχε ήδη τους διορισμούς και τον πλούτο της Εκκλησίας, το γαλλικό στέμμα είχε πολύ λιγότερα να κερδίσει από μια ρήξη με την παπωσύνη απ' ό,τι οι βασιλείς της Αγγλίας ή της Σουηδίας — ένας από τους λόγους που δίνουν οι ιστορικοί για το ότι η Γαλλία έμεινε καθολική. Το κονκορδάτο ρύθμιζε τις σχέσεις Εκκλησίας και κράτους στη Γαλλία ως την Επανάσταση."
+          },
           category: "religious"
         }
       ]
@@ -146,6 +150,10 @@ export const RENAISSANCE_RELIGIOUS_WARS_FRANCE = {
             en: "Outside Pavia in Lombardy, the Spanish-imperial arquebusiers of Charles V destroy the French chivalry under Francis I in a few hours. The flower of the nobility falls; Francis is taken prisoner and carried to Madrid. From there he writes to his mother the celebrated phrase: 'all is lost save honour, and life, which is safe'.",
             el: "Έξω από την Παβία στη Λομβαρδία, οι ισπανο-αυτοκρατορικοί αρκεβουζιοφόροι του Καρόλου Ε΄ καταστρέφουν τη γαλλική ιπποσύνη υπό τον Φραγκίσκο Α΄ σε λίγες ώρες. Το άνθος της ευγένειας πέφτει· ο Φραγκίσκος συλλαμβάνεται και μεταφέρεται στη Μαδρίτη. Από εκεί γράφει στη μητέρα του τη φράση: «όλα χάθηκαν εκτός από την τιμή και τη ζωή, που είναι ασφαλής»."
           },
+          extendedDescription: {
+            en: "The battle was fought on Charles V's twenty-fifth birthday. To win his release by the Treaty of Madrid in 1526, Francis gave up Burgundy and his claims in Italy and handed over his two young sons as hostages — then repudiated the treaty as soon as he was free. Seeking allies against the Habsburgs, he went on to conclude an alliance with the Ottoman sultan Suleiman the Magnificent, to the scandal of Christian Europe.",
+            el: "Η μάχη δόθηκε την ημέρα των εικοστών πέμπτων γενεθλίων του Καρόλου Ε΄. Για να κερδίσει την απελευθέρωσή του με τη Συνθήκη της Μαδρίτης το 1526, ο Φραγκίσκος παραιτήθηκε από τη Βουργουνδία και από τις διεκδικήσεις του στην Ιταλία και παρέδωσε ως ομήρους τους δύο μικρούς γιους του — και έπειτα αποκήρυξε τη συνθήκη μόλις ελευθερώθηκε. Αναζητώντας συμμάχους κατά των Αψβούργων, σύναψε στη συνέχεια συμμαχία με τον Οθωμανό σουλτάνο Σουλεϊμάν τον Μεγαλοπρεπή, προς σκανδαλισμό της χριστιανικής Ευρώπης."
+          },
           category: "military"
         }
       ]
@@ -165,6 +173,10 @@ export const RENAISSANCE_RELIGIOUS_WARS_FRANCE = {
           description: {
             en: "By the Edict of Union at Vannes, the duchy of Brittany — inherited by Francis I's late wife Claude from her mother Anne — is permanently united with the kingdom of France, on condition of preserving its liberties. The last great independent feudal principality is gone.",
             el: "Με το Έδικτο της Ένωσης στη Βαν, το δουκάτο της Βρετάνης — που κληρονόμησε η εκλιπούσα σύζυγος του Φραγκίσκου Α΄, Κλωντ, από τη μητέρα της Άννα — ενώνεται οριστικά με το βασίλειο της Γαλλίας, με τον όρο να διατηρήσει τις ελευθερίες του. Η τελευταία μεγάλη ανεξάρτητη φεουδαρχική ηγεμονία έχει εκλείψει."
+          },
+          extendedDescription: {
+            en: "Anne of Brittany had been married in turn to two French kings, Charles VIII and Louis XII, to bring the duchy under French control. The Edict of Union preserved Breton privileges, including the consent of the Estates of Brittany to taxation and a separate Parlement created at Rennes, until the Revolution abolished provincial rights in 1789. The Breton language, spoken by much of the western peninsula, survived for centuries and is still taught today.",
+            el: "Η Άννα της Βρετάνης είχε παντρευτεί διαδοχικά δύο Γάλλους βασιλείς, τον Κάρολο Η΄ και τον Λουδοβίκο ΙΒ΄, ώστε το δουκάτο να περάσει υπό γαλλικό έλεγχο. Το Διάταγμα της Ένωσης διατήρησε τα βρετονικά προνόμια, μεταξύ αυτών τη συναίνεση των Τάξεων της Βρετάνης στη φορολογία και ένα χωριστό Κοινοβούλιο που ιδρύθηκε στη Ρεν, ώσπου η Επανάσταση κατάργησε τα επαρχιακά δικαιώματα το 1789. Η βρετονική γλώσσα, που τη μιλούσε μεγάλο μέρος της δυτικής χερσονήσου, επέζησε επί αιώνες και διδάσκεται ακόμη σήμερα."
           },
           category: "political"
         }
@@ -209,6 +221,10 @@ export const RENAISSANCE_RELIGIOUS_WARS_FRANCE = {
           description: {
             en: "Francis I orders that all royal acts, judgements, and ecclesiastical records — until now in Latin or local langues — be written 'en langaige maternel françois'. The edict also requires every parish to keep a register of baptisms. The French language and the modern administrative state advance together.",
             el: "Ο Φραγκίσκος Α΄ διατάζει όλες οι βασιλικές πράξεις, αποφάσεις και εκκλησιαστικά αρχεία — μέχρι τώρα στα λατινικά ή τις τοπικές langues — να γράφονται «en langaige maternel françois». Το έδικτο απαιτεί επίσης κάθε ενορία να τηρεί μητρώο βαπτίσεων. Η γαλλική γλώσσα και το σύγχρονο διοικητικό κράτος προχωρούν μαζί."
+          },
+          extendedDescription: {
+            en: "Its articles on language, the 110th and 111th, are still in force, making the edict the oldest French law still applied today. Parish registers of baptisms, and later of marriages and burials, became the foundation of civil records and of family history in France. The château of Villers-Cotterêts, where Francis signed it, was restored and reopened in 2023 as the International City of the French Language.",
+            el: "Τα άρθρα του για τη γλώσσα, το 110ο και το 111ο, ισχύουν ακόμη, κάνοντας το διάταγμα τον αρχαιότερο γαλλικό νόμο που εφαρμόζεται ως σήμερα. Τα ενοριακά μητρώα βαπτίσεων, και αργότερα γάμων και ταφών, έγιναν το θεμέλιο των ληξιαρχικών αρχείων και της οικογενειακής ιστορίας στη Γαλλία. Το κάστρο του Βιλέρ-Κοτρέ, όπου το υπέγραψε ο Φραγκίσκος, αναστηλώθηκε και άνοιξε ξανά το 2023 ως Διεθνής Πόλη της Γαλλικής Γλώσσας."
           },
           category: "political"
         }
@@ -334,6 +350,10 @@ export const RENAISSANCE_RELIGIOUS_WARS_FRANCE = {
             en: "After the Edict of Beaulieu grants the Huguenots wide concessions, the Catholic militants of Picardy form the first chapter of the Sainte Ligue. Henri, duc de Guise, soon takes leadership of a national network that will challenge the crown for the next thirteen years.",
             el: "Μετά το Έδικτο του Μπολιέ που παραχωρεί στους Ουγενότους ευρείες παραχωρήσεις, οι Καθολικοί μαχητικοί της Πικαρδίας σχηματίζουν το πρώτο παράρτημα της Sainte Ligue. Ο Ερρίκος, δούκας του Γκιζ, αναλαμβάνει σύντομα την ηγεσία ενός εθνικού δικτύου που θα προκαλέσει το στέμμα για τα επόμενα δεκατρία χρόνια."
           },
+          extendedDescription: {
+            en: "Henri of Guise, nicknamed 'le Balafré' for the scar on his face, was the son of the Catholic leader assassinated in 1563 and a leading figure in the St Bartholomew's Day massacre of 1572. The League gained new urgency in 1584, when the death of the king's last brother made the Protestant Henri of Navarre heir to the throne. That year Guise signed the secret Treaty of Joinville with Philip II of Spain, whose money sustained the League's war against a Protestant succession.",
+            el: "Ο Ερρίκος του Γκιζ, που τον αποκαλούσαν «le Balafré» λόγω της ουλής στο πρόσωπό του, ήταν γιος του καθολικού ηγέτη που δολοφονήθηκε το 1563 και κεντρική μορφή της σφαγής της νύχτας του Αγίου Βαρθολομαίου το 1572. Η Λίγκα απέκτησε νέα επιτακτικότητα το 1584, όταν ο θάνατος του τελευταίου αδελφού του βασιλιά έκανε τον προτεστάντη Ερρίκο της Ναβάρρας διάδοχο του θρόνου. Εκείνη τη χρονιά ο Γκιζ υπέγραψε τη μυστική Συνθήκη της Ζουανβίλ με τον Φίλιππο Β΄ της Ισπανίας, του οποίου τα χρήματα στήριξαν τον πόλεμο της Λίγκας κατά μιας προτεσταντικής διαδοχής."
+          },
           category: "religious"
         }
       ]
@@ -353,6 +373,10 @@ export const RENAISSANCE_RELIGIOUS_WARS_FRANCE = {
           description: {
             en: "Henri III brings Swiss troops into Paris against the Guise; the city throws up barricades and the king flees to Chartres. In December, summoning the duke to the royal château at Blois under safe conduct, he has Guise and his brother the cardinal murdered in his bedchamber.",
             el: "Ο Ερρίκος Γ΄ φέρνει Ελβετικά στρατεύματα στο Παρίσι κατά των Γκιζ· η πόλη υψώνει οδοφράγματα και ο βασιλιάς διαφεύγει στη Σαρτρ. Τον Δεκέμβριο, καλώντας τον δούκα στο βασιλικό château του Μπλουά υπό εγγύηση ασφαλείας, διατάζει τη δολοφονία του Γκιζ και του αδελφού του καρδιναλίου στην κρεβατοκάμαρά του."
+          },
+          extendedDescription: {
+            en: "The 'Day of the Barricades' on 12 May 1588 left Guise master of Paris and forced the king to call the Estates-General at Blois, where the League dominated. The duke was cut down by members of the king's bodyguard, the 'Forty-Five'; Henri III is said to have remarked that his enemy looked even taller dead than alive. Catherine de' Medici, the king's mother, died two weeks later, and Catholic France rose against a king it now saw as a murderer.",
+            el: "Η «Ημέρα των Οδοφραγμάτων», στις 12 Μαΐου 1588, άφησε τον Γκιζ κύριο του Παρισιού και ανάγκασε τον βασιλιά να συγκαλέσει τις Γενικές Τάξεις στο Μπλουά, όπου κυριαρχούσε η Λίγκα. Ο δούκας κατακρεουργήθηκε από μέλη της φρουράς του βασιλιά, τους «Σαράντα Πέντε»· ο Ερρίκος Γ΄ λέγεται ότι παρατήρησε πως ο εχθρός του έμοιαζε ακόμη ψηλότερος νεκρός απ' ό,τι ζωντανός. Η Αικατερίνη των Μεδίκων, η μητέρα του βασιλιά, πέθανε δύο εβδομάδες αργότερα, και η καθολική Γαλλία εξεγέρθηκε κατά ενός βασιλιά που θεωρούσε πλέον δολοφόνο."
           },
           category: "political"
         }
@@ -374,6 +398,10 @@ export const RENAISSANCE_RELIGIOUS_WARS_FRANCE = {
             en: "Besieging League-held Paris with Henri of Navarre, Henri III is stabbed at Saint-Cloud by the Dominican friar Jacques Clément, sent by the League. With his dying breath he names Navarre his heir. The last Valois dies; the Bourbon dynasty begins.",
             el: "Πολιορκώντας το Παρίσι, που κρατούσε η Λίγκα, μαζί με τον Ερρίκο της Ναβάρρας, ο Ερρίκος Γ΄ μαχαιρώνεται στο Σαιν-Κλου από τον Δομινικανό μοναχό Ζακ Κλεμάν, σταλμένο από τη Λίγκα. Με την τελευταία του πνοή ονομάζει τον Ναβαρρέζο διάδοχό του. Ο τελευταίος Βαλουά πεθαίνει· η δυναστεία των Βουρβώνων αρχίζει."
           },
+          extendedDescription: {
+            en: "Jacques Clément gained an audience by claiming to carry secret letters and stabbed the king in the abdomen; he was killed on the spot by the guards, and Henri III died the following day. The League refused to recognise a Protestant king and proclaimed the aged Cardinal de Bourbon as 'Charles X', while many royalist Catholic nobles left Henri IV's army. The new king had to conquer his own kingdom.",
+            el: "Ο Ζακ Κλεμάν εξασφάλισε ακρόαση ισχυριζόμενος ότι μετέφερε μυστικές επιστολές και μαχαίρωσε τον βασιλιά στην κοιλιά· σκοτώθηκε επί τόπου από τους φρουρούς, και ο Ερρίκος Γ΄ πέθανε την επόμενη μέρα. Η Λίγκα αρνήθηκε να αναγνωρίσει προτεστάντη βασιλιά και ανακήρυξε τον ηλικιωμένο καρδινάλιο των Βουρβόνων «Κάρολο Ι΄», ενώ πολλοί βασιλόφρονες καθολικοί ευγενείς εγκατέλειψαν τον στρατό του Ερρίκου Δ΄. Ο νέος βασιλιάς έπρεπε να κατακτήσει το ίδιο του το βασίλειο."
+          },
           category: "political"
         }
       ]
@@ -394,6 +422,10 @@ export const RENAISSANCE_RELIGIOUS_WARS_FRANCE = {
             en: "At Ivry-la-Bataille in March, Henri IV — 'Ralliez-vous à mon panache blanc' — crushes the League army under the duc de Mayenne and lays siege to Paris. The city eats its dogs, cats, and the grass of the Tuileries before a Spanish relief army under Alessandro Farnese, Duke of Parma, forces him to lift the siege.",
             el: "Στο Ιβρί-λα-Μπαταί τον Μάρτιο, ο Ερρίκος Δ΄ — «Συγκεντρωθείτε γύρω από το λευκό μου λοφίο» — συντρίβει τον στρατό της Λίγκας υπό τον δούκα του Μαγιέν και πολιορκεί το Παρίσι. Η πόλη τρώει τα σκυλιά, τις γάτες της και το γρασίδι των Τυιλερί προτού ισπανικός στρατός βοηθείας υπό τον Αλεσάντρο Φαρνέζε, δούκα της Πάρμας, τον αναγκάσει να λύσει την πολιορκία."
           },
+          extendedDescription: {
+            en: "The blockade of Paris lasted through the summer of 1590, and tens of thousands of Parisians are thought to have died of hunger; League preachers kept the city defiant. The intervention of Spanish troops showed that the civil war had become part of Philip II's European struggle against Protestantism. Henri IV began to see that military victory alone could not win him a Catholic capital.",
+            el: "Ο αποκλεισμός του Παρισιού κράτησε όλο το καλοκαίρι του 1590, και πιστεύεται ότι δεκάδες χιλιάδες Παριζιάνοι πέθαναν από την πείνα· οι ιεροκήρυκες της Λίγκας κράτησαν την πόλη ανυπότακτη. Η παρέμβαση των ισπανικών στρατευμάτων έδειξε ότι ο εμφύλιος πόλεμος είχε γίνει μέρος του ευρωπαϊκού αγώνα του Φιλίππου Β΄ κατά του προτεσταντισμού. Ο Ερρίκος Δ΄ άρχισε να καταλαβαίνει ότι μόνο με τη στρατιωτική νίκη δεν θα κέρδιζε μια καθολική πρωτεύουσα."
+          },
           category: "military"
         }
       ]
@@ -413,6 +445,10 @@ export const RENAISSANCE_RELIGIOUS_WARS_FRANCE = {
           description: {
             en: "Convinced that he will never enter his capital while he remains a Protestant, Henri IV abjures his Calvinism at the abbey of Saint-Denis on 25 July. The Parisian apocryphon attributed to him — 'Paris vaut bien une messe' — captures the political theology of the act. Paris opens its gates the following March.",
             el: "Πεπεισμένος ότι δεν θα μπει ποτέ στην πρωτεύουσά του όσο παραμένει Προτεστάντης, ο Ερρίκος Δ΄ απαρνείται τον Καλβινισμό του στο αββαείο του Σαιν-Ντενί στις 25 Ιουλίου. Το παρισινό απόκρυφο που του αποδίδεται — «Paris vaut bien une messe» — συμπυκνώνει την πολιτική θεολογία της πράξης. Το Παρίσι ανοίγει τις πύλες του τον επόμενο Μάρτιο."
+          },
+          extendedDescription: {
+            en: "With Reims still held by the League, Henri IV was crowned at Chartres in February 1594, and entered Paris the following month almost without resistance. Pope Clement VIII lifted his excommunication in 1595, and the war with Spain ended in 1598 with the Peace of Vervins. His conversion disappointed many Huguenots but offered war-weary Catholics a king they could accept, opening the way to peace.",
+            el: "Με τη Ρενς να βρίσκεται ακόμη στα χέρια της Λίγκας, ο Ερρίκος Δ΄ στέφθηκε στη Σαρτρ τον Φεβρουάριο του 1594 και μπήκε στο Παρίσι τον επόμενο μήνα σχεδόν χωρίς αντίσταση. Ο πάπας Κλήμης Η΄ ήρε τον αφορισμό του το 1595, και ο πόλεμος με την Ισπανία έληξε το 1598 με την Ειρήνη του Βερβέν. Η μεταστροφή του απογοήτευσε πολλούς Ουγενότους, αλλά πρόσφερε στους κουρασμένους από τον πόλεμο καθολικούς έναν βασιλιά που μπορούσαν να αποδεχτούν, ανοίγοντας τον δρόμο προς την ειρήνη."
           },
           category: "religious"
         }

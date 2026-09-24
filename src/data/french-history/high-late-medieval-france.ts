@@ -150,6 +150,10 @@ export const HIGH_LATE_MEDIEVAL_FRANCE = {
             en: "Eight weeks after the annulment of her marriage to Louis VII, Eleanor — duchess of Aquitaine and Poitiers — marries the young Henry Plantagenet. Two years later he becomes Henry II of England. From Hadrian's Wall to the Pyrenees, half of France now belongs to a single foreign king.",
             el: "Οκτώ εβδομάδες μετά την ακύρωση του γάμου της με τον Λουδοβίκο Ζ΄, η Ελεωνόρα — δούκισσα Ακυτανίας και Πουατιέ — παντρεύεται τον νεαρό Ερρίκο Πλανταγενέτη. Δύο χρόνια αργότερα γίνεται Ερρίκος Β΄ της Αγγλίας. Από το Τείχος του Αδριανού ως τα Πυρηναία, η μισή Γαλλία ανήκει πλέον σε έναν ξένο βασιλιά."
           },
+          extendedDescription: {
+            en: "Eleanor had accompanied Louis VII on the Second Crusade, and their marriage was annulled on grounds of kinship after producing two daughters but no son. Granddaughter of William IX, the first known troubadour, she was a great patron of courtly poetry, and she became the mother of two English kings, Richard the Lionheart and John. She outlived nearly all her children and died around the age of eighty in 1204 at the abbey of Fontevraud, where her tomb effigy still lies beside Henry's.",
+            el: "Η Ελεονώρα είχε συνοδεύσει τον Λουδοβίκο Ζ΄ στη Β΄ Σταυροφορία, και ο γάμος τους ακυρώθηκε λόγω συγγένειας, αφού απέκτησαν δύο κόρες αλλά κανέναν γιο. Εγγονή του Γουλιέλμου Θ΄, του πρώτου γνωστού τροβαδούρου, ήταν μεγάλη προστάτιδα της αυλικής ποίησης και έγινε μητέρα δύο βασιλέων της Αγγλίας, του Ριχάρδου του Λεοντόκαρδου και του Ιωάννη. Έζησε περισσότερο από σχεδόν όλα τα παιδιά της και πέθανε σε ηλικία περίπου ογδόντα ετών το 1204 στο αβαείο του Φοντεβρό, όπου το ταφικό της ομοίωμα βρίσκεται ακόμη δίπλα σε εκείνο του Ερρίκου."
+          },
           category: "political"
         }
       ]
@@ -169,6 +173,10 @@ export const HIGH_LATE_MEDIEVAL_FRANCE = {
           description: {
             en: "After a six-month siege Philip II Augustus takes Richard the Lionheart's great fortress on the Seine and overruns Normandy from the weak John Lackland. By 1206 Anjou, Maine, Touraine, and Poitou are also in the royal hand. The Angevin empire is broken on its French side.",
             el: "Μετά από εξάμηνη πολιορκία ο Φίλιππος Β΄ ο Αύγουστος καταλαμβάνει το μεγάλο φρούριο του Ριχάρδου του Λεοντόκαρδου στον Σηκουάνα και κατακυριεύει τη Νορμανδία από τον αδύναμο Ιωάννη Ακτήμονα. Μέχρι το 1206 το Ανζού, το Μεν, η Τουρένη και η Πουατού βρίσκονται επίσης στο βασιλικό χέρι. Η Πλανταγενετική αυτοκρατορία συντρίβεται στη γαλλική της πλευρά."
+          },
+          extendedDescription: {
+            en: "Richard had built Château Gaillard in barely two years, calling it his 'saucy castle' and boasting that he could hold it even if its walls were made of butter. According to a chronicler, the attackers finally got into its inner defences through a latrine chute. Rouen surrendered in June 1204, and Philip, who had begun styling himself 'King of France' rather than 'King of the Franks', roughly quadrupled the lands under direct royal rule.",
+            el: "Ο Ριχάρδος είχε χτίσει το Σατό Γκαγιάρ σε μόλις δύο χρόνια, αποκαλώντας το «αυθάδες κάστρο» του και καυχώμενος ότι θα μπορούσε να το κρατήσει ακόμη κι αν τα τείχη του ήταν φτιαγμένα από βούτυρο. Σύμφωνα με έναν χρονογράφο, οι επιτιθέμενοι μπήκαν τελικά στις εσωτερικές οχυρώσεις του μέσα από έναν αγωγό αποχωρητηρίου. Η Ρουέν παραδόθηκε τον Ιούνιο του 1204, και ο Φίλιππος, που είχε αρχίσει να αυτοαποκαλείται «Βασιλιάς της Γαλλίας» αντί για «Βασιλιάς των Φράγκων», σχεδόν τετραπλασίασε τα εδάφη υπό άμεση βασιλική εξουσία."
           },
           category: "military"
         }
@@ -214,6 +222,10 @@ export const HIGH_LATE_MEDIEVAL_FRANCE = {
             en: "On a July Sunday near Lille, Philip II crushes the coalition of John of England, the emperor Otto IV, and the count of Flanders. The defeat of Otto loses him the empire; the defeat of John makes Magna Carta inevitable in England. France is left the great power of the West.",
             el: "Μια κυριακή του Ιουλίου κοντά στη Λιλ, ο Φίλιππος Β΄ συντρίβει τον συνασπισμό του Ιωάννη της Αγγλίας, του αυτοκράτορα Όθωνα Δ΄ και του κόμη της Φλάνδρας. Η ήττα στερεί τον Όθωνα από την αυτοκρατορία· η ήττα του Ιωάννη καθιστά αναπόφευκτη τη Magna Carta στην Αγγλία. Η Γαλλία απομένει η μεγάλη δύναμη της Δύσης."
           },
+          extendedDescription: {
+            en: "In the thick of the fighting Philip was pulled from his horse and saved only by his armour and his knights. The count of Flanders was taken captive and paraded in chains to Paris, where students and townspeople celebrated for a week. The historian Georges Duby later made the battle the subject of a famous book, Le Dimanche de Bouvines, as a moment when a French national feeling first became visible.",
+            el: "Στη δίνη της μάχης ο Φίλιππος ρίχτηκε από το άλογό του και σώθηκε μόνο χάρη στην πανοπλία του και στους ιππότες του. Ο κόμης της Φλάνδρας αιχμαλωτίστηκε και περιφέρθηκε αλυσοδεμένος ως το Παρίσι, όπου φοιτητές και κάτοικοι γιόρταζαν επί μία εβδομάδα. Ο ιστορικός Ζορζ Ντυμπύ έκανε αργότερα τη μάχη θέμα ενός διάσημου βιβλίου, «Η Κυριακή της Μπουβίν», ως στιγμή όπου ένα γαλλικό εθνικό αίσθημα έγινε για πρώτη φορά ορατό."
+          },
           category: "military"
         }
       ]
@@ -257,6 +269,10 @@ export const HIGH_LATE_MEDIEVAL_FRANCE = {
           description: {
             en: "On a second crusade, this time diverted to Tunis, Louis IX dies of dysentery on the Carthaginian dunes in August. His son Philip III brings home his bones in a long mournful procession through Italy and the Alps; the route would be marked by stone crosses called montjoies.",
             el: "Σε δεύτερη σταυροφορία, αυτή τη φορά εκτραπείσα προς την Τύνιδα, ο Λουδοβίκος Θ΄ πεθαίνει από δυσεντερία στις καρχηδονιακές αμμοθίνες τον Αύγουστο. Ο γιος του Φίλιππος Γ΄ φέρνει πίσω τα οστά του σε μακρά πένθιμη πομπή μέσα από την Ιταλία και τις Άλπεις· η διαδρομή θα σημαδευτεί με λίθινους σταυρούς που λέγονται montjoies."
+          },
+          extendedDescription: {
+            en: "Louis's first crusade, to Egypt in 1248–54, had ended with his capture at Mansourah and a huge ransom. At home he was admired as a just ruler who heard petitions beneath an oak tree at Vincennes, forbade judicial duels and reformed royal officials. His friend Jean de Joinville wrote a vivid Life of Saint Louis, and in 1297 Pope Boniface VIII canonised him — the only French king to become a saint.",
+            el: "Η πρώτη σταυροφορία του Λουδοβίκου, στην Αίγυπτο το 1248–54, είχε τελειώσει με την αιχμαλωσία του στη Μανσούρα και με τεράστια λύτρα. Στην πατρίδα τον θαύμαζαν ως δίκαιο ηγεμόνα που άκουγε αιτήματα κάτω από μια βελανιδιά στη Βενσέν, απαγόρευσε τις δικαστικές μονομαχίες και αναμόρφωσε τους βασιλικούς αξιωματούχους. Ο φίλος του Ζαν ντε Ζουανβίλ έγραψε έναν ζωντανό «Βίο του Αγίου Λουδοβίκου», και το 1297 ο πάπας Βονιφάτιος Η΄ τον ανακήρυξε άγιο — ο μόνος Γάλλος βασιλιάς που αγιοποιήθηκε."
           },
           category: "religious"
         }
@@ -302,6 +318,10 @@ export const HIGH_LATE_MEDIEVAL_FRANCE = {
             en: "Pope Clement V, a Gascon elected under French pressure, settles his curia at Avignon on the Rhône. For seventy years, until 1377, the seven popes who reign there will all be Frenchmen, and the papacy will be a virtual annex of the Valois court.",
             el: "Ο πάπας Κλήμης Ε΄, Γασκώνος εκλεγμένος υπό γαλλική πίεση, εγκαθιστά την curia του στην Αβινιόν στον Ροδανό. Επί εβδομήντα χρόνια, ως το 1377, οι επτά πάπες που θα βασιλεύσουν εκεί θα είναι όλοι Γάλλοι, και η παπικότητα θα είναι σχεδόν παράρτημα της αυλής των Βαλουά."
           },
+          extendedDescription: {
+            en: "The move followed Philip the Fair's humiliation of Pope Boniface VIII, who died in 1303 after the king's agents had seized him at Anagni; Clement V went on to help Philip destroy the Knights Templar. The popes built the vast Palace of the Popes and bought Avignon itself in 1348, while critics such as Petrarch denounced a 'Babylonian captivity' of the Church. Gregory XI returned to Rome in 1377, but the election that followed his death split the Church for decades, with rival popes in Rome and Avignon.",
+            el: "Η μετακίνηση ακολούθησε την ταπείνωση του πάπα Βονιφατίου Η΄ από τον Φίλιππο τον Ωραίο· ο πάπας πέθανε το 1303, αφού πράκτορες του βασιλιά τον είχαν συλλάβει στο Ανάνι, και ο Κλήμης Ε΄ βοήθησε στη συνέχεια τον Φίλιππο να εξοντώσει τους Ναΐτες Ιππότες. Οι πάπες έχτισαν το τεράστιο Παλάτι των Παπών και αγόρασαν την ίδια την Αβινιόν το 1348, ενώ επικριτές όπως ο Πετράρχης κατήγγελλαν μια «βαβυλώνια αιχμαλωσία» της Εκκλησίας. Ο Γρηγόριος ΙΑ΄ επέστρεψε στη Ρώμη το 1377, αλλά η εκλογή που ακολούθησε τον θάνατό του δίχασε την Εκκλησία για δεκαετίες, με αντίπαλους πάπες στη Ρώμη και στην Αβινιόν."
+          },
           category: "religious"
         }
       ]
@@ -346,6 +366,10 @@ export const HIGH_LATE_MEDIEVAL_FRANCE = {
             en: "Charles IV, third son of Philip the Fair to reign and die without a male heir, leaves the throne open. The peers of France pass over the strongest claimant — Edward III of England, grandson of Philip through his mother Isabella — and crown Philip of Valois, the late king's first cousin. Salic law has been invented.",
             el: "Ο Κάρολος Δ΄, τρίτος γιος του Φιλίππου του Ωραίου που βασίλεψε και πέθανε χωρίς αρσενικό κληρονόμο, αφήνει τον θρόνο ανοιχτό. Οι πέρες της Γαλλίας προσπερνούν τον ισχυρότερο διεκδικητή — τον Εδουάρδο Γ΄ της Αγγλίας, εγγονό του Φιλίππου μέσω της μητέρας του Ισαβέλλας — και στέφουν τον Φίλιππο των Βαλουά, πρωτεξάδερφο του εκλιπόντος. Ο σαλικός νόμος έχει εφευρεθεί."
           },
+          extendedDescription: {
+            en: "A precedent had been set in 1316, when Louis X's daughter Jeanne was passed over for her uncles; in 1328 the magnates preferred a French-born prince to the young king of England. Edward III at first accepted the decision and did homage for his duchy of Guyenne. But when Philip VI confiscated Guyenne in 1337, Edward revived his claim to the French crown — the start of the Hundred Years' War. Jurists later justified the exclusion of women by appeal to the ancient Salic law of the Franks.",
+            el: "Ένα προηγούμενο είχε δημιουργηθεί το 1316, όταν η κόρη του Λουδοβίκου Ι΄, Ιωάννα, παρακάμφθηκε υπέρ των θείων της· το 1328 οι μεγιστάνες προτίμησαν έναν γεννημένο στη Γαλλία πρίγκιπα από τον νεαρό βασιλιά της Αγγλίας. Ο Εδουάρδος Γ΄ αρχικά αποδέχτηκε την απόφαση και έδωσε όρκο υποτέλειας για το δουκάτο του της Γυιέν. Όμως όταν ο Φίλιππος ΣΤ΄ κατάσχεσε τη Γυιέν το 1337, ο Εδουάρδος αναβίωσε τη διεκδίκησή του στο γαλλικό στέμμα — η αρχή του Εκατονταετούς Πολέμου. Νομομαθείς δικαιολόγησαν αργότερα τον αποκλεισμό των γυναικών επικαλούμενοι τον αρχαίο Σαλικό νόμο των Φράγκων."
+          },
           category: "political"
         }
       ]
@@ -365,6 +389,10 @@ export const HIGH_LATE_MEDIEVAL_FRANCE = {
           description: {
             en: "Edward III's army, perhaps ten thousand strong, destroys the French chivalry on a slope near Crécy-en-Ponthieu. The longbowmen of Wales and Cheshire shoot down wave after wave of knights, including the blind king John of Bohemia. Calais falls within the year.",
             el: "Ο στρατός του Εδουάρδου Γ΄, ίσως δέκα χιλιάδων ανδρών, καταστρέφει τη γαλλική ιπποσύνη σε πλαγιά κοντά στο Κρεσύ-εν-Πονθιέ. Οι τοξότες της Ουαλίας και του Τσεσάιρ κατεβάζουν κύμα μετά από κύμα ιππότες, μεταξύ των οποίων τον τυφλό βασιλιά Ιωάννη της Βοημίας. Το Καλέ πέφτει μέσα στον χρόνο."
+          },
+          extendedDescription: {
+            en: "The Genoese crossbowmen in French service, their strings wet from rain and the sun in their eyes, were cut down by English arrows and then ridden over by their own impatient knights. Edward's sixteen-year-old son, the Black Prince, fought in the front line; tradition says he took the blind king of Bohemia's ostrich-feather badge and motto, 'Ich dien'. Calais fell after an eleven-month siege — remembered through Rodin's Burghers of Calais — and stayed English until 1558.",
+            el: "Οι Γενουάτες βαλλιστροφόροι στην υπηρεσία των Γάλλων, με τις χορδές τους βρεγμένες από τη βροχή και τον ήλιο στα μάτια, θερίστηκαν από τα αγγλικά βέλη και έπειτα ποδοπατήθηκαν από τους ανυπόμονους ιππότες της ίδιας τους της πλευράς. Ο δεκαεξάχρονος γιος του Εδουάρδου, ο Μαύρος Πρίγκιπας, πολέμησε στην πρώτη γραμμή· η παράδοση λέει ότι πήρε το έμβλημα με τα φτερά στρουθοκαμήλου και το σύνθημα «Ich dien» του τυφλού βασιλιά της Βοημίας. Το Καλαί έπεσε μετά από πολιορκία έντεκα μηνών — που τη θυμίζουν οι «Αστοί του Καλαί» του Ροντέν — και έμεινε αγγλικό ως το 1558."
           },
           category: "military"
         }
@@ -434,6 +462,10 @@ export const HIGH_LATE_MEDIEVAL_FRANCE = {
             en: "Henry V of England, with an exhausted and outnumbered army, slaughters the chivalry of France in a muddy ploughed field in the Pas-de-Calais. Constable Charles d'Albret falls; thousands of French nobles die or are captured. Within five years Henry will be heir to the French crown.",
             el: "Ο Ερρίκος Ε΄ της Αγγλίας, με στρατό εξαντλημένο και αριθμητικά κατώτερο, κατασφάζει την ιπποσύνη της Γαλλίας σε λασπώδες οργωμένο χωράφι στο Πα-ντε-Καλέ. Ο κονόσταβλος Σαρλ ντ' Αλμπρέ πέφτει· χιλιάδες Γάλλοι ευγενείς πεθαίνουν ή αιχμαλωτίζονται. Σε πέντε χρόνια ο Ερρίκος θα είναι κληρονόμος του γαλλικού στέμματος."
           },
+          extendedDescription: {
+            en: "The battle was fought on St Crispin's Day, 25 October, after Henry's army, weakened by dysentery after the siege of Harfleur, had been trying to reach Calais. Fearing a new attack, Henry ordered many of his French prisoners to be killed. Among the captives was the poet Charles of Orléans, who spent twenty-five years in England writing verse. Shakespeare's Henry V later made the battle a legend of English courage.",
+            el: "Η μάχη δόθηκε την ημέρα του Αγίου Κρισπίνου, 25 Οκτωβρίου, ενώ ο στρατός του Ερρίκου, εξασθενημένος από τη δυσεντερία μετά την πολιορκία του Αρφλέρ, προσπαθούσε να φτάσει στο Καλαί. Φοβούμενος νέα επίθεση, ο Ερρίκος διέταξε να σκοτωθούν πολλοί από τους Γάλλους αιχμαλώτους του. Ανάμεσα στους αιχμαλώτους ήταν ο ποιητής Κάρολος της Ορλεάνης, που πέρασε είκοσι πέντε χρόνια στην Αγγλία γράφοντας στίχους. Ο «Ερρίκος Ε΄» του Σαίξπηρ έκανε αργότερα τη μάχη θρύλο αγγλικής ανδρείας."
+          },
           category: "military"
         }
       ]
@@ -453,6 +485,10 @@ export const HIGH_LATE_MEDIEVAL_FRANCE = {
           description: {
             en: "Allied with the Burgundians after the murder of Duke John the Fearless at Montereau, the mad Charles VI signs the Treaty of Troyes: his daughter Catherine marries Henry V, who is made regent of France and heir to the throne. The dauphin Charles is disinherited.",
             el: "Συμμαχημένος με τους Βουργουνδούς μετά τη δολοφονία του δούκα Ιωάννη του Άφοβου στη Μοντερό, ο τρελός Κάρολος ΣΤ΄ υπογράφει τη Συνθήκη του Τρουά: η κόρη του Αικατερίνη παντρεύεται τον Ερρίκο Ε΄, που γίνεται αντιβασιλέας της Γαλλίας και κληρονόμος του θρόνου. Ο δελφίνος Κάρολος αποκληρώνεται."
+          },
+          extendedDescription: {
+            en: "Duke John the Fearless of Burgundy was killed on the bridge at Montereau in 1419 during a meeting with the dauphin's party, and his son Philip the Good sided with England in revenge. But Henry V died in August 1422, two months before Charles VI, leaving a baby, Henry VI, as king of both realms. The disinherited dauphin, mocked as the 'king of Bourges', held out south of the Loire until Joan of Arc revived his cause in 1429.",
+            el: "Ο δούκας της Βουργουνδίας Ιωάννης ο Άφοβος σκοτώθηκε στη γέφυρα του Μοντερό το 1419, κατά τη διάρκεια μιας συνάντησης με την παράταξη του δελφίνου, και ο γιος του Φίλιππος ο Αγαθός συντάχθηκε με την Αγγλία από εκδίκηση. Όμως ο Ερρίκος Ε΄ πέθανε τον Αύγουστο του 1422, δύο μήνες πριν από τον Κάρολο ΣΤ΄, αφήνοντας ένα βρέφος, τον Ερρίκο ΣΤ΄, βασιλιά και των δύο βασιλείων. Ο αποκληρωμένος δελφίνος, που τον χλεύαζαν ως «βασιλιά της Μπουρζ», άντεξε νότια του Λίγηρα ώσπου η Ιωάννα της Λωρραίνης αναζωπύρωσε την υπόθεσή του το 1429."
           },
           category: "political"
         }

@@ -80,6 +80,10 @@ export const NINETEENTH_CENTURY_FRANCE = {
             en: "On 13 February, leaving the Opéra in the rue de Richelieu, the king's nephew the duc de Berry is stabbed to death by the saddler Louvel — a lone Bonapartist who hoped to extinguish the dynasty. Decazes is dismissed; the Villèle ministry of ultras takes office; the press is muzzled and the franchise narrowed.",
             el: "Στις 13 Φεβρουαρίου, βγαίνοντας από την Όπερα στη rue de Richelieu, ο ανιψιός του βασιλιά δούκας ντε Μπερύ μαχαιρώνεται θανάσιμα από τον σαγματοποιό Λουβέλ — έναν μοναχικό Βοναπαρτιστή που ήλπιζε να εξαλείψει τη δυναστεία. Ο Ντεκάζ απομακρύνεται· το υπουργείο Βιλέλ των ultras αναλαμβάνει· ο τύπος φιμώνεται και η εκλογική βάση στενεύει."
           },
+          extendedDescription: {
+            en: "Berry was the only member of the royal family young enough to continue the line, but seven months later his widow gave birth to a son, Henri, hailed by royalists as 'the miracle child'. The ultras blamed the liberal minister Decazes; Chateaubriand wrote that 'his foot slipped in the blood'. The boy, later the comte de Chambord, would be the Legitimist claimant for half a century and in 1873 threw away his chance of the throne by refusing to accept the tricolour flag.",
+            el: "Ο Μπερί ήταν το μόνο μέλος της βασιλικής οικογένειας αρκετά νέο για να συνεχίσει τη δυναστεία, αλλά επτά μήνες αργότερα η χήρα του γέννησε έναν γιο, τον Ερρίκο, που οι βασιλόφρονες χαιρέτισαν ως «το παιδί του θαύματος». Οι υπερβασιλόφρονες κατηγόρησαν τον φιλελεύθερο υπουργό Ντεκάζ· ο Σατομπριάν έγραψε ότι «το πόδι του γλίστρησε στο αίμα». Το αγόρι, αργότερα κόμης του Σαμπόρ, θα ήταν ο νομιμόφρων διεκδικητής του θρόνου για μισό αιώνα και το 1873 έχασε την ευκαιρία να βασιλεύσει αρνούμενος να δεχτεί την τρίχρωμη σημαία."
+          },
           category: "political"
         }
       ]
@@ -99,6 +103,10 @@ export const NINETEENTH_CENTURY_FRANCE = {
           description: {
             en: "On the death of Louis XVIII in September, his brother the comte d'Artois becomes Charles X. He has himself anointed at Reims with the old chrism in May 1825 — the last French king crowned by the medieval rite. His reign opens with a billion-franc indemnity to the émigrés and a law of sacrilege punishing desecration with death.",
             el: "Με τον θάνατο του Λουδοβίκου ΙΗ΄ τον Σεπτέμβριο, ο αδελφός του κόμης ντ' Αρτουά γίνεται Κάρολος Ι΄. Χρίεται στη Ρεμς με το παλιό μύρο τον Μάιο του 1825 — ο τελευταίος Γάλλος βασιλιάς που στέφθηκε με το μεσαιωνικό τυπικό. Η βασιλεία του ανοίγει με αποζημίωση ενός δισεκατομμυρίου φράγκων στους εμιγκρέ και νόμο ιεροσυλίας που τιμωρεί τη βεβήλωση με θάνατο."
+          },
+          extendedDescription: {
+            en: "The young Victor Hugo wrote an ode for the coronation, and Rossini composed the opera Il viaggio a Reims for the celebrations. Charles X, who had spent the Revolution in exile, openly sought to restore the power of the Church and the old nobility. When in July 1830 he issued ordinances dissolving the newly elected Chamber, censoring the press and restricting the vote, Paris rose against him.",
+            el: "Ο νεαρός Βίκτωρ Ουγκώ έγραψε μια ωδή για τη στέψη, και ο Ροσίνι συνέθεσε την όπερα «Το ταξίδι στη Ρενς» για τους εορτασμούς. Ο Κάρολος Ι΄, που είχε περάσει την Επανάσταση στην εξορία, επιδίωκε ανοιχτά να αποκαταστήσει την ισχύ της Εκκλησίας και της παλαιάς αριστοκρατίας. Όταν τον Ιούλιο του 1830 εξέδωσε διατάγματα που διέλυαν τη νεοεκλεγμένη Βουλή, λογόκριναν τον Τύπο και περιόριζαν το δικαίωμα ψήφου, το Παρίσι εξεγέρθηκε εναντίον του."
           },
           category: "political"
         }
@@ -145,6 +153,10 @@ export const NINETEENTH_CENTURY_FRANCE = {
           description: {
             en: "On 9 August, on the recommendation of Lafayette and the bankers around Casimir Périer, the Orléans cousin Louis-Philippe d'Orléans accepts the crown — no longer as 'King of France' but as 'King of the French'. The tricolore returns. The Charter is revised, the franchise widened to about two hundred thousand voters, and France becomes a constitutional bourgeois monarchy.",
             el: "Στις 9 Αυγούστου, με σύσταση του Λαφαγέτ και των τραπεζιτών γύρω από τον Καζιμίρ Περιέ, ο εξάδελφος των Ορλεάνης Λουδοβίκος-Φίλιππος δ' Ορλεάνη αποδέχεται το στέμμα — όχι πια ως «Βασιλιάς της Γαλλίας» αλλά ως «Βασιλιάς των Γάλλων». Η τρίχρωμη επιστρέφει. Ο Χάρτης αναθεωρείται, η εκλογική βάση διευρύνεται περίπου σε διακόσιες χιλιάδες ψηφοφόρους, και η Γαλλία γίνεται συνταγματική αστική μοναρχία."
+          },
+          extendedDescription: {
+            en: "Three days of street fighting in late July — the 'Three Glorious Days' — drove Charles X into exile; Delacroix commemorated them in Liberty Leading the People. Louis-Philippe, who had fought for the Revolution at Valmy and taught school in Swiss exile, cultivated the image of a 'citizen king' who walked Paris with an umbrella. His minister Guizot told those who wanted the vote to 'enrich yourselves', and the conquest of Algeria, begun weeks before the revolution, continued under the new regime.",
+            el: "Τρεις μέρες οδομαχιών στα τέλη Ιουλίου — οι «Τρεις Ένδοξες Μέρες» — έστειλαν τον Κάρολο Ι΄ στην εξορία· ο Ντελακρουά τις απαθανάτισε στον πίνακα «Η Ελευθερία οδηγεί τον λαό». Ο Λουδοβίκος Φίλιππος, που είχε πολεμήσει για την Επανάσταση στο Βαλμί και είχε διδάξει σε σχολείο στην εξορία του στην Ελβετία, καλλιεργούσε την εικόνα ενός «βασιλιά-πολίτη» που περπατούσε στο Παρίσι με ομπρέλα. Ο υπουργός του Γκιζό έλεγε σε όσους ζητούσαν ψήφο «πλουτίστε», και η κατάκτηση της Αλγερίας, που είχε αρχίσει λίγες εβδομάδες πριν από την επανάσταση, συνεχίστηκε υπό το νέο καθεστώς."
           },
           category: "political"
         }
@@ -267,6 +279,10 @@ export const NINETEENTH_CENTURY_FRANCE = {
             en: "On 10 December, the first direct presidential election in French history gives Louis-Napoleon Bonaparte 5,434,000 votes against Cavaignac's 1,448,000. He owes his victory to the name, to the peasants' Bonapartism, and to the readers of his pamphlet on the extinction of pauperism. He swears to the Republic on 20 December.",
             el: "Στις 10 Δεκεμβρίου, η πρώτη άμεση προεδρική εκλογή στη γαλλική ιστορία δίνει στον Λουδοβίκο-Ναπολέοντα Βοναπάρτη 5.434.000 ψήφους κατά των 1.448.000 του Καβενιάκ. Οφείλει τη νίκη του στο όνομα, στον αγροτικό Βοναπαρτισμό και στους αναγνώστες του φυλλαδίου του για την εξάλειψη της φτώχειας. Ορκίζεται στη Δημοκρατία στις 20 Δεκεμβρίου."
           },
+          extendedDescription: {
+            en: "Louis-Napoleon had twice tried to seize power by coup, in 1836 and 1840, and had escaped from prison at Ham in 1846 disguised as a workman. The Second Republic born in February 1848 had introduced universal male suffrage and abolished slavery in the colonies, but in the June Days General Cavaignac had crushed a workers' rising in Paris, costing him the votes of the left. The new constitution limited the president to a single four-year term — a rule Louis-Napoleon would soon overturn.",
+            el: "Ο Λουδοβίκος Ναπολέων είχε προσπαθήσει δύο φορές να καταλάβει την εξουσία με πραξικόπημα, το 1836 και το 1840, και είχε δραπετεύσει από τη φυλακή του Αμ το 1846 μεταμφιεσμένος σε εργάτη. Η Δεύτερη Δημοκρατία που γεννήθηκε τον Φεβρουάριο του 1848 είχε καθιερώσει την καθολική ανδρική ψηφοφορία και καταργήσει τη δουλεία στις αποικίες, αλλά στις Ημέρες του Ιουνίου ο στρατηγός Καβενιάκ είχε συντρίψει μια εργατική εξέγερση στο Παρίσι, χάνοντας έτσι τις ψήφους της αριστεράς. Το νέο σύνταγμα περιόριζε τον πρόεδρο σε μία μόνο τετραετή θητεία — κανόνα που ο Λουδοβίκος Ναπολέων σύντομα θα ανέτρεπε."
+          },
           category: "political"
         }
       ]
@@ -313,6 +329,10 @@ export const NINETEENTH_CENTURY_FRANCE = {
             en: "A second plebiscite restores the imperial dignity. On 2 December — the third anniversary — Louis-Napoleon is proclaimed Napoleon III, Emperor of the French. The next month he marries the Spanish countess Eugénie de Montijo at Notre-Dame. The Second Empire — authoritarian then liberal, prosperous, expansive — will last eighteen years.",
             el: "Δεύτερο δημοψήφισμα αποκαθιστά την αυτοκρατορική αξιοπρέπεια. Στις 2 Δεκεμβρίου — την τρίτη επέτειο — ο Λουδοβίκος-Ναπολέων ανακηρύσσεται Ναπολέων Γ΄, Αυτοκράτορας των Γάλλων. Τον επόμενο μήνα παντρεύεται την Ισπανίδα κόμισσα Ευγενία ντε Μοντίχο στη Νοτρ-Νταμ. Η Δεύτερη Αυτοκρατορία — απολυταρχική και μετά φιλελεύθερη, εύπορη, επεκτατική — θα διαρκέσει δεκαοκτώ χρόνια."
           },
+          extendedDescription: {
+            en: "The restoration followed Louis-Napoleon's coup of 2 December 1851, when he dissolved the Assembly and crushed resistance in Paris and the provinces; Victor Hugo went into exile in Jersey and Guernsey and denounced him as 'Napoleon the Little'. Under the Second Empire, Baron Haussmann rebuilt Paris with broad boulevards, parks and sewers, railways spread across France, and department stores such as the Bon Marché transformed shopping.",
+            el: "Η παλινόρθωση ακολούθησε το πραξικόπημα του Λουδοβίκου Ναπολέοντα στις 2 Δεκεμβρίου 1851, όταν διέλυσε τη Συνέλευση και συνέτριψε την αντίσταση στο Παρίσι και στις επαρχίες· ο Βίκτωρ Ουγκώ έφυγε εξόριστος στο Τζέρσεϊ και στο Γκέρνζι και τον κατήγγειλε ως «Ναπολέοντα τον Μικρό». Επί Δεύτερης Αυτοκρατορίας, ο βαρόνος Οσμάν ξαναέχτισε το Παρίσι με φαρδιές λεωφόρους, πάρκα και αποχετεύσεις, οι σιδηρόδρομοι απλώθηκαν σε όλη τη Γαλλία, και πολυκαταστήματα όπως το Bon Marché μεταμόρφωσαν τις αγορές."
+          },
           category: "political"
         }
       ]
@@ -357,6 +377,10 @@ export const NINETEENTH_CENTURY_FRANCE = {
           description: {
             en: "The Treaty of Paris of 30 March ends the Crimean War (1853-1856), in which the French army of MacMahon and Bosquet — alongside the British and the Sardinians — took the Malakoff and forced Russia to terms. The conference of plenipotentiaries meets at the Quai d'Orsay; Napoleon III is the arbiter of Europe.",
             el: "Η Συνθήκη του Παρισιού της 30ής Μαρτίου τερματίζει τον Πόλεμο της Κριμαίας (1853-1856), όπου ο γαλλικός στρατός του Μακ Μαόν και του Μποσκέ — μαζί με τους Βρετανούς και τους Σαρδηνούς — κατέλαβε το Μαλακόφ και ανάγκασε τη Ρωσία σε όρους. Η συνδιάσκεψη των πληρεξουσίων συνέρχεται στο Quai d'Orsay· ο Ναπολέων Γ΄ είναι ο διαιτητής της Ευρώπης."
+          },
+          extendedDescription: {
+            en: "The war had grown out of a quarrel between France and Russia over the protection of Christians and the Holy Places in the Ottoman Empire. When MacMahon's troops stormed the Malakoff fortress at Sevastopol in September 1855, he reportedly declared, 'Here I am, here I stay.' To keep Greece from joining Russia, British and French troops occupied Piraeus from 1854 to 1857. The Congress of Paris neutralised the Black Sea, and the Emperor's son and heir was born while it was sitting.",
+            el: "Ο πόλεμος προήλθε από μια διαμάχη ανάμεσα στη Γαλλία και τη Ρωσία για την προστασία των χριστιανών και των Αγίων Τόπων στην Οθωμανική Αυτοκρατορία. Όταν τα στρατεύματα του ΜακΜαόν κατέλαβαν με έφοδο το οχυρό Μαλακόφ στη Σεβαστούπολη τον Σεπτέμβριο του 1855, λέγεται ότι δήλωσε: «Εδώ είμαι, εδώ μένω». Για να αποτρέψουν την Ελλάδα από το να ταχθεί με τη Ρωσία, βρετανικά και γαλλικά στρατεύματα κατέλαβαν τον Πειραιά από το 1854 ως το 1857. Το Συνέδριο του Παρισιού ουδετεροποίησε τη Μαύρη Θάλασσα, και ο γιος και διάδοχος του αυτοκράτορα γεννήθηκε ενώ αυτό συνεδρίαζε."
           },
           category: "military"
         }
@@ -404,6 +428,10 @@ export const NINETEENTH_CENTURY_FRANCE = {
             en: "On 19 June, the Austrian archduke Maximilian — installed by Napoleon III as emperor of Mexico — is shot by a firing-squad of Benito Juárez's republicans. Manet paints the execution. In Paris that same summer, the second Universal Exposition draws fifteen million visitors. The Empire is at its dazzling apogee and on the edge of disgrace.",
             el: "Στις 19 Ιουνίου, ο Αυστριακός αρχιδούκας Μαξιμιλιανός — εγκατεστημένος από τον Ναπολέοντα Γ΄ ως αυτοκράτορας του Μεξικού — τυφεκίζεται από εκτελεστικό απόσπασμα των ρεπουμπλικανών του Μπενίτο Χουάρες. Ο Μανέ ζωγραφίζει την εκτέλεση. Στο Παρίσι το ίδιο καλοκαίρι, η δεύτερη Παγκόσμια Έκθεση προσελκύει δεκαπέντε εκατομμύρια επισκέπτες. Η Αυτοκρατορία είναι στο εκθαμβωτικό απόγειό της — και στο χείλος της ντροπής."
           },
+          extendedDescription: {
+            en: "French troops had landed in Mexico in 1861–62 over unpaid debts and suffered a famous defeat at Puebla on 5 May 1862 — still celebrated as Cinco de Mayo — before taking Mexico City. Once the American Civil War ended, pressure from the United States and the rising threat of Prussia forced Napoleon III to withdraw his army, abandoning Maximilian. At the Exposition, Japan exhibited for the first time, sparking the craze for Japanese art that would influence the Impressionists.",
+            el: "Γαλλικά στρατεύματα είχαν αποβιβαστεί στο Μεξικό το 1861–62 λόγω απλήρωτων χρεών και υπέστησαν μια διάσημη ήττα στην Πουέμπλα στις 5 Μαΐου 1862 — που γιορτάζεται ακόμη ως Σίνκο ντε Μάγιο — πριν καταλάβουν την Πόλη του Μεξικού. Μόλις τελείωσε ο Αμερικανικός Εμφύλιος, η πίεση των Ηνωμένων Πολιτειών και η αυξανόμενη απειλή της Πρωσίας ανάγκασαν τον Ναπολέοντα Γ΄ να αποσύρει τον στρατό του, εγκαταλείποντας τον Μαξιμιλιανό. Στην Έκθεση, η Ιαπωνία συμμετείχε για πρώτη φορά, πυροδοτώντας τη μανία για την ιαπωνική τέχνη που θα επηρέαζε τους ιμπρεσιονιστές."
+          },
           category: "political"
         }
       ]
@@ -424,6 +452,10 @@ export const NINETEENTH_CENTURY_FRANCE = {
           description: {
             en: "Provoked by the Hohenzollern candidature to the Spanish throne and the inflammatory edited despatch from the spa of Ems, the French chamber votes war on Prussia on 19 July to roars of À Berlin! In fact the Prussian general staff under Moltke is ready; the French army of Bazaine and MacMahon is not.",
             el: "Προκαλούμενη από την υποψηφιότητα των Χοεντσόλερν στον ισπανικό θρόνο και το εμπρηστικά επεξεργασμένο τηλεγράφημα από το λουτρόπολη του Έμς, η γαλλική βουλή ψηφίζει πόλεμο στην Πρωσία στις 19 Ιουλίου ανάμεσα σε ζητωκραυγές À Berlin! Στην πραγματικότητα το πρωσικό επιτελείο υπό τον Μόλτκε είναι έτοιμο· ο γαλλικός στρατός του Μπαζέν και του Μακ Μαόν δεν είναι."
+          },
+          extendedDescription: {
+            en: "Bismarck shortened the king of Prussia's report of his meeting with the French ambassador so that it read like an insult — a 'red rag to the Gallic bull'. The premier Émile Ollivier declared that he accepted the war 'with a light heart'. Within six weeks one French army was besieged in Metz and another surrendered at Sedan with the emperor himself on 2 September; on 4 September Paris proclaimed the Republic, and in January 1871 the German Empire was proclaimed in the Hall of Mirrors at Versailles.",
+            el: "Ο Βίσμαρκ συντόμευσε την αναφορά του βασιλιά της Πρωσίας για τη συνάντησή του με τον Γάλλο πρέσβη ώστε να διαβάζεται σαν προσβολή — ένα «κόκκινο πανί για τον γαλατικό ταύρο». Ο πρωθυπουργός Εμίλ Ολιβιέ δήλωσε ότι αποδεχόταν τον πόλεμο «με ελαφριά καρδιά». Μέσα σε έξι εβδομάδες ένας γαλλικός στρατός πολιορκούνταν στο Μετς και ένας άλλος παραδόθηκε στο Σεντάν μαζί με τον ίδιο τον αυτοκράτορα στις 2 Σεπτεμβρίου· στις 4 Σεπτεμβρίου το Παρίσι ανακήρυξε τη Δημοκρατία, και τον Ιανουάριο του 1871 η Γερμανική Αυτοκρατορία ανακηρύχθηκε στην Αίθουσα των Κατόπτρων των Βερσαλλιών."
           },
           category: "military"
         }
@@ -544,6 +576,10 @@ export const NINETEENTH_CENTURY_FRANCE = {
             en: "On 6 May the great Exposition Universelle opens on the Champ de Mars to mark the centenary of the Estates General. Its centrepiece, Gustave Eiffel's three-hundred-metre iron tower — built in two years and condemned by Maupassant and Garnier — becomes overnight the symbol of the modern republic.",
             el: "Στις 6 Μαΐου η μεγάλη Παγκόσμια Έκθεση ανοίγει στο Champ de Mars για να σηματοδοτήσει την εκατονταετηρίδα των Γενικών Συνελεύσεων. Το κεντρικό της σημείο, ο τριακοσίων μέτρων σιδερένιος πύργος του Γκυστάβ Άιφελ — χτισμένος σε δύο χρόνια και καταδικασμένος από τον Μωπασάν και τον Γκαρνιέ — γίνεται από τη μια μέρα στην άλλη το σύμβολο της σύγχρονης δημοκρατίας."
           },
+          extendedDescription: {
+            en: "Leading artists and writers had signed a public protest in 1887 against the 'useless and monstrous' tower, which was meant to stand for only twenty years; its value as a radio mast saved it. At 300 metres it remained the tallest structure in the world until New York's Chrysler Building in 1930. The Exposition also displayed the Republic's colonial empire, including reconstructed 'native villages' in which people from the colonies were exhibited to visitors.",
+            el: "Κορυφαίοι καλλιτέχνες και συγγραφείς είχαν υπογράψει το 1887 μια δημόσια διαμαρτυρία κατά του «άχρηστου και τερατώδους» πύργου, που προοριζόταν να σταθεί μόνο είκοσι χρόνια· η αξία του ως ραδιοφωνικής κεραίας τον έσωσε. Με ύψος 300 μέτρα, έμεινε η ψηλότερη κατασκευή του κόσμου ώσπου το Chrysler Building της Νέας Υόρκης τον ξεπέρασε το 1930. Η Έκθεση παρουσίαζε επίσης την αποικιακή αυτοκρατορία της Δημοκρατίας, με ανακατασκευασμένα «ιθαγενή χωριά» όπου άνθρωποι από τις αποικίες εκτίθεντο στους επισκέπτες."
+          },
           category: "cultural",
           image: {
             src: "https://commons.wikimedia.org/wiki/Special:FilePath/Tour_Eiffel_Wikimedia_Commons_(cropped).jpg?width=1024",
@@ -572,6 +608,10 @@ export const NINETEENTH_CENTURY_FRANCE = {
           description: {
             en: "On 22 December a closed-door court martial finds Captain Alfred Dreyfus, a Jewish officer from Alsace, guilty of selling secrets to the Germans. The Affaire begins. On 5 January 1895 he is publicly degraded in the courtyard of the École militaire and shipped to Devil's Island in French Guiana.",
             el: "Στις 22 Δεκεμβρίου στρατοδικείο κεκλεισμένων των θυρών κρίνει τον λοχαγό Άλφρεντ Ντρέιφους, εβραίο αξιωματικό από την Αλσατία, ένοχο για πώληση μυστικών στους Γερμανούς. Η Υπόθεση αρχίζει. Στις 5 Ιανουαρίου 1895 υφίσταται δημόσιο εξευτελισμό στο προαύλιο της École militaire και στέλνεται στο Νησί του Διαβόλου στη Γαλλική Γουιάνα."
+          },
+          extendedDescription: {
+            en: "The real spy was another officer, Major Esterhazy; when Colonel Picquart discovered this in 1896, the army covered it up and acquitted Esterhazy. In January 1898 Émile Zola's open letter 'J'accuse…!' in L'Aurore split France between Dreyfusards and anti-Dreyfusards, exposing deep currents of anti-Semitism. Dreyfus was pardoned in 1899 and fully rehabilitated in 1906. The journalist Theodor Herzl, who witnessed the degradation, later said the Affair helped convince him of the need for a Jewish state.",
+            el: "Ο πραγματικός κατάσκοπος ήταν ένας άλλος αξιωματικός, ο ταγματάρχης Εστερχάζι· όταν ο συνταγματάρχης Πικάρ το ανακάλυψε το 1896, ο στρατός το συγκάλυψε και αθώωσε τον Εστερχάζι. Τον Ιανουάριο του 1898 η ανοιχτή επιστολή του Εμίλ Ζολά «Κατηγορώ…!» στην L'Aurore δίχασε τη Γαλλία σε ντρεϊφουσιστές και αντιντρεϊφουσιστές, αποκαλύπτοντας βαθιά ρεύματα αντισημιτισμού. Ο Ντρέιφους έλαβε χάρη το 1899 και αποκαταστάθηκε πλήρως το 1906. Ο δημοσιογράφος Τέοντορ Χερτσλ, που παρακολούθησε την καθαίρεση, είπε αργότερα ότι η Υπόθεση συνέβαλε να πειστεί για την ανάγκη ενός εβραϊκού κράτους."
           },
           category: "political"
         }
@@ -644,6 +684,10 @@ export const NINETEENTH_CENTURY_FRANCE = {
             en: "On the evening of 31 July, three days after Austria's declaration of war on Serbia, the socialist leader Jean Jaurès — the great voice against the war — is shot dead at the Café du Croissant in Paris by the nationalist Raoul Villain. The last European resistance to the conflict dies with him. The next day France orders general mobilisation.",
             el: "Το απόγευμα της 31ης Ιουλίου, τρεις ημέρες μετά την κήρυξη πολέμου της Αυστρίας στη Σερβία, ο σοσιαλιστής ηγέτης Ζαν Ζωρές — η μεγάλη φωνή κατά του πολέμου — πυροβολείται θανάσιμα στο Café du Croissant στο Παρίσι από τον εθνικιστή Ραούλ Βιλάν. Η τελευταία ευρωπαϊκή αντίσταση στη σύγκρουση πεθαίνει μαζί του. Την επομένη η Γαλλία διατάζει γενική επιστράτευση."
           },
+          extendedDescription: {
+            en: "Jaurès, founder of the newspaper L'Humanité and leader of the unified Socialist party, had spent his last days trying to rally European socialists for a general strike against war. In 1919 a jury acquitted his assassin, and Jaurès' widow was ordered to pay the costs of the trial — a verdict that caused outrage on the left. His remains were moved to the Panthéon in 1924; Villain was killed in Ibiza in 1936, early in the Spanish Civil War.",
+            el: "Ο Ζορές, ιδρυτής της εφημερίδας L'Humanité και ηγέτης του ενιαίου Σοσιαλιστικού κόμματος, είχε περάσει τις τελευταίες του μέρες προσπαθώντας να συσπειρώσει τους Ευρωπαίους σοσιαλιστές για μια γενική απεργία κατά του πολέμου. Το 1919 ένα σώμα ενόρκων αθώωσε τον δολοφόνο του, και η χήρα του Ζορές υποχρεώθηκε να πληρώσει τα δικαστικά έξοδα — ετυμηγορία που προκάλεσε αγανάκτηση στην αριστερά. Τα λείψανά του μεταφέρθηκαν στο Πάνθεον το 1924· ο Βιλέν σκοτώθηκε στην Ίμπιζα το 1936, στις αρχές του Ισπανικού Εμφυλίου."
+          },
           category: "political"
         }
       ]
@@ -664,6 +708,10 @@ export const NINETEENTH_CENTURY_FRANCE = {
           description: {
             en: "On 1 August the church bells ring the general mobilisation. On 3 August Germany declares war on France; on the 4th, in the Chamber, René Viviani reads the message of President Poincaré: the Union sacrée — a national truce of all parties — is proclaimed. Within four weeks the Germans will be on the Marne. The long nineteenth century is over.",
             el: "Την 1η Αυγούστου οι καμπάνες των εκκλησιών χτυπούν τη γενική επιστράτευση. Στις 3 Αυγούστου η Γερμανία κηρύσσει πόλεμο στη Γαλλία· στις 4, στη Βουλή, ο Ρενέ Βιβιανί διαβάζει το μήνυμα του Προέδρου Πουανκαρέ: η Union sacrée — εθνική εκεχειρία όλων των κομμάτων — ανακηρύσσεται. Σε τέσσερις εβδομάδες οι Γερμανοί θα είναι στον Μάρνη. Ο μακρύς δέκατος ένατος αιώνας έχει τελειώσει."
+          },
+          extendedDescription: {
+            en: "French soldiers marched out in the red trousers and blue coats of the previous century, and the army's doctrine of all-out attack under Plan XVII sent them against German machine guns and artillery in the Battles of the Frontiers. On 22 August 1914 alone some 27,000 French soldiers were killed — the bloodiest day in French military history. Even so, the army and the nation held together, and the Union sacrée would last for most of the war.",
+            el: "Οι Γάλλοι στρατιώτες ξεκίνησαν με τα κόκκινα παντελόνια και τα μπλε πανωφόρια του προηγούμενου αιώνα, και το δόγμα της ολομέτωπης επίθεσης του Σχεδίου XVII τους έστειλε απέναντι στα γερμανικά πολυβόλα και στο πυροβολικό στις Μάχες των Συνόρων. Μόνο στις 22 Αυγούστου 1914 σκοτώθηκαν περίπου 27.000 Γάλλοι στρατιώτες — η πιο αιματηρή μέρα της γαλλικής στρατιωτικής ιστορίας. Παρ' όλα αυτά, ο στρατός και το έθνος άντεξαν ενωμένα, και η Ιερή Ένωση κράτησε για το μεγαλύτερο μέρος του πολέμου."
           },
           category: "military"
         }

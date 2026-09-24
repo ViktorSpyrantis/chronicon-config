@@ -158,6 +158,10 @@ export const PREHISTORIC_ANCIENT_GAUL = {
             en: "Bell Beaker communities, riding the steppe-derived genetic transformation of Western Europe, spread bronze metallurgy across Gaul. New warrior burials with daggers and archer's wristguards appear from the Rhône to the Channel.",
             el: "Οι κοινότητες της Κεραμικής Καμπάνας, με υπόβαθρο τη γενετική μεταμόρφωση της Δυτικής Ευρώπης από τη στέπα, διαδίδουν τη μεταλλουργία του χαλκού σε όλη τη Γαλατία. Νέες πολεμικές ταφές με εγχειρίδια και βραχιόλια τοξότη εμφανίζονται από τον Ροδανό έως τη Μάγχη."
           },
+          extendedDescription: {
+            en: "The bell-shaped drinking cups that give the culture its name were buried with the dead alongside copper daggers, archers' wristguards and gold ornaments, and may have held beer or mead for feasting. Ancient DNA shows that these communities carried a large share of steppe ancestry that had spread west through Central Europe. In Brittany, local tin and bronze-working soon supported rich Early Bronze Age chiefdoms, whose leaders were buried under great earthen mounds.",
+            el: "Τα κωδωνόσχημα κύπελλα από τα οποία πήρε το όνομά του ο πολιτισμός θάβονταν με τους νεκρούς μαζί με χάλκινα εγχειρίδια, περικάρπια τοξοτών και χρυσά κοσμήματα, και ίσως περιείχαν μπίρα ή υδρόμελι για συμπόσια. Το αρχαίο DNA δείχνει ότι αυτές οι κοινότητες είχαν μεγάλο μερίδιο καταγωγής από τη στέπα, που είχε εξαπλωθεί δυτικά μέσω της Κεντρικής Ευρώπης. Στη Βρετάνη, ο ντόπιος κασσίτερος και η μεταλλοτεχνία του μπρούντζου στήριξαν σύντομα πλούσιες ηγεμονίες της Πρώιμης Εποχής του Χαλκού, των οποίων οι αρχηγοί θάβονταν κάτω από μεγάλους χωμάτινους τύμβους."
+          },
           category: "cultural"
         }
       ]
@@ -226,6 +230,10 @@ export const PREHISTORIC_ANCIENT_GAUL = {
             en: "A new Celtic style emerges around the Marne and the Moselle: curvilinear ornament of palmettes and tendrils, applied to swords, scabbards, gold torcs, and bronze flagons. It will be the visual language of the European Iron Age for four centuries.",
             el: "Ένα νέο κελτικό ύφος αναδύεται στις περιοχές του Μάρνη και του Μοζέλα: καμπυλόγραμμη διακόσμηση από ανθέμια και έλικες, που εφαρμόζεται σε ξίφη, θηκάρια, χρυσά τορκ και χάλκινες οινοχόες. Θα είναι η εικαστική γλώσσα της ευρωπαϊκής Εποχής του Σιδήρου για τέσσερις αιώνες."
           },
+          extendedDescription: {
+            en: "The style takes its name from La Tène on Lake Neuchâtel in Switzerland, where a great deposit of weapons was found in 1857. It grew out of the earlier Hallstatt world, whose princely graves, such as the Vix burial in Burgundy with its giant Greek bronze krater, show the ties to Mediterranean trade through the Greek colony of Massalia; La Tène craftsmen transformed Greek and Etruscan plant motifs into swirling abstract forms. The same Celtic peoples sacked Rome around 390 BCE and raided Delphi in 279 BCE.",
+            el: "Ο ρυθμός πήρε το όνομά του από το Λα Τεν στη λίμνη του Νεσατέλ στην Ελβετία, όπου βρέθηκε το 1857 μια μεγάλη απόθεση όπλων. Αναπτύχθηκε από τον παλαιότερο κόσμο του Χάλστατ, του οποίου οι πριγκιπικοί τάφοι, όπως η ταφή του Βιξ στη Βουργουνδία με τον γιγάντιο ελληνικό χάλκινο κρατήρα της, δείχνουν τους δεσμούς με το μεσογειακό εμπόριο μέσω της ελληνικής αποικίας της Μασσαλίας· οι τεχνίτες του Λα Τεν μετέτρεψαν τα ελληνικά και ετρουσκικά φυτικά μοτίβα σε στροβιλιζόμενες αφηρημένες μορφές. Οι ίδιοι κελτικοί λαοί λεηλάτησαν τη Ρώμη γύρω στο 390 π.Χ. και επιτέθηκαν στους Δελφούς το 279 π.Χ."
+          },
           category: "cultural"
         }
       ]
@@ -293,6 +301,10 @@ export const PREHISTORIC_ANCIENT_GAUL = {
           description: {
             en: "Julius Caesar, proconsul of Cisalpine Gaul and Illyricum, halts the migration of the Helvetii at Bibracte and pushes Ariovistus' Suebi back across the Rhine. The Gallic Wars have begun.",
             el: "Ο Ιούλιος Καίσαρ, ανθύπατος της Κισαλπίνης Γαλατίας και του Ιλλυρικού, αναχαιτίζει τη μετανάστευση των Ελβετίων στη Βιβράκτη και απωθεί τους Σουήβους του Αριοβίστου πίσω από τον Ρήνο. Οι Γαλατικοί Πόλεμοι έχουν αρχίσει."
+          },
+          extendedDescription: {
+            en: "Caesar's own account, the Commentaries on the Gallic War, opens with the famous line 'All Gaul is divided into three parts', and was written partly to win political support in Rome. Over eight years of campaigning he crossed the Rhine, twice landed in Britain, and crushed the great rising of Vercingetorix. Ancient writers claimed that a million Gauls were killed and another million enslaved — figures that may be exaggerated, but that reflect the war's brutality.",
+            el: "Η αφήγηση του ίδιου του Καίσαρα, τα «Απομνημονεύματα του Γαλατικού Πολέμου», ανοίγει με τη διάσημη φράση «Όλη η Γαλατία είναι διαιρεμένη σε τρία μέρη» και γράφτηκε εν μέρει για να κερδίσει πολιτική υποστήριξη στη Ρώμη. Σε οκτώ χρόνια εκστρατειών διέσχισε τον Ρήνο, αποβιβάστηκε δύο φορές στη Βρετανία και συνέτριψε τη μεγάλη εξέγερση του Βερκιγγετόριγα. Αρχαίοι συγγραφείς υποστήριζαν ότι ένα εκατομμύριο Γαλάτες σκοτώθηκαν και άλλο ένα εκατομμύριο υποδουλώθηκαν — αριθμοί που ίσως είναι υπερβολικοί, αλλά αντανακλούν τη βαρβαρότητα του πολέμου."
           },
           category: "military"
         }
@@ -370,6 +382,10 @@ export const PREHISTORIC_ANCIENT_GAUL = {
             en: "Crushed by Roman debt and taxes, the Treveri under Julius Florus and the Aedui under Julius Sacrovir rise in revolt. Tiberius' general Gaius Silius defeats them near Augustodunum (Autun) and the rising collapses within months.",
             el: "Καταπιεσμένοι από ρωμαϊκά χρέη και φόρους, οι Τρέβηροι με τον Ιούλιο Φλώρο και οι Αίδουοι με τον Ιούλιο Σακρόβιρο εξεγείρονται. Ο στρατηγός του Τιβερίου Γάιος Σίλιος τους συντρίβει κοντά στο Augustodunum (Ωτέν) και η εξέγερση καταρρέει μέσα σε μήνες."
           },
+          extendedDescription: {
+            en: "Both leaders were Roman citizens from Gallic noble families, a sign of how far the elite had been drawn into Roman life. Sacrovir seized Augustodunum, the new Roman town that had replaced the old hillfort of Bibracte, and took as hostages the sons of the Gallic nobility studying at its schools. When his army was routed, he and his companions killed themselves in a nearby villa and set it ablaze; Tacitus tells the story in his Annals.",
+            el: "Και οι δύο ηγέτες ήταν Ρωμαίοι πολίτες από γαλατικές αριστοκρατικές οικογένειες, ένδειξη του πόσο βαθιά είχε ενταχθεί η ελίτ στη ρωμαϊκή ζωή. Ο Σακρόβιρ κατέλαβε το Αυγουστόδουνο, τη νέα ρωμαϊκή πόλη που είχε αντικαταστήσει το παλιό οχυρό της Βιβράκτης, και πήρε ως ομήρους τους γιους των Γαλατών ευγενών που σπούδαζαν στις σχολές του. Όταν ο στρατός του κατατροπώθηκε, αυτός και οι σύντροφοί του αυτοκτόνησαν σε μια κοντινή έπαυλη και της έβαλαν φωτιά· ο Τάκιτος αφηγείται την ιστορία στα «Χρονικά» του."
+          },
           category: "military"
         }
       ]
@@ -390,6 +406,10 @@ export const PREHISTORIC_ANCIENT_GAUL = {
             en: "Born at Lugdunum, the emperor Claudius delivers a speech in the Senate — preserved both by Tacitus and on the bronze Lyon Tablet — granting senatorial eligibility to leading men of Gallia Comata. Gauls now sit among the patres of Rome.",
             el: "Γεννημένος στο Λούγδουνον, ο αυτοκράτορας Κλαύδιος εκφωνεί λόγο στη Σύγκλητο — που σώζεται τόσο από τον Τάκιτο όσο και στη χάλκινη πινακίδα της Λυών — απονέμοντας στους ηγέτες της μακρομάλλης Γαλατίας το δικαίωμα της συγκλητικής ιδιότητας. Γαλάτες κάθονται πλέον ανάμεσα στους patres της Ρώμης."
           },
+          extendedDescription: {
+            en: "Many senators objected that Gauls whose fathers had fought Caesar should not wear the senatorial toga. Claudius answered that Rome had always grown by absorbing outsiders, from the Sabines onward, and the Aedui, Rome's oldest allies in Gaul, were the first to benefit. The bronze tablet recording his speech was found on the slopes of Lyon in 1528 and is displayed in the city's Gallo-Roman museum.",
+            el: "Πολλοί συγκλητικοί αντέτειναν ότι Γαλάτες των οποίων οι πατέρες είχαν πολεμήσει τον Καίσαρα δεν έπρεπε να φορούν τη συγκλητική τήβεννο. Ο Κλαύδιος απάντησε ότι η Ρώμη πάντα μεγάλωνε απορροφώντας ξένους, από τους Σαβίνους και έπειτα, και οι Αίδουοι, οι παλαιότεροι σύμμαχοι της Ρώμης στη Γαλατία, ήταν οι πρώτοι που ωφελήθηκαν. Η χάλκινη πλάκα που καταγράφει τον λόγο του βρέθηκε στις πλαγιές της Λυών το 1528 και εκτίθεται στο γαλλορωμαϊκό μουσείο της πόλης."
+          },
           category: "political"
         }
       ]
@@ -409,6 +429,10 @@ export const PREHISTORIC_ANCIENT_GAUL = {
           description: {
             en: "Exploiting the civil wars after Nero, the Batavian auxiliary commander Julius Civilis leads a great Rhine rising joined by the Treveri Julius Classicus and Julius Tutor. They proclaim an Imperium Galliarum at Trier before Cerialis crushes them on behalf of Vespasian.",
             el: "Εκμεταλλευόμενος τους εμφύλιους πολέμους μετά τον Νέρωνα, ο Βάταβος διοικητής βοηθητικών Ιούλιος Κιβίλης ηγείται μεγάλης εξέγερσης στον Ρήνο, στην οποία συμμετέχουν οι Τρέβηροι Ιούλιος Κλασσικός και Ιούλιος Τούτωρ. Ανακηρύσσουν Imperium Galliarum στην Τρίερ, προτού ο Κεριάλιος τους συντρίψει εκ μέρους του Βεσπασιανού."
+          },
+          extendedDescription: {
+            en: "Civilis, a one-eyed Batavian prince who compared himself to Hannibal and Sertorius, had served Rome for twenty-five years before turning against it. The rebels destroyed Roman camps along the Rhine and forced legions to swear allegiance to the Gallic empire. But at an assembly of the Gallic states held among the Remi at Reims, most chose to stay loyal to Rome rather than trade Roman rule for rivalry among themselves — and the revolt collapsed.",
+            el: "Ο Κιβίλις, ένας μονόφθαλμος Βατάβος πρίγκιπας που συνέκρινε τον εαυτό του με τον Αννίβα και τον Σερτώριο, είχε υπηρετήσει τη Ρώμη επί είκοσι πέντε χρόνια πριν στραφεί εναντίον της. Οι επαναστάτες κατέστρεψαν ρωμαϊκά στρατόπεδα κατά μήκος του Ρήνου και ανάγκασαν λεγεώνες να ορκιστούν πίστη στη γαλατική αυτοκρατορία. Όμως σε μια συνέλευση των γαλατικών κρατών στους Ρήμους, στη σημερινή Ρενς, τα περισσότερα προτίμησαν να μείνουν πιστά στη Ρώμη παρά να ανταλλάξουν τη ρωμαϊκή κυριαρχία με τις μεταξύ τους αντιπαλότητες — και η εξέγερση κατέρρευσε."
           },
           category: "military"
         }
@@ -501,6 +525,10 @@ export const PREHISTORIC_ANCIENT_GAUL = {
           description: {
             en: "Constantine summons bishops from across the Western empire to Arles to settle the Donatist schism in Africa. The council — the first general gathering of the Latin Church — meets in the imperial residence of Arelate, soon to be the metropolis of southern Gaul.",
             el: "Ο Κωνσταντίνος συγκαλεί επισκόπους από όλη τη Δυτική αυτοκρατορία στην Αρλ για να ρυθμίσουν το δονατιστικό σχίσμα στην Αφρική. Η σύνοδος — η πρώτη γενική συνέλευση της λατινικής Εκκλησίας — συνεδριάζει στην αυτοκρατορική έδρα της Αρελάτης, σύντομα μητρόπολης της νότιας Γαλατίας."
+          },
+          extendedDescription: {
+            en: "Bishops came from as far as Britain, including London and York, showing how widely Christianity had spread just a year after Constantine and Licinius ended the persecutions. Besides rejecting the Donatists' appeal, the council ruled on the date of Easter and the validity of baptism by heretics, and condemned Christians who deserted from the army in peacetime. By the end of the century Arles, with its bridge over the Rhône and its access to the sea, had become a leading city of the late Roman West.",
+            el: "Επίσκοποι ήρθαν από μέρη τόσο μακρινά όσο η Βρετανία, μεταξύ άλλων από το Λονδίνο και την Υόρκη, δείχνοντας πόσο ευρέως είχε εξαπλωθεί ο χριστιανισμός μόλις έναν χρόνο αφότου ο Κωνσταντίνος και ο Λικίνιος τερμάτισαν τους διωγμούς. Εκτός από την απόρριψη της προσφυγής των Δονατιστών, η σύνοδος αποφάνθηκε για την ημερομηνία του Πάσχα και την εγκυρότητα του βαπτίσματος από αιρετικούς, και καταδίκασε τους χριστιανούς που λιποτακτούσαν από τον στρατό σε καιρό ειρήνης. Ως το τέλος του αιώνα, η Αρελάτη, με τη γέφυρά της στον Ροδανό και την πρόσβασή της στη θάλασσα, είχε γίνει μία από τις κυριότερες πόλεις της ύστερης ρωμαϊκής Δύσης."
           },
           category: "religious"
         }

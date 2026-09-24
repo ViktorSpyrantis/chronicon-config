@@ -54,6 +54,10 @@ export const ABSOLUTE_MONARCHY_ANCIEN_REGIME = {
             en: "Recalled by Marie de' Medici, the bishop of Luçon Armand-Jean du Plessis, cardinal de Richelieu, enters the royal council of Louis XIII. Within months he is its head. For eighteen years he will rule the state with the formula of his Testament Politique: 'to ruin the Huguenot party, to abase the pride of the great, to raise the king's name'.",
             el: "Ανακαλούμενος από τη Μαρία των Μεδίκων, ο επίσκοπος του Λυσόν Αρμάν-Ζαν ντι Πλεσί, καρδινάλιος ντε Ρισελιέ, μπαίνει στο βασιλικό συμβούλιο του Λουδοβίκου ΙΓ΄. Σε μήνες είναι επικεφαλής του. Επί δεκαοκτώ χρόνια θα κυβερνά το κράτος με τη φόρμουλα του Πολιτικού του Διαθήκης: «να συντρίψω το κόμμα των Ουγενότων, να ταπεινώσω την υπερηφάνεια των μεγάλων, να υψώσω το όνομα του βασιλιά»."
           },
+          extendedDescription: {
+            en: "Richelieu survived repeated plots, above all the 'Day of Dupes' in November 1630, when the queen mother Marie de' Medici demanded his dismissal and Louis XIII instead exiled her. He strengthened royal power through provincial intendants, founded the Académie française in 1635, and that same year took Catholic France into the Thirty Years' War on the Protestant side against the Habsburgs. Novels such as Dumas' The Three Musketeers later made him the archetypal scheming cardinal.",
+            el: "Ο Ρισελιέ επέζησε από επανειλημμένες συνωμοσίες, κυρίως την «Ημέρα των Εξαπατημένων» τον Νοέμβριο του 1630, όταν η βασιλομήτωρ Μαρία των Μεδίκων ζήτησε την απομάκρυνσή του και ο Λουδοβίκος ΙΓ΄ εξόρισε αντί γι' αυτόν εκείνη. Ενίσχυσε τη βασιλική εξουσία μέσω των επαρχιακών επιτρόπων (intendants), ίδρυσε τη Γαλλική Ακαδημία το 1635 και την ίδια χρονιά έβαλε την καθολική Γαλλία στον Τριακονταετή Πόλεμο στο πλευρό των προτεσταντών κατά των Αψβούργων. Μυθιστορήματα όπως «Οι Τρεις Σωματοφύλακες» του Δουμά τον έκαναν αργότερα το αρχέτυπο του δολοπλόκου καρδιναλίου."
+          },
           category: "political"
         }
       ]
@@ -73,6 +77,10 @@ export const ABSOLUTE_MONARCHY_ANCIEN_REGIME = {
           description: {
             en: "After fourteen months of siege and a famous sea-wall built by Richelieu across the harbour mouth to bar the English relief fleet, the Huguenot port of La Rochelle surrenders. Of the city's twenty-eight thousand inhabitants, perhaps five thousand survive. The political and military rights granted at Nantes are stripped two years later by the Peace of Alès.",
             el: "Μετά από δεκατέσσερις μήνες πολιορκίας και ένα διάσημο θαλάσσιο τείχος που έχτισε ο Ρισελιέ μπροστά στο στόμιο του λιμανιού για να κλείσει τον αγγλικό στόλο βοηθείας, το ουγενοτικό λιμάνι της Λα Ροσέλ παραδίδεται. Από τους είκοσι οκτώ χιλιάδες κατοίκους της πόλης, ίσως πέντε χιλιάδες επιβιώνουν. Τα πολιτικά και στρατιωτικά δικαιώματα που χορηγήθηκαν στη Ναντ αφαιρούνται δύο χρόνια αργότερα με την Ειρήνη της Αλές."
+          },
+          extendedDescription: {
+            en: "An English expedition under the Duke of Buckingham had tried and failed to relieve the Huguenots from the Île de Ré in 1627. Richelieu directed the siege in person, and the defiant mayor Jean Guiton held out until famine left the streets full of the dead. The Huguenots kept their freedom of worship, but no longer their fortified towns and armies — until Louis XIV revoked the Edict of Nantes altogether in 1685.",
+            el: "Μια αγγλική εκστρατεία υπό τον δούκα του Μπάκιγχαμ είχε προσπαθήσει μάταια να βοηθήσει τους Ουγενότους από το νησί Ρε το 1627. Ο Ρισελιέ διηύθυνε ο ίδιος την πολιορκία, και ο ανυπότακτος δήμαρχος Ζαν Γκιτόν αντιστάθηκε ώσπου ο λιμός γέμισε τους δρόμους με νεκρούς. Οι Ουγενότοι διατήρησαν την ελευθερία της λατρείας τους, αλλά όχι πλέον τις οχυρωμένες πόλεις και τους στρατούς τους — ώσπου ο Λουδοβίκος ΙΔ΄ ανακάλεσε εντελώς το Διάταγμα της Νάντης το 1685."
           },
           category: "religious"
         }
@@ -117,6 +125,10 @@ export const ABSOLUTE_MONARCHY_ANCIEN_REGIME = {
           description: {
             en: "Five days after the death of Louis XIII, the young duc d'Enghien — the future Grand Condé — annihilates the Spanish tercios at Rocroi in the Ardennes. The new king, Louis XIV, is four years old; the regent is his mother Anne of Austria, and the government passes to Richelieu's Italian protégé, Cardinal Mazarin.",
             el: "Πέντε ημέρες μετά τον θάνατο του Λουδοβίκου ΙΓ΄, ο νεαρός δούκας ντ' Ενγκιάν — ο μελλοντικός Μέγας Κοντέ — εκμηδενίζει τα ισπανικά tercios στο Ροκρουά στις Αρδέννες. Ο νέος βασιλιάς, Λουδοβίκος ΙΔ΄, είναι τεσσάρων ετών· αντιβασίλισσα η μητέρα του Άννα της Αυστρίας, και η κυβέρνηση περνά στον Ιταλό προστατευόμενο του Ρισελιέ, καρδινάλιο Μαζαρέν."
+          },
+          extendedDescription: {
+            en: "Rocroi broke the reputation of the Spanish infantry that had dominated European battlefields for more than a century. Mazarin's taxes and the regency's weakness led to the Fronde (1648–53), a series of revolts by the Parlement of Paris and the great nobles in which the child king was forced to flee his capital by night — an experience that left Louis XIV with a lasting distrust of Paris and the nobility. The Peace of Westphalia in 1648 gave France most of Alsace.",
+            el: "Το Ροκρουά έσπασε τη φήμη του ισπανικού πεζικού που κυριαρχούσε στα ευρωπαϊκά πεδία μάχης για πάνω από έναν αιώνα. Οι φόροι του Μαζαρέν και η αδυναμία της αντιβασιλείας οδήγησαν στη Φρόντα (1648–53), μια σειρά εξεγέρσεων του Κοινοβουλίου του Παρισιού και των μεγάλων ευγενών, κατά την οποία ο ανήλικος βασιλιάς αναγκάστηκε να φύγει νύχτα από την πρωτεύουσά του — μια εμπειρία που άφησε στον Λουδοβίκο ΙΔ΄ μια διαρκή δυσπιστία προς το Παρίσι και τους ευγενείς. Η Ειρήνη της Βεστφαλίας το 1648 έδωσε στη Γαλλία το μεγαλύτερο μέρος της Αλσατίας."
           },
           category: "political"
         }
@@ -185,6 +197,10 @@ export const ABSOLUTE_MONARCHY_ANCIEN_REGIME = {
           description: {
             en: "Claiming the Spanish Netherlands through his wife's right of devolution, Louis XIV invades in 1667. Turenne's army takes Lille, Tournai, and Douai in weeks. The Treaty of Aix-la-Chapelle gives France twelve Flemish fortresses — and starts a half-century of pushing the northern border outward.",
             el: "Διεκδικώντας τις Ισπανικές Κάτω Χώρες μέσω του δικαιώματος devolution της συζύγου του, ο Λουδοβίκος ΙΔ΄ εισβάλλει το 1667. Ο στρατός του Τυρέν καταλαμβάνει τη Λιλ, την Τουρνέ και το Ντουαί σε εβδομάδες. Η Συνθήκη του Άαχεν δίνει στη Γαλλία δώδεκα φλαμανδικά φρούρια — και ξεκινά μισό αιώνα ώθησης της βόρειας μεθορίου προς τα έξω."
+          },
+          extendedDescription: {
+            en: "Louis's claim rested on a local inheritance custom of the Spanish Netherlands, stretched to mean that his wife Maria Theresa, daughter of Philip IV, should inherit before her half-brother. Alarmed at French expansion, England, the Dutch Republic and Sweden formed a Triple Alliance that pushed Louis to make peace quickly. Lille became French for good, and Vauban built there his great star-shaped citadel, the 'queen of citadels'; four years later Louis took revenge on the Dutch with a full-scale invasion.",
+            el: "Η διεκδίκηση του Λουδοβίκου στηριζόταν σε ένα τοπικό κληρονομικό έθιμο των Ισπανικών Κάτω Χωρών, που ερμηνεύτηκε έτσι ώστε η σύζυγός του Μαρία Θηρεσία, κόρη του Φιλίππου Δ΄, να κληρονομεί πριν από τον ετεροθαλή αδελφό της. Ανήσυχες για τη γαλλική επέκταση, η Αγγλία, η Δημοκρατία των Κάτω Χωρών και η Σουηδία σχημάτισαν μια Τριπλή Συμμαχία που ώθησε τον Λουδοβίκο να συνάψει γρήγορα ειρήνη. Η Λιλ έγινε οριστικά γαλλική, και ο Βωμπάν έχτισε εκεί τη μεγάλη αστεροειδή ακρόπολή του, τη «βασίλισσα των ακροπόλεων»· τέσσερα χρόνια αργότερα ο Λουδοβίκος πήρε εκδίκηση από τους Ολλανδούς με μια εισβολή πλήρους κλίμακας."
           },
           category: "military"
         }
@@ -262,6 +278,10 @@ export const ABSOLUTE_MONARCHY_ANCIEN_REGIME = {
             en: "Louis's invasion of the Palatinate triggers a great anti-French coalition under the Dutch stadholder William of Orange — who in the same year sails to England, deposes James II, and joins the British crown to the coalition. The Nine Years War (1688-1697) sees French frontiers strained from Catalonia to the Rhine; Vauban's fortresses hold the line.",
             el: "Η εισβολή του Λουδοβίκου στο Παλατινάτο πυροδοτεί μεγάλο αντιγαλλικό συνασπισμό υπό τον Ολλανδό στάτχολντερ Γουλιέλμο της Οράγγης — που την ίδια χρονιά αποπλέει για την Αγγλία, εκθρονίζει τον Ιάκωβο Β΄ και προσθέτει το βρετανικό στέμμα στη συμμαχία. Ο Πόλεμος των Εννέα Ετών (1688-1697) βλέπει τα γαλλικά σύνορα να καταπονούνται από την Καταλωνία ως τον Ρήνο· τα φρούρια του Βωμπάν κρατούν τη γραμμή."
           },
+          extendedDescription: {
+            en: "Three years earlier Louis had revoked the Edict of Nantes, driving some 200,000 Huguenots into exile in the Dutch Republic, England, Prussia and beyond, and turning Protestant Europe against him. To deny the Palatinate to his enemies, French troops systematically burned towns and villages, including the castle of Heidelberg. The war ended in 1697 with the Peace of Ryswick, but it drained France, which in 1693–94 also suffered a famine that killed well over a million people.",
+            el: "Τρία χρόνια νωρίτερα ο Λουδοβίκος είχε ανακαλέσει το Διάταγμα της Νάντης, στέλνοντας περίπου 200.000 Ουγενότους στην εξορία στη Δημοκρατία των Κάτω Χωρών, στην Αγγλία, στην Πρωσία και αλλού, και στρέφοντας την προτεσταντική Ευρώπη εναντίον του. Για να στερήσουν το Παλατινάτο από τους εχθρούς του, τα γαλλικά στρατεύματα έκαψαν συστηματικά πόλεις και χωριά, μεταξύ αυτών και το κάστρο της Χαϊδελβέργης. Ο πόλεμος έληξε το 1697 με την Ειρήνη του Ράισβαϊκ, αλλά εξάντλησε τη Γαλλία, η οποία το 1693–94 υπέφερε επίσης από έναν λιμό που σκότωσε πολύ περισσότερους από ένα εκατομμύριο ανθρώπους."
+          },
           category: "military"
         }
       ]
@@ -330,6 +350,10 @@ export const ABSOLUTE_MONARCHY_ANCIEN_REGIME = {
             en: "The Scottish financier John Law's experiment in paper money and Mississippi Company shares — backed by claims on Louisiana — collapses in panic in the rue Quincampoix. The first French paper-money bank fails; investors are ruined; and Frenchmen will distrust banknotes for a century.",
             el: "Το πείραμα του Σκωτσέζου τραπεζίτη Τζον Λο σε χαρτονομίσματα και μετοχές της Εταιρείας του Μισισιπή — με αντίκρισμα σε αξιώσεις επί της Λουιζιάνας — καταρρέει σε πανικό στη rue Quincampoix. Η πρώτη γαλλική τράπεζα χαρτονομίσματος αποτυγχάνει· οι επενδυτές καταστρέφονται· και οι Γάλλοι θα δυσπιστούν προς τα τραπεζογραμμάτια επί έναν αιώνα."
           },
+          extendedDescription: {
+            en: "Law, a Scottish gambler and economist who had fled Britain after killing a man in a duel, persuaded the regent, the Duke of Orléans, to let him found a bank issuing paper money in 1716 and then to take over the Mississippi Company and much of the state's debt. Shares soared nearly twentyfold, giving the language the word 'millionaire', and the company founded New Orleans in 1718. After the crash Law fled France in disguise and died poor in Venice in 1729.",
+            el: "Ο Λω, Σκωτσέζος τζογαδόρος και οικονομολόγος που είχε φύγει από τη Βρετανία αφού σκότωσε έναν άνδρα σε μονομαχία, έπεισε τον αντιβασιλέα, δούκα της Ορλεάνης, να του επιτρέψει να ιδρύσει μια τράπεζα που εξέδιδε χαρτονομίσματα το 1716 και έπειτα να αναλάβει την Εταιρεία του Μισισιπή και μεγάλο μέρος του κρατικού χρέους. Οι μετοχές εκτινάχθηκαν σχεδόν εικοσαπλάσια, δίνοντας στη γλώσσα τη λέξη «εκατομμυριούχος», και η εταιρεία ίδρυσε τη Νέα Ορλεάνη το 1718. Μετά την κατάρρευση ο Λω διέφυγε από τη Γαλλία μεταμφιεσμένος και πέθανε φτωχός στη Βενετία το 1729."
+          },
           category: "other"
         }
       ]
@@ -397,6 +421,10 @@ export const ABSOLUTE_MONARCHY_ANCIEN_REGIME = {
           description: {
             en: "Louis XV dies of smallpox at Versailles on 10 May. His grandson, the nineteen-year-old Louis XVI, succeeds, with the young Austrian princess Marie-Antoinette as queen. He recalls the parlements, appoints Turgot to the finances, and is hailed as the king of a new beginning.",
             el: "Ο Λουδοβίκος ΙΕ΄ πεθαίνει από ευλογιά στις Βερσαλλίες στις 10 Μαΐου. Ο εγγονός του, ο δεκαεννιάχρονος Λουδοβίκος ΙΣΤ΄, διαδέχεται, με τη νεαρή Αυστριακή πριγκίπισσα Μαρία-Αντουανέτα ως βασίλισσα. Ανακαλεί τα κοινοβούλια, διορίζει τον Τυργκώ στα οικονομικά και επευφημείται ως ο βασιλιάς μιας νέας αρχής."
+          },
+          extendedDescription: {
+            en: "Turgot, an economist of the Enlightenment, freed the grain trade and in 1776 proposed abolishing the forced road labour of the corvée and the privileges of the guilds. A bad harvest brought riots in the 'Flour War' of 1775, and the resistance of the parlements and the court led the king to dismiss him in 1776. France's costly support for the American Revolution from 1778 then deepened the debt that would bring the monarchy to crisis.",
+            el: "Ο Τυργκό, οικονομολόγος του Διαφωτισμού, απελευθέρωσε το εμπόριο των σιτηρών και το 1776 πρότεινε την κατάργηση της αγγαρείας στην κατασκευή δρόμων και των προνομίων των συντεχνιών. Μια κακή σοδειά έφερε ταραχές στον «Πόλεμο του Αλευριού» του 1775, και η αντίσταση των κοινοβουλίων και της αυλής οδήγησε τον βασιλιά να τον απομακρύνει το 1776. Η δαπανηρή στήριξη της Γαλλίας στην Αμερικανική Επανάσταση από το 1778 βάθυνε έπειτα το χρέος που θα έφερνε τη μοναρχία σε κρίση."
           },
           category: "political"
         }
