@@ -78,6 +78,10 @@ export const FRANKISH_KINGDOMS = {
             en: "By treaty with the patrician Constantius, the Visigoths of Wallia are settled as Roman foederati in Aquitania Secunda, with Toulouse as their seat. A barbarian kingdom now sits inside the Gallic provinces.",
             el: "Με συνθήκη με τον πατρίκιο Κωνστάντιο, οι Βησιγότθοι του Ουαλλία εγκαθίστανται ως ρωμαϊκοί φοιδεράτοι στη Δευτέρα Ακυτανία, με έδρα την Τολώζα. Ένα βαρβαρικό βασίλειο βρίσκεται πλέον μέσα στις γαλατικές επαρχίες."
           },
+          extendedDescription: {
+            en: "Only eight years earlier, under Alaric, the Visigoths had sacked Rome itself; under Wallia they had fought the Vandals and Alans in Spain on Rome's behalf. The settlement at Toulouse became the first barbarian kingdom on Roman soil, and under King Euric (466–484) it grew to stretch from the Loire across most of Spain, with its own written law code. The Burgundians were settled in the Rhône valley on similar terms in 443.",
+            el: "Μόλις οκτώ χρόνια νωρίτερα, υπό τον Αλάριχο, οι Βησιγότθοι είχαν λεηλατήσει την ίδια τη Ρώμη· υπό τον Βαλλία είχαν πολεμήσει τους Βανδάλους και τους Αλανούς στην Ισπανία για λογαριασμό της Ρώμης. Η εγκατάσταση στην Τουλούζη έγινε το πρώτο βαρβαρικό βασίλειο σε ρωμαϊκό έδαφος, και υπό τον βασιλιά Εύριχο (466–484) εκτάθηκε από τον Λίγηρα ως το μεγαλύτερο μέρος της Ισπανίας, με δικό του γραπτό νομικό κώδικα. Οι Βουργούνδιοι εγκαταστάθηκαν στην κοιλάδα του Ροδανού με ανάλογους όρους το 443."
+          },
           category: "political"
         }
       ]
@@ -122,6 +126,10 @@ export const FRANKISH_KINGDOMS = {
             en: "The young Salian Frankish king Clovis crushes Syagrius — the last Roman ruler of the Domain of Soissons between the Loire and the Somme — and absorbs his territory. The Gallo-Roman political order north of the Loire is at an end.",
             el: "Ο νεαρός Σάλιος Φράγκος βασιλιάς Χλώδοβικος συντρίβει τον Συάγριο — τον τελευταίο Ρωμαίο ηγεμόνα του Τομέα της Σουασόν μεταξύ Λίγηρα και Σομ — και απορροφά τα εδάφη του. Η γαλατορωμαϊκή πολιτική τάξη βόρεια του Λίγηρα τερματίζεται."
           },
+          extendedDescription: {
+            en: "Syagrius fled to the Visigothic court at Toulouse, which handed him over to Clovis to be put to death. Gregory of Tours tells how, after the battle, a Frankish warrior refused to give up a precious vase from a church, smashing it with his axe; a year later Clovis split the man's skull at an army review, saying 'Thus you did to the vase at Soissons.' The story shows a young king asserting authority over his war band while courting the Gallo-Roman bishops.",
+            el: "Ο Συάγριος κατέφυγε στη βησιγοτθική αυλή της Τουλούζης, η οποία τον παρέδωσε στον Κλόβι για να θανατωθεί. Ο Γρηγόριος της Τουρ αφηγείται πώς, μετά τη μάχη, ένας Φράγκος πολεμιστής αρνήθηκε να παραδώσει ένα πολύτιμο αγγείο μιας εκκλησίας και το έσπασε με το τσεκούρι του· έναν χρόνο αργότερα ο Κλόβις του έσπασε το κρανίο σε μια επιθεώρηση του στρατού, λέγοντας: «Έτσι έκανες και στο αγγείο της Σουασόν». Η ιστορία δείχνει έναν νεαρό βασιλιά που επιβάλλει την εξουσία του στην πολεμική ακολουθία του, ενώ ταυτόχρονα προσεγγίζει τους γαλλορωμαίους επισκόπους."
+          },
           category: "military"
         }
       ]
@@ -165,6 +173,10 @@ export const FRANKISH_KINGDOMS = {
           description: {
             en: "At Vouillé near Poitiers, Clovis defeats and kills the Visigothic king Alaric II. The Visigoths are driven beyond the Pyrenees, and Aquitaine, the richest of the Roman provinces of Gaul, passes to the Franks.",
             el: "Στο Βουιγέ κοντά στο Πουατιέ, ο Χλώδοβικος νικά και σκοτώνει τον Βησιγότθο βασιλιά Αλάριχο Β΄. Οι Βησιγότθοι εκδιώκονται πέρα από τα Πυρηναία και η Ακυτανία, η πλουσιότερη από τις ρωμαϊκές επαρχίες της Γαλατίας, περνά στους Φράγκους."
+          },
+          extendedDescription: {
+            en: "Clovis, now a Catholic, presented the war as a campaign against the Arian heretics, winning the support of the Gallo-Roman bishops. Only the intervention of the Ostrogothic king Theodoric saved the Mediterranean coast of Septimania, around Narbonne, for the Visigoths. In 508, at Tours, Clovis received honorary consular rank from the eastern emperor Anastasius, and he made Paris his capital; he died there around 511, having also had the Salic law of the Franks written down.",
+            el: "Ο Κλόβις, πλέον καθολικός, παρουσίασε τον πόλεμο ως εκστρατεία κατά των αρειανών αιρετικών, κερδίζοντας την υποστήριξη των γαλλορωμαίων επισκόπων. Μόνο η παρέμβαση του βασιλιά των Οστρογότθων Θευδέριχου έσωσε για τους Βησιγότθους τη μεσογειακή ακτή της Σεπτιμανίας, γύρω από τη Ναρβόννη. Το 508, στην Τουρ, ο Κλόβις έλαβε τιμητικό αξίωμα υπάτου από τον αυτοκράτορα της Ανατολής Αναστάσιο, και έκανε το Παρίσι πρωτεύουσά του· πέθανε εκεί γύρω στο 511, έχοντας επίσης καταγράψει γραπτώς τον Σαλικό νόμο των Φράγκων."
           },
           category: "military"
         }
@@ -234,6 +246,10 @@ export const FRANKISH_KINGDOMS = {
             en: "The Austrasian and Burgundian magnates surrender the aged Queen Brunhild to Chlothar II of Neustria, who has her tortured and torn apart by horses. The Frankish kingdoms are reunited, and the aristocracies of each region win the formal right to their own mayors of the palace.",
             el: "Οι Αυστρασιανοί και Βουργουνδοί μεγιστάνες παραδίδουν τη γερασμένη βασίλισσα Βρουνεχίλδη στον Χλώταρ Β΄ της Νευστρίας, ο οποίος τη βασανίζει και τη διαμελίζει με άλογα. Τα φραγκικά βασίλεια επανενώνονται, και οι αριστοκρατίες κάθε περιοχής κερδίζουν το επίσημο δικαίωμα στους δικούς τους μαϊορδόμους του παλατιού."
           },
+          extendedDescription: {
+            en: "Brunhild, a Visigothic princess, had dominated Frankish politics for half a century, locked in a bitter feud with Chlothar's mother Fredegund that had cost the lives of several kings. She was around seventy when she was put to death. In the Edict of Paris of 614, Chlothar promised that royal officials would be chosen from local landowners — a concession that strengthened the regional aristocracies on whom the Merovingian kings now depended.",
+            el: "Η Βρουνεχίλδη, μια βησιγοτθική πριγκίπισσα, κυριαρχούσε στη φραγκική πολιτική επί μισό αιώνα, εμπλεκόμενη σε μια σκληρή βεντέτα με τη μητέρα του Χλωθάριου, Φρεδεγόνδη, που είχε κοστίσει τη ζωή σε αρκετούς βασιλείς. Ήταν γύρω στα εβδομήντα όταν θανατώθηκε. Με το Διάταγμα του Παρισιού του 614, ο Χλωθάριος υποσχέθηκε ότι οι βασιλικοί αξιωματούχοι θα επιλέγονταν από τους τοπικούς γαιοκτήμονες — μια παραχώρηση που ενίσχυσε τις περιφερειακές αριστοκρατίες από τις οποίες εξαρτιόνταν πλέον οι Μεροβίγγειοι βασιλείς."
+          },
           category: "political"
         }
       ]
@@ -253,6 +269,10 @@ export const FRANKISH_KINGDOMS = {
           description: {
             en: "Pippin II, mayor of the palace of Austrasia and grandfather of Charles Martel, defeats the Neustrian king and his mayor Berchar at Tertry. The mayors of the palace, not the Merovingian rois fainéants, now rule the Franks in fact.",
             el: "Ο Πιπίνος Β΄, μαϊορδόμος του παλατιού της Αυστρασίας και παππούς του Καρόλου Μαρτέλου, νικά τον Νευστριανό βασιλιά και τον μαϊορδόμό του Μπερχάρ στο Τερτρύ. Πλέον οι μαϊορδόμοι του παλατιού, όχι οι μεροβίγγειοι rois fainéants, κυβερνούν στην πράξη τους Φράγκους."
+          },
+          extendedDescription: {
+            en: "The Merovingian kings continued to reign in name for more than sixty years; the Carolingian courtier Einhard later mocked them as long-haired figureheads driven around in ox-carts. Pippin's son Charles Martel defeated an Arab army near Poitiers in 732, and Charles's son Pippin the Short ended the pretence in 751, deposing the last Merovingian with the pope's blessing and being anointed king — the founding of the Carolingian dynasty.",
+            el: "Οι Μεροβίγγειοι βασιλείς συνέχισαν να βασιλεύουν κατ' όνομα για πάνω από εξήντα χρόνια· ο καρολίγγειος αυλικός Αϊνχάρδος τους χλεύαζε αργότερα ως μακρυμάλληδες διακοσμητικούς ηγεμόνες που περιφέρονταν με βοϊδάμαξες. Ο γιος του Πιπίνου, Κάρολος Μαρτέλος, νίκησε έναν αραβικό στρατό κοντά στο Πουατιέ το 732, και ο γιος του Καρόλου, Πιπίνος ο Βραχύς, έθεσε τέλος στο προσχήμα το 751, εκθρονίζοντας τον τελευταίο Μεροβίγγειο με την ευλογία του πάπα και χριόμενος βασιλιάς — η ίδρυση της δυναστείας των Καρολιδών."
           },
           category: "political"
         }
@@ -370,6 +390,10 @@ export const FRANKISH_KINGDOMS = {
             en: "Charlemagne dies at Aachen in his seventy-second year and is buried in the palatine chapel. His one surviving son, Louis the Pious, takes the empire — already crowned co-emperor at Aachen the year before — and inherits a realm that stretches from the Ebro to the Elbe.",
             el: "Ο Καρλομάγνος πεθαίνει στο Άαχεν στο εβδομηκοστό δεύτερο έτος του και θάβεται στο παλατινό παρεκκλήσι. Ο μοναδικός επιζών γιος του, Λουδοβίκος ο Ευσεβής, παίρνει την αυτοκρατορία — ήδη στεμμένος συναυτοκράτορας στο Άαχεν τον προηγούμενο χρόνο — και κληρονομεί έδαφος που εκτείνεται από τον Έβρο ως τον Έλβα."
           },
+          extendedDescription: {
+            en: "A devout reformer of the Church and the monasteries, Louis tried in 817 to secure the empire's unity by making his eldest son Lothar co-emperor. But the birth of a fourth son, the future Charles the Bald, set his sons against him; in 833 they deposed him at the 'Field of Lies' near Colmar, though he was restored a year later. After his death in 840 the brothers fought one another, and in 843 the Treaty of Verdun divided the empire into three kingdoms — the seeds of France and Germany.",
+            el: "Ευσεβής μεταρρυθμιστής της Εκκλησίας και των μοναστηριών, ο Λουδοβίκος προσπάθησε το 817 να εξασφαλίσει την ενότητα της αυτοκρατορίας κάνοντας συναυτοκράτορα τον πρωτότοκο γιο του Λοθάριο. Όμως η γέννηση ενός τέταρτου γιου, του μελλοντικού Καρόλου του Φαλακρού, έστρεψε τους γιους του εναντίον του· το 833 τον εκθρόνισαν στο «Πεδίο των Ψεμάτων» κοντά στο Κολμάρ, αν και αποκαταστάθηκε έναν χρόνο αργότερα. Μετά τον θάνατό του το 840 τα αδέλφια πολέμησαν μεταξύ τους, και το 843 η Συνθήκη του Βερντέν μοίρασε την αυτοκρατορία σε τρία βασίλεια — τον σπόρο της Γαλλίας και της Γερμανίας."
+          },
           category: "political"
         }
       ]
@@ -437,6 +461,10 @@ export const FRANKISH_KINGDOMS = {
           description: {
             en: "Departing for an Italian campaign, Charles the Bald issues the Capitulary of Quierzy, recognising in practice that the counties of his magnates pass to their sons in his absence. The capitulary is read in later centuries as the legal birth of hereditary fiefs.",
             el: "Αναχωρώντας για ιταλική εκστρατεία, ο Κάρολος ο Φαλακρός εκδίδει το Καπιτουλάριο του Κιερζύ, αναγνωρίζοντας στην πράξη ότι οι κομητείες των μεγιστάνων του περνούν στους γιους τους κατά την απουσία του. Το καπιτουλάριο διαβάζεται από μεταγενέστερους αιώνες ως η νομική γέννηση των κληρονομικών φέουδων."
+          },
+          extendedDescription: {
+            en: "Charles the Bald died that October on his way back across the Alps. Under the pressure of Viking raids, royal power in West Francia steadily passed to counts and dukes who could raise troops locally, and their offices, lands and castles became family property. When the Carolingian line faltered, the magnates elected one of their own, Hugh Capet, as king in 987 — founding the Capetian dynasty that would rule France for eight centuries.",
+            el: "Ο Κάρολος ο Φαλακρός πέθανε εκείνον τον Οκτώβριο στον δρόμο της επιστροφής μέσα από τις Άλπεις. Υπό την πίεση των επιδρομών των Βίκινγκς, η βασιλική εξουσία στη Δυτική Φραγκία πέρασε σταδιακά σε κόμητες και δούκες που μπορούσαν να συγκεντρώνουν στρατεύματα τοπικά, και τα αξιώματα, τα εδάφη και τα κάστρα τους έγιναν οικογενειακή περιουσία. Όταν η καρολίγγεια γραμμή εξασθένησε, οι μεγιστάνες εξέλεξαν έναν δικό τους, τον Ούγο Καπέτο, βασιλιά το 987 — ιδρύοντας τη δυναστεία των Καπετιδών που θα κυβερνούσε τη Γαλλία επί οκτώ αιώνες."
           },
           category: "political"
         }

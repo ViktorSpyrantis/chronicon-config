@@ -60,7 +60,7 @@ export const EASTERN_ROMAN = {
           },
           category: "political",
           image: {
-            src: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/0_Gaius_Flavius_Valerius_Constantinus%2C_Palatino.jpg/960px-0_Gaius_Flavius_Valerius_Constantinus%2C_Palatino.jpg",
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/0_Gaius_Flavius_Valerius_Constantinus%2C_Palatino.jpg?width=1024",
             alt: {
               en: "Colossal head of Constantine the Great, Capitoline Museums, Rome",
               el: "Κολοσσιαία κεφαλή του Κωνσταντίνου του Μεγάλου, Καπιτωλινά Μουσεία, Ρώμη"
@@ -116,7 +116,7 @@ export const EASTERN_ROMAN = {
           },
           category: "religious",
           image: {
-            src: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Gold_Solidus_of_Julian_the_Apostate%2C_Sirmium.jpg/960px-Gold_Solidus_of_Julian_the_Apostate%2C_Sirmium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Gold_Solidus_of_Julian_the_Apostate%2C_Sirmium.jpg?width=1024",
             alt: {
               en: "Julian the Apostate coin",
               el: "Νόμισμα του Ιουλιανού του Αποστάτη"
@@ -148,7 +148,7 @@ export const EASTERN_ROMAN = {
           },
           category: "military",
           image: {
-            src: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Battle_of_Adrianople_1.png/960px-Battle_of_Adrianople_1.png",
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Battle_of_Adrianople_1.png?width=1024",
             alt: {
               en: "Battle of Adrianople",
               el: "Η μάχη της Αδριανούπολης"
@@ -939,7 +939,7 @@ export const EASTERN_ROMAN = {
           },
           category: "religious",
           image: {
-            src: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Clasm_Chludov_detail_9th_century.jpg/960px-Clasm_Chludov_detail_9th_century.jpg",
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Clasm_Chludov_detail_9th_century.jpg?width=1024",
             alt: {
               en: "Iconoclasm in the Chludov Psalter, 9th century",
               el: "Εικονομαχία στο Χλουδοβιανό Ψαλτήρι, 9ος αι."
@@ -971,7 +971,7 @@ export const EASTERN_ROMAN = {
           },
           category: "religious",
           image: {
-            src: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/48-manasses-chronicle.jpg/960px-48-manasses-chronicle.jpg",
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/48-manasses-chronicle.jpg?width=1024",
             alt: {
               en: "Manasses Chronicle, 12th century",
               el: "Χρονικό Μανάση, 12ος αι."
@@ -1027,7 +1027,7 @@ export const EASTERN_ROMAN = {
           },
           category: "political",
           image: {
-            src: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Solidus_of_Constantine_VI%2C_DO.png/960px-Solidus_of_Constantine_VI%2C_DO.png",
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Solidus_of_Constantine_VI%2C_DO.png?width=1024",
             alt: {
               en: "Solidus of Constantine VI",
               el: "Σολίδος του Κωνσταντίνου ΣΤ΄"
@@ -1059,11 +1059,12 @@ export const EASTERN_ROMAN = {
           },
           category: "religious",
           image: {
-            src: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Menologion_of_Basil_024.jpg/960px-Menologion_of_Basil_024.jpg",
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Menologion_of_Basil_024.jpg?width=1024",
             alt: {
-              en: "Menologion of Basil",
-              el: "Μηνολόγιο του Βασιλείου"
-            }
+              en: "The Second Council of Nicaea: the emperor enthroned among the bishops, a condemned heretic prostrate before them, miniature from the Menologion of Basil II",
+              el: "Η Β΄ Σύνοδος της Νικαίας: ο αυτοκράτορας ένθρονος ανάμεσα στους επισκόπους, με έναν καταδικασμένο αιρετικό πεσμένο μπροστά τους, μικρογραφία από το Μηνολόγιο του Βασιλείου Β΄"
+            },
+            credit: "Via Wikimedia Commons"
           }
         }
       ]
@@ -1225,7 +1226,7 @@ export const EASTERN_ROMAN = {
           },
           category: "religious",
           image: {
-            src: "https://upload.wikimedia.org/wikipedia/commons/9/9f/Lebedev_baptism.jpg",
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Lebedev_baptism.jpg?width=1024",
             alt: {
               en: "The Christianization of Kievan Rus', painting by Klavdy Lebedev",
               el: "Η χριστιανοποίηση των Ρως του Κιέβου, πίνακας του Klavdy Lebedev"
@@ -1329,7 +1330,7 @@ export const EASTERN_ROMAN = {
           },
           category: "political",
           image: {
-            src: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Basilios_II.jpg/960px-Basilios_II.jpg",
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Basilios_II.jpg?width=1024",
             alt: {
               en: "Emperor Basil II in triumph, miniature from his Psalter",
               el: "Ο αυτοκράτορας Βασίλειος Β΄ θριαμβευτής, μικρογραφία από το Ψαλτήριό του"
@@ -1409,7 +1410,7 @@ export const EASTERN_ROMAN = {
           },
           category: "military",
           image: {
-            src: "https://commons.wikimedia.org/wiki/Special:FilePath/BattleofManzikert1071.jpg?width=1024",
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/131_Bataille_de_Malazgirt.jpg?width=1024",
             alt: {
               en: "Battle of Manzikert (1071), 15th-century French miniature",
               el: "Η μάχη του Μαντζικέρτ (1071), γαλλική μικρογραφία του 15ου αιώνα"
@@ -1480,10 +1481,10 @@ export const EASTERN_ROMAN = {
           },
           category: "religious",
           image: {
-            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Council_of_Clermont.jpg?width=1024",
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Passages_d'outremer_Fr5594%2C_fol._19r%2C_Concile_de_Clermont.jpg?width=1024",
             alt: {
-              en: "Pope Urban II preaching the First Crusade at the Council of Clermont, medieval miniature",
-              el: "Ο πάπας Ουρβανός Β΄ κηρύσσει την Α΄ Σταυροφορία στη Σύνοδο του Κλερμόν, μεσαιωνική μικρογραφία"
+              en: "Pope Urban II at the Council of Clermont, miniature from the 15th-century Passages d'outremer",
+              el: "Ο πάπας Ουρβανός Β΄ στη Σύνοδο του Κλερμόν, μικρογραφία από το χειρόγραφο Passages d'outremer του 15ου αιώνα"
             },
             credit: "Wikimedia Commons (public domain)"
           }
@@ -1695,10 +1696,10 @@ export const EASTERN_ROMAN = {
           },
           category: "military",
           image: {
-            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Conquest_of_Constantinople_by_the_Crusaders_in_1204.jpg?width=1024",
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Eug%C3%A8ne_Delacroix_-_The_Entry_of_the_Crusaders_into_Constantinople_-_WGA6202.jpg?width=1024",
             alt: {
-              en: "Conquest of Constantinople by the Crusaders in 1204, painting by Eugène Delacroix",
-              el: "Η κατάληψη της Κωνσταντινούπολης από τους Σταυροφόρους το 1204, πίνακας του Eugène Delacroix"
+              en: "Eugène Delacroix, The Entry of the Crusaders into Constantinople (1840)",
+              el: "Ευγένιος Ντελακρουά, Η είσοδος των Σταυροφόρων στην Κωνσταντινούπολη (1840)"
             },
             credit: "Eugène Delacroix, via Wikimedia Commons (public domain)"
           }

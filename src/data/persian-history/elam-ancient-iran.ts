@@ -199,30 +199,6 @@ export const ELAM_ANCIENT_IRAN = {
       ]
     },
     {
-      year: -646,
-      era: {
-        en: "Neo-Elamite",
-        el: "Νεοελαμιτική Περίοδος"
-      },
-      events: [
-        {
-          title: {
-            en: "Ashurbanipal sacks Susa",
-            el: "Ο Ασσουρμπανιπάλ λεηλατεί τα Σούσα"
-          },
-          description: {
-            en: "The Assyrian king Ashurbanipal storms and destroys Susa, breaking the last great kingdom of Elam.",
-            el: "Ο Ασσύριος βασιλιάς Ασσουρμπανιπάλ κυριεύει και καταστρέφει τα Σούσα, συντρίβοντας το τελευταίο μεγάλο βασίλειο του Ελάμ."
-          },
-          extendedDescription: {
-            en: "Assyrian reliefs boast of levelling the city, sowing it with salt, and desecrating the tombs of Elam's kings. Though Elamite culture lingered in the highlands, the independent power of Elam was finished — and into the vacuum on the plateau moved the Iranian-speaking peoples who would inherit its lands.",
-            el: "Ασσυριακά ανάγλυφα καυχώνται ότι ισοπέδωσαν την πόλη, τη διέσπειραν με αλάτι και βεβήλωσαν τους τάφους των βασιλέων του Ελάμ. Αν και ο ελαμιτικός πολιτισμός επιβίωσε στα ορεινά, η ανεξάρτητη ισχύς του Ελάμ είχε τελειώσει — και στο κενό του οροπεδίου εισήλθαν οι ιρανόφωνοι λαοί που θα κληρονομούσαν τα εδάφη του."
-          },
-          category: "military"
-        }
-      ]
-    },
-    {
       year: -1000,
       label: "c. 1000 BC",
       era: {
@@ -291,6 +267,30 @@ export const ELAM_ANCIENT_IRAN = {
             el: "Ο Ηρόδοτος αφηγείται πώς ο Δηιόκης, ξακουστός για τη δικαιοσύνη του, εκλέχθηκε βασιλιάς και έχτισε την επτάτειχη ακρόπολη των Εκβατάνων. Όποια κι αν είναι η αλήθεια πίσω από τον θρύλο, οι Μήδοι συνενώνονταν σε μια πραγματική δύναμη τον 7ο αιώνα π.Χ., αρκετά ισχυρή ώστε να απειλήσει την ίδια την Ασσυρία."
           },
           category: "political"
+        }
+      ]
+    },
+    {
+      year: -646,
+      era: {
+        en: "Neo-Elamite",
+        el: "Νεοελαμιτική Περίοδος"
+      },
+      events: [
+        {
+          title: {
+            en: "Ashurbanipal sacks Susa",
+            el: "Ο Ασσουρμπανιπάλ λεηλατεί τα Σούσα"
+          },
+          description: {
+            en: "The Assyrian king Ashurbanipal storms and destroys Susa, breaking the last great kingdom of Elam.",
+            el: "Ο Ασσύριος βασιλιάς Ασσουρμπανιπάλ κυριεύει και καταστρέφει τα Σούσα, συντρίβοντας το τελευταίο μεγάλο βασίλειο του Ελάμ."
+          },
+          extendedDescription: {
+            en: "Assyrian reliefs boast of levelling the city, sowing it with salt, and desecrating the tombs of Elam's kings. Though Elamite culture lingered in the highlands, the independent power of Elam was finished — and into the vacuum on the plateau moved the Iranian-speaking peoples who would inherit its lands.",
+            el: "Ασσυριακά ανάγλυφα καυχώνται ότι ισοπέδωσαν την πόλη, τη διέσπειραν με αλάτι και βεβήλωσαν τους τάφους των βασιλέων του Ελάμ. Αν και ο ελαμιτικός πολιτισμός επιβίωσε στα ορεινά, η ανεξάρτητη ισχύς του Ελάμ είχε τελειώσει — και στο κενό του οροπεδίου εισήλθαν οι ιρανόφωνοι λαοί που θα κληρονομούσαν τα εδάφη του."
+          },
+          category: "military"
         }
       ]
     },

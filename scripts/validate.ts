@@ -2,6 +2,7 @@
  * Consistency checks for the Chronicon configuration. Run with `npm run validate`.
  *
  * Self-contained (does not depend on the apps). Verifies structural integrity
+ * (including that every timeline is in chronological order)
  * and reports any `LocalizedString` that is missing a translation — handy after
  * adding a period, a section, or a new language.
  */
@@ -67,6 +68,16 @@ for (const section of SECTION_MODULES) {
         checkLocalized(event.description, `${eWhere}.description`);
         checkLocalized(event.extendedDescription, `${eWhere}.extendedDescription`);
         if (event.image) checkLocalized(event.image.alt, `${eWhere}.image.alt`);
+      }
+    }
+
+    // Timeline entries must be in chronological order (by year, then month).
+    const when = (y: { year: number; month?: number }) => `${y.year}${y.month ? `/${y.month}` : ""}`;
+    for (let i = 1; i < period.timeline.length; i++) {
+      const prev = period.timeline[i - 1];
+      const cur = period.timeline[i];
+      if (cur.year < prev.year || (cur.year === prev.year && (cur.month ?? 0) < (prev.month ?? 0))) {
+        errors.push(`${base} timeline out of order: ${when(prev)} is followed by ${when(cur)}`);
       }
     }
   }

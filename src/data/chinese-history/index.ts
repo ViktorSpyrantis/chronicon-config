@@ -4,6 +4,7 @@ import { ANCIENT_CHINA_XIA_ZHOU } from "./ancient-china-xia-zhou";
 import { QIN_HAN_EMPIRE } from "./qin-han-empire";
 import { SIX_DYNASTIES_SUI } from "./six-dynasties-sui";
 import { TANG_DYNASTY } from "./tang-dynasty";
+import { FIVE_DYNASTIES_TEN_KINGDOMS } from "./five-dynasties-ten-kingdoms";
 import { SONG_DYNASTY } from "./song-dynasty";
 import { YUAN_DYNASTY } from "./yuan-dynasty";
 import { MING_DYNASTY } from "./ming-dynasty";
@@ -22,6 +23,7 @@ export const CHINESE_HISTORY = {
     QIN_HAN_EMPIRE,
     SIX_DYNASTIES_SUI,
     TANG_DYNASTY,
+    FIVE_DYNASTIES_TEN_KINGDOMS,
     SONG_DYNASTY,
     YUAN_DYNASTY,
     MING_DYNASTY,

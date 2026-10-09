@@ -39,6 +39,123 @@ export const MODERN_BRITAIN = {
   theme: THEMES.slate,
   timeline: [
     {
+      year: 1915,
+      era: {
+        en: "The Great War",
+        el: "Ο Μεγάλος Πόλεμος"
+      },
+      events: [
+        {
+          title: {
+            en: "Gallipoli",
+            el: "Καλλίπολη"
+          },
+          description: {
+            en: "On 25 April British, French, Australian and New Zealand troops land on the Gallipoli peninsula to force the Dardanelles and knock the Ottoman Empire out of the war. Pinned to narrow beaches under the cliffs, they cannot break out, and the last troops are evacuated in January 1916.",
+            el: "Στις 25 Απριλίου βρετανικά, γαλλικά, αυστραλιανά και νεοζηλανδικά στρατεύματα αποβιβάζονται στη χερσόνησο της Καλλίπολης για να διασπάσουν τα Δαρδανέλια και να βγάλουν την Οθωμανική Αυτοκρατορία από τον πόλεμο. Καθηλωμένοι σε στενές παραλίες κάτω από τους γκρεμούς, δεν μπορούν να προελάσουν, και τα τελευταία στρατεύματα εκκενώνονται τον Ιανουάριο του 1916."
+          },
+          extendedDescription: {
+            en: "The campaign was championed by the First Lord of the Admiralty, Winston Churchill, after a purely naval attack on the straits failed in March. The Allied fleet and armies were based at Moudros on the Greek island of Lemnos. Roughly half a million Allied soldiers served on the peninsula and around half became casualties; for Australia and New Zealand, whose ANZAC Day commemorates the landing, it became a founding national memory. Churchill was removed from the Admiralty and went to serve in the trenches of the Western Front.",
+            el: "Την εκστρατεία υποστήριξε ο Πρώτος Λόρδος του Ναυαρχείου, Ουίνστον Τσόρτσιλ, αφού μια καθαρά ναυτική επίθεση στα Στενά απέτυχε τον Μάρτιο. Ο συμμαχικός στόλος και οι στρατοί είχαν βάση τον Μούδρο στο ελληνικό νησί της Λήμνου. Περίπου μισό εκατομμύριο συμμαχικοί στρατιώτες υπηρέτησαν στη χερσόνησο και περίπου οι μισοί έγιναν απώλειες· για την Αυστραλία και τη Νέα Ζηλανδία, των οποίων η Ημέρα ANZAC τιμά την απόβαση, έγινε ιδρυτική εθνική μνήμη. Ο Τσόρτσιλ απομακρύνθηκε από το Ναυαρχείο και πήγε να υπηρετήσει στα χαρακώματα του Δυτικού Μετώπου."
+          },
+          category: "military"
+        },
+        {
+          title: {
+            en: "Zeppelins, shells and a coalition government",
+            el: "Ζέπελιν, οβίδες και κυβέρνηση συνασπισμού"
+          },
+          description: {
+            en: "German Zeppelins bomb English towns from January, the Lusitania is sunk in May, and a scandal over the army's shortage of shells forces Asquith into a coalition with the Conservatives, with Lloyd George at a new Ministry of Munitions.",
+            el: "Γερμανικά ζέπελιν βομβαρδίζουν αγγλικές πόλεις από τον Ιανουάριο, το Λουζιτάνια βυθίζεται τον Μάιο, και ένα σκάνδαλο για την έλλειψη οβίδων στον στρατό αναγκάζει τον Άσκουιθ σε συνασπισμό με τους Συντηρητικούς, με τον Λόιντ Τζορτζ σε ένα νέο Υπουργείο Πολεμοφοδίων."
+          },
+          extendedDescription: {
+            en: "For the first time in centuries, British civilians were killed at home by enemy action. The war became total: the state took control of munitions production, railways and eventually food supplies, and hundreds of thousands of women went to work in shell factories — the 'munitionettes', whose skin was often stained yellow by the explosives they handled. Their war work strengthened the case for women's suffrage that was granted in 1918.",
+            el: "Για πρώτη φορά εδώ και αιώνες, Βρετανοί άμαχοι σκοτώνονταν στην πατρίδα τους από εχθρική ενέργεια. Ο πόλεμος έγινε ολικός: το κράτος ανέλαβε τον έλεγχο της παραγωγής πολεμοφοδίων, των σιδηροδρόμων και τελικά των τροφίμων, και εκατοντάδες χιλιάδες γυναίκες πήγαν να δουλέψουν σε εργοστάσια οβίδων — οι «munitionettes», των οποίων το δέρμα συχνά κιτρίνιζε από τα εκρηκτικά που χειρίζονταν. Η πολεμική τους εργασία ενίσχυσε το αίτημα για την ψήφο των γυναικών, που δόθηκε το 1918."
+          },
+          category: "political"
+        }
+      ]
+    },
+    {
+      year: 1916,
+      era: {
+        en: "The Great War",
+        el: "Ο Μεγάλος Πόλεμος"
+      },
+      events: [
+        {
+          title: {
+            en: "The Easter Rising",
+            el: "Η Πασχαλινή Εξέγερση"
+          },
+          description: {
+            en: "On Easter Monday, 24 April, Irish republicans seize the General Post Office and other buildings in Dublin and proclaim an Irish Republic. After six days of fighting and heavy shelling of the city centre, the rebels surrender.",
+            el: "Τη Δευτέρα του Πάσχα, 24 Απριλίου, Ιρλανδοί δημοκρατικοί καταλαμβάνουν το Κεντρικό Ταχυδρομείο και άλλα κτίρια στο Δουβλίνο και ανακηρύσσουν Ιρλανδική Δημοκρατία. Μετά από έξι μέρες μαχών και σφοδρό βομβαρδισμό του κέντρου της πόλης, οι επαναστάτες παραδίδονται."
+          },
+          extendedDescription: {
+            en: "At first the Rising had little public support in Ireland, where many families had sons serving in the British Army. What changed opinion was the response: fifteen men, including Patrick Pearse and James Connolly, were executed by firing squad in May, fourteen of them at Kilmainham Gaol. Within two years Sinn Féin had swept most Irish seats in the 1918 election, setting Ireland on the road to war and independence.",
+            el: "Αρχικά η Εξέγερση είχε μικρή λαϊκή υποστήριξη στην Ιρλανδία, όπου πολλές οικογένειες είχαν γιους στον βρετανικό στρατό. Αυτό που άλλαξε την κοινή γνώμη ήταν η αντίδραση: δεκαπέντε άνδρες, ανάμεσά τους ο Πάτρικ Πιρς και ο Τζέιμς Κόνολι, εκτελέστηκαν από απόσπασμα τον Μάιο, οι δεκατέσσερις στη φυλακή Κιλμέιναμ. Μέσα σε δύο χρόνια το Σιν Φέιν είχε κερδίσει τις περισσότερες ιρλανδικές έδρες στις εκλογές του 1918, βάζοντας την Ιρλανδία στον δρόμο του πολέμου και της ανεξαρτησίας."
+          },
+          category: "political"
+        },
+        {
+          title: {
+            en: "The Battle of the Somme",
+            el: "Η μάχη του Σομ"
+          },
+          description: {
+            en: "On 1 July the British Army attacks on the Somme after a week-long bombardment that fails to cut the German wire. It suffers 57,470 casualties, including over 19,000 dead, on the first day alone — the bloodiest day in its history.",
+            el: "Την 1η Ιουλίου ο βρετανικός στρατός επιτίθεται στον Σομ μετά από έναν βομβαρδισμό μιας εβδομάδας που δεν καταφέρνει να κόψει τα γερμανικά συρματοπλέγματα. Υφίσταται 57.470 απώλειες, ανάμεσά τους πάνω από 19.000 νεκρούς, μόνο την πρώτη μέρα — η πιο αιματηρή μέρα της ιστορίας του."
+          },
+          extendedDescription: {
+            en: "Many of the attackers belonged to the 'Pals' battalions of volunteers from the same towns and workplaces, so that whole communities lost their young men in a morning. By the time the offensive ended in November, it had cost the British Empire around 420,000 casualties for a few miles of ground; tanks were used in battle for the first time in September. Conscription had been introduced in January, and in December Lloyd George replaced Asquith as prime minister.",
+            el: "Πολλοί από τους επιτιθέμενους ανήκαν στα τάγματα «Pals», εθελοντών από τις ίδιες πόλεις και χώρους εργασίας, οπότε ολόκληρες κοινότητες έχασαν τους νέους τους μέσα σε ένα πρωινό. Όταν η επίθεση έληξε τον Νοέμβριο, είχε κοστίσει στη Βρετανική Αυτοκρατορία περίπου 420.000 απώλειες για λίγα μίλια εδάφους· τα άρματα μάχης χρησιμοποιήθηκαν για πρώτη φορά σε μάχη τον Σεπτέμβριο. Η υποχρεωτική στράτευση είχε εισαχθεί τον Ιανουάριο, και τον Δεκέμβριο ο Λόιντ Τζορτζ αντικατέστησε τον Άσκουιθ ως πρωθυπουργός."
+          },
+          category: "military"
+        }
+      ]
+    },
+    {
+      year: 1917,
+      era: {
+        en: "The Great War",
+        el: "Ο Μεγάλος Πόλεμος"
+      },
+      events: [
+        {
+          title: {
+            en: "Passchendaele",
+            el: "Πάσεντάλε"
+          },
+          description: {
+            en: "From July to November the Third Battle of Ypres grinds forward through shell-churned mud towards the village of Passchendaele, at a cost of roughly a quarter of a million British and Empire casualties.",
+            el: "Από τον Ιούλιο ως τον Νοέμβριο η Τρίτη Μάχη του Ίπρ προχωρά αργά μέσα σε λάσπη αναστατωμένη από τις οβίδες προς το χωριό Πάσεντάλε, με κόστος περίπου ένα τέταρτο του εκατομμυρίου απώλειες για τη Βρετανία και την Αυτοκρατορία."
+          },
+          extendedDescription: {
+            en: "Unusually heavy rain turned the reclaimed Flanders lowlands, already wrecked by bombardment, into a swamp in which men and horses drowned. The ridge was finally taken by Canadian troops in November, and given up again in the German offensive of spring 1918. For later generations, Passchendaele — with the Somme — came to stand for the futility of the Western Front. The same summer, anti-German feeling led George V to change the royal family's name from Saxe-Coburg and Gotha to Windsor.",
+            el: "Ασυνήθιστα έντονες βροχές μετέτρεψαν τα αποξηραμένα χαμηλά εδάφη της Φλάνδρας, ήδη κατεστραμμένα από τους βομβαρδισμούς, σε έλος όπου πνίγονταν άνθρωποι και άλογα. Η κορυφογραμμή καταλήφθηκε τελικά από καναδικά στρατεύματα τον Νοέμβριο και εγκαταλείφθηκε ξανά στη γερμανική επίθεση της άνοιξης του 1918. Για τις επόμενες γενιές, το Πάσεντάλε — μαζί με τον Σομ — έγινε σύμβολο της ματαιότητας του Δυτικού Μετώπου. Το ίδιο καλοκαίρι, το αντιγερμανικό αίσθημα οδήγησε τον Γεώργιο Ε΄ να αλλάξει το όνομα της βασιλικής οικογένειας από Σαξ-Κοβούργου-Γκόθα σε Ουίνδσορ."
+          },
+          category: "military"
+        },
+        {
+          title: {
+            en: "The Balfour Declaration",
+            el: "Η Διακήρυξη Μπάλφουρ"
+          },
+          description: {
+            en: "On 2 November Foreign Secretary Arthur Balfour writes to Lord Rothschild that the government 'view with favour the establishment in Palestine of a national home for the Jewish people', as British forces advance on Jerusalem.",
+            el: "Στις 2 Νοεμβρίου ο υπουργός Εξωτερικών Άρθουρ Μπάλφουρ γράφει στον λόρδο Ρόθσιλντ ότι η κυβέρνηση «βλέπει ευνοϊκά την ίδρυση στην Παλαιστίνη μιας εθνικής εστίας για τον εβραϊκό λαό», καθώς οι βρετανικές δυνάμεις προελαύνουν προς την Ιερουσαλήμ."
+          },
+          extendedDescription: {
+            en: "The letter added that nothing should be done to prejudice the civil and religious rights of Palestine's existing non-Jewish communities. It sat uneasily beside wartime promises to Arab leaders and the secret Sykes–Picot agreement with France that divided the Ottoman Middle East into spheres of influence. General Allenby entered Jerusalem in December, and after the war Britain governed Palestine under a League of Nations mandate — the start of a conflict that continues today.",
+            el: "Η επιστολή πρόσθετε ότι τίποτα δεν έπρεπε να θίξει τα πολιτικά και θρησκευτικά δικαιώματα των υπαρχουσών μη εβραϊκών κοινοτήτων της Παλαιστίνης. Βρισκόταν σε αμήχανη συνύπαρξη με τις πολεμικές υποσχέσεις προς Άραβες ηγέτες και με τη μυστική συμφωνία Σάικς–Πικό με τη Γαλλία, που μοίραζε την οθωμανική Μέση Ανατολή σε σφαίρες επιρροής. Ο στρατηγός Άλενμπι μπήκε στην Ιερουσαλήμ τον Δεκέμβριο, και μετά τον πόλεμο η Βρετανία κυβέρνησε την Παλαιστίνη με εντολή της Κοινωνίας των Εθνών — η αρχή μιας σύγκρουσης που συνεχίζεται ως σήμερα."
+          },
+          category: "political"
+        }
+      ]
+    },
+    {
       year: 1918,
       era: {
         en: "Aftermath of the Great War",

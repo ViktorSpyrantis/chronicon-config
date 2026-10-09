@@ -20,9 +20,9 @@ dependencies.
 | Data | Count |
 | --- | --- |
 | Languages (locales) | 2 — English (`en`), Greek (`el`) |
-| Sections | 16 |
-| Periods | 156 |
-| Historical events | ~2,155 across all timelines |
+| Sections | 17 |
+| Periods | 167 |
+| Historical events | ~2,320 across all timelines |
 | Themes / palettes | 18 |
 
 Every piece of user-facing text is a `LocalizedString` (`{ en, el }`), so all
@@ -116,7 +116,7 @@ After any change, run:
 
 ```bash
 npm run typecheck   # types line up
-npm run validate    # ids unique, orders in sync, every string translated
+npm run validate    # ids unique, orders in sync, timelines in date order, every string translated
 ```
 
 ### Add a period
@@ -203,5 +203,6 @@ The `PeriodId` union updates automatically from the registered data.
 | Script | What it does |
 | --- | --- |
 | `npm run typecheck` | Type-checks the whole package (`tsc --noEmit`). |
-| `npm run validate` | Structural checks + a per-locale translation-completeness report. |
+| `npm run validate` | Structural checks (unique ids, orders in sync, timelines in date order) + a per-locale translation-completeness report. |
 | `npm run build` | Emits compiled JS + `.d.ts` to `dist/` (optional). |
+| `npm run check:images` | Checks every event image exists on Wikimedia Commons (needs network). `-- "File.jpg"` looks up files; `-- --search "query"` finds candidates. |

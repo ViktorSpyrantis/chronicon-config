@@ -719,30 +719,6 @@ export const HELLENISTIC = {
       ]
     },
     {
-      year: -167,
-      era: {
-        en: "Religious Persecution",
-        el: "Θρησκευτική Δίωξη"
-      },
-      events: [
-        {
-          title: {
-            en: "Antiochus IV persecutes Jews",
-            el: "Ο Αντίοχος Δ΄ διώκει τους Εβραίους"
-          },
-          description: {
-            en: "Antiochus IV Epiphanes bans Jewish religious practices, desecrates the Temple, and imposes Hellenizing decrees, triggering the Maccabean Revolt.",
-            el: "Ο Αντίοχος Δ΄ Επιφανής απαγορεύει τις εβραϊκές θρησκευτικές πρακτικές, βεβηλώνει τον Ναό και επιβάλλει εξελληνιστικά διατάγματα, προκαλώντας την Επανάσταση των Μακκαβαίων."
-          },
-          extendedDescription: {
-            en: "Returning humiliated from his second Egyptian invasion — turned back at Eleusis by the Roman envoy Popillius Laenas, who drew a circle in the sand around him — Antiochus channeled his frustration into Judaea, where Hellenizing high priests had already provoked civic factionalism. He garrisoned the Akra in Jerusalem, plundered the Temple, banned circumcision and the Sabbath under penalty of death, and ordered an altar to Olympian Zeus erected on the altar of burnt offering — the 'abomination of desolation' of Daniel and 1 Maccabees. Whether this was a deliberate policy of religious eradication or a misjudged reaction to revolt has been debated since antiquity. The persecution unified pious Jews and the dispossessed priesthood behind armed resistance.",
-            el: "Επιστρέφοντας ταπεινωμένος από τη δεύτερη εισβολή του στην Αίγυπτο — έπειτα από την παρέμβαση του Ρωμαίου πρέσβη Ποπιλίου Λαίνα, που του χάραξε κύκλο γύρω του στην άμμο — ο Αντίοχος ξέσπασε την οργή του στην Ιουδαία, όπου οι εξελληνιστές αρχιερείς είχαν ήδη πυροδοτήσει εμφύλια αντιπαράθεση. Φρουρά εγκατέστησε στην Άκρα της Ιερουσαλήμ, λεηλάτησε τον Ναό, απαγόρευσε την περιτομή και το σάββατο επί ποινή θανάτου και διέταξε την ανέγερση βωμού του Ολυμπίου Διός επί του θυσιαστηρίου των ολοκαυτωμάτων — το 'βδέλυγμα της ερημώσεως' του Δανιήλ και του Α΄ Μακκαβαίων. Εάν επρόκειτο για συνειδητή πολιτική θρησκευτικής εξάλειψης ή για κακοδιαλεγμένη αντίδραση σε εξέγερση, αποτελεί αντικείμενο συζήτησης από την αρχαιότητα. Ο διωγμός ένωσε τους ευσεβείς Ιουδαίους και την εκπεσούσα ιερατική τάξη πίσω από την ένοπλη αντίσταση."
-          },
-          category: "religious"
-        }
-      ]
-    },
-    {
       year: -168,
       era: {
         en: "Roman Conquest",
@@ -763,6 +739,30 @@ export const HELLENISTIC = {
             el: "Ο Λεύκιος Αιμίλιος Παύλος έφερε στο τέλος του τον Τρίτο Μακεδονικό Πόλεμο στις πλαγιές υπεράνω της Πιερίας ακτής. Η φάλαγγα του Περσέα των σαράντα τεσσάρων χιλιάδων ανδρών προήλασε σε καλή τάξη — ο Πολύβιος, που είδε φάλαγγα εν δράσει, την αποκάλεσε 'θέαμα τρομερότερο από κάθε άλλο που είχα ποτέ αντικρίσει' — αλλά σε ανώμαλο έδαφος άνοιξαν κενά στη γραμμή της. Ο Παύλος διέταξε τις λεγεώνες να διασπαστούν σε μανίπυλες και να εισχωρήσουν σε εκείνα τα κενά, και η φάλαγγα διαλύθηκε εκ του συστάδην μέσα σε λίγες ώρες. Περίπου είκοσι χιλιάδες Μακεδόνες έπεσαν. Ο Περσέας παραδόθηκε λίγο μετά και πομπεύθηκε στον ρωμαϊκό θρίαμβο. Το βασίλειο καταργήθηκε και διαιρέθηκε σε τέσσερις φόρου υποτελείς δημοκρατίες· το 148 π.Χ. προσαρτήθηκε ως ρωμαϊκή επαρχία Μακεδονίας. Η πολιτική ύπαρξη της ανεξάρτητης Μακεδονίας, που ίδρυσαν οι Αργεάδες βασιλείς, τερματίστηκε στην Πύδνα."
           },
           category: "military"
+        }
+      ]
+    },
+    {
+      year: -167,
+      era: {
+        en: "Religious Persecution",
+        el: "Θρησκευτική Δίωξη"
+      },
+      events: [
+        {
+          title: {
+            en: "Antiochus IV persecutes Jews",
+            el: "Ο Αντίοχος Δ΄ διώκει τους Εβραίους"
+          },
+          description: {
+            en: "Antiochus IV Epiphanes bans Jewish religious practices, desecrates the Temple, and imposes Hellenizing decrees, triggering the Maccabean Revolt.",
+            el: "Ο Αντίοχος Δ΄ Επιφανής απαγορεύει τις εβραϊκές θρησκευτικές πρακτικές, βεβηλώνει τον Ναό και επιβάλλει εξελληνιστικά διατάγματα, προκαλώντας την Επανάσταση των Μακκαβαίων."
+          },
+          extendedDescription: {
+            en: "Returning humiliated from his second Egyptian invasion — turned back at Eleusis by the Roman envoy Popillius Laenas, who drew a circle in the sand around him — Antiochus channeled his frustration into Judaea, where Hellenizing high priests had already provoked civic factionalism. He garrisoned the Akra in Jerusalem, plundered the Temple, banned circumcision and the Sabbath under penalty of death, and ordered an altar to Olympian Zeus erected on the altar of burnt offering — the 'abomination of desolation' of Daniel and 1 Maccabees. Whether this was a deliberate policy of religious eradication or a misjudged reaction to revolt has been debated since antiquity. The persecution unified pious Jews and the dispossessed priesthood behind armed resistance.",
+            el: "Επιστρέφοντας ταπεινωμένος από τη δεύτερη εισβολή του στην Αίγυπτο — έπειτα από την παρέμβαση του Ρωμαίου πρέσβη Ποπιλίου Λαίνα, που του χάραξε κύκλο γύρω του στην άμμο — ο Αντίοχος ξέσπασε την οργή του στην Ιουδαία, όπου οι εξελληνιστές αρχιερείς είχαν ήδη πυροδοτήσει εμφύλια αντιπαράθεση. Φρουρά εγκατέστησε στην Άκρα της Ιερουσαλήμ, λεηλάτησε τον Ναό, απαγόρευσε την περιτομή και το σάββατο επί ποινή θανάτου και διέταξε την ανέγερση βωμού του Ολυμπίου Διός επί του θυσιαστηρίου των ολοκαυτωμάτων — το 'βδέλυγμα της ερημώσεως' του Δανιήλ και του Α΄ Μακκαβαίων. Εάν επρόκειτο για συνειδητή πολιτική θρησκευτικής εξάλειψης ή για κακοδιαλεγμένη αντίδραση σε εξέγερση, αποτελεί αντικείμενο συζήτησης από την αρχαιότητα. Ο διωγμός ένωσε τους ευσεβείς Ιουδαίους και την εκπεσούσα ιερατική τάξη πίσω από την ένοπλη αντίσταση."
+          },
+          category: "religious"
         }
       ]
     },

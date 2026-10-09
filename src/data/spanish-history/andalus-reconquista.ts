@@ -239,30 +239,6 @@ export const ANDALUS_RECONQUISTA = {
       ]
     },
     {
-      year: 1248,
-      era: {
-        en: "Great conquests",
-        el: "Μεγάλες κατακτήσεις"
-      },
-      events: [
-        {
-          title: {
-            en: "Fernando III takes Seville",
-            el: "Ο Φερνάντο Γ΄ καταλαμβάνει τη Σεβίλλη"
-          },
-          description: {
-            en: "After a fifteen-month siege, the Almohad capital of Seville surrenders to Fernando III of Castile and León. Its great mosque becomes the cathedral, its minaret the Giralda, and Castile reaches the Atlantic at Cádiz and the bay of Algeciras.",
-            el: "Ύστερα από δεκαπεντάμηνη πολιορκία, η αλμοχαδική πρωτεύουσα της Σεβίλλης παραδίδεται στον Φερνάντο Γ΄ της Καστίλης και της Λεόν. Το μεγάλο της τέμενος γίνεται καθεδρικός, ο μιναρές του η Χιράλντα, και η Καστίλη φτάνει στον Ατλαντικό στο Κάδιθ και στον κόλπο της Αλχεθίρας."
-          },
-          extendedDescription: {
-            en: "Fernando, canonised in 1671, would be remembered as the great king who united León and Castile permanently (1230), patronised the new universities of Salamanca and Valladolid, and pressed the Reconquista to its near-completion. By his death in 1252 only the Nasrid kingdom of Granada and a few coastal districts remained Muslim. His son Alfonso X, called the Wise, would commission the great cultural projects of the second half of the century — the Cantigas, the Siete Partidas, the Alfonsine Tables.",
-            el: "Ο Φερνάντο, αγιοκαταχθείς το 1671, θα θυμόταν ως ο μεγάλος βασιλιάς που ένωσε οριστικά τη Λεόν και την Καστίλη (1230), προστάτεψε τα νέα πανεπιστήμια της Σαλαμάνκα και του Βαλλαδολίδ και ώθησε τη Reconquista σχεδόν στην ολοκλήρωσή της. Στον θάνατό του το 1252 μόνο το Νασρίδειο βασίλειο της Γρανάδας και λίγα παράκτια διαμερίσματα παρέμεναν μουσουλμανικά. Ο γιος του Αλφόνσος Ι΄, ο Σοφός, θα ανέθετε τα μεγάλα πολιτιστικά έργα του δεύτερου μισού του αιώνα — τα Καντίγκας, τις Επτά Παρτίδες, τους Αλφονσινούς Πίνακες."
-          },
-          category: "military"
-        }
-      ]
-    },
-    {
       year: 1238,
       era: {
         en: "Emirate of Granada",
@@ -283,6 +259,30 @@ export const ANDALUS_RECONQUISTA = {
             el: "Προστατευμένο πίσω από τη Σιέρα Νεβάδα και δεσμευμένο στην Καστίλη με συνθήκη υποτέλειας που υπογράφηκε στο Χαέν το 1246, η Γρανάδα άνθησε ως καταφύγιο των ανδαλουσιανών μουσουλμάνων που έφευγαν από την καστιλιανή προέλαση. Οι σουλτάνοι της, ιδίως ο Γιουσούφ Α΄ και ο Μωάμεθ Ε΄ τον 14ο αιώνα, διαμόρφωσαν την Αλάμπρα στο ύψιστο μνημείο της ισπανομαυριτανικής αρχιτεκτονικής: η Αυλή των Λεόντων, η Αίθουσα των Δύο Αδελφών και ο Πύργος των Κομάρες συγκαταλέγονται στα πιο εκλεπτυσμένα επιτεύγματα του μεσαιωνικού Ισλάμ."
           },
           category: "political"
+        }
+      ]
+    },
+    {
+      year: 1248,
+      era: {
+        en: "Great conquests",
+        el: "Μεγάλες κατακτήσεις"
+      },
+      events: [
+        {
+          title: {
+            en: "Fernando III takes Seville",
+            el: "Ο Φερνάντο Γ΄ καταλαμβάνει τη Σεβίλλη"
+          },
+          description: {
+            en: "After a fifteen-month siege, the Almohad capital of Seville surrenders to Fernando III of Castile and León. Its great mosque becomes the cathedral, its minaret the Giralda, and Castile reaches the Atlantic at Cádiz and the bay of Algeciras.",
+            el: "Ύστερα από δεκαπεντάμηνη πολιορκία, η αλμοχαδική πρωτεύουσα της Σεβίλλης παραδίδεται στον Φερνάντο Γ΄ της Καστίλης και της Λεόν. Το μεγάλο της τέμενος γίνεται καθεδρικός, ο μιναρές του η Χιράλντα, και η Καστίλη φτάνει στον Ατλαντικό στο Κάδιθ και στον κόλπο της Αλχεθίρας."
+          },
+          extendedDescription: {
+            en: "Fernando, canonised in 1671, would be remembered as the great king who united León and Castile permanently (1230), patronised the new universities of Salamanca and Valladolid, and pressed the Reconquista to its near-completion. By his death in 1252 only the Nasrid kingdom of Granada and a few coastal districts remained Muslim. His son Alfonso X, called the Wise, would commission the great cultural projects of the second half of the century — the Cantigas, the Siete Partidas, the Alfonsine Tables.",
+            el: "Ο Φερνάντο, αγιοκαταχθείς το 1671, θα θυμόταν ως ο μεγάλος βασιλιάς που ένωσε οριστικά τη Λεόν και την Καστίλη (1230), προστάτεψε τα νέα πανεπιστήμια της Σαλαμάνκα και του Βαλλαδολίδ και ώθησε τη Reconquista σχεδόν στην ολοκλήρωσή της. Στον θάνατό του το 1252 μόνο το Νασρίδειο βασίλειο της Γρανάδας και λίγα παράκτια διαμερίσματα παρέμεναν μουσουλμανικά. Ο γιος του Αλφόνσος Ι΄, ο Σοφός, θα ανέθετε τα μεγάλα πολιτιστικά έργα του δεύτερου μισού του αιώνα — τα Καντίγκας, τις Επτά Παρτίδες, τους Αλφονσινούς Πίνακες."
+          },
+          category: "military"
         }
       ]
     },

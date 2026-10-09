@@ -79,6 +79,10 @@ export const WORLD_WARS_CRISIS_FRANCE = {
             en: "Joffre's grandes offensives in Artois (May, September) and Champagne (February, September) gain a few kilometres at a cost of three hundred thousand French casualties for the year. On 22 April at Ypres the Germans first use chlorine gas; from 1915 the chemical war is permanent. The Western Front does not move.",
             el: "Οι grandes offensives του Ζοφρ στο Αρτουά (Μάιος, Σεπτέμβριος) και τη Σαμπάνια (Φεβρουάριος, Σεπτέμβριος) κερδίζουν λίγα χιλιόμετρα με τίμημα τριακόσιες χιλιάδες γαλλικές απώλειες για τη χρονιά. Στις 22 Απριλίου στο Υπρ οι Γερμανοί χρησιμοποιούν για πρώτη φορά αέριο χλωρίου· από το 1915 ο χημικός πόλεμος είναι μόνιμος. Το Δυτικό Μέτωπο δεν κινείται."
           },
+          extendedDescription: {
+            en: "That year the army replaced its red trousers with 'horizon blue' uniforms and issued the Adrian steel helmet, and the poilus — the 'hairy ones', as French infantrymen were called — settled into a war of trenches, raids and artillery. France also sent troops to the Dardanelles, and in October 1915 French and British forces landed at Thessaloniki to support Serbia, opening the Macedonian front in Greece that would play a decisive part in 1918.",
+            el: "Εκείνη τη χρονιά ο στρατός αντικατέστησε τα κόκκινα παντελόνια με στολές «μπλε του ορίζοντα» και μοίρασε το ατσάλινο κράνος Adrian, και οι poilus — οι «μαλλιαροί», όπως αποκαλούνταν οι Γάλλοι πεζικάριοι — βυθίστηκαν σε έναν πόλεμο χαρακωμάτων, επιδρομών και πυροβολικού. Η Γαλλία έστειλε επίσης στρατεύματα στα Δαρδανέλια, και τον Οκτώβριο του 1915 γαλλικές και βρετανικές δυνάμεις αποβιβάστηκαν στη Θεσσαλονίκη για να στηρίξουν τη Σερβία, ανοίγοντας το Μακεδονικό Μέτωπο στην Ελλάδα, που θα έπαιζε καθοριστικό ρόλο το 1918."
+          },
           category: "military"
         }
       ]
@@ -125,6 +129,10 @@ export const WORLD_WARS_CRISIS_FRANCE = {
             en: "General Nivelle, who has replaced Joffre, promises that his April offensive will break the German line in forty-eight hours. On the Chemin des Dames ridge above the Aisne, French infantry charge into uncut wire and machine-gun nests. By 9 May they have lost 187,000 men for a few kilometres of ground.",
             el: "Ο στρατηγός Νιβέλ, που έχει αντικαταστήσει τον Ζοφρ, υπόσχεται ότι η επίθεσή του τον Απρίλιο θα σπάσει τη γερμανική γραμμή σε σαράντα οκτώ ώρες. Στη ράχη του Chemin des Dames πάνω από τον Αιν, γαλλικό πεζικό εφορμά σε άκοπο συρματόπλεγμα και πολυβολεία. Μέχρι τις 9 Μαΐου έχουν χάσει 187.000 άνδρες για λίγα χιλιόμετρα εδάφους."
           },
+          extendedDescription: {
+            en: "Nivelle had made his name with successful counter-attacks at Verdun at the end of 1916 and persuaded the government that his methods could win the war quickly. But his plans had leaked, and the Germans had already pulled back to the fortified Hindenburg Line. Colonial troops, including Senegalese tirailleurs, suffered terrible losses, and the anti-war 'Chanson de Craonne', banned by the army, gave voice to the soldiers' despair.",
+            el: "Ο Νιβέλ είχε γίνει γνωστός με επιτυχημένες αντεπιθέσεις στο Βερντέν στα τέλη του 1916 και έπεισε την κυβέρνηση ότι οι μέθοδοί του μπορούσαν να κερδίσουν γρήγορα τον πόλεμο. Όμως τα σχέδιά του είχαν διαρρεύσει, και οι Γερμανοί είχαν ήδη αποσυρθεί στην οχυρωμένη Γραμμή Χίντενμπουργκ. Τα αποικιακά στρατεύματα, μεταξύ αυτών οι Σενεγαλέζοι τιραγιέρ, υπέστησαν τρομερές απώλειες, και το αντιπολεμικό «Τραγούδι της Κραόν», απαγορευμένο από τον στρατό, εξέφρασε την απόγνωση των στρατιωτών."
+          },
           category: "military"
         }
       ]
@@ -145,6 +153,10 @@ export const WORLD_WARS_CRISIS_FRANCE = {
           description: {
             en: "From late April, units in some seventy divisions refuse to attack. Some 30,000-40,000 men are involved. Pétain replaces Nivelle, suspends offensives, improves food and leave, has 49 mutineers shot and 600 imprisoned. By August the army holds — and waits for the Americans.",
             el: "Από τα τέλη Απριλίου, μονάδες σε περίπου εβδομήντα μεραρχίες αρνούνται να επιτεθούν. Συμμετέχουν περίπου 30.000-40.000 άνδρες. Ο Πετέν αντικαθιστά τον Νιβέλ, αναστέλλει τις επιθέσεις, βελτιώνει το φαγητό και τις άδειες, εκτελεί 49 στασιαστές και φυλακίζει 600. Μέχρι τον Αύγουστο ο στρατός κρατά — και περιμένει τους Αμερικανούς."
+          },
+          extendedDescription: {
+            en: "Most mutineers were willing to defend their trenches but refused to be sent into hopeless attacks; they demanded leave, better food and an end to wasteful offensives, and the news of revolution in Russia sharpened their mood. Remarkably, the Germans never learned the scale of the crisis. Pétain, the defender of Verdun, is remembered for saying that he was 'waiting for the Americans and the tanks'.",
+            el: "Οι περισσότεροι στασιαστές ήταν πρόθυμοι να υπερασπιστούν τα χαρακώματά τους, αλλά αρνούνταν να σταλούν σε μάταιες επιθέσεις· ζητούσαν άδειες, καλύτερο φαγητό και τέλος στις σπάταλες επιθέσεις, και τα νέα της επανάστασης στη Ρωσία όξυναν τη διάθεσή τους. Αξιοσημείωτα, οι Γερμανοί δεν έμαθαν ποτέ το μέγεθος της κρίσης. Τον Πετέν, τον υπερασπιστή του Βερντέν, τον θυμούνται να λέει ότι «περίμενε τους Αμερικανούς και τα άρματα»."
           },
           category: "military"
         }
@@ -167,6 +179,10 @@ export const WORLD_WARS_CRISIS_FRANCE = {
             en: "On 16 November, President Poincaré recalls his old enemy Georges Clemenceau — the Tiger, seventy-six years old, anti-clerical, anti-defeatist, anti-everything — to form a government of national war. His program: 'I wage war. In foreign policy, I wage war. In domestic policy, I wage war.' Joseph Caillaux, the leader of the peace party, is arrested for treason.",
             el: "Στις 16 Νοεμβρίου, ο Πρόεδρος Πουανκαρέ ανακαλεί τον παλιό του εχθρό Ζωρζ Κλεμανσώ — τον Τίγρη, εβδομήντα έξι ετών, αντικληρικαλιστή, αντηττοπαθή, αντί-όλων — να σχηματίσει κυβέρνηση εθνικού πολέμου. Το πρόγραμμά του: «Διεξάγω πόλεμο. Στην εξωτερική πολιτική, διεξάγω πόλεμο. Στην εσωτερική πολιτική, διεξάγω πόλεμο». Ο Ζοζέφ Καγιό, ηγέτης του ειρηνευτικού κόμματος, συλλαμβάνεται για προδοσία."
           },
+          extendedDescription: {
+            en: "Clemenceau had been prime minister before the war and, as a newspaper editor, had published Zola's 'J'accuse…!' during the Dreyfus Affair. Now he visited the front line constantly, pursued suspected defeatists and traitors, and held parliament and generals alike to the single aim of victory. French soldiers called him 'Father Victory', and he led France at the peace conference at Versailles in 1919.",
+            el: "Ο Κλεμανσό είχε διατελέσει πρωθυπουργός πριν από τον πόλεμο και, ως εκδότης εφημερίδας, είχε δημοσιεύσει το «Κατηγορώ…!» του Ζολά κατά την Υπόθεση Ντρέιφους. Τώρα επισκεπτόταν συνεχώς την πρώτη γραμμή, καταδίωκε ύποπτους ηττοπαθείς και προδότες και κρατούσε κοινοβούλιο και στρατηγούς προσηλωμένους στον μοναδικό στόχο της νίκης. Οι Γάλλοι στρατιώτες τον αποκαλούσαν «Πατέρα της Νίκης», και ηγήθηκε της Γαλλίας στη διάσκεψη ειρήνης των Βερσαλλιών το 1919."
+          },
           category: "political"
         }
       ]
@@ -188,6 +204,10 @@ export const WORLD_WARS_CRISIS_FRANCE = {
             en: "On 21 March Ludendorff opens his last gamble: five great offensives that drive the British and French back, in places sixty kilometres. Paris is shelled by the Big Bertha. On 26 March, at the conference of Doullens, the allies agree to put all their armies under a single commander: Ferdinand Foch is appointed généralissime.",
             el: "Στις 21 Μαρτίου ο Λούντεντορφ ανοίγει το τελευταίο του στοίχημα: πέντε μεγάλες επιθέσεις που απωθούν Βρετανούς και Γάλλους, σε ορισμένα σημεία εξήντα χιλιόμετρα. Το Παρίσι βομβαρδίζεται από τη Μεγάλη Μπέρτα. Στις 26 Μαρτίου, στη συνδιάσκεψη του Ντουλέν, οι σύμμαχοι συμφωνούν να θέσουν όλους τους στρατούς τους κάτω από έναν διοικητή: ο Φερντινάν Φος διορίζεται généralissime."
           },
+          extendedDescription: {
+            en: "With Russia out of the war after the Bolshevik revolution, Germany moved dozens of divisions west and gambled on winning before American troops arrived in strength. Its giant long-range 'Paris Gun' fired shells from more than 120 kilometres away; on Good Friday one struck the church of Saint-Gervais during a service, killing some ninety worshippers. By the summer, American soldiers were landing in France at a rate of a quarter of a million a month.",
+            el: "Με τη Ρωσία εκτός πολέμου μετά την μπολσεβικική επανάσταση, η Γερμανία μετέφερε δεκάδες μεραρχίες στη Δύση και πόνταρε στη νίκη πριν φτάσουν σε μεγάλους αριθμούς τα αμερικανικά στρατεύματα. Το γιγάντιο πυροβόλο μεγάλου βεληνεκούς της, το «Πυροβόλο του Παρισιού», έριχνε βλήματα από περισσότερα από 120 χιλιόμετρα· τη Μεγάλη Παρασκευή ένα από αυτά έπληξε την εκκλησία του Σεν-Ζερβέ κατά τη διάρκεια της λειτουργίας, σκοτώνοντας περίπου ενενήντα πιστούς. Ως το καλοκαίρι, Αμερικανοί στρατιώτες αποβιβάζονταν στη Γαλλία με ρυθμό ενός τετάρτου του εκατομμυρίου τον μήνα."
+          },
           category: "military"
         }
       ]
@@ -208,6 +228,10 @@ export const WORLD_WARS_CRISIS_FRANCE = {
           description: {
             en: "On 15 July Ludendorff makes a last push on the Marne. On 18 July, with Mangin's tanks emerging from the forest of Villers-Cotterêts, Foch counter-attacks. The German front gives way. From 8 August — Ludendorff's 'black day' at Amiens — the allies advance for one hundred days without stopping until the armistice.",
             el: "Στις 15 Ιουλίου ο Λούντεντορφ κάνει τελευταία ώθηση στον Μάρνη. Στις 18 Ιουλίου, με τα τανκς του Μανζέν να αναδύονται από το δάσος του Villers-Cotterêts, ο Φος αντεπιτίθεται. Το γερμανικό μέτωπο υποχωρεί. Από τις 8 Αυγούστου — η «μαύρη ημέρα» του Λούντεντορφ στο Αμιέν — οι σύμμαχοι προελαύνουν επί εκατό ημέρες χωρίς να σταματήσουν μέχρι την ανακωχή."
+          },
+          extendedDescription: {
+            en: "American divisions had already fought at Château-Thierry and Belleau Wood in June, and they joined the July counter-offensive in force. Allied tanks, aircraft and artillery now worked together, and German morale began to crack. The armistice was signed in Foch's railway carriage in the forest of Compiègne at dawn on 11 November and took effect at 11 a.m.; France had lost about 1.4 million soldiers killed.",
+            el: "Αμερικανικές μεραρχίες είχαν ήδη πολεμήσει στο Σατό-Τιερί και στο δάσος του Μπελό τον Ιούνιο και εντάχθηκαν μαζικά στην αντεπίθεση του Ιουλίου. Τα συμμαχικά άρματα, αεροσκάφη και πυροβολικό συνεργάζονταν πλέον, και το γερμανικό ηθικό άρχισε να καταρρέει. Η ανακωχή υπογράφηκε στο σιδηροδρομικό βαγόνι του Φος στο δάσος της Κομπιέν την αυγή της 11ης Νοεμβρίου και τέθηκε σε ισχύ στις 11 το πρωί· η Γαλλία είχε χάσει περίπου 1,4 εκατομμύρια στρατιώτες."
           },
           category: "military"
         }
@@ -280,6 +304,10 @@ export const WORLD_WARS_CRISIS_FRANCE = {
             en: "Tired of German reparations defaults, Premier Poincaré sends sixty thousand French and Belgian troops into the Ruhr industrial basin on 11 January to collect coal and coke at gunpoint. Berlin orders passive resistance; the hyper-inflation that ruins the German middle class follows. By autumn France has won the dispute and lost the peace.",
             el: "Κουρασμένος από τις γερμανικές αθετήσεις αποζημιώσεων, ο πρωθυπουργός Πουανκαρέ στέλνει εξήντα χιλιάδες Γάλλους και Βέλγους στρατιώτες στη βιομηχανική λεκάνη του Ρουρ στις 11 Ιανουαρίου για να εισπράξουν άνθρακα και κωκ με την απειλή των όπλων. Το Βερολίνο διατάζει παθητική αντίσταση· ο υπερπληθωρισμός που καταστρέφει τη γερμανική μεσαία τάξη ακολουθεί. Μέχρι το φθινόπωρο η Γαλλία έχει κερδίσει τη διαφορά και χάσει την ειρήνη."
           },
+          extendedDescription: {
+            en: "The German government printed money to pay striking workers, and by November a U.S. dollar was worth over four trillion marks; that month Hitler attempted his Beer Hall Putsch in Munich. Britain and the United States disapproved of the occupation, and the franc weakened under the cost. The Dawes Plan of 1924 rescheduled reparations, the troops left in 1925, and Poincaré's government lost the 1924 elections.",
+            el: "Η γερμανική κυβέρνηση τύπωνε χρήμα για να πληρώνει τους απεργούς εργάτες, και ως τον Νοέμβριο ένα δολάριο ΗΠΑ άξιζε πάνω από τέσσερα τρισεκατομμύρια μάρκα· εκείνον τον μήνα ο Χίτλερ επιχείρησε το Πραξικόπημα της Μπυραρίας στο Μόναχο. Η Βρετανία και οι Ηνωμένες Πολιτείες αποδοκίμασαν την κατοχή, και το φράγκο εξασθένησε από το κόστος. Το Σχέδιο Ντόουζ του 1924 αναδιάρθρωσε τις επανορθώσεις, τα στρατεύματα αποχώρησαν το 1925, και η κυβέρνηση του Πουανκαρέ έχασε τις εκλογές του 1924."
+          },
           category: "political"
         }
       ]
@@ -299,6 +327,10 @@ export const WORLD_WARS_CRISIS_FRANCE = {
           description: {
             en: "On 4 January 1930 the Chamber votes three billion francs for a chain of underground forts along the German border, designed by the war minister André Maginot. By 1936 the line of casemates, barracks, and ammunition lifts runs from Switzerland to Luxembourg — but stops on the Belgian border, where high command does not dare offend a small ally.",
             el: "Στις 4 Ιανουαρίου 1930 η Βουλή ψηφίζει τρία δισεκατομμύρια φράγκα για αλυσίδα υπόγειων φρουρίων κατά μήκος του γερμανικού συνόρου, σχεδιασμένη από τον υπουργό πολέμου Αντρέ Μαζινό. Μέχρι το 1936 η γραμμή των πολυβολείων, στρατώνων και ανελκυστήρων πυρομαχικών εκτείνεται από την Ελβετία ως το Λουξεμβούργο — αλλά σταματά στο βελγικό σύνορο, όπου η ανώτατη διοίκηση δεν τολμά να προσβάλει έναν μικρό σύμμαχο."
+          },
+          extendedDescription: {
+            en: "Maginot, a sergeant badly wounded at Verdun, wanted to spare France another generation of slaughter in open battle; he died in 1932, before the line was finished. Its forts were technically impressive, with underground railways, hospitals and air conditioning. When Belgium declared its neutrality in 1936, the gap in the north became fatal: in 1940 the Germans went around the line rather than through it. Many of its forts are now museums.",
+            el: "Ο Μαζινό, λοχίας που είχε τραυματιστεί βαριά στο Βερντέν, ήθελε να γλιτώσει τη Γαλλία από μια ακόμη γενιά σφαγής σε ανοιχτές μάχες· πέθανε το 1932, πριν ολοκληρωθεί η γραμμή. Τα οχυρά της ήταν τεχνικά εντυπωσιακά, με υπόγειους σιδηροδρόμους, νοσοκομεία και κλιματισμό. Όταν το Βέλγιο κήρυξε την ουδετερότητά του το 1936, το κενό στον βορρά έγινε μοιραίο: το 1940 οι Γερμανοί παρέκαμψαν τη γραμμή αντί να τη διασπάσουν. Πολλά από τα οχυρά της είναι σήμερα μουσεία."
           },
           category: "military"
         }
@@ -371,6 +403,10 @@ export const WORLD_WARS_CRISIS_FRANCE = {
             en: "On 29 September, at Munich, Daladier and Chamberlain consign Czechoslovakia's Sudetenland to Hitler in return for promises of peace. Landing at Le Bourget on the 30th to a crowd cheering him as a hero, the premier mutters: 'the fools — if they only knew!'",
             el: "Στις 29 Σεπτεμβρίου, στο Μόναχο, ο Νταλαντιέ και ο Τσάμπερλεν παραδίδουν τη σουδητική περιοχή της Τσεχοσλοβακίας στον Χίτλερ έναντι υποσχέσεων ειρήνης. Προσγειούμενος στο Le Bourget στις 30 σε πλήθος που τον επευφημεί ως ήρωα, ο πρωθυπουργός μουρμουρίζει: «οι ανόητοι — αν μόνο ήξεραν!»"
           },
+          extendedDescription: {
+            en: "France had been bound by a treaty of alliance with Czechoslovakia since 1924, but neither its government nor its public was ready for war, and the army's plans were purely defensive. The socialist Léon Blum admitted feeling a 'cowardly relief'. The remark attributed to Daladier is usually quoted more bluntly: 'Ah, les cons !' In March 1939 Hitler occupied the rest of Czechoslovakia, ending any hope that Munich had brought peace.",
+            el: "Η Γαλλία ήταν δεσμευμένη με συνθήκη συμμαχίας με την Τσεχοσλοβακία από το 1924, αλλά ούτε η κυβέρνηση ούτε η κοινή γνώμη της ήταν έτοιμες για πόλεμο, και τα σχέδια του στρατού ήταν καθαρά αμυντικά. Ο σοσιαλιστής Λεόν Μπλουμ παραδέχτηκε ότι ένιωσε «δειλή ανακούφιση». Η φράση που αποδίδεται στον Νταλαντιέ παρατίθεται συνήθως πιο ωμά: «Αχ, οι ηλίθιοι!» Τον Μάρτιο του 1939 ο Χίτλερ κατέλαβε την υπόλοιπη Τσεχοσλοβακία, διαψεύδοντας κάθε ελπίδα ότι το Μόναχο είχε φέρει την ειρήνη."
+          },
           category: "political"
         }
       ]
@@ -392,6 +428,10 @@ export const WORLD_WARS_CRISIS_FRANCE = {
             en: "On 3 September, two days after Hitler invades Poland, France honours her treaty obligations and declares war. The army mobilises five million men. There follows the drôle de guerre — the Phoney War — eight months of inactivity behind the Maginot Line while Poland is partitioned and Stalin invades Finland.",
             el: "Στις 3 Σεπτεμβρίου, δύο ημέρες μετά την εισβολή του Χίτλερ στην Πολωνία, η Γαλλία τιμά τις συνθηκικές της υποχρεώσεις και κηρύσσει πόλεμο. Ο στρατός επιστρατεύει πέντε εκατομμύρια άνδρες. Ακολουθεί η drôle de guerre — ο Ψευδής Πόλεμος — οκτώ μήνες αδράνειας πίσω από τη Γραμμή Μαζινό ενώ η Πολωνία διαμοιράζεται και ο Στάλιν εισβάλλει στη Φινλανδία."
           },
+          extendedDescription: {
+            en: "A brief French advance into the Saarland in September was quickly abandoned. After the Nazi–Soviet pact, the French Communist Party was banned, and its leader Maurice Thorez deserted to Moscow. Idle soldiers were given football pitches and extra wine rations, while the Allies planned expeditions to Scandinavia; morale drained away through the long winter.",
+            el: "Μια σύντομη γαλλική προέλαση στο Ζάαρλαντ τον Σεπτέμβριο εγκαταλείφθηκε γρήγορα. Μετά το σύμφωνο Χίτλερ–Στάλιν, το Γαλλικό Κομμουνιστικό Κόμμα απαγορεύτηκε, και ο ηγέτης του Μορίς Τορέζ λιποτάκτησε στη Μόσχα. Στους αδρανείς στρατιώτες δόθηκαν γήπεδα ποδοσφαίρου και επιπλέον μερίδες κρασιού, ενώ οι Σύμμαχοι σχεδίαζαν εκστρατείες στη Σκανδιναβία· το ηθικό εξανεμίστηκε στη διάρκεια του μακρύ χειμώνα."
+          },
           category: "military"
         }
       ]
@@ -412,6 +452,10 @@ export const WORLD_WARS_CRISIS_FRANCE = {
           description: {
             en: "On 10 May Hitler attacks west. Three Panzer corps under Guderian, Reinhardt, and Hoth slip through the supposedly impassable Ardennes, cross the Meuse at Sedan on 13-14 May, and race for the Channel. By 21 May they have cut the allied armies in two; by 4 June the British and French rearguards are evacuating Dunkirk.",
             el: "Στις 10 Μαΐου ο Χίτλερ επιτίθεται στη Δύση. Τρία σώματα Panzer υπό τους Γκουντέριαν, Ράινχαρντ και Χοτ διέρχονται μέσα από τις δήθεν αδιάβατες Αρδέννες, διασχίζουν τον Μεύση στο Σεντάν στις 13-14 Μαΐου και τρέχουν προς τη Μάγχη. Μέχρι τις 21 Μαΐου έχουν κόψει τους συμμαχικούς στρατούς στα δύο· μέχρι τις 4 Ιουνίου Βρετανοί και Γαλλικοί οπισθοφύλακες εκκενώνουν τη Δουνκέρκη."
+          },
+          extendedDescription: {
+            en: "France and Britain actually had more tanks than Germany, many of them better armoured, but they were spread out in support of the infantry while the Germans massed theirs and coordinated them with dive-bombers. The Allies' best armies had advanced into Belgium, exactly as the German plan intended. About 338,000 Allied soldiers, including more than 100,000 French, were rescued from Dunkirk; Paris fell on 14 June, and on 22 June France signed an armistice in the same railway carriage at Compiègne used in 1918.",
+            el: "Η Γαλλία και η Βρετανία είχαν στην πραγματικότητα περισσότερα άρματα από τη Γερμανία, πολλά από αυτά καλύτερα θωρακισμένα, αλλά ήταν διασκορπισμένα για την υποστήριξη του πεζικού, ενώ οι Γερμανοί συγκέντρωναν τα δικά τους και τα συντόνιζαν με βομβαρδιστικά κάθετης εφόρμησης. Οι καλύτεροι στρατοί των Συμμάχων είχαν προελάσει στο Βέλγιο, ακριβώς όπως προέβλεπε το γερμανικό σχέδιο. Περίπου 338.000 συμμαχικοί στρατιώτες, ανάμεσά τους πάνω από 100.000 Γάλλοι, διασώθηκαν από τη Δουνκέρκη· το Παρίσι έπεσε στις 14 Ιουνίου, και στις 22 Ιουνίου η Γαλλία υπέγραψε ανακωχή στο ίδιο σιδηροδρομικό βαγόνι της Κομπιέν που είχε χρησιμοποιηθεί το 1918."
           },
           category: "military"
         }
@@ -509,6 +553,10 @@ export const WORLD_WARS_CRISIS_FRANCE = {
             en: "After the allied landings in French North Africa on 8 November, German troops cross the demarcation line on 11 November and occupy the southern zone. On 27 November, to keep them out of German hands, the French Mediterranean fleet at Toulon scuttles itself: 77 vessels, including three battleships and seven cruisers, are sunk by their own crews.",
             el: "Μετά τις συμμαχικές αποβάσεις στη γαλλική Βόρεια Αφρική στις 8 Νοεμβρίου, γερμανικά στρατεύματα διέρχονται τη γραμμή διαχωρισμού στις 11 Νοεμβρίου και καταλαμβάνουν τη νότια ζώνη. Στις 27 Νοεμβρίου, για να μην πέσει στα γερμανικά χέρια, ο γαλλικός μεσογειακός στόλος στην Τουλόν αυτοβυθίζεται: 77 σκάφη, μεταξύ αυτών τρία θωρηκτά και επτά καταδρομικά, βυθίζονται από τα ίδια τα πληρώματά τους."
           },
+          extendedDescription: {
+            en: "Vichy's commander in North Africa, Admiral Darlan, switched sides after the Allied landings and was assassinated in Algiers that December. The fleet had stayed loyal to Vichy and neutral since 1940 and refused both German seizure and de Gaulle's call to join the Allies. The occupation of the whole country ended the fiction of Vichy's independence, and the compulsory labour service introduced in 1943, sending young Frenchmen to work in Germany, drove thousands into the maquis.",
+            el: "Ο διοικητής του Βισύ στη Βόρεια Αφρική, ναύαρχος Νταρλάν, άλλαξε στρατόπεδο μετά τις συμμαχικές αποβάσεις και δολοφονήθηκε στο Αλγέρι εκείνον τον Δεκέμβριο. Ο στόλος είχε μείνει πιστός στο Βισύ και ουδέτερος από το 1940 και αρνήθηκε τόσο τη γερμανική κατάληψη όσο και την έκκληση του Ντε Γκωλ να ενωθεί με τους Συμμάχους. Η κατοχή ολόκληρης της χώρας έθεσε τέλος στον μύθο της ανεξαρτησίας του Βισύ, και η υποχρεωτική εργασιακή υπηρεσία που θεσπίστηκε το 1943, στέλνοντας νέους Γάλλους να δουλέψουν στη Γερμανία, έσπρωξε χιλιάδες στους μακί."
+          },
           category: "military"
         }
       ]
@@ -530,6 +578,10 @@ export const WORLD_WARS_CRISIS_FRANCE = {
             en: "On 27 May, in a clandestine apartment on the rue du Four in Paris, Jean Moulin gathers the eight major Resistance movements, the two trade-union centrals, and the six pre-war political parties into a single Conseil national de la Résistance. The CNR recognises de Gaulle as head of the French resistance. Within a month Moulin will be betrayed, tortured by Klaus Barbie, and die.",
             el: "Στις 27 Μαΐου, σε κρυφό διαμέρισμα στη rue du Four στο Παρίσι, ο Ζαν Μουλέν συγκεντρώνει τα οκτώ μεγαλύτερα κινήματα της Αντίστασης, τις δύο συνδικαλιστικές κεντρικές και τα έξι προπολεμικά πολιτικά κόμματα σε ένα ενιαίο Conseil national de la Résistance. Το CNR αναγνωρίζει τον ντε Γκωλ ως αρχηγό της γαλλικής αντίστασης. Σε έναν μήνα ο Μουλέν θα προδοθεί, θα βασανιστεί από τον Κλάους Μπάρμπι και θα πεθάνει."
           },
+          extendedDescription: {
+            en: "As prefect of Chartres in June 1940, Moulin had tried to cut his own throat rather than sign a false German statement blaming French African troops for atrocities. He escaped to London and was parachuted back into France on 1 January 1942 as de Gaulle's delegate. Arrested at Caluire near Lyon on 21 June 1943, he died of his injuries in July on a train to Germany without betraying his comrades. In 1964 his ashes were moved to the Panthéon, where André Malraux delivered a celebrated oration.",
+            el: "Ως νομάρχης της Σαρτρ τον Ιούνιο του 1940, ο Μουλέν είχε προσπαθήσει να κόψει τον λαιμό του αντί να υπογράψει μια ψευδή γερμανική δήλωση που κατηγορούσε Αφρικανούς στρατιώτες του γαλλικού στρατού για ωμότητες. Διέφυγε στο Λονδίνο και ρίχτηκε με αλεξίπτωτο πίσω στη Γαλλία την 1η Ιανουαρίου 1942 ως απεσταλμένος του Ντε Γκωλ. Συνελήφθη στο Καλουίρ κοντά στη Λυών στις 21 Ιουνίου 1943 και πέθανε από τα τραύματά του τον Ιούλιο σε ένα τρένο προς τη Γερμανία χωρίς να προδώσει τους συντρόφους του. Το 1964 η τέφρα του μεταφέρθηκε στο Πάνθεον, όπου ο Αντρέ Μαλρό εκφώνησε έναν περίφημο επικήδειο."
+          },
           category: "political"
         }
       ]
@@ -550,6 +602,10 @@ export const WORLD_WARS_CRISIS_FRANCE = {
           description: {
             en: "On 6 June, 156,000 American, British, Canadian, and Free French troops land on the five beaches of Normandy from Utah to Sword. The maquis rises behind the German lines on the BBC's signal: 'les sanglots longs des violons de l'automne'. Twelve weeks later, on 25 August, the 2nd Armoured Division of General Leclerc enters Paris.",
             el: "Στις 6 Ιουνίου, 156.000 Αμερικανοί, Βρετανοί, Καναδοί και Ελεύθεροι Γάλλοι αποβιβάζονται στις πέντε παραλίες της Νορμανδίας από την Utah ως τη Sword. Το maquis ξεσηκώνεται πίσω από τις γερμανικές γραμμές με το σήμα του BBC: «les sanglots longs des violons de l'automne». Δώδεκα εβδομάδες αργότερα, στις 25 Αυγούστου, η 2η Τεθωρακισμένη Μεραρχία του στρατηγού Λεκλέρ μπαίνει στο Παρίσι."
+          },
+          extendedDescription: {
+            en: "The BBC signal, a line from Verlaine's 'Chanson d'automne', told Resistance networks to begin sabotaging railways and telephone lines. Four days after D-Day, the SS division Das Reich massacred 643 people in the village of Oradour-sur-Glane, whose ruins have been preserved as a memorial. On 15 August Allied forces, including a large French army with many colonial troops, landed in Provence, and in Paris an uprising began on 19 August. De Gaulle entered the capital on 25 August and walked down the Champs-Élysées the next day.",
+            el: "Το σήμα του BBC, ένας στίχος από το «Φθινοπωρινό τραγούδι» του Βερλέν, ειδοποιούσε τα δίκτυα της Αντίστασης να αρχίσουν δολιοφθορές σε σιδηροδρόμους και τηλεφωνικές γραμμές. Τέσσερις μέρες μετά την D-Day, η μεραρχία των SS Das Reich έσφαξε 643 ανθρώπους στο χωριό Οραντούρ-συρ-Γκλαν, του οποίου τα ερείπια διατηρούνται ως μνημείο. Στις 15 Αυγούστου συμμαχικές δυνάμεις, μεταξύ αυτών ένας μεγάλος γαλλικός στρατός με πολλά αποικιακά στρατεύματα, αποβιβάστηκαν στην Προβηγκία, και στο Παρίσι ξέσπασε εξέγερση στις 19 Αυγούστου. Ο Ντε Γκωλ μπήκε στην πρωτεύουσα στις 25 Αυγούστου και την επόμενη μέρα διέσχισε με τα πόδια τα Ηλύσια Πεδία."
           },
           category: "military"
         }
@@ -596,6 +652,10 @@ export const WORLD_WARS_CRISIS_FRANCE = {
           description: {
             en: "By an ordinance of 21 April 1944, signed at Algiers, French women have been granted the right to vote and stand for election. They cast ballots for the first time at the municipal elections of April 1945. Meanwhile the épuration is under way: nearly 10,000 collaborators are summarily executed in the months around the liberation; the journalist Brasillach is shot, Pétain and Laval tried, Pétain's death sentence commuted to imprisonment on the Île d'Yeu, Laval shot in October 1945.",
             el: "Με διάταγμα της 21ης Απριλίου 1944, υπογεγραμμένο στο Αλγέρι, οι Γαλλίδες έχουν αποκτήσει το δικαίωμα ψήφου και υποψηφιότητας. Ψηφίζουν για πρώτη φορά στις δημοτικές εκλογές του Απριλίου 1945. Εν τω μεταξύ είναι σε εξέλιξη η épuration: σχεδόν 10.000 συνεργάτες εκτελούνται συνοπτικά στους μήνες γύρω από την απελευθέρωση· ο δημοσιογράφος Μπρασιγιάκ τυφεκίζεται, ο Πετέν και ο Λαβάλ δικάζονται, η θανατική ποινή του Πετέν μετατρέπεται σε φυλάκιση στο Île d'Yeu, ο Λαβάλ εκτελείται τον Οκτώβριο του 1945."
+          },
+          extendedDescription: {
+            en: "Some twenty thousand women accused of 'horizontal collaboration' with German soldiers had their heads shaved in public. The courts of the official purge handled around 300,000 cases and pronounced some 6,700 death sentences, many in absentia; fewer than eight hundred were carried out, while tens of thousands lost their civic rights for 'national indignity'. In October 1945, thirty-three women were elected to the new Constituent Assembly.",
+            el: "Περίπου είκοσι χιλιάδες γυναίκες που κατηγορήθηκαν για «οριζόντια συνεργασία» με Γερμανούς στρατιώτες κουρεύτηκαν δημόσια. Τα δικαστήρια της επίσημης εκκαθάρισης χειρίστηκαν περίπου 300.000 υποθέσεις και εξέδωσαν περίπου 6.700 θανατικές καταδίκες, πολλές ερήμην· λιγότερες από οκτακόσιες εκτελέστηκαν, ενώ δεκάδες χιλιάδες έχασαν τα πολιτικά τους δικαιώματα για «εθνική αναξιότητα». Τον Οκτώβριο του 1945, τριάντα τρεις γυναίκες εξελέγησαν στη νέα Συντακτική Συνέλευση."
           },
           category: "political"
         }

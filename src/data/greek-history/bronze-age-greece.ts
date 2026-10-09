@@ -231,6 +231,30 @@ export const BRONZE_AGE_GREECE = {
       ]
     },
     {
+      year: -1620,
+      era: {
+        en: "Theran Eruption",
+        el: "Έκρηξη της Θήρας"
+      },
+      events: [
+        {
+          title: {
+            en: "Eruption of Thera",
+            el: "Έκρηξη του ηφαιστείου της Θήρας"
+          },
+          description: {
+            en: "One of the largest volcanic eruptions in human history devastates Thera (Santorini) and buries the prosperous town of Akrotiri.",
+            el: "Μία από τις μεγαλύτερες ηφαιστειακές εκρήξεις στην ιστορία του ανθρώπου ισοπεδώνει τη Θήρα (Σαντορίνη) και θάβει την ακμάζουσα πόλη του Ακρωτηρίου."
+          },
+          extendedDescription: {
+            en: "Modern radiocarbon dates place the eruption around 1600-1620 BC; some Egyptian-derived chronologies argue for c. 1500 BC. The Plinian column reached the stratosphere, and tsunamis battered the northern coasts of Crete. The town of Akrotiri — preserved Pompeii-like under metres of pumice, with multi-storey houses and exquisite frescoes of swallows and the 'Spring Fresco' — appears to have been evacuated before the climactic event. The eruption left climatic traces in tree-rings as far as Ireland and California.",
+            el: "Σύγχρονες χρονολογήσεις με άνθρακα-14 τοποθετούν την έκρηξη γύρω στο 1600-1620 π.Χ.· κάποιες αιγυπτιοκεντρικές χρονολογήσεις υποστηρίζουν το 1500 π.Χ. περίπου. Η πλίνια στήλη έφτασε τη στρατόσφαιρα και τσουνάμι χτύπησαν τις βόρειες ακτές της Κρήτης. Η πόλη του Ακρωτηρίου — διατηρημένη σαν Πομπηία κάτω από μέτρα ελαφρόπετρας, με πολυώροφα σπίτια και θαυμάσιες τοιχογραφίες χελιδονιών και την «Άνοιξη» — φαίνεται ότι εκκενώθηκε πριν από την κορυφαία έκρηξη. Η έκρηξη άφησε κλιματικά ίχνη σε δακτυλίους δέντρων ως την Ιρλανδία και την Καλιφόρνια."
+          },
+          category: "other"
+        }
+      ]
+    },
+    {
       year: -1600,
       era: {
         en: "Shaft Grave Era",
@@ -259,30 +283,6 @@ export const BRONZE_AGE_GREECE = {
             },
             credit: "National Archaeological Museum of Athens, via Wikimedia Commons (public domain)"
           }
-        }
-      ]
-    },
-    {
-      year: -1620,
-      era: {
-        en: "Theran Eruption",
-        el: "Έκρηξη της Θήρας"
-      },
-      events: [
-        {
-          title: {
-            en: "Eruption of Thera",
-            el: "Έκρηξη του ηφαιστείου της Θήρας"
-          },
-          description: {
-            en: "One of the largest volcanic eruptions in human history devastates Thera (Santorini) and buries the prosperous town of Akrotiri.",
-            el: "Μία από τις μεγαλύτερες ηφαιστειακές εκρήξεις στην ιστορία του ανθρώπου ισοπεδώνει τη Θήρα (Σαντορίνη) και θάβει την ακμάζουσα πόλη του Ακρωτηρίου."
-          },
-          extendedDescription: {
-            en: "Modern radiocarbon dates place the eruption around 1600-1620 BC; some Egyptian-derived chronologies argue for c. 1500 BC. The Plinian column reached the stratosphere, and tsunamis battered the northern coasts of Crete. The town of Akrotiri — preserved Pompeii-like under metres of pumice, with multi-storey houses and exquisite frescoes of swallows and the 'Spring Fresco' — appears to have been evacuated before the climactic event. The eruption left climatic traces in tree-rings as far as Ireland and California.",
-            el: "Σύγχρονες χρονολογήσεις με άνθρακα-14 τοποθετούν την έκρηξη γύρω στο 1600-1620 π.Χ.· κάποιες αιγυπτιοκεντρικές χρονολογήσεις υποστηρίζουν το 1500 π.Χ. περίπου. Η πλίνια στήλη έφτασε τη στρατόσφαιρα και τσουνάμι χτύπησαν τις βόρειες ακτές της Κρήτης. Η πόλη του Ακρωτηρίου — διατηρημένη σαν Πομπηία κάτω από μέτρα ελαφρόπετρας, με πολυώροφα σπίτια και θαυμάσιες τοιχογραφίες χελιδονιών και την «Άνοιξη» — φαίνεται ότι εκκενώθηκε πριν από την κορυφαία έκρηξη. Η έκρηξη άφησε κλιματικά ίχνη σε δακτυλίους δέντρων ως την Ιρλανδία και την Καλιφόρνια."
-          },
-          category: "other"
         }
       ]
     },

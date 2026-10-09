@@ -167,38 +167,6 @@ export const EARLY_MEDIEVAL_INDIA = {
       ]
     },
     {
-      year: 1025,
-      era: {
-        en: "The Chola Empire",
-        el: "Η Αυτοκρατορία των Τσόλα"
-      },
-      events: [
-        {
-          title: {
-            en: "The Cholas cross the sea",
-            el: "Οι Τσόλα διασχίζουν τη θάλασσα"
-          },
-          description: {
-            en: "Rajendra Chola sends a great fleet across the Bay of Bengal to raid the empire of Srivijaya.",
-            el: "Ο Ρατζέντρα Τσόλα στέλνει μεγάλο στόλο πέρα από τον Κόλπο της Βεγγάλης για να επιδράμει στην αυτοκρατορία της Σριβιτζάγια."
-          },
-          extendedDescription: {
-            en: "In a rare feat of Indian sea-power, Rajendra Chola launched a naval expedition across the Bay of Bengal against Srivijaya in Southeast Asia, seizing its ports and treasure. Chola merchants and culture reached the shores of Sumatra and beyond, and the dynasty's influence, in temples and trade, still marks the lands around the Indian Ocean.",
-            el: "Σε ένα σπάνιο κατόρθωμα ινδικής θαλάσσιας ισχύος, ο Ρατζέντρα Τσόλα εξαπέλυσε ναυτική εκστρατεία πέρα από τον Κόλπο της Βεγγάλης εναντίον της Σριβιτζάγια στη Νοτιοανατολική Ασία, αρπάζοντας τα λιμάνια και τους θησαυρούς της. Οι έμποροι κι ο πολιτισμός των Τσόλα έφτασαν στις ακτές της Σουμάτρα και πέρα από αυτήν, κι η επιρροή της δυναστείας, σε ναούς κι εμπόριο, σημαδεύει ακόμη τις χώρες γύρω από τον Ινδικό Ωκεανό."
-          },
-          category: "military",
-          image: {
-            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Rajendra_Chola_%28cropped%29.JPG?width=1024",
-            alt: {
-              en: "The Chola emperor Rajendra I",
-              el: "Ο αυτοκράτορας των Τσόλα Ρατζέντρα Α΄"
-            },
-            credit: "Via Wikimedia Commons"
-          }
-        }
-      ]
-    },
-    {
       year: 1018,
       era: {
         en: "The Raiders from the North-West",
@@ -224,6 +192,38 @@ export const EARLY_MEDIEVAL_INDIA = {
             alt: {
               en: "Mahmud of Ghazni, raider of India's temples",
               el: "Ο Μαχμούντ της Γάζνα, επιδρομέας των ναών της Ινδίας"
+            },
+            credit: "Via Wikimedia Commons"
+          }
+        }
+      ]
+    },
+    {
+      year: 1025,
+      era: {
+        en: "The Chola Empire",
+        el: "Η Αυτοκρατορία των Τσόλα"
+      },
+      events: [
+        {
+          title: {
+            en: "The Cholas cross the sea",
+            el: "Οι Τσόλα διασχίζουν τη θάλασσα"
+          },
+          description: {
+            en: "Rajendra Chola sends a great fleet across the Bay of Bengal to raid the empire of Srivijaya.",
+            el: "Ο Ρατζέντρα Τσόλα στέλνει μεγάλο στόλο πέρα από τον Κόλπο της Βεγγάλης για να επιδράμει στην αυτοκρατορία της Σριβιτζάγια."
+          },
+          extendedDescription: {
+            en: "In a rare feat of Indian sea-power, Rajendra Chola launched a naval expedition across the Bay of Bengal against Srivijaya in Southeast Asia, seizing its ports and treasure. Chola merchants and culture reached the shores of Sumatra and beyond, and the dynasty's influence, in temples and trade, still marks the lands around the Indian Ocean.",
+            el: "Σε ένα σπάνιο κατόρθωμα ινδικής θαλάσσιας ισχύος, ο Ρατζέντρα Τσόλα εξαπέλυσε ναυτική εκστρατεία πέρα από τον Κόλπο της Βεγγάλης εναντίον της Σριβιτζάγια στη Νοτιοανατολική Ασία, αρπάζοντας τα λιμάνια και τους θησαυρούς της. Οι έμποροι κι ο πολιτισμός των Τσόλα έφτασαν στις ακτές της Σουμάτρα και πέρα από αυτήν, κι η επιρροή της δυναστείας, σε ναούς κι εμπόριο, σημαδεύει ακόμη τις χώρες γύρω από τον Ινδικό Ωκεανό."
+          },
+          category: "military",
+          image: {
+            src: "https://commons.wikimedia.org/wiki/Special:FilePath/Rajendra_Chola_%28cropped%29.JPG?width=1024",
+            alt: {
+              en: "The Chola emperor Rajendra I",
+              el: "Ο αυτοκράτορας των Τσόλα Ρατζέντρα Α΄"
             },
             credit: "Via Wikimedia Commons"
           }
