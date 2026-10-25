@@ -167,6 +167,30 @@ export const ITALIAN_RENAISSANCE = {
       ]
     },
     {
+      year: 1434,
+      era: {
+        en: "Medici Ascendancy",
+        el: "Η Άνοδος των Μεδίκων"
+      },
+      events: [
+        {
+          title: {
+            en: "Cosimo de' Medici Returns from Exile",
+            el: "Ο Κόζιμο ντε' Μέντιτσι Επιστρέφει από την Εξορία"
+          },
+          description: {
+            en: "A year after the Albizzi faction drove him into exile, Cosimo de' Medici is recalled to Florence in triumph and his rivals are banished in turn, beginning sixty years of Medici dominance.",
+            el: "Έναν χρόνο αφότου η φατρία των Αλμπίτσι τον έστειλε στην εξορία, ο Κόζιμο ντε' Μέντιτσι ανακαλείται θριαμβευτικά στη Φλωρεντία και οι αντίπαλοί του εξορίζονται με τη σειρά τους, εγκαινιάζοντας εξήντα χρόνια κυριαρχίας των Μεδίκων."
+          },
+          extendedDescription: {
+            en: "In September 1433 Rinaldo degli Albizzi, leader of the oligarchic faction that had governed Florence since the late fourteenth century, had Cosimo summoned to the Palazzo della Signoria and imprisoned in its tower, accused of seeking to make himself master of the city. Calls for his execution gave way to a sentence of exile, which Cosimo spent in Padua and Venice, where the Medici bank's credit and his network of friends kept him a power in Florentine affairs. When a Signoria favourable to the Medici was drawn in September 1434 it recalled him; Rinaldo's attempt at armed resistance collapsed after Pope Eugenius IV, then living in Florence, mediated, and Cosimo re-entered the city on 6 October. Rinaldo and his allies were exiled, and Cosimo governed for thirty years without holding any permanent office, controlling the councils through the officials who chose which names went into the bags for the drawing of magistrates.",
+            el: "Τον Σεπτέμβριο του 1433 ο Ρινάλντο ντέλι Αλμπίτσι, ηγέτης της ολιγαρχικής φατρίας που κυβερνούσε τη Φλωρεντία από τα τέλη του 14ου αιώνα, κάλεσε τον Κόζιμο στο Παλάτσο ντέλλα Σινιορία και τον φυλάκισε στον πύργο του, κατηγορώντας τον ότι επιδίωκε να γίνει κύριος της πόλης. Οι φωνές που ζητούσαν την εκτέλεσή του υποχώρησαν σε μια ποινή εξορίας, την οποία ο Κόζιμο πέρασε στην Πάδοβα και τη Βενετία, όπου η πίστη της τράπεζας των Μεδίκων και το δίκτυο των φίλων του τον διατήρησαν παράγοντα των φλωρεντινών υποθέσεων. Όταν τον Σεπτέμβριο του 1434 κληρώθηκε μια Σινιορία ευνοϊκή προς τους Μεδίκους, τον ανακάλεσε· η απόπειρα ένοπλης αντίστασης του Ρινάλντο κατέρρευσε μετά τη μεσολάβηση του πάπα Ευγένιου Δ΄, που διέμενε τότε στη Φλωρεντία, και ο Κόζιμο μπήκε ξανά στην πόλη στις 6 Οκτωβρίου. Ο Ρινάλντο και οι σύμμαχοί του εξορίστηκαν, και ο Κόζιμο κυβέρνησε για τριάντα χρόνια χωρίς να κατέχει μόνιμο αξίωμα, ελέγχοντας τα συμβούλια μέσω των αξιωματούχων που αποφάσιζαν ποια ονόματα θα έμπαιναν στους σάκους για την κλήρωση των αρχόντων."
+          },
+          category: "political"
+        }
+      ]
+    },
+    {
       year: 1436,
       era: {
         en: "Architectural Revolution",
@@ -195,6 +219,54 @@ export const ITALIAN_RENAISSANCE = {
             },
             credit: "Wikimedia Commons (public domain)"
           }
+        }
+      ]
+    },
+    {
+      year: 1440,
+      era: {
+        en: "Wars of Lombardy",
+        el: "Οι Πόλεμοι της Λομβαρδίας"
+      },
+      events: [
+        {
+          title: {
+            en: "Battle of Anghiari",
+            el: "Η Μάχη του Ανγκιάρι"
+          },
+          description: {
+            en: "Florentine and papal troops defeat the army of Filippo Maria Visconti, Duke of Milan, at Anghiari in Tuscany, ending Milan's attempt to overthrow the new Medici regime.",
+            el: "Φλωρεντινά και παπικά στρατεύματα νικούν τον στρατό του Φίλιππο Μαρία Βισκόντι, δούκα του Μιλάνου, στο Ανγκιάρι της Τοσκάνης, τερματίζοντας την προσπάθεια του Μιλάνου να ανατρέψει το νέο καθεστώς των Μεδίκων."
+          },
+          extendedDescription: {
+            en: "For decades Florence and Visconti Milan fought a series of wars over central and northern Italy, waged mostly by hired condottieri. In 1440 the Milanese commander Niccolò Piccinino crossed the Apennines into Tuscany, accompanied by Florentine exiles including Rinaldo degli Albizzi, who hoped that a Milanese victory would bring them home. On 29 June Piccinino attacked the Florentine and papal army near Anghiari in the upper Tiber valley and was decisively beaten, and with him went the exiles' last real hope of overturning Cosimo de' Medici. Machiavelli later mocked the battle in his Florentine Histories, claiming that only one man died, crushed after falling from his horse — a satire on mercenary warfare rather than a reliable casualty count. In 1503 the Florentine republic commissioned Leonardo da Vinci to paint the battle in the great council hall of the Palazzo Vecchio; the mural was abandoned and is known today mainly from copies of its central fight for the standard.",
+            el: "Επί δεκαετίες η Φλωρεντία και το Μιλάνο των Βισκόντι διεξήγαγαν μια σειρά πολέμων για την κεντρική και βόρεια Ιταλία, τους οποίους πολεμούσαν κυρίως μισθωμένοι κοντοττιέροι. Το 1440 ο Μιλανέζος στρατηγός Νικολό Πιτσινίνο πέρασε τα Απέννινα και εισέβαλε στην Τοσκάνη, συνοδευόμενος από Φλωρεντινούς εξορίστους, ανάμεσά τους τον Ρινάλντο ντέλι Αλμπίτσι, που ήλπιζαν ότι μια νίκη του Μιλάνου θα τους επέστρεφε στην πατρίδα. Στις 29 Ιουνίου ο Πιτσινίνο επιτέθηκε στον φλωρεντινό και παπικό στρατό κοντά στο Ανγκιάρι, στην άνω κοιλάδα του Τίβερη, και ηττήθηκε κατά κράτος· μαζί του χάθηκε και η τελευταία πραγματική ελπίδα των εξορίστων να ανατρέψουν τον Κόζιμο ντε' Μέντιτσι. Ο Μακιαβέλλι αργότερα χλεύασε τη μάχη στις Φλωρεντινές Ιστορίες του, ισχυριζόμενος ότι σκοτώθηκε μόνο ένας άνδρας, ποδοπατημένος αφού έπεσε από το άλογό του — σάτιρα του μισθοφορικού πολέμου και όχι αξιόπιστος απολογισμός απωλειών. Το 1503 η φλωρεντινή δημοκρατία ανέθεσε στον Λεονάρντο ντα Βίντσι να ζωγραφίσει τη μάχη στη μεγάλη αίθουσα του συμβουλίου στο Παλάτσο Βέκκιο· η τοιχογραφία εγκαταλείφθηκε και είναι σήμερα γνωστή κυρίως από αντίγραφα της κεντρικής σκηνής της μάχης για το λάβαρο."
+          },
+          category: "military"
+        }
+      ]
+    },
+    {
+      year: 1450,
+      era: {
+        en: "Sforza Milan",
+        el: "Το Μιλάνο των Σφόρτσα"
+      },
+      events: [
+        {
+          title: {
+            en: "Francesco Sforza Becomes Duke of Milan",
+            el: "Ο Φραντσέσκο Σφόρτσα Γίνεται Δούκας του Μιλάνου"
+          },
+          description: {
+            en: "After a siege that starves the short-lived Ambrosian Republic into surrender, the condottiere Francesco Sforza enters Milan and is acclaimed duke, founding the Sforza dynasty.",
+            el: "Μετά από μια πολιορκία που οδηγεί με την πείνα τη βραχύβια Αμβροσιανή Δημοκρατία στην παράδοση, ο κοντοττιέρος Φραντσέσκο Σφόρτσα μπαίνει στο Μιλάνο και ανακηρύσσεται δούκας, ιδρύοντας τη δυναστεία των Σφόρτσα."
+          },
+          extendedDescription: {
+            en: "Francesco Sforza, son of a condottiere from the Romagna, was the most sought-after general in Italy and had fought both for and against Filippo Maria Visconti, who eventually married him to his only child, his illegitimate daughter Bianca Maria, in 1441. When Filippo Maria died without a male heir in August 1447, the Milanese proclaimed the Ambrosian Republic and hired Sforza to defend it against Venice. In 1448, after a victory at Caravaggio, he changed sides, allied with Venice, and turned his army against Milan itself. Blockaded and starving, the city opened its gates to him in February 1450, and in March he was acclaimed duke, although he never obtained imperial investiture. Cosimo de' Medici, an old friend and financier of Sforza, swung Florence behind the new duke, breaking Florence's traditional alliance with Venice; the war that followed between Venice and Naples on one side and Milan and Florence on the other ended with the Peace of Lodi in 1454.",
+            el: "Ο Φραντσέσκο Σφόρτσα, γιος κοντοττιέρου από τη Ρομάνια, ήταν ο πιο περιζήτητος στρατηγός της Ιταλίας και είχε πολεμήσει τόσο υπέρ όσο και κατά του Φίλιππο Μαρία Βισκόντι, ο οποίος τελικά του έδωσε σε γάμο το μοναδικό του παιδί, τη νόθα κόρη του Μπιάνκα Μαρία, το 1441. Όταν ο Φίλιππο Μαρία πέθανε χωρίς άρρενα διάδοχο τον Αύγουστο του 1447, οι Μιλανέζοι ανακήρυξαν την Αμβροσιανή Δημοκρατία και προσέλαβαν τον Σφόρτσα για να την υπερασπιστεί απέναντι στη Βενετία. Το 1448, μετά από μια νίκη στο Καραβάτζο, άλλαξε στρατόπεδο, συμμάχησε με τη Βενετία και έστρεψε τον στρατό του εναντίον του ίδιου του Μιλάνου. Αποκλεισμένη και πεινασμένη, η πόλη του άνοιξε τις πύλες της τον Φεβρουάριο του 1450 και τον Μάρτιο ανακηρύχθηκε δούκας, αν και δεν έλαβε ποτέ την αυτοκρατορική επικύρωση. Ο Κόζιμο ντε' Μέντιτσι, παλιός φίλος και χρηματοδότης του Σφόρτσα, έστρεψε τη Φλωρεντία στο πλευρό του νέου δούκα, διαλύοντας την παραδοσιακή συμμαχία της με τη Βενετία· ο πόλεμος που ακολούθησε ανάμεσα στη Βενετία και τη Νάπολη από τη μία πλευρά και στο Μιλάνο και τη Φλωρεντία από την άλλη έληξε με την Ειρήνη του Λόντι το 1454."
+          },
+          category: "political"
         }
       ]
     },
@@ -263,6 +335,30 @@ export const ITALIAN_RENAISSANCE = {
       ]
     },
     {
+      year: 1478,
+      era: {
+        en: "Laurentian Age",
+        el: "Η Εποχή του Λορέντσο"
+      },
+      events: [
+        {
+          title: {
+            en: "The Pazzi Conspiracy",
+            el: "Η Συνωμοσία των Πάτσι"
+          },
+          description: {
+            en: "During Sunday Mass in Florence Cathedral, conspirators backed by the papal court murder Giuliano de' Medici and wound his brother Lorenzo, who survives and crushes the plot.",
+            el: "Κατά τη διάρκεια της Λειτουργίας στον Καθεδρικό της Φλωρεντίας, συνωμότες με την υποστήριξη της παπικής αυλής δολοφονούν τον Τζουλιάνο ντε' Μέντιτσι και τραυματίζουν τον αδελφό του Λορέντσο, ο οποίος επιζεί και συντρίβει τη συνωμοσία."
+          },
+          extendedDescription: {
+            en: "The plot united the Pazzi, a rival Florentine banking family who had displaced the Medici as papal bankers, with Girolamo Riario, nephew of Pope Sixtus IV, and Francesco Salviati, Archbishop of Pisa, whom the Medici had kept out of his see; Federico da Montefeltro, Duke of Urbino, was also party to it. On Sunday 26 April 1478, during High Mass in the cathedral, Bernardo Bandini Baroncelli and Francesco de' Pazzi stabbed Giuliano to death, while Lorenzo, slashed in the neck, escaped into the sacristy. The attempt to seize the Palazzo della Signoria failed and the city rose for the Medici: Salviati and Francesco de' Pazzi were hanged from the palace windows, and dozens more were killed in the following days. Sixtus IV excommunicated Lorenzo and placed Florence under interdict, and papal and Neapolitan armies invaded Tuscany. In December 1479 Lorenzo sailed to Naples to negotiate with King Ferrante in person, and the peace he secured in 1480 left the Medici stronger than before.",
+            el: "Η συνωμοσία ένωσε τους Πάτσι, μια αντίπαλη φλωρεντινή τραπεζική οικογένεια που είχε αντικαταστήσει τους Μεδίκους ως τραπεζίτες του πάπα, με τον Τζιρόλαμο Ριάριο, ανιψιό του πάπα Σίξτου Δ΄, και τον Φραντσέσκο Σαλβιάτι, αρχιεπίσκοπο της Πίζας, τον οποίο οι Μέδικοι είχαν εμποδίσει να αναλάβει την έδρα του· μέρος της είχε και ο Φεντερίκο ντα Μοντεφέλτρο, δούκας του Ουρμπίνο. Την Κυριακή 26 Απριλίου 1478, κατά τη Μεγάλη Λειτουργία στον καθεδρικό, ο Μπερνάρντο Μπαντίνι Μπαροντσέλλι και ο Φραντσέσκο ντε' Πάτσι μαχαίρωσαν θανάσιμα τον Τζουλιάνο, ενώ ο Λορέντσο, τραυματισμένος στον λαιμό, διέφυγε στο σκευοφυλάκιο. Η απόπειρα κατάληψης του Παλάτσο ντέλλα Σινιορία απέτυχε και η πόλη ξεσηκώθηκε υπέρ των Μεδίκων: ο Σαλβιάτι και ο Φραντσέσκο ντε' Πάτσι κρεμάστηκαν από τα παράθυρα του μεγάρου, και δεκάδες ακόμη θανατώθηκαν τις επόμενες ημέρες. Ο Σίξτος Δ΄ αφόρισε τον Λορέντσο και επέβαλε απαγόρευση στη Φλωρεντία, ενώ παπικοί και ναπολιτάνικοι στρατοί εισέβαλαν στην Τοσκάνη. Τον Δεκέμβριο του 1479 ο Λορέντσο έπλευσε στη Νάπολη για να διαπραγματευτεί αυτοπροσώπως με τον βασιλιά Φερράντε, και η ειρήνη που εξασφάλισε το 1480 άφησε τους Μεδίκους ισχυρότερους από πριν."
+          },
+          category: "political"
+        }
+      ]
+    },
+    {
       year: 1486,
       era: {
         en: "Botticelli's Masterpieces",
@@ -295,6 +391,54 @@ export const ITALIAN_RENAISSANCE = {
       ]
     },
     {
+      year: 1494,
+      era: {
+        en: "Italian Wars",
+        el: "Ιταλικοί Πόλεμοι"
+      },
+      events: [
+        {
+          title: {
+            en: "The Medici Are Expelled from Florence",
+            el: "Οι Μέδικοι Εκδιώκονται από τη Φλωρεντία"
+          },
+          description: {
+            en: "After Piero de' Medici surrenders Florence's key fortresses to the invading Charles VIII of France without authority, the Florentines drive the Medici out and restore the republic.",
+            el: "Αφού ο Πιέρο ντε' Μέντιτσι παραδίδει χωρίς εξουσιοδότηση τα βασικά φρούρια της Φλωρεντίας στον εισβολέα Κάρολο Η΄ της Γαλλίας, οι Φλωρεντινοί διώχνουν τους Μεδίκους και αποκαθιστούν τη δημοκρατία."
+          },
+          extendedDescription: {
+            en: "Lorenzo's son Piero, who had succeeded him in 1492, had kept Florence aligned with Naples as Charles VIII marched south to claim the Neapolitan throne. When the French reached the Tuscan border in the autumn of 1494, Piero went to the king's camp and, on his own initiative, handed over the fortresses of Sarzana and Pietrasanta and the ports of Pisa and Livorno. On his return the Signoria shut him out of the palace and the great bell was rung to call the people to arms; on 9 November Piero and his brothers fled, the Medici palace was looted, and Pisa seized the moment to throw off Florentine rule. Charles VIII entered Florence on 17 November, and in December the city adopted a new constitution centred on a Great Council of several thousand citizens, shaped by the preaching of Girolamo Savonarola. The Medici would remain in exile for eighteen years.",
+            el: "Ο γιος του Λορέντσο, Πιέρο, που τον είχε διαδεχθεί το 1492, είχε κρατήσει τη Φλωρεντία συμμαχική με τη Νάπολη, ενώ ο Κάρολος Η΄ βάδιζε νότια για να διεκδικήσει τον θρόνο της Νάπολης. Όταν οι Γάλλοι έφτασαν στα σύνορα της Τοσκάνης το φθινόπωρο του 1494, ο Πιέρο πήγε στο στρατόπεδο του βασιλιά και, με δική του πρωτοβουλία, παρέδωσε τα φρούρια της Σαρτζάνα και της Πιετρασάντα και τα λιμάνια της Πίζας και του Λιβόρνο. Όταν επέστρεψε, η Σινιορία τού απαγόρευσε την είσοδο στο μέγαρο και η μεγάλη καμπάνα χτύπησε για να καλέσει τον λαό στα όπλα· στις 9 Νοεμβρίου ο Πιέρο και οι αδελφοί του τράπηκαν σε φυγή, το μέγαρο των Μεδίκων λεηλατήθηκε και η Πίζα άδραξε την ευκαιρία να αποτινάξει τη φλωρεντινή κυριαρχία. Ο Κάρολος Η΄ μπήκε στη Φλωρεντία στις 17 Νοεμβρίου, και τον Δεκέμβριο η πόλη υιοθέτησε νέο πολίτευμα με κέντρο ένα Μεγάλο Συμβούλιο αρκετών χιλιάδων πολιτών, διαμορφωμένο υπό την επίδραση του κηρύγματος του Τζιρόλαμο Σαβοναρόλα. Οι Μέδικοι θα παρέμεναν στην εξορία για δεκαοκτώ χρόνια."
+          },
+          category: "political"
+        }
+      ]
+    },
+    {
+      year: 1495,
+      era: {
+        en: "Italian Wars",
+        el: "Ιταλικοί Πόλεμοι"
+      },
+      events: [
+        {
+          title: {
+            en: "Battle of Fornovo",
+            el: "Η Μάχη του Φορνόβο"
+          },
+          description: {
+            en: "The army of the League of Venice tries to trap Charles VIII on his retreat from Naples at Fornovo on the Taro; the French lose their baggage but break through and escape to France.",
+            el: "Ο στρατός του Συνασπισμού της Βενετίας επιχειρεί να παγιδεύσει τον Κάρολο Η΄ κατά την υποχώρησή του από τη Νάπολη στο Φορνόβο, στον ποταμό Τάρο· οι Γάλλοι χάνουν τις αποσκευές τους, αλλά διασπούν τις γραμμές και διαφεύγουν προς τη Γαλλία."
+          },
+          extendedDescription: {
+            en: "Charles VIII had taken Naples almost unopposed in February 1495, but his easy conquest alarmed the rest of Europe. In March Venice, Ludovico Sforza's Milan, Pope Alexander VI, Emperor Maximilian I and Ferdinand and Isabella of Spain formed the League of Venice, and Charles hurried north to avoid being cut off. On 6 July 1495 the league's army, commanded by Francesco II Gonzaga, Marquis of Mantua, attacked the French columns as they came down the Apennines near Fornovo, south-west of Parma. In a short and confused battle on the banks of the swollen Taro, many of the Italian troops broke off to plunder the French baggage train, and Charles's army fought its way through and reached Asti. Both sides claimed victory: the league had won the field and the booty but suffered heavier losses, and Gonzaga commemorated the battle with Andrea Mantegna's Madonna della Vittoria. Within a year the French garrisons left in the south had been driven out, and Naples returned to its Aragonese kings with Spanish help.",
+            el: "Ο Κάρολος Η΄ είχε καταλάβει τη Νάπολη σχεδόν χωρίς αντίσταση τον Φεβρουάριο του 1495, όμως η εύκολη κατάκτησή του ανησύχησε την υπόλοιπη Ευρώπη. Τον Μάρτιο η Βενετία, το Μιλάνο του Λουντοβίκο Σφόρτσα, ο πάπας Αλέξανδρος ΣΤ΄, ο αυτοκράτορας Μαξιμιλιανός Α΄ και ο Φερδινάνδος και η Ισαβέλλα της Ισπανίας σχημάτισαν τον Συνασπισμό της Βενετίας, και ο Κάρολος έσπευσε βόρεια για να μην αποκοπεί. Στις 6 Ιουλίου 1495 ο στρατός του συνασπισμού, με επικεφαλής τον Φραντσέσκο Β΄ Γκοντζάγκα, μαρκήσιο της Μάντοβας, επιτέθηκε στις γαλλικές φάλαγγες καθώς κατέβαιναν από τα Απέννινα κοντά στο Φορνόβο, νοτιοδυτικά της Πάρμας. Σε μια σύντομη και συγκεχυμένη μάχη στις όχθες του φουσκωμένου Τάρο, πολλοί από τους Ιταλούς στρατιώτες εγκατέλειψαν τη μάχη για να λεηλατήσουν τις γαλλικές αποσκευές, και ο στρατός του Καρόλου άνοιξε δρόμο και έφτασε στο Άστι. Και οι δύο πλευρές διεκδίκησαν τη νίκη: ο συνασπισμός κράτησε το πεδίο και τα λάφυρα, αλλά υπέστη βαρύτερες απώλειες, και ο Γκοντζάγκα τίμησε τη μάχη με τη Madonna della Vittoria του Αντρέα Μαντένια. Μέσα σε έναν χρόνο οι γαλλικές φρουρές που είχαν μείνει στον νότο εκδιώχθηκαν, και η Νάπολη επέστρεψε στους Αραγωνέζους βασιλείς της με ισπανική βοήθεια."
+          },
+          category: "military"
+        }
+      ]
+    },
+    {
       year: 1498,
       era: {
         en: "Religious Crisis",
@@ -323,6 +467,30 @@ export const ITALIAN_RENAISSANCE = {
             },
             credit: "Wikimedia Commons (public domain)"
           }
+        }
+      ]
+    },
+    {
+      year: 1500,
+      era: {
+        en: "Italian Wars",
+        el: "Ιταλικοί Πόλεμοι"
+      },
+      events: [
+        {
+          title: {
+            en: "Fall of Ludovico Sforza",
+            el: "Η Πτώση του Λουντοβίκο Σφόρτσα"
+          },
+          description: {
+            en: "Betrayed by his Swiss mercenaries at Novara, Ludovico \"il Moro\" Sforza, Duke of Milan and patron of Leonardo, is captured by the French and ends his life a prisoner in France.",
+            el: "Προδομένος από τους Ελβετούς μισθοφόρους του στη Νοβάρα, ο Λουντοβίκο «ο Μαυριτανός» Σφόρτσα, δούκας του Μιλάνου και προστάτης του Λεονάρντο, αιχμαλωτίζεται από τους Γάλλους και τελειώνει τη ζωή του φυλακισμένος στη Γαλλία."
+          },
+          extendedDescription: {
+            en: "A younger son of Francesco Sforza, Ludovico had ruled Milan as regent for his nephew Gian Galeazzo from 1480 and took the ducal title on the young duke's death in 1494. His court was among the most brilliant in Europe: Leonardo da Vinci spent nearly two decades in his service, painting the Last Supper and modelling a colossal equestrian statue of Francesco Sforza that was never cast. Ludovico had encouraged Charles VIII's invasion, but Charles's successor Louis XII claimed Milan itself through his grandmother Valentina Visconti. In 1499 a French army under Gian Giacomo Trivulzio overran the duchy and Ludovico fled to the court of Maximilian I. He returned early in 1500 with Swiss and German mercenaries and briefly retook Milan, but at Novara in April the Swiss in his army refused to fight the Swiss serving the French; he tried to slip away disguised as one of them, was betrayed and captured. He died a prisoner at the castle of Loches in 1508, and Milan remained under French rule until 1512.",
+            el: "Νεότερος γιος του Φραντσέσκο Σφόρτσα, ο Λουντοβίκο κυβερνούσε το Μιλάνο ως αντιβασιλέας για τον ανιψιό του Τζαν Γκαλεάτσο από το 1480 και ανέλαβε τον δουκικό τίτλο με τον θάνατο του νεαρού δούκα το 1494. Η αυλή του ήταν από τις λαμπρότερες της Ευρώπης: ο Λεονάρντο ντα Βίντσι πέρασε σχεδόν δύο δεκαετίες στην υπηρεσία του, ζωγραφίζοντας τον Μυστικό Δείπνο και φιλοτεχνώντας το πρόπλασμα ενός κολοσσιαίου έφιππου αγάλματος του Φραντσέσκο Σφόρτσα που δεν χυτεύτηκε ποτέ. Ο Λουντοβίκο είχε ενθαρρύνει την εισβολή του Καρόλου Η΄, όμως ο διάδοχος του Καρόλου, Λουδοβίκος ΙΒ΄, διεκδίκησε το ίδιο το Μιλάνο μέσω της γιαγιάς του Βαλεντίνα Βισκόντι. Το 1499 ένας γαλλικός στρατός υπό τον Τζαν Τζάκομο Τριβούλτσιο κατέλαβε το δουκάτο και ο Λουντοβίκο κατέφυγε στην αυλή του Μαξιμιλιανού Α΄. Επέστρεψε στις αρχές του 1500 με Ελβετούς και Γερμανούς μισθοφόρους και ανακατέλαβε για λίγο το Μιλάνο, όμως στη Νοβάρα τον Απρίλιο οι Ελβετοί του στρατού του αρνήθηκαν να πολεμήσουν τους Ελβετούς που υπηρετούσαν τους Γάλλους· προσπάθησε να διαφύγει μεταμφιεσμένος σε έναν από αυτούς, προδόθηκε και αιχμαλωτίστηκε. Πέθανε αιχμάλωτος στο κάστρο του Λος το 1508, και το Μιλάνο παρέμεινε υπό γαλλική κυριαρχία έως το 1512."
+          },
+          category: "political"
         }
       ]
     },
@@ -391,6 +559,69 @@ export const ITALIAN_RENAISSANCE = {
       ]
     },
     {
+      year: 1509,
+      era: {
+        en: "War of the League of Cambrai",
+        el: "Ο Πόλεμος του Συνασπισμού του Καμπραί"
+      },
+      events: [
+        {
+          title: {
+            en: "Battle of Agnadello",
+            el: "Η Μάχη του Ανιαντέλλο"
+          },
+          description: {
+            en: "Louis XII's army routs the Venetians at Agnadello, and within weeks Venice loses almost all its mainland territories to the League of Cambrai.",
+            el: "Ο στρατός του Λουδοβίκου ΙΒ΄ κατατροπώνει τους Βενετούς στο Ανιαντέλλο, και μέσα σε λίγες εβδομάδες η Βενετία χάνει σχεδόν όλα τα ηπειρωτικά της εδάφη από τον Συνασπισμό του Καμπραί."
+          },
+          extendedDescription: {
+            en: "Venice's steady expansion on the Italian mainland and in the Romagna had alarmed its neighbours, and in December 1508 Louis XII and Emperor Maximilian I formed the League of Cambrai to partition its territories; Pope Julius II and Ferdinand of Aragon soon joined. On 14 May 1509 the French army caught the Venetian rearguard under Bartolomeo d'Alviano near Agnadello, east of Milan, while the main army under the Count of Pitigliano failed to support it; d'Alviano's force was destroyed and he was taken prisoner. The Venetian army disintegrated, and Brescia, Verona, Vicenza and Padua surrendered or were abandoned within weeks. Machiavelli wrote in The Prince that the Venetians \"in one day lost what they had acquired with so much effort in eight hundred years.\" The recovery came quickly: Padua was retaken in July and held against Maximilian's siege, and in 1510 Julius II, having gained what he wanted, changed sides and turned against France.",
+            el: "Η σταθερή επέκταση της Βενετίας στην ιταλική ενδοχώρα και στη Ρομάνια είχε ανησυχήσει τους γείτονές της, και τον Δεκέμβριο του 1508 ο Λουδοβίκος ΙΒ΄ και ο αυτοκράτορας Μαξιμιλιανός Α΄ σχημάτισαν τον Συνασπισμό του Καμπραί για να μοιράσουν τα εδάφη της· σύντομα προσχώρησαν ο πάπας Ιούλιος Β΄ και ο Φερδινάνδος της Αραγωνίας. Στις 14 Μαΐου 1509 ο γαλλικός στρατός αιφνιδίασε τη βενετική οπισθοφυλακή υπό τον Μπαρτολομέο ντ'Αλβιάνο κοντά στο Ανιαντέλλο, ανατολικά του Μιλάνου, ενώ ο κύριος στρατός υπό τον κόμη του Πιτιλιάνο δεν έσπευσε σε βοήθεια· η δύναμη του ντ'Αλβιάνο αφανίστηκε και ο ίδιος αιχμαλωτίστηκε. Ο βενετικός στρατός διαλύθηκε, και η Μπρέσια, η Βερόνα, η Βιτσέντσα και η Πάδοβα παραδόθηκαν ή εγκαταλείφθηκαν μέσα σε λίγες εβδομάδες. Ο Μακιαβέλλι έγραψε στον Ηγεμόνα ότι οι Βενετοί «σε μία ημέρα έχασαν ό,τι είχαν αποκτήσει με τόσο κόπο σε οκτακόσια χρόνια». Η ανάκαμψη ήρθε γρήγορα: η Πάδοβα ανακτήθηκε τον Ιούλιο και άντεξε την πολιορκία του Μαξιμιλιανού, και το 1510 ο Ιούλιος Β΄, έχοντας πετύχει ό,τι ήθελε, άλλαξε στρατόπεδο και στράφηκε εναντίον της Γαλλίας."
+          },
+          category: "military"
+        }
+      ]
+    },
+    {
+      year: 1512,
+      era: {
+        en: "War of the Holy League",
+        el: "Ο Πόλεμος του Ιερού Συνασπισμού"
+      },
+      events: [
+        {
+          title: {
+            en: "Battle of Ravenna",
+            el: "Η Μάχη της Ραβέννας"
+          },
+          description: {
+            en: "On Easter Sunday the French under Gaston de Foix defeat the Spanish and papal army of the Holy League outside Ravenna in one of the bloodiest battles of the age, but Gaston is killed.",
+            el: "Ανήμερα του Πάσχα οι Γάλλοι υπό τον Γκαστόν ντε Φουά νικούν τον ισπανικό και παπικό στρατό του Ιερού Συνασπισμού έξω από τη Ραβέννα σε μία από τις αιματηρότερες μάχες της εποχής, όμως ο Γκαστόν σκοτώνεται."
+          },
+          extendedDescription: {
+            en: "In 1511 Julius II formed the Holy League with Venice and Ferdinand of Aragon to drive the French out of Italy. Louis XII's young nephew Gaston de Foix, Duke of Nemours, answered with a winter campaign of remarkable speed and in April 1512 laid siege to Ravenna, drawing the league's army under the Spanish viceroy of Naples, Ramón de Cardona, into battle on 11 April. The fighting opened with a prolonged artillery duel, in which the guns of the French ally Alfonso d'Este, Duke of Ferrara, raked the Spanish lines and forced them out of their entrenchments; it was one of the first major battles in which artillery played a decisive part. The league's army was broken, but as Gaston pursued the retreating Spanish infantry he was surrounded and killed. Without him, and with Swiss troops pouring into Lombardy on the league's side, the French abandoned Milan within months, and Maximilian Sforza, Ludovico's son, was installed as duke.",
+            el: "Το 1511 ο Ιούλιος Β΄ σχημάτισε τον Ιερό Συνασπισμό με τη Βενετία και τον Φερδινάνδο της Αραγωνίας για να διώξει τους Γάλλους από την Ιταλία. Ο νεαρός ανιψιός του Λουδοβίκου ΙΒ΄, Γκαστόν ντε Φουά, δούκας του Νεμούρ, απάντησε με μια χειμερινή εκστρατεία αξιοσημείωτης ταχύτητας και τον Απρίλιο του 1512 πολιόρκησε τη Ραβέννα, παρασύροντας σε μάχη στις 11 Απριλίου τον στρατό του συνασπισμού υπό τον Ισπανό αντιβασιλέα της Νάπολης, Ραμόν ντε Καρδόνα. Η μάχη άρχισε με μια παρατεταμένη μονομαχία πυροβολικού, κατά την οποία τα κανόνια του συμμάχου των Γάλλων, Αλφόνσο ντ'Έστε, δούκα της Φερράρας, σάρωσαν τις ισπανικές γραμμές και τις ανάγκασαν να βγουν από τα οχυρώματά τους· ήταν μία από τις πρώτες μεγάλες μάχες όπου το πυροβολικό έπαιξε καθοριστικό ρόλο. Ο στρατός του συνασπισμού διαλύθηκε, όμως καθώς ο Γκαστόν καταδίωκε το ισπανικό πεζικό που υποχωρούσε, περικυκλώθηκε και σκοτώθηκε. Χωρίς αυτόν, και με ελβετικά στρατεύματα να εισρέουν στη Λομβαρδία στο πλευρό του συνασπισμού, οι Γάλλοι εγκατέλειψαν το Μιλάνο μέσα σε λίγους μήνες, και ο Μαξιμιλιανός Σφόρτσα, γιος του Λουντοβίκο, εγκαταστάθηκε ως δούκας."
+          },
+          category: "military"
+        },
+        {
+          title: {
+            en: "The Medici Return to Florence",
+            el: "Οι Μέδικοι Επιστρέφουν στη Φλωρεντία"
+          },
+          description: {
+            en: "After a Spanish army sacks nearby Prato, the Florentine republic capitulates, its leader Piero Soderini flees, and the Medici return to power after eighteen years in exile.",
+            el: "Αφού ένας ισπανικός στρατός λεηλατεί το γειτονικό Πράτο, η φλωρεντινή δημοκρατία συνθηκολογεί, ο ηγέτης της Πιέρο Σοντερίνι τρέπεται σε φυγή και οι Μέδικοι επιστρέφουν στην εξουσία ύστερα από δεκαοκτώ χρόνια εξορίας."
+          },
+          extendedDescription: {
+            en: "Florence's republic had stayed loyal to its French alliance, and once the French withdrew from Italy the Holy League resolved to restore the Medici, led by Cardinal Giovanni de' Medici, Lorenzo the Magnificent's son. In August 1512 Ramón de Cardona's Spanish army marched into Tuscany and on 29 August stormed and sacked Prato, a few miles from Florence, killing a large part of its population. Florence's newly raised militia, the project of the chancery secretary Niccolò Machiavelli, had failed to hold the town. Terrified, the Florentines gave way: the gonfaloniere for life, Piero Soderini, fled into exile, and in September the cardinal and his brother Giuliano re-entered the city. The Great Council was abolished, Machiavelli was dismissed from office in November, and in March 1513 Cardinal Giovanni was elected pope as Leo X, bringing Florence and Rome under the rule of one family.",
+            el: "Η φλωρεντινή δημοκρατία είχε παραμείνει πιστή στη συμμαχία της με τη Γαλλία, και μόλις οι Γάλλοι αποσύρθηκαν από την Ιταλία ο Ιερός Συνασπισμός αποφάσισε να αποκαταστήσει τους Μεδίκους, με επικεφαλής τον καρδινάλιο Τζοβάνι ντε' Μέντιτσι, γιο του Λορέντσο του Μεγαλοπρεπούς. Τον Αύγουστο του 1512 ο ισπανικός στρατός του Ραμόν ντε Καρδόνα εισέβαλε στην Τοσκάνη και στις 29 Αυγούστου κυρίευσε και λεηλάτησε το Πράτο, λίγα χιλιόμετρα από τη Φλωρεντία, σκοτώνοντας μεγάλο μέρος του πληθυσμού του. Η νεοσύστατη πολιτοφυλακή της Φλωρεντίας, έργο του γραμματέα της καγκελαρίας Νικολό Μακιαβέλλι, δεν είχε καταφέρει να υπερασπιστεί την πόλη. Τρομοκρατημένοι, οι Φλωρεντινοί υποχώρησαν: ο ισόβιος γκονφαλονιέρης Πιέρο Σοντερίνι κατέφυγε στην εξορία, και τον Σεπτέμβριο ο καρδινάλιος και ο αδελφός του Τζουλιάνο μπήκαν ξανά στην πόλη. Το Μεγάλο Συμβούλιο καταργήθηκε, ο Μακιαβέλλι απολύθηκε από το αξίωμά του τον Νοέμβριο, και τον Μάρτιο του 1513 ο καρδινάλιος Τζοβάνι εξελέγη πάπας ως Λέων Ι΄, φέρνοντας τη Φλωρεντία και τη Ρώμη υπό την εξουσία μιας οικογένειας."
+          },
+          category: "political"
+        }
+      ]
+    },
+    {
       year: 1513,
       era: {
         en: "Political Thought",
@@ -419,6 +650,54 @@ export const ITALIAN_RENAISSANCE = {
             },
             credit: "Wikimedia Commons (public domain)"
           }
+        }
+      ]
+    },
+    {
+      year: 1515,
+      era: {
+        en: "Italian Wars",
+        el: "Ιταλικοί Πόλεμοι"
+      },
+      events: [
+        {
+          title: {
+            en: "Battle of Marignano",
+            el: "Η Μάχη του Μαρινιάνο"
+          },
+          description: {
+            en: "In a two-day \"battle of giants\" near Milan, the young Francis I of France defeats the Swiss who defend Maximilian Sforza's duchy, winning Milan back for France.",
+            el: "Σε μια διήμερη «μάχη γιγάντων» κοντά στο Μιλάνο, ο νεαρός Φραγκίσκος Α΄ της Γαλλίας νικά τους Ελβετούς που υπερασπίζονται το δουκάτο του Μαξιμιλιανού Σφόρτσα, ανακτώντας το Μιλάνο για τη Γαλλία."
+          },
+          extendedDescription: {
+            en: "Francis I came to the throne in January 1515 determined to recover Milan, which the Swiss had effectively controlled since 1512 as protectors of Duke Maximilian Sforza. In August he led his army across the Alps by an unexpected route, outflanking the Swiss who were guarding the usual passes. On 13 September, at Marignano (Melegnano), south-east of Milan, the Swiss pikemen attacked the French camp and fought on into the night; the battle resumed at dawn, and the arrival of a Venetian force under Bartolomeo d'Alviano helped decide it. The French artillery and heavy cavalry finally drove the Swiss from the field with heavy losses; the veteran commander Gian Giacomo Trivulzio called it a battle of giants. Maximilian Sforza surrendered the castle of Milan and retired to France on a pension. The victory ended the Swiss Confederacy's career as a great power in Italy, led to a perpetual peace between France and the Swiss in 1516, and produced the Concordat of Bologna with Pope Leo X in the same year.",
+            el: "Ο Φραγκίσκος Α΄ ανέβηκε στον θρόνο τον Ιανουάριο του 1515 αποφασισμένος να ανακτήσει το Μιλάνο, το οποίο οι Ελβετοί ουσιαστικά ήλεγχαν από το 1512 ως προστάτες του δούκα Μαξιμιλιανού Σφόρτσα. Τον Αύγουστο οδήγησε τον στρατό του πέρα από τις Άλπεις από απρόσμενη διαδρομή, υπερφαλαγγίζοντας τους Ελβετούς που φρουρούσαν τα συνήθη περάσματα. Στις 13 Σεπτεμβρίου, στο Μαρινιάνο (Μελενιάνο), νοτιοανατολικά του Μιλάνου, οι Ελβετοί λογχοφόροι επιτέθηκαν στο γαλλικό στρατόπεδο και πολέμησαν ως αργά τη νύχτα· η μάχη ξανάρχισε την αυγή, και η άφιξη μιας βενετικής δύναμης υπό τον Μπαρτολομέο ντ'Αλβιάνο συνέβαλε στην έκβασή της. Το γαλλικό πυροβολικό και το βαρύ ιππικό έδιωξαν τελικά τους Ελβετούς από το πεδίο με βαριές απώλειες· ο έμπειρος στρατηγός Τζαν Τζάκομο Τριβούλτσιο την αποκάλεσε μάχη γιγάντων. Ο Μαξιμιλιανός Σφόρτσα παρέδωσε το κάστρο του Μιλάνου και αποσύρθηκε στη Γαλλία με σύνταξη. Η νίκη έθεσε τέλος στην πορεία της Ελβετικής Συνομοσπονδίας ως μεγάλης δύναμης στην Ιταλία, οδήγησε σε διαρκή ειρήνη μεταξύ Γαλλίας και Ελβετών το 1516 και έφερε το Κονκορδάτο της Μπολόνια με τον πάπα Λέοντα Ι΄ την ίδια χρονιά."
+          },
+          category: "military"
+        }
+      ]
+    },
+    {
+      year: 1525,
+      era: {
+        en: "Habsburg–Valois Wars",
+        el: "Οι Πόλεμοι Αψβούργων–Βαλουά"
+      },
+      events: [
+        {
+          title: {
+            en: "Battle of Pavia",
+            el: "Η Μάχη της Παβίας"
+          },
+          description: {
+            en: "Imperial troops of Charles V destroy the French army besieging Pavia and capture King Francis I, making the Habsburgs the dominant power in Italy.",
+            el: "Αυτοκρατορικά στρατεύματα του Καρόλου Ε΄ συντρίβουν τον γαλλικό στρατό που πολιορκεί την Παβία και αιχμαλωτίζουν τον βασιλιά Φραγκίσκο Α΄, καθιστώντας τους Αψβούργους την κυρίαρχη δύναμη στην Ιταλία."
+          },
+          extendedDescription: {
+            en: "After the election of Charles V as Holy Roman Emperor in 1519, the struggle for Italy became a contest between the Habsburgs and the Valois. Imperial forces drove the French from Milan in 1521–22, and in the autumn of 1524 Francis I crossed the Alps once more, retook Milan and laid siege to Pavia, held by an imperial garrison under Antonio de Leyva. An imperial relief army under Charles de Lannoy, the Marquis of Pescara and the renegade French Constable Charles de Bourbon broke through the walls of the hunting park of Mirabello during the night, and at dawn on 24 February 1525 — Charles V's twenty-fifth birthday — the battle was fought among its trees. The French heavy cavalry, charging ahead of its own artillery, was shot down by Spanish arquebusiers; many of the great nobles of France were killed and Francis himself was captured. He wrote to his mother that nothing was left to him but his honour and his life. Taken to Madrid, he signed a treaty in 1526 renouncing his Italian claims, then repudiated it as soon as he was free and joined the League of Cognac, the war that would end in the Sack of Rome.",
+            el: "Μετά την εκλογή του Καρόλου Ε΄ ως αυτοκράτορα της Αγίας Ρωμαϊκής Αυτοκρατορίας το 1519, ο αγώνας για την Ιταλία έγινε αναμέτρηση ανάμεσα στους Αψβούργους και τους Βαλουά. Οι αυτοκρατορικές δυνάμεις έδιωξαν τους Γάλλους από το Μιλάνο το 1521–22, και το φθινόπωρο του 1524 ο Φραγκίσκος Α΄ πέρασε ξανά τις Άλπεις, ανακατέλαβε το Μιλάνο και πολιόρκησε την Παβία, την οποία κρατούσε μια αυτοκρατορική φρουρά υπό τον Αντόνιο ντε Λέιβα. Ένας αυτοκρατορικός στρατός ανακούφισης υπό τον Σαρλ ντε Λανουά, τον μαρκήσιο της Πεσκάρα και τον αποστάτη Γάλλο κοντόσταυλο Κάρολο ντε Μπουρμπόν διέσπασε τα τείχη του κυνηγετικού πάρκου του Μιραμπέλλο κατά τη διάρκεια της νύχτας, και την αυγή της 24ης Φεβρουαρίου 1525 — ανήμερα των εικοστών πέμπτων γενεθλίων του Καρόλου Ε΄ — η μάχη δόθηκε ανάμεσα στα δέντρα του. Το γαλλικό βαρύ ιππικό, που επιτέθηκε μπροστά από το ίδιο του το πυροβολικό, αποδεκατίστηκε από τους Ισπανούς αρκεβουζιοφόρους· πολλοί από τους μεγάλους ευγενείς της Γαλλίας σκοτώθηκαν και ο ίδιος ο Φραγκίσκος αιχμαλωτίστηκε. Έγραψε στη μητέρα του ότι δεν του είχε απομείνει τίποτε άλλο παρά η τιμή και η ζωή του. Μεταφερμένος στη Μαδρίτη, υπέγραψε το 1526 συνθήκη με την οποία παραιτούνταν από τις ιταλικές διεκδικήσεις του, για να την αποκηρύξει μόλις ελευθερώθηκε και να προσχωρήσει στον Συνασπισμό του Κονιάκ, τον πόλεμο που θα κατέληγε στη Λεηλασία της Ρώμης."
+          },
+          category: "military"
         }
       ]
     },
